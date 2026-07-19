@@ -476,7 +476,7 @@ function generateEnglishDay(year, segIndex, dayIndex) {
   const sectionVocab = (section && section.vocab) || { words: [], phrases: [] };
   const fallbackWords = pickBySeed(vocabPool.filter(x => x.word && !x.word.includes(' ')), 'w' + seedBase, 8).map((w, i) => ({ ...w, id: `w-${year}-${seg.key}-${dayIndex}-${i}` }));
   const words = (sectionVocab.words && sectionVocab.words.length)
-    ? sectionVocab.words.slice(0, 12).map((w, i) => ({ ...w, id: `w-${year}-${seg.key}-${dayIndex}-${i}` }))
+    ? sectionVocab.words.map((w, i) => ({ ...w, id: `w-${year}-${seg.key}-${dayIndex}-${i}` }))
     : fallbackWords;
   const fallbackPhrases = pickBySeed(PHRASE_POOL, 'p' + seedBase, 3).map((p, i) => ({ ...p, id: `p-${year}-${seg.key}-${dayIndex}-${i}` }));
   const phraseDefMap = new Map(PHRASE_POOL.map(p => [p.phrase.toLowerCase(), p.def || p.meaning || '']));
@@ -1284,7 +1284,7 @@ function renderEnglishDay(container, year, day) {
   html += `
     <div style="margin-top:16px;display:flex;gap:10px">
       <button class="btn-primary" id="btn-start-english" style="flex:1">${isReview ? '开始复习' : completed ? '已完成' : '开始真题闯关'}</button>
-      ${!completed ? `<button class="btn-secondary" id="btn-add-wordbook" style="flex:1;margin-top:0">加入生词本</button>` : ''}
+      <button class="btn-secondary" id="btn-view-wordbook" style="flex:1;margin-top:0">查看生词本</button>
     </div>
   `;
   html += `</div>`;
@@ -1318,11 +1318,10 @@ function renderEnglishDay(container, year, day) {
     startBtn.style.opacity = '0.6';
   }
 
-  const addBtn = container.querySelector('#btn-add-wordbook');
-  if (addBtn) {
-    addBtn.addEventListener('click', () => {
-      addDayToWordbook(dayData);
-      showToast('已加入生词本');
+  const viewWordbookBtn = container.querySelector('#btn-view-wordbook');
+  if (viewWordbookBtn) {
+    viewWordbookBtn.addEventListener('click', () => {
+      renderWordbook();
     });
   }
 }
@@ -1469,6 +1468,16 @@ function showWordPopup(word, event) {
 
 function hideWordPopup() {
   document.getElementById('word-popup').classList.remove('active');
+}
+
+function splitMeanings(text) {
+  if (!text) return [];
+  // split by numbered list like 1. 2. or by semicolons / chinese semicolons
+  let parts = text.split(/(?:\d+[\.、]|；|;|\n)/).map(s => s.trim()).filter(Boolean);
+  if (parts.length <= 1) {
+    parts = text.split(/[，,]/).map(s => s.trim()).filter(Boolean);
+  }
+  return parts.length ? parts : [text];
 }
 
 function addWordToWordbook(word) {
@@ -1996,19 +2005,30 @@ function renderQuestion() {
 
   if (q.type === 'wordbook') {
     const item = q.data;
-    let front = '', back = '', sub = '';
+    let front = '', sub = '', back = '';
     if (q.itemType === 'word') {
       front = item.word;
-      sub = item.phonetic;
-      back = `${item.def}<br><br>例句：${item.example}`;
+      sub = item.phonetic || '';
+      const meaningText = item.meaning || item.def || '（结合真题语境记忆）';
+      const meanings = splitMeanings(meaningText);
+      const formNote = item.form && item.form.toLowerCase() !== (item.word || '').toLowerCase() ? `<div class="wb-note"><b>真题中：</b>${item.form}</div>` : '';
+      back = `
+        <div class="wb-section"><h5>释义</h5><ul class="wb-meaning-list">${meanings.map(m => `<li>${m}</li>`).join('')}</ul></div>
+        ${item.example ? `<div class="wb-section"><h5>例句</h5><p class="wb-example">${item.example}</p></div>` : ''}
+        ${formNote}
+      `;
     } else if (q.itemType === 'phrase') {
       front = item.phrase;
       sub = '词组';
-      back = `${item.def}<br><br>例句：${item.example}`;
+      const meanings = splitMeanings(item.def || item.meaning || '');
+      back = `
+        <div class="wb-section"><h5>释义</h5><ul class="wb-meaning-list">${meanings.map(m => `<li>${m}</li>`).join('')}</ul></div>
+        ${item.example ? `<div class="wb-section"><h5>例句</h5><p class="wb-example">${item.example}</p></div>` : ''}
+      `;
     } else {
       front = item.en;
       sub = '长难句';
-      back = `译文：${item.zh}`;
+      back = `<div class="wb-section"><h5>译文</h5><p class="wb-example">${item.zh || ''}</p></div>`;
     }
     body.innerHTML = `
       <div class="wordbook-challenge-card" id="wb-card">
