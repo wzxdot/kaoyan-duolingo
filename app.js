@@ -1224,25 +1224,19 @@ function renderEnglishDay(container, year, day) {
       <p class="source-label">${dayData.source}</p>
   `;
 
-  html += `<h4 style="margin:16px 0 10px;font-size:15px">核心词汇卡片（先学习，再闯关）</h4>`;
-  html += `<div class="vocab-card-list">`;
-  dayData.words.forEach((w, i) => {
-    html += `
-      <div class="vocab-card" data-idx="${i}">
-        <div class="vocab-card-front">
-          <div class="vocab-word">${w.word}</div>
-          ${w.form && w.form.toLowerCase() !== (w.word || '').toLowerCase() ? `<div class="vocab-form" style="font-size:12px;color:var(--text-secondary);margin-top:4px">真题中：${w.form}</div>` : ''}
-          <div class="vocab-phonetic">${w.phonetic || ''}</div>
-          <div class="vocab-tip">点击看释义</div>
-        </div>
-        <div class="vocab-card-back">
-          <div class="vocab-meaning">${w.meaning || w.def || ''}</div>
-          <div class="vocab-tags">${(w.tags || []).map(t => `<span class="vocab-tag">${t}</span>`).join('')}</div>
-        </div>
+  html += `
+    <div class="vocab-study-preview">
+      <div class="vocab-preview-head">
+        <h4>核心词汇学习</h4>
+        <span class="vocab-preview-count">${dayData.words.length} 个</span>
       </div>
-    `;
-  });
-  html += `</div>`;
+      <p class="vocab-preview-tip">点击“开始学习”进入全屏翻页模式，全部认识后解锁真题训练。</p>
+      <div class="vocab-preview-list">
+        ${dayData.words.slice(0, 8).map(w => `<span class="vocab-preview-tag">${w.word}</span>`).join('')}
+        ${dayData.words.length > 8 ? `<span class="vocab-preview-tag">+${dayData.words.length - 8}</span>` : ''}
+      </div>
+    </div>
+  `;
 
   html += `<h4 style="margin:16px 0 10px;font-size:15px">重点词组</h4>`;
   html += `<div class="mini-card-list">`;
@@ -1291,10 +1285,6 @@ function renderEnglishDay(container, year, day) {
 
   container.innerHTML = html;
   container.querySelector('#english-day-back').addEventListener('click', () => renderEnglishYear(container, year));
-
-  container.querySelectorAll('.vocab-card').forEach(card => {
-    card.addEventListener('click', () => card.classList.toggle('flipped'));
-  });
 
   container.querySelectorAll('.translatable-paragraph').forEach(para => {
     para.addEventListener('click', () => openTranslate(para.innerText));
@@ -1606,10 +1596,173 @@ function startEnglishLesson(dayData) {
     });
   }
   currentQuestions = shuffleArray(questions);
-  if (currentQuestions.length === 0) {
-    showToast('今天没有题目');
-    return;
+
+  // 先进入全屏词汇学习，全部认识后才显示真题训练
+  if (dayData.words && dayData.words.length > 0) {
+    startVocabStudy(dayData, currentQuestions);
+  } else {
+    startEnglishQuestions(dayData, currentQuestions);
   }
+}
+
+function startVocabStudy(dayData, questions) {
+  currentLessonContext = { type: 'vocab-study', dayData, questions };
+  currentQuestionIndex = 0;
+  lessonHearts = state.hearts;
+  lessonXp = 0;
+  lessonCorrect = 0;
+  answered = false;
+  document.getElementById('lesson-screen').classList.add('active');
+  document.getElementById('lesson-title').textContent = `${dayData.year} · 词汇学习`;
+  document.getElementById('lesson-hearts-val').textContent = lessonHearts;
+  document.getElementById('btn-check').style.display = 'none';
+  renderVocabFlashcard();
+}
+
+function renderVocabFlashcard() {
+  const ctx = currentLessonContext;
+  const words = ctx.dayData.words;
+  const idx = currentQuestionIndex;
+  const w = words[idx];
+  const progress = ((idx) / words.length) * 100;
+  document.getElementById('lesson-progress-fill').style.width = progress + '%';
+  const counterEl = document.getElementById('lesson-counter');
+  if (counterEl) counterEl.textContent = `${idx + 1}/${words.length}`;
+
+  const meanings = splitMeanings(w.meaning || w.def || '（结合真题语境记忆）');
+  const formNote = w.form && w.form.toLowerCase() !== (w.word || '').toLowerCase() ? `<div class="vf-form">真题中：${w.form}</div>` : '';
+
+  const body = document.getElementById('lesson-body');
+  body.innerHTML = `
+    <div class="vocab-flashcard" id="vf-card">
+      <div class="vf-front">
+        <div class="vf-word">${w.word}</div>
+        ${w.phonetic ? `<div class="vf-phonetic">${w.phonetic}</div>` : ''}
+        ${formNote}
+        <div class="vf-hint">点击卡片查看释义</div>
+      </div>
+      <div class="vf-back">
+        <div class="vf-word vf-word-small">${w.word}</div>
+        <div class="vf-meaning">
+          <h5>释义</h5>
+          <ul>${meanings.map(m => `<li>${m}</li>`).join('')}</ul>
+        </div>
+        ${w.example ? `<div class="vf-example"><h5>例句</h5><p>${w.example}</p></div>` : ''}
+      </div>
+    </div>
+    <div class="vf-actions" id="vf-actions">
+      <button class="vf-btn vf-btn-unknown" data-rating="unknown">不认识</button>
+      <button class="vf-btn vf-btn-vague" data-rating="vague">模糊</button>
+      <button class="vf-btn vf-btn-know" data-rating="know">认识</button>
+    </div>
+  `;
+
+  const card = document.getElementById('vf-card');
+  const actions = document.getElementById('vf-actions');
+
+  const flipAndNext = () => {
+    card.classList.add('revealed');
+    actions.innerHTML = `<button class="vf-btn vf-btn-next" id="vf-next">下一个</button>`;
+    document.getElementById('vf-next').addEventListener('click', (e) => {
+      e.stopPropagation();
+      nextVocabCard();
+    });
+  };
+
+  card.addEventListener('click', () => {
+    if (!card.classList.contains('revealed')) {
+      card.classList.add('revealed');
+    }
+  });
+
+  actions.querySelectorAll('[data-rating]').forEach(btn => {
+    btn.addEventListener('click', (e) => {
+      e.stopPropagation();
+      const rating = btn.dataset.rating;
+      handleVocabRating(w, rating);
+      if (rating === 'know') {
+        nextVocabCard();
+      } else {
+        flipAndNext();
+      }
+    });
+  });
+}
+
+function handleVocabRating(wordItem, rating) {
+  // 更新生词本中的掌握状态/间隔
+  const wb = state.english.wordbook.words.find(x => x.word === wordItem.word);
+  if (wb) {
+    if (rating === 'know') {
+      wb.interval = Math.min((wb.interval || 1) * 2, 32);
+      wb.mastered = true;
+    } else if (rating === 'vague') {
+      wb.interval = 1;
+      wb.mastered = false;
+    } else {
+      wb.interval = 1;
+      wb.mastered = false;
+    }
+    wb.nextReview = todayStr(daysFromToday(wb.interval));
+    saveState();
+  }
+  if (!currentLessonContext.vocabRatings) currentLessonContext.vocabRatings = [];
+  currentLessonContext.vocabRatings.push({ word: wordItem.word, rating });
+}
+
+function nextVocabCard() {
+  const ctx = currentLessonContext;
+  const words = ctx.dayData.words;
+  currentQuestionIndex++;
+  if (currentQuestionIndex >= words.length) {
+    showVocabStudySummary();
+  } else {
+    renderVocabFlashcard();
+  }
+}
+
+function showVocabStudySummary() {
+  const ctx = currentLessonContext;
+  const ratings = currentLessonContext.vocabRatings || [];
+  const unknown = ratings.filter(r => r.rating !== 'know');
+  const allKnown = unknown.length === 0;
+  const body = document.getElementById('lesson-body');
+  document.getElementById('lesson-counter').textContent = '完成';
+  body.innerHTML = `
+    <div class="vocab-summary">
+      <div class="vocab-summary-icon">${allKnown ? '✅' : '🔁'}</div>
+      <h3>${allKnown ? '词汇学习完成' : '还有未掌握的单词'}</h3>
+      <p>${allKnown
+        ? `本关 ${ratings.length} 个核心词汇已全部标记为“认识”，可以开始真题训练。`
+        : `本关共 ${ratings.length} 个单词，还有 ${unknown.length} 个未掌握（模糊/不认识）。需全部认识后才能开始真题训练。`}</p>
+      ${allKnown
+        ? `<button class="vf-btn vf-btn-next" id="vf-start-exam" style="margin-top:16px;width:100%">开始真题训练</button>`
+        : `<button class="vf-btn vf-btn-vague" id="vf-retry-hard" style="margin-top:16px;width:100%">复习未掌握单词</button>`}
+    </div>
+  `;
+  document.getElementById('vf-actions').innerHTML = '';
+  if (allKnown) {
+    document.getElementById('vf-start-exam').addEventListener('click', () => {
+      startEnglishQuestions(ctx.dayData, ctx.questions);
+    });
+  } else {
+    document.getElementById('vf-retry-hard').addEventListener('click', () => {
+      // 只保留未掌握的单词重新学习
+      const hardWords = ctx.dayData.words.filter(w => {
+        const r = ratings.find(x => x.word === w.word);
+        return !r || r.rating !== 'know';
+      });
+      ctx.dayData = { ...ctx.dayData, words: hardWords };
+      currentQuestionIndex = 0;
+      currentLessonContext.vocabRatings = [];
+      renderVocabFlashcard();
+    });
+  }
+}
+
+function startEnglishQuestions(dayData, questions) {
+  currentLessonContext = { type: 'english-day', dayData };
+  currentQuestions = questions;
   currentQuestionIndex = 0;
   selectedOption = null;
   currentFillAnswer = '';
@@ -1617,9 +1770,9 @@ function startEnglishLesson(dayData) {
   lessonXp = 0;
   lessonCorrect = 0;
   answered = false;
-  document.getElementById('lesson-screen').classList.add('active');
   document.getElementById('lesson-title').textContent = `${dayData.year} · Day ${dayData.day}`;
   document.getElementById('lesson-hearts-val').textContent = lessonHearts;
+  document.getElementById('btn-check').style.display = 'block';
   renderQuestion();
 }
 
@@ -2311,6 +2464,7 @@ function showResult(success) {
 
 function closeLesson() {
   document.getElementById('lesson-screen').classList.remove('active');
+  document.getElementById('btn-check').style.display = 'block';
 }
 
 // ===================== 我的页 =====================
