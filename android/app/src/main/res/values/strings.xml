@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">考研闯关</string>
+    <string name="title_activity_main">考研闯关</string>
+    <string name="package_name">com.example.kaoyanduolingo</string>
+    <string name="custom_url_scheme">com.example.kaoyanduolingo</string>
+</resources>
