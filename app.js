@@ -87,135 +87,257 @@ const PASSAGE_TEMPLATES = [
 
 const MATH_CHAPTERS = [
   {
-    id: 'math-limit',
-    title: '函数极限与连续',
+    id: 'math-0basic',
+    title: '零基础通关讲义',
     duration: '1 周',
-    difficulty: '中',
+    difficulty: '低',
     points: [
-      { id: 'ml-1', title: '极限的定义与性质', desc: 'ε-δ 语言、唯一性、局部有界性' },
-      { id: 'ml-2', title: '求极限的基本方法', desc: '四则运算、夹逼准则、单调有界' },
-      { id: 'ml-3', title: '两个重要极限', desc: 'sinx/x 与 (1+1/x)^x' },
-      { id: 'ml-4', title: '无穷小比较与连续', desc: '等价无穷小、间断点分类' }
+      { id: 'm0-1', title: '基本逻辑与常用命题', desc: '命题形式、逻辑思路、反证与归纳' },
+      { id: 'm0-2', title: '解析式的概念与运算', desc: '多项式、分式、根式与指数对数运算' },
+      { id: 'm0-3', title: '方程与不等式', desc: '一元二次、高次、分式、绝对值不等式' },
+      { id: 'm0-4', title: '函数的概念、图像与基本初等函数', desc: '定义域、单调性、奇偶性、反函数' },
+      { id: 'm0-5', title: '数列及其单调性', desc: '等差等比、递推、单调有界' },
+      { id: 'm0-6', title: '坐标系及其变换', desc: '极坐标、参数方程、图像变换' }
     ]
   },
   {
-    id: 'math-sequence',
-    title: '数列极限',
+    id: 'math-1',
+    title: '第1讲 函数极限与连续',
+    duration: '1 周',
+    difficulty: '中',
+    points: [
+      { id: 'm1-1', title: '函数极限的定义与基本性质', desc: 'ε-δ 语言、唯一性、局部有界性' },
+      { id: 'm1-2', title: '函数极限的计算方法', desc: '四则运算、等价无穷小、洛必达、泰勒' },
+      { id: 'm1-3', title: '函数的连续与间断', desc: '连续定义、间断点分类、闭区间性质' }
+    ]
+  },
+  {
+    id: 'math-2',
+    title: '第2讲 数列极限',
     duration: '0.5 周',
     difficulty: '中',
     points: [
-      { id: 'ms-1', title: '数列极限定义', desc: 'ε-N 语言、收敛数列性质' },
-      { id: 'ms-2', title: '递推数列求极限', desc: '单调有界准则、压缩映射思想' },
-      { id: 'ms-3', title: '数列与函数极限关系', desc: 'Heine 定理及应用' }
+      { id: 'm2-1', title: '数列极限的定义与性质', desc: 'ε-N 语言、收敛数列性质' },
+      { id: 'm2-2', title: '单调有界准则与递推数列', desc: '单调有界、压缩映射思想' }
     ]
   },
   {
-    id: 'math-derivative',
-    title: '一元函数微分学',
-    duration: '2 周',
+    id: 'math-3',
+    title: '第3讲 一元函数微分学的概念',
+    duration: '0.5 周',
+    difficulty: '中',
+    points: [
+      { id: 'm3-1', title: '导数的概念与几何意义', desc: '导数定义、切线法线、高阶导数定义' },
+      { id: 'm3-2', title: '微分与可微、可导、连续的关系', desc: '可微等价可导、三者关系' }
+    ]
+  },
+  {
+    id: 'math-4',
+    title: '第4讲 一元函数微分学的计算',
+    duration: '0.5 周',
+    difficulty: '中',
+    points: [
+      { id: 'm4-1', title: '求导公式与求导法则', desc: '基本公式、四则、复合、隐函数、参数' },
+      { id: 'm4-2', title: '高阶导数与特殊函数求导', desc: '莱布尼茨、反函数、分段函数' }
+    ]
+  },
+  {
+    id: 'math-5',
+    title: '第5讲 一元函数微分学的几何应用',
+    duration: '0.5 周',
+    difficulty: '中',
+    points: [
+      { id: 'm5-1', title: '函数的单调性、极值与最值', desc: '一阶导判别、二阶导判别、闭区间最值' },
+      { id: 'm5-2', title: '凹凸性、拐点、渐近线与曲率', desc: '二阶导、拐点、三种渐近线' }
+    ]
+  },
+  {
+    id: 'math-6',
+    title: '第6讲 中值定理与微分等式/不等式',
+    duration: '1 周',
     difficulty: '高',
     points: [
-      { id: 'md-1', title: '导数与微分概念', desc: '导数定义、几何意义、可微与可导' },
-      { id: 'md-2', title: '求导法则', desc: '复合函数、隐函数、参数方程' },
-      { id: 'md-3', title: '中值定理', desc: '罗尔、拉格朗日、柯西、泰勒' },
-      { id: 'md-4', title: '导数应用', desc: '极值、拐点、渐近线、不等式证明' }
+      { id: 'm6-1', title: '中值定理', desc: '罗尔、拉格朗日、柯西、泰勒' },
+      { id: 'm6-2', title: '微分等式与不等式的证明', desc: '构造辅助函数、单调性、凹凸性' }
     ]
   },
   {
-    id: 'math-integral',
-    title: '一元函数积分学',
-    duration: '2 周',
+    id: 'math-7',
+    title: '第7讲 一元函数微分学的物理与经济应用',
+    duration: '0.3 周',
+    difficulty: '中',
+    points: [
+      { id: 'm7-1', title: '变化率与相关变化率、经济学应用', desc: '速率、边际、弹性' }
+    ]
+  },
+  {
+    id: 'math-8',
+    title: '第8讲 一元函数积分学的概念与性质',
+    duration: '0.5 周',
+    difficulty: '中',
+    points: [
+      { id: 'm8-1', title: '不定积分与定积分的概念、性质', desc: '原函数、牛顿-莱布尼茨、比较性质' },
+      { id: 'm8-2', title: '变限积分与原函数存在定理', desc: '变限积分求导、可积条件' }
+    ]
+  },
+  {
+    id: 'math-9',
+    title: '第9讲 一元函数积分学的计算',
+    duration: '1 周',
     difficulty: '高',
     points: [
-      { id: 'mi-1', title: '不定积分', desc: '基本公式、换元法、分部积分' },
-      { id: 'mi-2', title: '定积分概念与计算', desc: '牛顿-莱布尼茨公式、反常积分' },
-      { id: 'mi-3', title: '积分应用', desc: '面积、体积、弧长、物理应用' },
-      { id: 'mi-4', title: '积分不等式', desc: '积分中值、变限积分' }
+      { id: 'm9-1', title: '不定积分的计算方法', desc: '凑微分、换元、分部、有理函数' },
+      { id: 'm9-2', title: '定积分的计算技巧', desc: '区间再现、华里士、对称性' }
     ]
   },
   {
-    id: 'math-multivariable',
-    title: '多元函数微分学',
-    duration: '1.5 周',
+    id: 'math-10',
+    title: '第10讲 一元函数积分学的几何应用',
+    duration: '0.5 周',
+    difficulty: '中',
+    points: [
+      { id: 'm10-1', title: '平面图形的面积与旋转体体积', desc: '直角坐标、极坐标、圆盘/壳层法' },
+      { id: 'm10-2', title: '弧长、旋转曲面面积与物理应用', desc: '弧长公式、形心、转动惯量思路' }
+    ]
+  },
+  {
+    id: 'math-11',
+    title: '第11讲 积分等式与积分不等式',
+    duration: '0.5 周',
+    difficulty: '高',
+    points: [
+      { id: 'm11-1', title: '积分等式', desc: '积分中值、换元、分部' },
+      { id: 'm11-2', title: '积分不等式', desc: '单调性、凹凸性、柯西-施瓦茨' }
+    ]
+  },
+  {
+    id: 'math-12',
+    title: '第12讲 一元函数积分学的物理应用',
+    duration: '0.3 周',
+    difficulty: '中',
+    points: [
+      { id: 'm12-1', title: '积分在物理中的应用', desc: '变力做功、水压力、引力、质心' }
+    ]
+  },
+  {
+    id: 'math-13',
+    title: '第13讲 多元函数微分学',
+    duration: '1 周',
     difficulty: '中高',
     points: [
-      { id: 'mmv-1', title: '偏导数与全微分', desc: '连续性、可微性、偏导存在关系' },
-      { id: 'mmv-2', title: '复合函数与隐函数', desc: '链式法则、隐函数求导' },
-      { id: 'mmv-3', title: '极值与条件极值', desc: '拉格朗日乘数法、最值问题' }
+      { id: 'm13-1', title: '多元函数极限、连续、偏导数与全微分', desc: '二重极限、偏导、可微判定' },
+      { id: 'm13-2', title: '多元复合函数与隐函数求导', desc: '链式法则、隐函数定理' },
+      { id: 'm13-3', title: '多元函数的极值与最值', desc: '无条件、条件极值、拉格朗日乘数' }
     ]
   },
   {
-    id: 'math-doubleintegral',
-    title: '二重积分',
-    duration: '1 周',
+    id: 'math-14',
+    title: '第14讲 二重积分',
+    duration: '0.7 周',
     difficulty: '中',
     points: [
-      { id: 'mdi-1', title: '二重积分概念与性质', desc: '几何意义、对称性' },
-      { id: 'mdi-2', title: '直角坐标与极坐标计算', desc: '积分次序交换、坐标变换' },
-      { id: 'mdi-3', title: '二重积分综合应用', desc: '形心、转动惯量思路' }
+      { id: 'm14-1', title: '二重积分的概念、性质与对称性', desc: '定义、性质、奇偶对称、轮换对称' },
+      { id: 'm14-2', title: '二重积分的坐标计算', desc: '直角坐标、极坐标、换序' },
+      { id: 'm14-3', title: '二重积分的应用与综合', desc: '形心、转动惯量思路' }
     ]
   },
   {
-    id: 'math-ode',
-    title: '常微分方程',
-    duration: '1 周',
+    id: 'math-15',
+    title: '第15讲 常微分方程',
+    duration: '0.7 周',
     difficulty: '中',
     points: [
-      { id: 'mo-1', title: '一阶微分方程', desc: '可分离变量、齐次、线性方程' },
-      { id: 'mo-2', title: '二阶常系数线性方程', desc: '特征方程、待定系数法' },
-      { id: 'mo-3', title: '微分方程应用', desc: '几何、物理、增长率模型' }
+      { id: 'm15-1', title: '一阶微分方程', desc: '可分离、齐次、线性、伯努利' },
+      { id: 'm15-2', title: '高阶线性微分方程', desc: '特征方程、待定系数、叠加原理' },
+      { id: 'm15-3', title: '微分方程的应用与可降阶方程', desc: '几何、物理、缺 y/x 型' }
     ]
   },
   {
-    id: 'math-determinant',
-    title: '行列式',
+    id: 'math-16',
+    title: '第16讲 无穷级数（数二不要求）',
+    duration: '—',
+    difficulty: '—',
+    points: [
+      { id: 'm16-1', title: '无穷级数（数学二不作要求）', desc: '数二不要求' }
+    ]
+  },
+  {
+    id: 'math-17',
+    title: '第17讲 多元函数积分学预备知识（数二不要求）',
+    duration: '—',
+    difficulty: '—',
+    points: [
+      { id: 'm17-1', title: '多元函数积分学预备知识（数学二不作要求）', desc: '数二不要求' }
+    ]
+  },
+  {
+    id: 'math-18',
+    title: '第18讲 多元函数积分学（数二不要求）',
+    duration: '—',
+    difficulty: '—',
+    points: [
+      { id: 'm18-1', title: '多元函数积分学（数学二不作要求）', desc: '数二不要求' }
+    ]
+  },
+  {
+    id: 'math-x1',
+    title: '线代第1讲 行列式',
     duration: '0.5 周',
     difficulty: '低',
     points: [
-      { id: 'mde-1', title: '行列式定义与性质', desc: '排列逆序、展开定理' },
-      { id: 'mde-2', title: '行列式计算', desc: '化三角、按行展开、范德蒙德' }
+      { id: 'x1-1', title: '行列式的定义、性质与展开', desc: '排列逆序、性质、展开定理' },
+      { id: 'x1-2', title: '行列式的计算与综合应用', desc: '化三角、范德蒙德、克拉默' }
     ]
   },
   {
-    id: 'math-matrix',
-    title: '矩阵',
-    duration: '1 周',
+    id: 'math-x2',
+    title: '线代第2讲 矩阵',
+    duration: '0.7 周',
     difficulty: '中',
     points: [
-      { id: 'mma-1', title: '矩阵运算与特殊矩阵', desc: '转置、逆、伴随、分块' },
-      { id: 'mma-2', title: '矩阵的秩', desc: '秩的定义、初等变换求秩' },
-      { id: 'mma-3', title: '矩阵方程', desc: '可逆条件下的矩阵方程' }
+      { id: 'x2-1', title: '矩阵运算、逆矩阵与伴随矩阵', desc: '运算律、逆、伴随、特殊矩阵' },
+      { id: 'x2-2', title: '初等变换、矩阵的秩与等价', desc: '初等矩阵、秩、等价标准形' },
+      { id: 'x2-3', title: '矩阵方程与分块矩阵', desc: '可逆条件、分块运算' }
     ]
   },
   {
-    id: 'math-vector',
-    title: '向量组与线性方程组',
-    duration: '1.5 周',
+    id: 'math-x3',
+    title: '线代第3讲 向量组',
+    duration: '0.7 周',
     difficulty: '中高',
     points: [
-      { id: 'mv-1', title: '线性相关与线性表示', desc: '定义、判定、极大无关组' },
-      { id: 'mv-2', title: '线性方程组解的结构', desc: '齐次、非齐次、通解' },
-      { id: 'mv-3', title: '公共解与同解', desc: '方程组之间的关系' }
+      { id: 'x3-1', title: '向量组的线性相关与线性表示', desc: '定义、判定、性质' },
+      { id: 'x3-2', title: '极大线性无关组与向量组的秩', desc: '极大无关组、秩、矩阵与向量' }
     ]
   },
   {
-    id: 'math-eigen',
-    title: '特征值与特征向量',
-    duration: '1 周',
-    difficulty: '中',
+    id: 'math-x4',
+    title: '线代第4讲 线性方程组',
+    duration: '0.7 周',
+    difficulty: '中高',
     points: [
-      { id: 'me-1', title: '特征值与特征向量求法', desc: '特征方程、相似对角化' },
-      { id: 'me-2', title: '实对称矩阵', desc: '正交相似对角化、谱分解' }
+      { id: 'x4-1', title: '线性方程组的解的判定与求解', desc: '齐次、非齐次、通解结构' },
+      { id: 'x4-2', title: '公共解、同解与方程组综合', desc: '公共解、同解、参数讨论' }
     ]
   },
   {
-    id: 'math-quadratic',
-    title: '二次型',
-    duration: '1 周',
+    id: 'math-x5',
+    title: '线代第5讲 特征值与特征向量',
+    duration: '0.7 周',
     difficulty: '中',
     points: [
-      { id: 'mq-1', title: '二次型的矩阵表示', desc: '标准形、规范形、正交变换' },
-      { id: 'mq-2', title: '正定二次型', desc: '正定的判定条件及应用' }
+      { id: 'x5-1', title: '特征值、特征向量与相似对角化', desc: '特征方程、相似、对角化条件' },
+      { id: 'x5-2', title: '实对称矩阵与正交相似对角化', desc: '实对称矩阵性质、正交矩阵' }
+    ]
+  },
+  {
+    id: 'math-x6',
+    title: '线代第6讲 二次型',
+    duration: '0.5 周',
+    difficulty: '中',
+    points: [
+      { id: 'x6-1', title: '二次型的概念与标准化', desc: '矩阵表示、正交/配方法化标准形' },
+      { id: 'x6-2', title: '正定二次型与正定矩阵', desc: '正定判定、顺序主子式' }
     ]
   }
 ];
@@ -350,8 +472,22 @@ function generateEnglishDay(year, segIndex, dayIndex) {
   const section = yearData[seg.name];
 
   const vocabPool = (typeof VOCAB_DATA !== 'undefined' ? VOCAB_DATA : WORD_POOL) || WORD_POOL;
-  const words = pickBySeed(vocabPool.filter(x => x.word && !x.word.includes(' ')), 'w' + seedBase, 8).map((w, i) => ({ ...w, id: `w-${year}-${seg.key}-${dayIndex}-${i}` }));
-  const phrases = pickBySeed(PHRASE_POOL, 'p' + seedBase, 3).map((p, i) => ({ ...p, id: `p-${year}-${seg.key}-${dayIndex}-${i}` }));
+  // 优先使用真题原文与红宝书词汇的交集
+  const sectionVocab = (section && section.vocab) || { words: [], phrases: [] };
+  const fallbackWords = pickBySeed(vocabPool.filter(x => x.word && !x.word.includes(' ')), 'w' + seedBase, 8).map((w, i) => ({ ...w, id: `w-${year}-${seg.key}-${dayIndex}-${i}` }));
+  const words = (sectionVocab.words && sectionVocab.words.length)
+    ? sectionVocab.words.slice(0, 12).map((w, i) => ({ ...w, id: `w-${year}-${seg.key}-${dayIndex}-${i}` }))
+    : fallbackWords;
+  const fallbackPhrases = pickBySeed(PHRASE_POOL, 'p' + seedBase, 3).map((p, i) => ({ ...p, id: `p-${year}-${seg.key}-${dayIndex}-${i}` }));
+  const phraseDefMap = new Map(PHRASE_POOL.map(p => [p.phrase.toLowerCase(), p.def || p.meaning || '']));
+  const phrases = (sectionVocab.phrases && sectionVocab.phrases.length)
+    ? sectionVocab.phrases.slice(0, 6).map((p, i) => ({
+        phrase: p.phrase,
+        def: p.def || p.meaning || phraseDefMap.get(p.phrase.toLowerCase()) || '',
+        example: p.example || '',
+        id: `p-${year}-${seg.key}-${dayIndex}-${i}`
+      }))
+    : fallbackPhrases;
   let sentences = pickBySeed(SENTENCE_POOL, 's' + seedBase, 2).map((s, i) => ({ ...s, id: `s-${year}-${seg.key}-${dayIndex}-${i}` }));
   let passage = PASSAGE_TEMPLATES[hashIndex('pass' + seedBase, PASSAGE_TEMPLATES.length)];
   let questions = [];
@@ -402,6 +538,14 @@ function generateEnglishDay(year, segIndex, dayIndex) {
     }
   }
 
+  // 构建当日词汇的形态变体集合，用于原文黄色高亮（如 propelling -> propel）
+  const dayWordBases = new Set(words.map(x => (x.word || '').toLowerCase()).filter(Boolean));
+  const variantSet = new Set();
+  dayWordBases.forEach(base => {
+    variantSet.add(base);
+    generateMorphVariants(base).forEach(v => variantSet.add(v));
+  });
+
   return {
     year,
     day: dayIndex + 1,
@@ -414,8 +558,36 @@ function generateEnglishDay(year, segIndex, dayIndex) {
     sentences,
     passage,
     questions,
-    source: daySource
+    source: daySource,
+    variantSet
   };
+}
+
+function generateMorphVariants(base) {
+  const variants = new Set();
+  const add = s => { if (s && s.length > 2) variants.add(s); };
+  // noun plural / verb 3rd person
+  if (base.endsWith('y') && /[bcdfghjklmnpqrstvwxz]/.test(base.slice(-2, -1))) {
+    add(base.slice(0, -1) + 'ies'); // study -> studies
+    add(base.slice(0, -1) + 'ied'); // carry -> carried
+  }
+  add(base + 's');
+  add(base + 'es');
+  // verb -ing / -ed
+  if (/[aeiou][bcdfghjklmnpqrstvwxz]$/.test(base) && base.length > 2) {
+    add(base + base.slice(-1) + 'ing'); // run -> running
+    add(base + base.slice(-1) + 'ed'); // stop -> stopped
+  } else {
+    add(base + 'ing');
+    add(base + 'ed');
+  }
+  if (base.endsWith('e')) {
+    add(base.slice(0, -1) + 'ing'); // hope -> hoping
+    add(base.slice(0, -1) + 'ed'); // hope -> hoped
+  }
+  // derivational
+  ['tion', 'sion', 'ment', 'ness', 'able', 'ible', 'ful', 'less', 'ous', 'ious', 'ive', 'ity', 'ty', 'ify', 'ize', 'ise', 'en', 'ance', 'ence', 'ure', 'dom', 'ship', 'hood', 'ism', 'ist', 'al', 'ial', 'ly', 'er', 'est'].forEach(suf => add(base + suf));
+  return Array.from(variants);
 }
 
 function generateEnglishYear(year) {
@@ -1059,6 +1231,7 @@ function renderEnglishDay(container, year, day) {
       <div class="vocab-card" data-idx="${i}">
         <div class="vocab-card-front">
           <div class="vocab-word">${w.word}</div>
+          ${w.form && w.form.toLowerCase() !== (w.word || '').toLowerCase() ? `<div class="vocab-form" style="font-size:12px;color:var(--text-secondary);margin-top:4px">真题中：${w.form}</div>` : ''}
           <div class="vocab-phonetic">${w.phonetic || ''}</div>
           <div class="vocab-tip">点击看释义</div>
         </div>
@@ -1157,9 +1330,10 @@ function renderEnglishDay(container, year, day) {
 function wrapWordsForLookup(text, dayData) {
   const vocabSet = new Set(((typeof VOCAB_DATA !== 'undefined' ? VOCAB_DATA : []) || []).map(x => x.word && x.word.toLowerCase()).filter(Boolean));
   const dayWordSet = new Set((dayData && dayData.words ? dayData.words : []).map(x => x.word && x.word.toLowerCase()).filter(Boolean));
+  const variantSet = dayData && dayData.variantSet ? new Set(dayData.variantSet) : new Set();
   return text.replace(/[a-zA-Z]+/g, w => {
     const lower = w.toLowerCase();
-    const isVocab = vocabSet.has(lower) || dayWordSet.has(lower);
+    const isVocab = vocabSet.has(lower) || dayWordSet.has(lower) || variantSet.has(lower);
     return `<span class="word-longpress ${isVocab ? 'vocab-word' : ''}" data-word="${lower}">${w}</span>`;
   });
 }
@@ -1504,10 +1678,26 @@ function renderMathPoint(container, pointId) {
       <button class="back-btn" id="math-point-back">← 返回章节</button>
       <span class="back-title">${chapter.title}</span>
     </div>
+    ${pdata.framework && pdata.framework.length ? `
+      <div class="framework-card">
+        <h4>🗺️ 基础知识结构</h4>
+        <div class="framework-tree">
+          ${pdata.framework.map((line, i) => `<div class="framework-node level-${(line.match(/^　/g) || []).length}" style="padding-left:${(line.match(/^　/g) || []).length * 16}px">${line.replace(/^　+/g, '')}</div>`).join('')}
+        </div>
+      </div>
+    ` : ''}
     <div class="concept-card">
       <h4>${point.title}</h4>
       <p class="math-concept">${pdata.concept}</p>
       ${pdata.formula ? `<div class="formula math-formula">${pdata.formula.replace(/\\n/g, '<br>')}</div>` : ''}
+      ${pdata.notes && pdata.notes.length ? `
+        <div class="notes-card">
+          <h5>📝 注 / 易错点 / 补充</h5>
+          <ul>
+            ${pdata.notes.map(n => `<li>${n}</li>`).join('')}
+          </ul>
+        </div>
+      ` : ''}
       ${pdata.keypoints ? `
         <div class="keypoints-card">
           <h5>🎯 核心考点</h5>
