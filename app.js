@@ -585,8 +585,8 @@ function generateMorphVariants(base) {
     add(base.slice(0, -1) + 'ing'); // hope -> hoping
     add(base.slice(0, -1) + 'ed'); // hope -> hoped
   }
-  // derivational
-  ['tion', 'sion', 'ment', 'ness', 'able', 'ible', 'ful', 'less', 'ous', 'ious', 'ive', 'ity', 'ty', 'ify', 'ize', 'ise', 'en', 'ance', 'ence', 'ure', 'dom', 'ship', 'hood', 'ism', 'ist', 'al', 'ial', 'ly', 'er', 'est'].forEach(suf => add(base + suf));
+  // derivational suffixes (conservative)
+  ['tion', 'sion', 'ment', 'ness', 'able', 'ible', 'ful', 'less', 'ous', 'ious', 'ive', 'ity', 'ty', 'en', 'ance', 'ence', 'ly'].forEach(suf => add(base + suf));
   return Array.from(variants);
 }
 
@@ -1327,8 +1327,10 @@ function renderEnglishDay(container, year, day) {
   }
 }
 
+const ENGLISH_STOPWORDS = new Set(['a','an','the','to','of','in','on','at','by','for','with','as','is','was','are','were','be','been','being','have','has','had','do','does','did','will','would','could','should','may','might','can','cannot','not','no','it','its','this','that','these','those','i','you','he','she','we','they','me','him','her','us','them','my','your','his','our','their','and','or','but','if','then','than','so','because','when','where','what','which','who','whom','whose','how','all','any','both','each','every','few','more','most','other','some','such','only','own','same','too','very','just','now','also','here','there','up','down','out','off','over','under','again','further','once','from','into','about','after','before','above','below','between','through','during','without','within','along','among','against','toward','towards','until','since','while','although','though','unless','whether','either','neither','one','two','three','four','five','six','seven','eight','nine','ten','first','second','last','next','new','old','good','bad','big','small','long','short','high','low','great','little']);
+
 function wrapWordsForLookup(text, dayData) {
-  const vocabSet = new Set(((typeof VOCAB_DATA !== 'undefined' ? VOCAB_DATA : []) || []).map(x => x.word && x.word.toLowerCase()).filter(Boolean));
+  const vocabSet = new Set(((typeof VOCAB_DATA !== 'undefined' ? VOCAB_DATA : []) || []).map(x => x.word && x.word.toLowerCase()).filter(w => w && !ENGLISH_STOPWORDS.has(w) && w.length > 2));
   const dayWordSet = new Set((dayData && dayData.words ? dayData.words : []).map(x => x.word && x.word.toLowerCase()).filter(Boolean));
   const variantSet = dayData && dayData.variantSet ? new Set(dayData.variantSet) : new Set();
   return text.replace(/[a-zA-Z]+/g, w => {
