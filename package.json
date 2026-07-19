@@ -1,0 +1,17 @@
+{
+  "name": "kaoyan-duolingo",
+  "version": "1.0.0",
+  "description": "一款仿多邻国（Duolingo）的考研学习 App 前端原型 V2，按框架 `framework-v2-detail.md` 升级，采用「四科目底部导航 + 顶部个人入口」结构，支持 PWA 离线使用。",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@capacitor/android": "^8.4.2",
+    "@capacitor/cli": "^8.4.2",
+    "@capacitor/core": "^8.4.2"
+  }
+}
