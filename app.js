@@ -1262,26 +1262,17 @@ function renderEnglishDay(container, year, day) {
     `;
   });
 
-  if (!isReview && dayData.passage) {
-    html += `
-      <h4 style="margin:16px 0 10px;font-size:15px">真题原文（黄色为词汇，点击段落调用翻译）</h4>
-      <div class="passage-block">
-        ${renderParagraphs(dayData.passage.en, dayData)}
-        <div class="translated" id="day-passage-zh">${dayData.passage.zh}</div>
-      </div>
-    `;
-  }
+
   html += `</div>`;
 
   const key = englishDayKey(year, day);
   const completed = state.english.completedDays.includes(key);
   html += `
     <div style="margin-top:16px;display:flex;gap:10px">
-      <button class="btn-primary" id="btn-start-english" style="flex:1">${isReview ? '开始复习' : completed ? '已完成' : '开始真题闯关'}</button>
+      <button class="btn-primary" id="btn-start-english" style="flex:1">${isReview ? '开始复习' : completed ? '已完成' : '开始学习'}</button>
       <button class="btn-secondary" id="btn-view-wordbook" style="flex:1;margin-top:0">查看生词本</button>
     </div>
   `;
-  html += `</div>`;
 
   container.innerHTML = html;
   container.querySelector('#english-day-back').addEventListener('click', () => renderEnglishYear(container, year));
@@ -1588,9 +1579,9 @@ function startEnglishLesson(dayData) {
       questions.push({
         type: 'multiple',
         question: `复习："${w.word}" 的含义是？`,
-        options: [w.def.split(' ').slice(1).join(' ') || '核心含义', '模糊的', '过时的', '无关的'],
+        options: [w.meaning.split(' ').slice(0, 8).join(' ') || '核心含义', '模糊的', '过时的', '无关的'],
         answer: 0,
-        explanation: `${w.word}：${w.def}`,
+        explanation: `${w.word}：${w.meaning}`,
         source: dayData.source
       });
     });
@@ -1629,8 +1620,34 @@ function renderVocabFlashcard() {
   const counterEl = document.getElementById('lesson-counter');
   if (counterEl) counterEl.textContent = `${idx + 1}/${words.length}`;
 
-  const meanings = splitMeanings(w.meaning || w.def || '（结合真题语境记忆）');
   const formNote = w.form && w.form.toLowerCase() !== (w.word || '').toLowerCase() ? `<div class="vf-form">真题中：${w.form}</div>` : '';
+
+  // 背面字段：词性、释义、助记、同义、反义、辨析、词组、派生、例句
+  const sections = [];
+  if (w.pos) sections.push({ title: '词性', html: `<p>${w.pos}</p>` });
+  if (w.meaning) {
+    const items = splitMeanings(w.meaning).map(m => `<li>${m}</li>`).join('');
+    sections.push({ title: '词义', html: `<ul>${items}</ul>` });
+  }
+  if (w.mnemonic) sections.push({ title: '助记', html: `<p>${w.mnemonic}</p>` });
+  if (w.synonym) sections.push({ title: '同义', html: `<p>${w.synonym}</p>` });
+  if (w.antonym) sections.push({ title: '反义', html: `<p>${w.antonym}</p>` });
+  if (w.discrimination) sections.push({ title: '辨析', html: `<p>${w.discrimination}</p>` });
+  if (w.phrases) sections.push({ title: '词组', html: `<p>${w.phrases}</p>` });
+  if (w.derivation) sections.push({ title: '派生', html: `<p>${w.derivation}</p>` });
+  if (w.example) sections.push({ title: '例句', html: `<p>${w.example}</p>` });
+  if (sections.length === 0) {
+    sections.push({ title: '释义', html: '<p>（结合真题语境记忆）</p>' });
+  }
+
+  const backSections = sections.map(s => `
+    <div class="vf-section">
+      <h5>${s.title}</h5>
+      ${s.html}
+    </div>
+  `).join('');
+
+  const canGoBack = idx > 0;
 
   const body = document.getElementById('lesson-body');
   body.innerHTML = `
@@ -1643,14 +1660,12 @@ function renderVocabFlashcard() {
       </div>
       <div class="vf-back">
         <div class="vf-word vf-word-small">${w.word}</div>
-        <div class="vf-meaning">
-          <h5>释义</h5>
-          <ul>${meanings.map(m => `<li>${m}</li>`).join('')}</ul>
-        </div>
-        ${w.example ? `<div class="vf-example"><h5>例句</h5><p>${w.example}</p></div>` : ''}
+        ${w.phonetic ? `<div class="vf-phonetic" style="align-self:center">${w.phonetic}</div>` : ''}
+        ${backSections}
       </div>
     </div>
     <div class="vf-actions" id="vf-actions">
+      <button class="vf-btn vf-btn-prev" id="vf-prev" ${canGoBack ? '' : 'disabled'}>上一个</button>
       <button class="vf-btn vf-btn-unknown" data-rating="unknown">不认识</button>
       <button class="vf-btn vf-btn-vague" data-rating="vague">模糊</button>
       <button class="vf-btn vf-btn-know" data-rating="know">认识</button>
@@ -1662,17 +1677,34 @@ function renderVocabFlashcard() {
 
   const flipAndNext = () => {
     card.classList.add('revealed');
-    actions.innerHTML = `<button class="vf-btn vf-btn-next" id="vf-next">下一个</button>`;
+    actions.innerHTML = `
+      <button class="vf-btn vf-btn-prev" id="vf-prev" ${canGoBack ? '' : 'disabled'}>上一个</button>
+      <button class="vf-btn vf-btn-next" id="vf-next">下一个</button>
+    `;
     document.getElementById('vf-next').addEventListener('click', (e) => {
       e.stopPropagation();
       nextVocabCard();
     });
+    const prevBtn = document.getElementById('vf-prev');
+    if (prevBtn && canGoBack) {
+      prevBtn.addEventListener('click', (e) => {
+        e.stopPropagation();
+        prevVocabCard();
+      });
+    }
   };
 
   card.addEventListener('click', () => {
     if (!card.classList.contains('revealed')) {
       card.classList.add('revealed');
+      // 翻转后自动切换到“下一个”按钮布局，但仍保留上一个
+      flipAndNext();
     }
+  });
+
+  document.getElementById('vf-prev').addEventListener('click', (e) => {
+    e.stopPropagation();
+    prevVocabCard();
   });
 
   actions.querySelectorAll('[data-rating]').forEach(btn => {
@@ -1719,6 +1751,21 @@ function nextVocabCard() {
   } else {
     renderVocabFlashcard();
   }
+}
+
+function prevVocabCard() {
+  const ctx = currentLessonContext;
+  if (currentQuestionIndex <= 0) return;
+  const curWord = ctx.dayData.words[currentQuestionIndex].word;
+  if (ctx.vocabRatings) {
+    ctx.vocabRatings = ctx.vocabRatings.filter(r => r.word !== curWord);
+  }
+  currentQuestionIndex--;
+  const prevWord = ctx.dayData.words[currentQuestionIndex].word;
+  if (ctx.vocabRatings) {
+    ctx.vocabRatings = ctx.vocabRatings.filter(r => r.word !== prevWord);
+  }
+  renderVocabFlashcard();
 }
 
 function showVocabStudySummary() {
@@ -1772,8 +1819,48 @@ function startEnglishQuestions(dayData, questions) {
   answered = false;
   document.getElementById('lesson-title').textContent = `${dayData.year} · Day ${dayData.day}`;
   document.getElementById('lesson-hearts-val').textContent = lessonHearts;
-  document.getElementById('btn-check').style.display = 'block';
-  renderQuestion();
+  document.getElementById('btn-check').style.display = 'none';
+  renderExamPassage(dayData);
+}
+
+function renderExamPassage(dayData) {
+  if (!dayData.passage || !dayData.passage.en) {
+    document.getElementById('btn-check').style.display = 'block';
+    renderQuestion();
+    return;
+  }
+  const body = document.getElementById('lesson-body');
+  const counterEl = document.getElementById('lesson-counter');
+  if (counterEl) counterEl.textContent = '真题原文';
+  document.getElementById('lesson-progress-fill').style.width = '100%';
+  body.innerHTML = `
+    <div class="exam-passage-view">
+      <h4 class="exam-passage-title">真题原文</h4>
+      <div class="passage-block">
+        ${renderParagraphs(dayData.passage.en, dayData)}
+        <div class="translated" id="exam-passage-zh" style="display:none;margin-top:12px;border-top:1px dashed var(--border);padding-top:12px">${dayData.passage.zh}</div>
+      </div>
+      <button class="vf-btn vf-btn-next" id="btn-start-exam-questions" style="margin:12px 16px 20px;width:calc(100% - 32px)">开始答题</button>
+    </div>
+  `;
+  body.querySelectorAll('.translatable-paragraph').forEach(para => {
+    para.addEventListener('click', () => openTranslate(para.innerText));
+  });
+  bindWordLookup(body);
+  const zhToggle = document.createElement('button');
+  zhToggle.className = 'vf-btn vf-btn-vague';
+  zhToggle.textContent = '显示/隐藏译文';
+  zhToggle.style.cssText = 'margin:0 16px 12px;width:calc(100% - 32px)';
+  zhToggle.addEventListener('click', () => {
+    const el = document.getElementById('exam-passage-zh');
+    el.style.display = el.style.display === 'none' ? 'block' : 'none';
+  });
+  const startBtn = body.querySelector('#btn-start-exam-questions');
+  startBtn.parentNode.insertBefore(zhToggle, startBtn);
+  startBtn.addEventListener('click', () => {
+    document.getElementById('btn-check').style.display = 'block';
+    renderQuestion();
+  });
 }
 
 // ===================== 数学模块 =====================
