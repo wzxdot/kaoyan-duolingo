@@ -670,6 +670,85 @@ html, body {
   margin-bottom: 4px;
 }
 
+/* 知识结构图 */
+.framework-card {
+  background: #f0f7ff;
+  border-radius: var(--radius);
+  padding: 16px;
+  margin-bottom: 16px;
+  border: 2px solid #b8d8ff;
+}
+
+.framework-card h4 {
+  font-size: 16px;
+  margin-bottom: 10px;
+  color: #2b6cb0;
+}
+
+.framework-tree {
+  font-size: 14px;
+  line-height: 1.9;
+}
+
+.framework-node {
+  position: relative;
+  padding-left: 12px;
+  border-left: 2px solid #cfe4ff;
+  margin-left: 4px;
+}
+
+.framework-node:last-child {
+  border-left-color: transparent;
+}
+
+.framework-node::before {
+  content: '';
+  position: absolute;
+  left: -2px;
+  top: 12px;
+  width: 8px;
+  height: 2px;
+  background: #b8d8ff;
+}
+
+.framework-node.level-0 {
+  font-weight: 700;
+  color: #1a365d;
+  border-left-color: transparent;
+  margin-left: 0;
+  padding-left: 0;
+}
+
+.framework-node.level-0::before {
+  display: none;
+}
+
+/* 注/易错点卡片 */
+.notes-card {
+  background: #fff9f0;
+  border-left: 3px solid #ed8936;
+  padding: 10px 12px;
+  border-radius: 0 8px 8px 0;
+  margin-top: 12px;
+}
+
+.notes-card h5 {
+  margin: 0 0 6px;
+  font-size: 14px;
+  color: #ed8936;
+}
+
+.notes-card ul {
+  margin: 0;
+  padding-left: 16px;
+  font-size: 13px;
+  line-height: 1.7;
+}
+
+.notes-card li {
+  margin-bottom: 4px;
+}
+
 /* 数学学习卡 */
 .study-card {
   background: var(--card);
