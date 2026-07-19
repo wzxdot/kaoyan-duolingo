@@ -1,0 +1,265 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <title>考研闯关 V2 - 四科通关计划</title>
+  <meta name="theme-color" content="#58cc02">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="default">
+  <link rel="manifest" href="manifest.json">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div id="app">
+    <!-- 顶部状态栏 -->
+    <header class="top-bar">
+      <div class="brand">
+        <div class="logo">研</div>
+        <span>考研闯关</span>
+      </div>
+      <div class="stats">
+        <div class="stat" id="stat-streak" title="连胜">
+          <span class="stat-icon">🔥</span>
+          <span class="stat-value" id="streak-val">0</span>
+        </div>
+        <div class="stat" id="stat-xp" title="XP">
+          <span class="stat-icon">⚡</span>
+          <span class="stat-value" id="xp-val">0</span>
+        </div>
+        <div class="stat" id="stat-hearts" title="红心">
+          <span class="stat-icon">❤️</span>
+          <span class="stat-value" id="hearts-val">5</span>
+        </div>
+        <div class="stat" id="stat-gems" title="宝石">
+          <span class="stat-icon">💎</span>
+          <span class="stat-value" id="gems-val">0</span>
+        </div>
+      </div>
+      <button class="profile-icon" id="btn-profile" title="我的/设置">👤</button>
+    </header>
+
+    <!-- 主内容区 -->
+    <main class="main-content" id="main-content">
+      <!-- 英语一 -->
+      <section class="page active" id="page-english">
+        <div class="subject-hero" style="--subject-color:#1cb0f6">
+          <div class="subject-hero-icon">📖</div>
+          <div class="subject-hero-info">
+            <h2>考研英语一</h2>
+            <p>真题 · 词汇 · 阅读 · 翻译 · 写作</p>
+            <div class="subject-hero-progress">
+              <div class="progress-bar"><div class="progress-fill" id="english-progress"></div></div>
+              <span id="english-progress-text">0/29 年</span>
+            </div>
+          </div>
+        </div>
+        <div class="section-toolbar">
+          <button class="toolbar-btn" id="btn-english-wordbook">📚 生词闯关</button>
+          <button class="toolbar-btn" id="btn-english-review">🔄 错题重练</button>
+        </div>
+        <div class="subject-content" id="english-content">
+          <!-- 由 JS 渲染：年份列表 / 14 天周期 / 每日学习 -->
+        </div>
+      </section>
+
+      <!-- 数学二 -->
+      <section class="page" id="page-math">
+        <div class="subject-hero" style="--subject-color:#ce82ff">
+          <div class="subject-hero-icon">📐</div>
+          <div class="subject-hero-info">
+            <h2>考研数学二</h2>
+            <p>张宇 2026 · 章节路径 · 1000 题训练</p>
+            <div class="subject-hero-progress">
+              <div class="progress-bar"><div class="progress-fill" id="math-progress"></div></div>
+              <span id="math-progress-text">0/12 章</span>
+            </div>
+          </div>
+        </div>
+        <div class="section-toolbar">
+          <button class="toolbar-btn" id="btn-math-review">🔄 昨日错题</button>
+        </div>
+        <div class="subject-content" id="math-content">
+          <!-- 由 JS 渲染：章节路径 / 知识点 / 练习 -->
+        </div>
+      </section>
+
+      <!-- 政治 -->
+      <section class="page" id="page-politics">
+        <div class="locked-subject" style="--subject-color:#ff4b4b">
+          <div class="locked-icon">🔒</div>
+          <h2>考研政治</h2>
+          <p class="locked-message">2027年6月开启</p>
+          <p class="locked-desc">模块将根据最新大纲与时政热点上线，敬请期待。</p>
+        </div>
+      </section>
+
+      <!-- 材料(832) -->
+      <section class="page" id="page-materials">
+        <div class="subject-hero" style="--subject-color:#ff9600">
+          <div class="subject-hero-icon">🔬</div>
+          <div class="subject-hero-info">
+            <h2>材料科学基础（832）</h2>
+            <p>畅研西工大 · 9 章通关</p>
+            <div class="subject-hero-progress">
+              <div class="progress-bar"><div class="progress-fill" id="materials-progress"></div></div>
+              <span id="materials-progress-text">0/9 章</span>
+            </div>
+          </div>
+        </div>
+        <div class="section-toolbar">
+          <button class="toolbar-btn" id="btn-materials-review">🔄 错题重练</button>
+        </div>
+        <div class="subject-content" id="materials-content">
+          <!-- 由 JS 渲染：章节路径 / 概念卡 / 题型 -->
+        </div>
+      </section>
+
+      <!-- 我的/设置页 -->
+      <section class="page" id="page-profile">
+        <div class="profile-header">
+          <div class="avatar">🎓</div>
+          <div class="profile-info">
+            <h2 id="profile-name">考研学子</h2>
+            <p id="profile-title">备考新手</p>
+          </div>
+        </div>
+        <div class="profile-stats">
+          <div class="profile-stat">
+            <div class="profile-stat-value" id="profile-xp">0</div>
+            <div class="profile-stat-label">总XP</div>
+          </div>
+          <div class="profile-stat">
+            <div class="profile-stat-value" id="profile-streak">0</div>
+            <div class="profile-stat-label">连胜</div>
+          </div>
+          <div class="profile-stat">
+            <div class="profile-stat-value" id="profile-lessons">0</div>
+            <div class="profile-stat-label">完成关卡</div>
+          </div>
+          <div class="profile-stat">
+            <div class="profile-stat-value" id="profile-mistakes">0</div>
+            <div class="profile-stat-label">错题数</div>
+          </div>
+        </div>
+        <div class="settings-card">
+          <h3>学习设置</h3>
+          <div class="setting-item">
+            <span>每日目标 XP</span>
+            <select id="daily-goal">
+              <option value="30">轻松 30</option>
+              <option value="50" selected>标准 50</option>
+              <option value="100">挑战 100</option>
+            </select>
+          </div>
+          <div class="setting-item">
+            <span>提醒时间</span>
+            <select id="reminder-time">
+              <option value="08:00">08:00</option>
+              <option value="12:00">12:00</option>
+              <option value="20:00" selected>20:00</option>
+            </select>
+          </div>
+          <button class="btn-secondary" id="reset-progress">重置进度</button>
+        </div>
+      </section>
+    </main>
+
+    <!-- 底部科目导航 -->
+    <nav class="bottom-nav" id="bottom-nav">
+      <button class="nav-btn active" data-page="english">
+        <span class="nav-icon">📖</span>
+        <span>英语一</span>
+      </button>
+      <button class="nav-btn" data-page="math">
+        <span class="nav-icon">📐</span>
+        <span>数学二</span>
+      </button>
+      <button class="nav-btn locked" data-page="politics">
+        <span class="nav-icon">🔒</span>
+        <span>政治</span>
+      </button>
+      <button class="nav-btn" data-page="materials">
+        <span class="nav-icon">🔬</span>
+        <span>材料</span>
+      </button>
+    </nav>
+
+    <!-- 全屏学习/练习界面 -->
+    <div class="lesson-screen" id="lesson-screen">
+      <div class="lesson-header">
+        <button class="lesson-close" id="lesson-close">×</button>
+        <div class="lesson-title" id="lesson-title">学习</div>
+        <div class="lesson-progress">
+          <div class="progress-bar">
+            <div class="progress-fill" id="lesson-progress-fill"></div>
+          </div>
+        </div>
+        <div class="lesson-counter" id="lesson-counter"></div>
+        <div class="lesson-hearts">
+          <span>❤️</span>
+          <span id="lesson-hearts-val">5</span>
+        </div>
+      </div>
+      <div class="lesson-body" id="lesson-body">
+        <!-- 由 JS 填充 -->
+      </div>
+      <div class="lesson-footer">
+        <button class="btn-check" id="btn-check" disabled>检查</button>
+      </div>
+    </div>
+
+    <!-- 结果界面 -->
+    <div class="result-screen" id="result-screen">
+      <div class="result-content">
+        <div class="result-stars" id="result-stars">⭐⭐⭐</div>
+        <h2 id="result-title">闯关成功！</h2>
+        <p id="result-subtitle">你已经掌握了这个知识点</p>
+        <div class="result-stats">
+          <div class="result-stat">
+            <span class="result-stat-icon">⚡</span>
+            <span class="result-stat-value" id="result-xp">+30</span>
+          </div>
+          <div class="result-stat">
+            <span class="result-stat-icon">💎</span>
+            <span class="result-stat-value" id="result-gems">+5</span>
+          </div>
+          <div class="result-stat">
+            <span class="result-stat-icon">❤️</span>
+            <span class="result-stat-value" id="result-hearts">满血</span>
+          </div>
+        </div>
+        <button class="btn-primary" id="btn-continue">继续</button>
+      </div>
+    </div>
+
+    <!-- 单词/句子翻译弹窗 -->
+    <div class="word-popup" id="word-popup">
+      <div class="word-popup-content">
+        <div class="word-popup-word" id="word-popup-word"></div>
+        <div class="word-popup-def" id="word-popup-def"></div>
+        <div style="display:flex;gap:8px;margin-top:10px">
+          <button class="btn-primary" id="word-popup-add" style="flex:1">加入生词本</button>
+          <button class="btn-secondary" id="word-popup-translate" style="flex:1">翻译软件</button>
+        </div>
+        <button class="word-popup-close" id="word-popup-close">×</button>
+      </div>
+    </div>
+
+    <!-- 提示弹窗 -->
+    <div class="toast" id="toast"></div>
+  </div>
+
+  <script src="english-data.js"></script>
+  <script src="vocab-data.js"></script>
+  <script src="math-data.js"></script>
+  <script src="app.js"></script>
+  <script>
+    if ('serviceWorker' in navigator) {
+      navigator.serviceWorker.register('service-worker.js')
+        .then(() => console.log('Service Worker 注册成功'))
+        .catch((err) => console.log('Service Worker 注册失败', err));
+    }
+  </script>
+</body>
+</html>
