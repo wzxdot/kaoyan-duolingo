@@ -106,12 +106,6 @@ const ENGLISH_DATA = {
             "meaning": "n. 饮食；食物；规定饮食 v. 节食 / n. 饮食， 食物"
           },
           {
-            "word": "forest",
-            "form": "for",
-            "phonetic": "/ˈfɒrɪst/",
-            "meaning": "森林"
-          },
-          {
             "word": "normal",
             "form": "normal",
             "phonetic": "",
@@ -136,10 +130,16 @@ const ENGLISH_DATA = {
             "meaning": "男人；人类"
           },
           {
-            "word": "notify",
-            "form": "not",
-            "phonetic": "",
-            "meaning": "v. 通告，通知；公布 / vt. 通知， 告知； 报告"
+            "word": "energy",
+            "form": "energy",
+            "phonetic": "/pa「tenJali/",
+            "meaning": "潜在的能量"
+          },
+          {
+            "word": "construct",
+            "form": "construct",
+            "phonetic": "/kan「strAkt/",
+            "meaning": "建造"
           }
         ],
         "phrases": [
@@ -213,36 +213,6 @@ const ENGLISH_DATA = {
       "vocab": {
         "words": [
           {
-            "word": "derive",
-            "form": "ders",
-            "phonetic": "/dɪˈraɪv/",
-            "meaning": "得到；源自"
-          },
-          {
-            "word": "to",
-            "form": "to",
-            "phonetic": "",
-            "meaning": "科学家"
-          },
-          {
-            "word": "notify",
-            "form": "not",
-            "phonetic": "",
-            "meaning": "v. 通告，通知；公布 / vt. 通知， 告知； 报告"
-          },
-          {
-            "word": "teacher",
-            "form": "teaches",
-            "phonetic": "",
-            "meaning": "n. 教师；导师"
-          },
-          {
-            "word": "canal",
-            "form": "can",
-            "phonetic": "",
-            "meaning": "n. 运河；[地理] 水道；[建] 管道；灌溉水渠 v. 在…开凿运河 / n. 运河； 渠"
-          },
-          {
             "word": "mental",
             "form": "mental",
             "phonetic": "/ˈmentl/",
@@ -283,6 +253,36 @@ const ENGLISH_DATA = {
             "form": "everyday",
             "phonetic": "",
             "meaning": "adj. 每天的，日常的 n. 平时；寻常日子"
+          },
+          {
+            "word": "living",
+            "form": "living",
+            "phonetic": "/Uvm/",
+            "meaning": "活的"
+          },
+          {
+            "word": "weed",
+            "form": "we",
+            "phonetic": "",
+            "meaning": "杂草"
+          },
+          {
+            "word": "intend",
+            "form": "intend",
+            "phonetic": "",
+            "meaning": "v. 想要； 打算， 企图"
+          },
+          {
+            "word": "friendly",
+            "form": "friends",
+            "phonetic": "/ˈfrendli/",
+            "meaning": "友好的；亲切的"
+          },
+          {
+            "word": "dinner",
+            "form": "dinner",
+            "phonetic": "/「dma(r)/",
+            "meaning": "正餐；宴会"
           }
         ],
         "phrases": [
@@ -362,22 +362,10 @@ const ENGLISH_DATA = {
             "meaning": "服务；维修"
           },
           {
-            "word": "canal",
-            "form": "can",
-            "phonetic": "",
-            "meaning": "n. 运河；[地理] 水道；[建] 管道；灌溉水渠 v. 在…开凿运河 / n. 运河； 渠"
-          },
-          {
             "word": "corporation",
             "form": "Corporation",
             "phonetic": "/ˌkɔːpəˈreɪʃn/",
             "meaning": "公司；企业"
-          },
-          {
-            "word": "to",
-            "form": "to",
-            "phonetic": "",
-            "meaning": "科学家"
           },
           {
             "word": "tune",
@@ -426,6 +414,18 @@ const ENGLISH_DATA = {
             "form": "sport",
             "phonetic": "",
             "meaning": "n. 运动；游戏；娱乐；运动会；玩笑 v. 游戏 adj. 运动的"
+          },
+          {
+            "word": "comedy",
+            "form": "comedy",
+            "phonetic": "",
+            "meaning": "n. 喜剧;喜剧性事件 / n. 喜剧； 喜剧性事件"
+          },
+          {
+            "word": "drama",
+            "form": "drama",
+            "phonetic": "",
+            "meaning": "n. 戏剧； 剧本；戏剧性事件或场面"
           }
         ],
         "phrases": [
@@ -533,12 +533,6 @@ const ENGLISH_DATA = {
             "meaning": "现代的；时髦的"
           },
           {
-            "word": "liner",
-            "form": "lines",
-            "phonetic": "/ˈlaɪnə(r)/",
-            "meaning": "班轮；衬里"
-          },
-          {
             "word": "firm",
             "form": "firm",
             "phonetic": "",
@@ -573,6 +567,12 @@ const ENGLISH_DATA = {
             "form": "salaried",
             "phonetic": "",
             "meaning": "vt. 给加薪；给薪水 n. 薪水 / n. 薪金， 薪水"
+          },
+          {
+            "word": "manager",
+            "form": "managers",
+            "phonetic": "/ˈmænɪdʒə(r)/",
+            "meaning": "经理；管理者"
           }
         ],
         "phrases": []
@@ -641,18 +641,6 @@ const ENGLISH_DATA = {
       "vocab": {
         "words": [
           {
-            "word": "forest",
-            "form": "for",
-            "phonetic": "/ˈfɒrɪst/",
-            "meaning": "森林"
-          },
-          {
-            "word": "great",
-            "form": "great",
-            "phonetic": "/sen「serJanl/",
-            "meaning": "这条消息引起很大的轰动"
-          },
-          {
             "word": "majority",
             "form": "major",
             "phonetic": "",
@@ -663,12 +651,6 @@ const ENGLISH_DATA = {
             "form": "inventions",
             "phonetic": "",
             "meaning": "n. 发明,创造,发明物 / n. 发明；发明物；虚构；发明才能"
-          },
-          {
-            "word": "ear",
-            "form": "early",
-            "phonetic": "",
-            "meaning": "n. 耳朵；穗；听觉；倾听 vi. （美俚）听见；抽穗"
           },
           {
             "word": "telegraph",
@@ -701,16 +683,34 @@ const ENGLISH_DATA = {
             "meaning": "adj. 单一的；单身的；单程的 n. 一个；单打；单程票 v. 选出"
           },
           {
-            "word": "outer",
+            "word": "outing",
             "form": "out",
-            "phonetic": "",
-            "meaning": "adj. 外面的，外部的；远离中心的 n. 环外命中 / adj. 外部的， 外面的， 外层的"
+            "phonetic": "/ˈaʊtɪŋ/",
+            "meaning": "远足；外出"
           },
           {
             "word": "country",
             "form": "country",
             "phonetic": "",
             "meaning": "n. 国家；农村,乡下"
+          },
+          {
+            "word": "excellent",
+            "form": "excellent",
+            "phonetic": "/「ekselant/",
+            "meaning": "个卓越的；极好的"
+          },
+          {
+            "word": "elementary",
+            "form": "elementary",
+            "phonetic": "/ˌelɪˈmentri/",
+            "meaning": "基本的；初级的"
+          },
+          {
+            "word": "force",
+            "form": "force",
+            "phonetic": "",
+            "meaning": "力量；势力"
           }
         ],
         "phrases": [
@@ -769,40 +769,10 @@ const ENGLISH_DATA = {
       "vocab": {
         "words": [
           {
-            "word": "hasty",
-            "form": "has",
-            "phonetic": "/「hersti/",
-            "meaning": "匆忙的"
-          },
-          {
-            "word": "publish",
-            "form": "publisher",
-            "phonetic": "/r「pAbl/",
-            "meaning": "公布"
-          },
-          {
-            "word": "being",
-            "form": "be",
-            "phonetic": "",
-            "meaning": "n. 生物；存在， 生存"
-          },
-          {
-            "word": "to",
-            "form": "to",
-            "phonetic": "",
-            "meaning": "科学家"
-          },
-          {
             "word": "confuse",
             "form": "confused",
             "phonetic": "/kənˈfjuːz/",
             "meaning": "使困惑；混淆"
-          },
-          {
-            "word": "notify",
-            "form": "not",
-            "phonetic": "",
-            "meaning": "v. 通告，通知；公布 / vt. 通知， 告知； 报告"
           },
           {
             "word": "valid",
@@ -823,12 +793,6 @@ const ENGLISH_DATA = {
             "meaning": "n. 理论； 原理； 学说；见解， 看法"
           },
           {
-            "word": "forest",
-            "form": "for",
-            "phonetic": "/ˈfɒrɪst/",
-            "meaning": "森林"
-          },
-          {
             "word": "origin",
             "form": "origin",
             "phonetic": "",
@@ -839,6 +803,42 @@ const ENGLISH_DATA = {
             "form": "geology",
             "phonetic": "/dʒiˈɒlədʒi/",
             "meaning": "地质学"
+          },
+          {
+            "word": "biology",
+            "form": "biology",
+            "phonetic": "",
+            "meaning": "n. 生物学 / n. （一个地区全部的）生物；生物学 / n. 生物学"
+          },
+          {
+            "word": "consistent",
+            "form": "consistent",
+            "phonetic": "",
+            "meaning": "adj. 一贯的，一致的 / adj. 始终如一的，一致的；坚持的 / adj. 前后一致的， 始终如一的"
+          },
+          {
+            "word": "constant",
+            "form": "constantly",
+            "phonetic": "",
+            "meaning": "adj. 不变的；恒定的；经常的 n. [数] 常数；恒量 / adj. 持续的， 不断的；永恒的， 不变的；坚定的， 忠实的 n. 常数， 恒量"
+          },
+          {
+            "word": "push",
+            "form": "pushed",
+            "phonetic": "",
+            "meaning": "v. 推动，增加；对…施加压力，逼迫；按；说服 n. 推，决心；大规模攻势；矢志的追求"
+          },
+          {
+            "word": "time",
+            "form": "time",
+            "phonetic": "/taɪm/",
+            "meaning": "时间；时代；次数"
+          },
+          {
+            "word": "classroom",
+            "form": "classrooms",
+            "phonetic": "",
+            "meaning": "n. 教室"
           }
         ],
         "phrases": [
@@ -929,12 +929,6 @@ const ENGLISH_DATA = {
       "vocab": {
         "words": [
           {
-            "word": "employer",
-            "form": "employment",
-            "phonetic": "/Im「plola(r)/",
-            "meaning": "雄主"
-          },
-          {
             "word": "office",
             "form": "offices",
             "phonetic": "",
@@ -945,12 +939,6 @@ const ENGLISH_DATA = {
             "form": "factories",
             "phonetic": "",
             "meaning": "n. 工厂 / n. 工厂；制造厂；代理店"
-          },
-          {
-            "word": "forest",
-            "form": "for",
-            "phonetic": "/ˈfɒrɪst/",
-            "meaning": "森林"
           },
           {
             "word": "time",
@@ -989,16 +977,28 @@ const ENGLISH_DATA = {
             "meaning": "n. 发动机,电动机"
           },
           {
-            "word": "to",
-            "form": "to",
-            "phonetic": "",
-            "meaning": "科学家"
+            "word": "base",
+            "form": "based",
+            "phonetic": "/bers/",
+            "meaning": "基础"
           },
           {
-            "word": "numb",
-            "form": "number",
-            "phonetic": "/nʌm/",
-            "meaning": "麻木的；使麻木"
+            "word": "boom",
+            "form": "booming",
+            "phonetic": "/buzm/",
+            "meaning": "低沉有回响的声音；城镇等的"
+          },
+          {
+            "word": "economy",
+            "form": "economy",
+            "phonetic": "",
+            "meaning": "n. 经济；节约 / n. 经济；节约；理财 / n. 节约；经济"
+          },
+          {
+            "word": "continue",
+            "form": "continues",
+            "phonetic": "",
+            "meaning": "连续"
           }
         ],
         "phrases": []
@@ -1135,12 +1135,6 @@ const ENGLISH_DATA = {
             "meaning": "作者"
           },
           {
-            "word": "to",
-            "form": "to",
-            "phonetic": "",
-            "meaning": "科学家"
-          },
-          {
             "word": "doctor",
             "form": "doctors",
             "phonetic": "/ˈdɒktə(r)/",
@@ -1157,6 +1151,12 @@ const ENGLISH_DATA = {
             "form": "die",
             "phonetic": "/dar/",
             "meaning": "死亡"
+          },
+          {
+            "word": "measure",
+            "form": "measure",
+            "phonetic": "",
+            "meaning": "n. 测量；措施；程度；尺寸 v. 测量；估量；权衡"
           }
         ],
         "phrases": [
@@ -1248,12 +1248,6 @@ const ENGLISH_DATA = {
             "meaning": "访问者；客人；来宾；参观者"
           },
           {
-            "word": "to",
-            "form": "to",
-            "phonetic": "",
-            "meaning": "科学家"
-          },
-          {
             "word": "friendly",
             "form": "friendly",
             "phonetic": "/ˈfrendli/",
@@ -1270,12 +1264,6 @@ const ENGLISH_DATA = {
             "form": "most",
             "phonetic": "",
             "meaning": "adv. 主要地， 大部分， 通常"
-          },
-          {
-            "word": "being",
-            "form": "be",
-            "phonetic": "",
-            "meaning": "n. 生物；存在， 生存"
           },
           {
             "word": "fair",
@@ -1300,6 +1288,18 @@ const ENGLISH_DATA = {
             "form": "North",
             "phonetic": "",
             "meaning": "n. 北，北方 adj. 北方的；朝北的 adv. 在北方，向北方"
+          },
+          {
+            "word": "exception",
+            "form": "exceptions",
+            "phonetic": "",
+            "meaning": "n. 例外,除外 / n. 例外；异议 / n. 例外， 除外"
+          },
+          {
+            "word": "official",
+            "form": "officials",
+            "phonetic": "/əˈfɪʃl/",
+            "meaning": "官方的；官员"
           }
         ],
         "phrases": [
@@ -1402,12 +1402,6 @@ const ENGLISH_DATA = {
             "meaning": "学期；条件；关系"
           },
           {
-            "word": "to",
-            "form": "to",
-            "phonetic": "",
-            "meaning": "科学家"
-          },
-          {
             "word": "sort",
             "form": "sort",
             "phonetic": "",
@@ -1442,6 +1436,12 @@ const ENGLISH_DATA = {
             "form": "tobacco",
             "phonetic": "/təˈbækəʊ/",
             "meaning": "烟草；烟叶"
+          },
+          {
+            "word": "neutral",
+            "form": "neutral",
+            "phonetic": "",
+            "meaning": "adj. 中立的，中性的；中立国的；非彩色的 n. 中立国；中立者；非彩色；齿轮的空档 / adj. 中立的；中性的， 中和的"
           }
         ],
         "phrases": [
@@ -1531,18 +1531,6 @@ const ENGLISH_DATA = {
             "meaning": "很可能的"
           },
           {
-            "word": "to",
-            "form": "to",
-            "phonetic": "",
-            "meaning": "科学家"
-          },
-          {
-            "word": "being",
-            "form": "be",
-            "phonetic": "",
-            "meaning": "n. 生物；存在， 生存"
-          },
-          {
             "word": "contribute",
             "form": "contributing",
             "phonetic": "",
@@ -1553,12 +1541,6 @@ const ENGLISH_DATA = {
             "form": "moral",
             "phonetic": "",
             "meaning": "n. 道德；品行，美德 / n. 道德； 美德"
-          },
-          {
-            "word": "national",
-            "form": "nation",
-            "phonetic": "",
-            "meaning": "adj. 国家的；国民的；民族的；国立的 n. 国民"
           },
           {
             "word": "intend",
@@ -1589,6 +1571,24 @@ const ENGLISH_DATA = {
             "form": "souls",
             "phonetic": "/soxt/",
             "meaning": "人类整体的"
+          },
+          {
+            "word": "corrupt",
+            "form": "corrupt",
+            "phonetic": "",
+            "meaning": "adj. 腐败的，贪污的；堕落的 v. 使腐烂；使堕落，使恶化 / adj. 腐败的， 贪污的 vt. 使腐败， 使败坏 <"
+          },
+          {
+            "word": "threat",
+            "form": "threaten",
+            "phonetic": "/θret/",
+            "meaning": "威胁；恐吓"
+          },
+          {
+            "word": "simply",
+            "form": "simply",
+            "phonetic": "/ˈsɪmpli/",
+            "meaning": "仅仅；简单地"
           }
         ],
         "phrases": [
@@ -1655,12 +1655,6 @@ const ENGLISH_DATA = {
       "vocab": {
         "words": [
           {
-            "word": "to",
-            "form": "to",
-            "phonetic": "",
-            "meaning": "科学家"
-          },
-          {
             "word": "describe",
             "form": "describe",
             "phonetic": "/dɪˈskraɪb/",
@@ -1715,16 +1709,22 @@ const ENGLISH_DATA = {
             "meaning": "科学；理科"
           },
           {
-            "word": "being",
-            "form": "be",
-            "phonetic": "",
-            "meaning": "n. 生物；存在， 生存"
-          },
-          {
             "word": "truth",
             "form": "truth",
             "phonetic": "/truːθ/",
             "meaning": "真相；真理"
+          },
+          {
+            "word": "link",
+            "form": "link",
+            "phonetic": "/Imk/",
+            "meaning": "连接"
+          },
+          {
+            "word": "interesting",
+            "form": "interest",
+            "phonetic": "/「mtastm/",
+            "meaning": "有趣的；引人人胜的"
           }
         ],
         "phrases": [
@@ -1831,12 +1831,6 @@ const ENGLISH_DATA = {
             "meaning": "历史学家"
           },
           {
-            "word": "very",
-            "form": "very",
-            "phonetic": "",
-            "meaning": "adv. 很，非常；完全 adj. 同一的，正是的，恰好的"
-          },
-          {
             "word": "critical",
             "form": "critically",
             "phonetic": "",
@@ -1849,12 +1843,6 @@ const ENGLISH_DATA = {
             "meaning": "工业的"
           },
           {
-            "word": "great",
-            "form": "greatly",
-            "phonetic": "/sen「serJanl/",
-            "meaning": "这条消息引起很大的轰动"
-          },
-          {
             "word": "standard",
             "form": "standard",
             "phonetic": "/「stsendad/",
@@ -1865,12 +1853,6 @@ const ENGLISH_DATA = {
             "form": "living",
             "phonetic": "/Uvm/",
             "meaning": "活的"
-          },
-          {
-            "word": "forest",
-            "form": "for",
-            "phonetic": "/ˈfɒrɪst/",
-            "meaning": "森林"
           },
           {
             "word": "man",
@@ -1889,6 +1871,24 @@ const ENGLISH_DATA = {
             "form": "results",
             "phonetic": "",
             "meaning": "结果"
+          },
+          {
+            "word": "poverty",
+            "form": "poverty",
+            "phonetic": "/ˈpɒvəti/",
+            "meaning": "贫穷；贫困"
+          },
+          {
+            "word": "misery",
+            "form": "misery",
+            "phonetic": "/ˈmɪzəri/",
+            "meaning": "痛苦；悲惨"
+          },
+          {
+            "word": "population",
+            "form": "population",
+            "phonetic": "/ˌpɒpjuˈleɪʃn/",
+            "meaning": "人口；居民"
           }
         ],
         "phrases": []
@@ -2005,12 +2005,6 @@ const ENGLISH_DATA = {
             "meaning": "干旱；旱灾"
           },
           {
-            "word": "to",
-            "form": "to",
-            "phonetic": "",
-            "meaning": "科学家"
-          },
-          {
             "word": "bid",
             "form": "bidding",
             "phonetic": "/「brda(r)/",
@@ -2023,10 +2017,16 @@ const ENGLISH_DATA = {
             "meaning": "v. 使着迷，使神魂颠倒 / vt. 迷住， 强烈吸引"
           },
           {
-            "word": "being",
-            "form": "be",
+            "word": "sometimes",
+            "form": "sometimes",
             "phonetic": "",
-            "meaning": "n. 生物；存在， 生存"
+            "meaning": "adv. 不时，有时，间或"
+          },
+          {
+            "word": "blind",
+            "form": "blind",
+            "phonetic": "",
+            "meaning": "瞎的"
           }
         ],
         "phrases": [
@@ -2128,28 +2128,10 @@ const ENGLISH_DATA = {
             "meaning": "故事"
           },
           {
-            "word": "hardship",
-            "form": "harder",
-            "phonetic": "/ˈhɑːdʃɪp/",
-            "meaning": "艰难；困苦"
-          },
-          {
-            "word": "to",
-            "form": "to",
-            "phonetic": "",
-            "meaning": "科学家"
-          },
-          {
             "word": "establish",
             "form": "establish",
             "phonetic": "",
             "meaning": "v. 建立；创办；安置 / vt. 建立， 设立；安置， 使定居"
-          },
-          {
-            "word": "forest",
-            "form": "for",
-            "phonetic": "/ˈfɒrɪst/",
-            "meaning": "森林"
           },
           {
             "word": "official",
@@ -2170,12 +2152,6 @@ const ENGLISH_DATA = {
             "meaning": "v. 阻止；使气馁 / vt. 使泄气， 使失去信心； 阻碍"
           },
           {
-            "word": "shower",
-            "form": "show",
-            "phonetic": "/ˈʃaʊə(r)/",
-            "meaning": "淋浴；阵雨"
-          },
-          {
             "word": "lump",
             "form": "lump",
             "phonetic": "",
@@ -2186,6 +2162,30 @@ const ENGLISH_DATA = {
             "form": "manufacturing",
             "phonetic": "",
             "meaning": "制造"
+          },
+          {
+            "word": "service",
+            "form": "services",
+            "phonetic": "",
+            "meaning": "服务；维修"
+          },
+          {
+            "word": "average",
+            "form": "average",
+            "phonetic": "/「aevarId3/",
+            "meaning": "平均数；三个数的平均数是；一般水平"
+          },
+          {
+            "word": "somewhat",
+            "form": "somewhat",
+            "phonetic": "/ˈsʌmwɒt/",
+            "meaning": "稍微；有点"
+          },
+          {
+            "word": "decade",
+            "form": "decade",
+            "phonetic": "",
+            "meaning": "n. 十年，十年期；十 / n. 十年"
           }
         ],
         "phrases": [
@@ -2273,12 +2273,6 @@ const ENGLISH_DATA = {
             "meaning": "科学；理科"
           },
           {
-            "word": "hasty",
-            "form": "has",
-            "phonetic": "/「hersti/",
-            "meaning": "匆忙的"
-          },
-          {
             "word": "relationship",
             "form": "relationship",
             "phonetic": "",
@@ -2295,12 +2289,6 @@ const ENGLISH_DATA = {
             "form": "trial",
             "phonetic": "/ˈtraɪəl/",
             "meaning": "审判；试验"
-          },
-          {
-            "word": "forest",
-            "form": "for",
-            "phonetic": "/ˈfɒrɪst/",
-            "meaning": "森林"
           },
           {
             "word": "rebel",
@@ -2337,6 +2325,18 @@ const ENGLISH_DATA = {
             "form": "community",
             "phonetic": "",
             "meaning": "n. 社区；团体 / n. 社区；[生态] 群落；共同体；团体 / n. 同一地区的全体居民； 社会， 社区 <；共同体"
+          },
+          {
+            "word": "powerful",
+            "form": "powerful",
+            "phonetic": "/ˈpaʊəfl/",
+            "meaning": "强大的；有力的"
+          },
+          {
+            "word": "afford",
+            "form": "afford",
+            "phonetic": "/arfrid/",
+            "meaning": "担负得起；供给"
           }
         ],
         "phrases": [
@@ -2486,18 +2486,6 @@ const ENGLISH_DATA = {
             "meaning": "图片；描绘"
           },
           {
-            "word": "national",
-            "form": "nation",
-            "phonetic": "",
-            "meaning": "adj. 国家的；国民的；民族的；国立的 n. 国民"
-          },
-          {
-            "word": "region",
-            "form": "regional",
-            "phonetic": "",
-            "meaning": "n. 地区；范围；部位 / n. 地区， 区域， 范围"
-          },
-          {
             "word": "competition",
             "form": "competition",
             "phonetic": "",
@@ -2528,22 +2516,34 @@ const ENGLISH_DATA = {
             "meaning": "adj. 坚强的；强壮的；牢固的；擅长的 adv. 强劲地；猛烈地 n. (Strong)人名；(英)斯特朗"
           },
           {
-            "word": "forest",
-            "form": "for",
-            "phonetic": "/ˈfɒrɪst/",
-            "meaning": "森林"
-          },
-          {
-            "word": "political",
-            "form": "politics",
-            "phonetic": "/pahHtug/",
-            "meaning": "政治的"
-          },
-          {
             "word": "economy",
             "form": "economy",
             "phonetic": "",
             "meaning": "n. 经济；节约 / n. 经济；节约；理财 / n. 节约；经济"
+          },
+          {
+            "word": "ahead",
+            "form": "ahead",
+            "phonetic": "",
+            "meaning": "在前"
+          },
+          {
+            "word": "south",
+            "form": "South",
+            "phonetic": "",
+            "meaning": "n. 南方，南边；南部 adv. 在南方，向南方 adj. 南的，南方的"
+          },
+          {
+            "word": "mostly",
+            "form": "most",
+            "phonetic": "",
+            "meaning": "adv. 主要地， 大部分， 通常"
+          },
+          {
+            "word": "dense",
+            "form": "densely",
+            "phonetic": "/dens/",
+            "meaning": "密集的"
           }
         ],
         "phrases": [
@@ -2658,28 +2658,10 @@ const ENGLISH_DATA = {
             "meaning": "n. 安全；保险；安全设备；保险装置；安打"
           },
           {
-            "word": "notify",
-            "form": "not",
-            "phonetic": "",
-            "meaning": "v. 通告，通知；公布 / vt. 通知， 告知； 报告"
-          },
-          {
-            "word": "justify",
-            "form": "just",
-            "phonetic": "",
-            "meaning": "v. 证明合法；整理版面 / vt. 证明…是正当的， 认为有理"
-          },
-          {
             "word": "company",
             "form": "Companies",
             "phonetic": "/「kAmpani/",
             "meaning": "公司"
-          },
-          {
-            "word": "low",
-            "form": "low",
-            "phonetic": "",
-            "meaning": "低的"
           },
           {
             "word": "accident",
@@ -2688,22 +2670,10 @@ const ENGLISH_DATA = {
             "meaning": "他们彻底调查了这起意外事件的原因"
           },
           {
-            "word": "rat",
+            "word": "rate",
             "form": "rates",
-            "phonetic": "/ræt/",
-            "meaning": "老鼠"
-          },
-          {
-            "word": "hardship",
-            "form": "hard",
-            "phonetic": "/ˈhɑːdʃɪp/",
-            "meaning": "艰难；困苦"
-          },
-          {
-            "word": "to",
-            "form": "to",
             "phonetic": "",
-            "meaning": "科学家"
+            "meaning": "比率；等级"
           },
           {
             "word": "organize",
@@ -2716,6 +2686,36 @@ const ENGLISH_DATA = {
             "form": "continue",
             "phonetic": "",
             "meaning": "连续"
+          },
+          {
+            "word": "operation",
+            "form": "operations",
+            "phonetic": "",
+            "meaning": "n. 操作；经营；[外科] 手术；[数][计] 运算"
+          },
+          {
+            "word": "establish",
+            "form": "established",
+            "phonetic": "",
+            "meaning": "v. 建立；创办；安置 / vt. 建立， 设立；安置， 使定居"
+          },
+          {
+            "word": "time",
+            "form": "time",
+            "phonetic": "/taɪm/",
+            "meaning": "时间；时代；次数"
+          },
+          {
+            "word": "injury",
+            "form": "injuries",
+            "phonetic": "",
+            "meaning": "n. 损伤， 损害， 毁坏"
+          },
+          {
+            "word": "minimum",
+            "form": "minimum",
+            "phonetic": "",
+            "meaning": "n. 最小值；最低限度；最小化；最小量 adj. 最小的；最低的 / adj. 最小的， 最低的 n. 最小值， 最低限度 A"
           }
         ],
         "phrases": [
@@ -2797,10 +2797,10 @@ const ENGLISH_DATA = {
       "vocab": {
         "words": [
           {
-            "word": "outer",
+            "word": "outing",
             "form": "out",
-            "phonetic": "",
-            "meaning": "adj. 外面的，外部的；远离中心的 n. 环外命中 / adj. 外部的， 外面的， 外层的"
+            "phonetic": "/ˈaʊtɪŋ/",
+            "meaning": "远足；外出"
           },
           {
             "word": "step",
@@ -2833,24 +2833,6 @@ const ENGLISH_DATA = {
             "meaning": "光"
           },
           {
-            "word": "failure",
-            "form": "failed",
-            "phonetic": "",
-            "meaning": "n. 失败；故障；失败者；破产 / n. 失败； 不及格 <；失败者 A；故障， 失灵；未能"
-          },
-          {
-            "word": "to",
-            "form": "to",
-            "phonetic": "",
-            "meaning": "科学家"
-          },
-          {
-            "word": "comment",
-            "form": "coming",
-            "phonetic": "",
-            "meaning": "v. 注释； 评论 n. 注释； 评论； 意见"
-          },
-          {
             "word": "successful",
             "form": "successful",
             "phonetic": "/səkˈsesfl/",
@@ -2863,10 +2845,28 @@ const ENGLISH_DATA = {
             "meaning": "v. (for)补偿；赔偿 / v. 补偿，赔偿；抵消 / v. 补偿， 赔偿， 弥补"
           },
           {
-            "word": "forest",
-            "form": "for",
-            "phonetic": "/ˈfɒrɪst/",
-            "meaning": "森林"
+            "word": "trouble",
+            "form": "troubles",
+            "phonetic": "",
+            "meaning": "n. 麻烦；烦恼；故障；动乱 v. 麻烦；使烦恼；折磨"
+          },
+          {
+            "word": "jury",
+            "form": "juries",
+            "phonetic": "",
+            "meaning": "n. [法] 陪审团；评判委员会 adj. 应急的 / n. 陪审团"
+          },
+          {
+            "word": "company",
+            "form": "companies",
+            "phonetic": "/「kAmpani/",
+            "meaning": "公司"
+          },
+          {
+            "word": "liable",
+            "form": "liable",
+            "phonetic": "",
+            "meaning": "负有"
           }
         ],
         "phrases": [
@@ -2946,22 +2946,10 @@ const ENGLISH_DATA = {
             "meaning": "adv. 主要地， 大部分， 通常"
           },
           {
-            "word": "hasty",
-            "form": "has",
-            "phonetic": "/「hersti/",
-            "meaning": "匆忙的"
-          },
-          {
             "word": "effort",
             "form": "efforts",
             "phonetic": "",
             "meaning": "n. 努力；成就"
-          },
-          {
-            "word": "to",
-            "form": "to",
-            "phonetic": "",
-            "meaning": "科学家"
           },
           {
             "word": "tap",
@@ -2974,12 +2962,6 @@ const ENGLISH_DATA = {
             "form": "market",
             "phonetic": "",
             "meaning": "n. 集市,市场；销路,需求(量) v. 销售"
-          },
-          {
-            "word": "being",
-            "form": "be",
-            "phonetic": "",
-            "meaning": "n. 生物；存在， 生存"
           },
           {
             "word": "fashion",
@@ -3006,10 +2988,28 @@ const ENGLISH_DATA = {
             "meaning": "服务；维修"
           },
           {
-            "word": "forest",
-            "form": "for",
-            "phonetic": "/ˈfɒrɪst/",
-            "meaning": "森林"
+            "word": "nonetheless",
+            "form": "Nonetheless",
+            "phonetic": "",
+            "meaning": "adv. 尽管如此，但是 / conj. /"
+          },
+          {
+            "word": "doubt",
+            "form": "doubts",
+            "phonetic": "",
+            "meaning": "n. 怀疑；疑问；疑惑 v. 怀疑；不信；恐怕；拿不准"
+          },
+          {
+            "word": "feeling",
+            "form": "feel",
+            "phonetic": "",
+            "meaning": "n. 感觉，触觉；感情，情绪；同情 adj. 有感觉的；有同情心的；富于感情的 v. 感觉；认为（feel的现在分词）；触摸"
+          },
+          {
+            "word": "trust",
+            "form": "trust",
+            "phonetic": "/trAst/",
+            "meaning": "信任"
           }
         ],
         "phrases": [
@@ -3101,12 +3101,6 @@ const ENGLISH_DATA = {
             "meaning": "划分；分开；除"
           },
           {
-            "word": "forest",
-            "form": "for",
-            "phonetic": "/ˈfɒrɪst/",
-            "meaning": "森林"
-          },
-          {
             "word": "classroom",
             "form": "classroom",
             "phonetic": "",
@@ -3125,22 +3119,10 @@ const ENGLISH_DATA = {
             "meaning": "职业；事业"
           },
           {
-            "word": "education",
-            "form": "educational",
-            "phonetic": "",
-            "meaning": "n. 教育,培养"
-          },
-          {
             "word": "reform",
             "form": "reform",
             "phonetic": "",
             "meaning": "改革"
-          },
-          {
-            "word": "very",
-            "form": "Very",
-            "phonetic": "",
-            "meaning": "adv. 很，非常；完全 adj. 同一的，正是的，恰好的"
           },
           {
             "word": "subject",
@@ -3153,6 +3135,24 @@ const ENGLISH_DATA = {
             "form": "explored",
             "phonetic": "",
             "meaning": "v. 探索；探测；探险 / v. 勘探， 探究， 探索 A"
+          },
+          {
+            "word": "distinction",
+            "form": "distinction",
+            "phonetic": "",
+            "meaning": "n. 区别；差别；特性；荣誉、勋章 / n. 差别， 区分"
+          },
+          {
+            "word": "wrong",
+            "form": "wrong",
+            "phonetic": "",
+            "meaning": "adv. 错误地；邪恶地，不正当地 n. 坏事；不公正 adj. 错误的；失常的；不适当的 v. 委屈；无理地对待；诽谤"
+          },
+          {
+            "word": "education",
+            "form": "education",
+            "phonetic": "",
+            "meaning": "n. 教育,培养"
           }
         ],
         "phrases": []
@@ -3339,10 +3339,10 @@ const ENGLISH_DATA = {
             "meaning": "v. 反对,使对立,使对抗,使相对 / v. 反对；对抗，抗争 / vt. 反对， 反抗 <"
           },
           {
-            "word": "to",
-            "form": "to",
+            "word": "technique",
+            "form": "technique",
             "phonetic": "",
-            "meaning": "科学家"
+            "meaning": "n. 技巧，手艺，工艺；技能，技术 / n. 技巧，技术；手法"
           }
         ],
         "phrases": [
@@ -3451,12 +3451,6 @@ const ENGLISH_DATA = {
             "meaning": "农民；农场主"
           },
           {
-            "word": "to",
-            "form": "to",
-            "phonetic": "",
-            "meaning": "科学家"
-          },
-          {
             "word": "consumption",
             "form": "consumption",
             "phonetic": "",
@@ -3479,12 +3473,6 @@ const ENGLISH_DATA = {
             "form": "consuming",
             "phonetic": "",
             "meaning": "v. 消耗；消费；吃；喝 / v. 消耗，消费；使…著迷；挥霍 / vt. 消费， 消耗， 耗尽 <"
-          },
-          {
-            "word": "canal",
-            "form": "can",
-            "phonetic": "",
-            "meaning": "n. 运河；[地理] 水道；[建] 管道；灌溉水渠 v. 在…开凿运河 / n. 运河； 渠"
           },
           {
             "word": "continue",
@@ -3511,10 +3499,22 @@ const ENGLISH_DATA = {
             "meaning": "种子；播种"
           },
           {
-            "word": "forest",
-            "form": "for",
-            "phonetic": "/ˈfɒrɪst/",
-            "meaning": "森林"
+            "word": "insurance",
+            "form": "insurance",
+            "phonetic": "",
+            "meaning": "n. 保险；保险费；保险契约；赔偿金 / n. 保险， 保险费， 保险业"
+          },
+          {
+            "word": "effect",
+            "form": "effects",
+            "phonetic": "",
+            "meaning": "作用；绪果；效果"
+          },
+          {
+            "word": "commodity",
+            "form": "commodity",
+            "phonetic": "",
+            "meaning": "n. 商品 / n. 商品，货物；日用品 / n. 商品， 物品 <"
           }
         ],
         "phrases": [
@@ -3604,18 +3604,6 @@ const ENGLISH_DATA = {
             "meaning": "成功的"
           },
           {
-            "word": "canal",
-            "form": "can",
-            "phonetic": "",
-            "meaning": "n. 运河；[地理] 水道；[建] 管道；灌溉水渠 v. 在…开凿运河 / n. 运河； 渠"
-          },
-          {
-            "word": "being",
-            "form": "be",
-            "phonetic": "",
-            "meaning": "n. 生物；存在， 生存"
-          },
-          {
             "word": "dread",
             "form": "dreadful",
             "phonetic": "/「dredid/",
@@ -3634,10 +3622,10 @@ const ENGLISH_DATA = {
             "meaning": "适合的；固有的"
           },
           {
-            "word": "driver",
+            "word": "drive",
             "form": "driving",
             "phonetic": "",
-            "meaning": "n. 驾驶员；驱动程序；起子；传动器"
+            "meaning": "开"
           },
           {
             "word": "force",
@@ -3658,10 +3646,22 @@ const ENGLISH_DATA = {
             "meaning": "n. 状态， 情况；国， 州 vt. 陈述， 说明；规定"
           },
           {
-            "word": "justify",
-            "form": "just",
+            "word": "ending",
+            "form": "end",
+            "phonetic": "/「endig/",
+            "meaning": "结尾；结局"
+          },
+          {
+            "word": "market",
+            "form": "market",
             "phonetic": "",
-            "meaning": "v. 证明合法；整理版面 / vt. 证明…是正当的， 认为有理"
+            "meaning": "n. 集市,市场；销路,需求(量) v. 销售"
+          },
+          {
+            "word": "time",
+            "form": "times",
+            "phonetic": "/taɪm/",
+            "meaning": "时间；时代；次数"
           }
         ],
         "phrases": [
@@ -3747,22 +3747,10 @@ const ENGLISH_DATA = {
       "vocab": {
         "words": [
           {
-            "word": "being",
-            "form": "Being",
-            "phonetic": "",
-            "meaning": "n. 生物；存在， 生存"
-          },
-          {
             "word": "man",
             "form": "man",
             "phonetic": "/mæn/",
             "meaning": "男人；人类"
-          },
-          {
-            "word": "hasty",
-            "form": "has",
-            "phonetic": "/「hersti/",
-            "meaning": "匆忙的"
           },
           {
             "word": "dangerous",
@@ -3777,12 +3765,6 @@ const ENGLISH_DATA = {
             "meaning": "男性"
           },
           {
-            "word": "forest",
-            "form": "for",
-            "phonetic": "/ˈfɒrɪst/",
-            "meaning": "森林"
-          },
-          {
             "word": "female",
             "form": "females",
             "phonetic": "/ˈfiːmeɪl/",
@@ -3795,28 +3777,46 @@ const ENGLISH_DATA = {
             "meaning": "v. 滴；使降低；使终止；随口漏出 n. 滴；落下；空投；微量；滴剂"
           },
           {
-            "word": "to",
-            "form": "to",
-            "phonetic": "",
-            "meaning": "科学家"
-          },
-          {
-            "word": "great",
-            "form": "great",
-            "phonetic": "/sen「serJanl/",
-            "meaning": "这条消息引起很大的轰动"
-          },
-          {
-            "word": "university",
-            "form": "universal",
-            "phonetic": "/ˌjuːnɪˈvɜːsəti/",
-            "meaning": "大学"
-          },
-          {
             "word": "mortal",
             "form": "mortality",
             "phonetic": "",
             "meaning": "adj. 凡人的；致死的；终有一死的；不共戴天的 n. 人类，凡人 / adj. 致命的；终有一死的 A；你死我活的， 不共戴天的 n. 凡人"
+          },
+          {
+            "word": "means",
+            "form": "means",
+            "phonetic": "",
+            "meaning": "n. 方法， 手段"
+          },
+          {
+            "word": "time",
+            "form": "time",
+            "phonetic": "/taɪm/",
+            "meaning": "时间；时代；次数"
+          },
+          {
+            "word": "excess",
+            "form": "excess",
+            "phonetic": "",
+            "meaning": "adj. 过量的,额外的 n. 过多，过量 / n. 超过，超额；过度，过量；无节制 adj. 额外的，过量的；附加的 / adj. 过量的， 额外的 n. 过量， 过剩"
+          },
+          {
+            "word": "search",
+            "form": "searching",
+            "phonetic": "/sɜːtʃ/",
+            "meaning": "搜索；寻找"
+          },
+          {
+            "word": "mate",
+            "form": "mate",
+            "phonetic": "/meɪt/",
+            "meaning": "伙伴；配偶"
+          },
+          {
+            "word": "natural",
+            "form": "natural",
+            "phonetic": "/ˈnætʃrəl/",
+            "meaning": "自然的；天生的"
           }
         ],
         "phrases": [
@@ -3916,12 +3916,6 @@ const ENGLISH_DATA = {
             "meaning": "运动；移动"
           },
           {
-            "word": "artist",
-            "form": "art",
-            "phonetic": "/ˈɑːtɪst/",
-            "meaning": "艺术家；画家"
-          },
-          {
             "word": "certain",
             "form": "certain",
             "phonetic": "",
@@ -3940,22 +3934,16 @@ const ENGLISH_DATA = {
             "meaning": "可取的"
           },
           {
-            "word": "to",
-            "form": "to",
-            "phonetic": "",
-            "meaning": "科学家"
-          },
-          {
             "word": "finding",
             "form": "find",
             "phonetic": "",
             "meaning": "n. 发现；裁决；发现物 v. 找到；感到（find的ing形式）；遇到 / n. 发现， 发现物"
           },
           {
-            "word": "outer",
+            "word": "outing",
             "form": "out",
-            "phonetic": "",
-            "meaning": "adj. 外面的，外部的；远离中心的 n. 环外命中 / adj. 外部的， 外面的， 外层的"
+            "phonetic": "/ˈaʊtɪŋ/",
+            "meaning": "远足；外出"
           },
           {
             "word": "aim",
@@ -3964,22 +3952,34 @@ const ENGLISH_DATA = {
             "meaning": "目的在于"
           },
           {
-            "word": "forest",
-            "form": "for",
-            "phonetic": "/ˈfɒrɪst/",
-            "meaning": "森林"
-          },
-          {
             "word": "principle",
             "form": "principles",
             "phonetic": "/prmsapl/",
             "meaning": "原理"
           },
           {
-            "word": "being",
-            "form": "be",
+            "word": "regard",
+            "form": "regarded",
             "phonetic": "",
-            "meaning": "n. 生物；存在， 生存"
+            "meaning": "n. 注意；尊重；问候；凝视 v. 注重，考虑；看待；尊敬；把…看作；与…有关"
+          },
+          {
+            "word": "normal",
+            "form": "normal",
+            "phonetic": "",
+            "meaning": "adj. 正常的；正规的，标准的 n. 正常；标准；常态"
+          },
+          {
+            "word": "poetry",
+            "form": "poetry",
+            "phonetic": "/「pauetri/",
+            "meaning": "诗歌；诗集"
+          },
+          {
+            "word": "difficult",
+            "form": "difficult",
+            "phonetic": "/「drtfikalt/",
+            "meaning": "困难的；费力的；不友好的；难相处的；难对付的"
           }
         ],
         "phrases": [
@@ -4109,18 +4109,6 @@ const ENGLISH_DATA = {
       "vocab": {
         "words": [
           {
-            "word": "hasty",
-            "form": "has",
-            "phonetic": "/「hersti/",
-            "meaning": "匆忙的"
-          },
-          {
-            "word": "hardship",
-            "form": "hardly",
-            "phonetic": "/ˈhɑːdʃɪp/",
-            "meaning": "艰难；困苦"
-          },
-          {
             "word": "social",
             "form": "social",
             "phonetic": "/ˈsəʊʃl/",
@@ -4169,16 +4157,28 @@ const ENGLISH_DATA = {
             "meaning": "v. 锯， 锯开 n. 锯子； 锯床"
           },
           {
-            "word": "forest",
-            "form": "for",
-            "phonetic": "/ˈfɒrɪst/",
-            "meaning": "森林"
+            "word": "largely",
+            "form": "largely",
+            "phonetic": "",
+            "meaning": "adv. 主要地；大部分；大量地 / adv. 主要地， 基本上；大量地， 大规模地"
           },
           {
-            "word": "being",
-            "form": "being",
-            "phonetic": "",
-            "meaning": "n. 生物；存在， 生存"
+            "word": "economics",
+            "form": "economic",
+            "phonetic": "/,irka「nomiks;eka-/",
+            "meaning": "经济学"
+          },
+          {
+            "word": "boom",
+            "form": "boom",
+            "phonetic": "/buzm/",
+            "meaning": "低沉有回响的声音；城镇等的"
+          },
+          {
+            "word": "entry",
+            "form": "entry",
+            "phonetic": "/ˈentri/",
+            "meaning": "进入；条目"
           }
         ],
         "phrases": [
@@ -4341,12 +4341,6 @@ const ENGLISH_DATA = {
             "meaning": "方向"
           },
           {
-            "word": "forest",
-            "form": "For",
-            "phonetic": "/ˈfɒrɪst/",
-            "meaning": "森林"
-          },
-          {
             "word": "blank",
             "form": "blank",
             "phonetic": "",
@@ -4377,12 +4371,6 @@ const ENGLISH_DATA = {
             "meaning": "n. 铅笔；笔状物 v. 用铅笔写；用眉笔涂"
           },
           {
-            "word": "to",
-            "form": "to",
-            "phonetic": "",
-            "meaning": "科学家"
-          },
-          {
             "word": "ban",
             "form": "ban",
             "phonetic": "/bsen/",
@@ -4399,6 +4387,18 @@ const ENGLISH_DATA = {
             "form": "newspapers",
             "phonetic": "",
             "meaning": "n. 报纸"
+          },
+          {
+            "word": "trial",
+            "form": "trial",
+            "phonetic": "/ˈtraɪəl/",
+            "meaning": "审判；试验"
+          },
+          {
+            "word": "west",
+            "form": "West",
+            "phonetic": "/west/",
+            "meaning": "西；西方；的；西部；的；向"
           }
         ],
         "phrases": []
@@ -4467,28 +4467,10 @@ const ENGLISH_DATA = {
       "vocab": {
         "words": [
           {
-            "word": "canal",
-            "form": "can",
-            "phonetic": "",
-            "meaning": "n. 运河；[地理] 水道；[建] 管道；灌溉水渠 v. 在…开凿运河 / n. 运河； 渠"
-          },
-          {
-            "word": "being",
-            "form": "be",
-            "phonetic": "",
-            "meaning": "n. 生物；存在， 生存"
-          },
-          {
             "word": "response",
             "form": "response",
             "phonetic": "",
             "meaning": "n. 响应；反应；回答 / n. 回答， 回音；反应， 响应"
-          },
-          {
-            "word": "to",
-            "form": "to",
-            "phonetic": "",
-            "meaning": "科学家"
           },
           {
             "word": "increase",
@@ -4537,6 +4519,24 @@ const ENGLISH_DATA = {
             "form": "man",
             "phonetic": "/mæn/",
             "meaning": "男人；人类"
+          },
+          {
+            "word": "continue",
+            "form": "continue",
+            "phonetic": "",
+            "meaning": "连续"
+          },
+          {
+            "word": "handle",
+            "form": "handle",
+            "phonetic": "",
+            "meaning": "n. 柄， 把手， 拉手 vt. 处理， 对待； 操纵 A；触， 摸"
+          },
+          {
+            "word": "information",
+            "form": "information",
+            "phonetic": "",
+            "meaning": "n. 情报,资料,消息;信息"
           }
         ],
         "phrases": [
@@ -4614,12 +4614,6 @@ const ENGLISH_DATA = {
       "vocab": {
         "words": [
           {
-            "word": "great",
-            "form": "great",
-            "phonetic": "/sen「serJanl/",
-            "meaning": "这条消息引起很大的轰动"
-          },
-          {
             "word": "deal",
             "form": "deal",
             "phonetic": "/diːl/",
@@ -4630,18 +4624,6 @@ const ENGLISH_DATA = {
             "form": "attention",
             "phonetic": "/əˈtenʃn/",
             "meaning": "注意；注意力"
-          },
-          {
-            "word": "being",
-            "form": "being",
-            "phonetic": "",
-            "meaning": "n. 生物；存在， 生存"
-          },
-          {
-            "word": "to",
-            "form": "to",
-            "phonetic": "",
-            "meaning": "科学家"
           },
           {
             "word": "call",
@@ -4684,6 +4666,24 @@ const ENGLISH_DATA = {
             "form": "exist",
             "phonetic": "",
             "meaning": "n. 存在，实在；生存，生活；存在物，实在物 / n. 存在， 实在；生存， 生活"
+          },
+          {
+            "word": "wife",
+            "form": "wife",
+            "phonetic": "",
+            "meaning": "训"
+          },
+          {
+            "word": "lecture",
+            "form": "lectured",
+            "phonetic": "/ˈlektʃə(r)/",
+            "meaning": "讲座；演讲"
+          },
+          {
+            "word": "loom",
+            "form": "looming",
+            "phonetic": "",
+            "meaning": "n. 织布机；若隐若现的景象 v. 可怕地出现；朦胧地出现；隐约可见 / vi. 隐现， 赫然耸现 n. 织布机"
           }
         ],
         "phrases": [
@@ -4765,12 +4765,6 @@ const ENGLISH_DATA = {
       "vocab": {
         "words": [
           {
-            "word": "reader",
-            "form": "read",
-            "phonetic": "/ˈriːdə(r)/",
-            "meaning": "读者；读本"
-          },
-          {
             "word": "newspaper",
             "form": "newspapers",
             "phonetic": "",
@@ -4781,12 +4775,6 @@ const ENGLISH_DATA = {
             "form": "Editors",
             "phonetic": "",
             "meaning": "n. 编者，编辑；社论撰写人；编辑装置 / n. 编辑， 编者"
-          },
-          {
-            "word": "to",
-            "form": "to",
-            "phonetic": "",
-            "meaning": "科学家"
           },
           {
             "word": "painful",
@@ -4813,28 +4801,40 @@ const ENGLISH_DATA = {
             "meaning": "分析"
           },
           {
-            "word": "journal",
-            "form": "journalism",
-            "phonetic": "",
-            "meaning": "n. 日报，杂志；日记；分类账 / n. 定期刊物， 杂志， 日报；日志， 日记"
-          },
-          {
             "word": "sad",
             "form": "Sad",
             "phonetic": "",
             "meaning": "adj. 难过的；悲哀的，令人悲痛的；凄惨的，阴郁的（形容颜色）"
           },
           {
-            "word": "hasty",
-            "form": "has",
-            "phonetic": "/「hersti/",
-            "meaning": "匆忙的"
-          },
-          {
             "word": "turn",
             "form": "turned",
             "phonetic": "/tɜːn/",
             "meaning": "转动；转向；轮流"
+          },
+          {
+            "word": "outing",
+            "form": "out",
+            "phonetic": "/ˈaʊtɪŋ/",
+            "meaning": "远足；外出"
+          },
+          {
+            "word": "mostly",
+            "form": "mostly",
+            "phonetic": "",
+            "meaning": "adv. 主要地， 大部分， 通常"
+          },
+          {
+            "word": "level",
+            "form": "level",
+            "phonetic": "",
+            "meaning": "数量"
+          },
+          {
+            "word": "finding",
+            "form": "findings",
+            "phonetic": "",
+            "meaning": "n. 发现；裁决；发现物 v. 找到；感到（find的ing形式）；遇到 / n. 发现， 发现物"
           }
         ],
         "phrases": [
@@ -4970,12 +4970,6 @@ const ENGLISH_DATA = {
             "meaning": "证人；目击"
           },
           {
-            "word": "to",
-            "form": "to",
-            "phonetic": "",
-            "meaning": "科学家"
-          },
-          {
             "word": "country",
             "form": "countries",
             "phonetic": "",
@@ -5012,12 +5006,6 @@ const ENGLISH_DATA = {
             "meaning": "公司；企业"
           },
           {
-            "word": "forest",
-            "form": "for",
-            "phonetic": "/ˈfɒrɪst/",
-            "meaning": "森林"
-          },
-          {
             "word": "international",
             "form": "international",
             "phonetic": "/ˌɪntəˈnæʃnəl/",
@@ -5034,6 +5022,18 @@ const ENGLISH_DATA = {
             "form": "figure",
             "phonetic": "",
             "meaning": "n. 数字；人物；图形；价格；（人的）体形；画像 v. 计算；出现；扮演角色"
+          },
+          {
+            "word": "fasten",
+            "form": "fast",
+            "phonetic": "",
+            "meaning": "v. 使固定；集中于；扎牢；强加于 n. (Fasten)人名；(英)法森 / vt. 扎牢， 使固定"
+          },
+          {
+            "word": "segment",
+            "form": "segment",
+            "phonetic": "",
+            "meaning": "v. 分割 n. 段；部分 / n. 段； 片； 节；部分"
           }
         ],
         "phrases": [
@@ -5202,12 +5202,6 @@ const ENGLISH_DATA = {
             "meaning": "印刷；打印"
           },
           {
-            "word": "notify",
-            "form": "not",
-            "phonetic": "",
-            "meaning": "v. 通告，通知；公布 / vt. 通知， 告知； 报告"
-          },
-          {
             "word": "newspaper",
             "form": "newspaper",
             "phonetic": "",
@@ -5250,10 +5244,16 @@ const ENGLISH_DATA = {
             "meaning": "期刊；定期的"
           },
           {
-            "word": "durable",
-            "form": "during",
-            "phonetic": "/「diuarabl/",
-            "meaning": "耐用的；持久的"
+            "word": "time",
+            "form": "time",
+            "phonetic": "/taɪm/",
+            "meaning": "时间；时代；次数"
+          },
+          {
+            "word": "communication",
+            "form": "communications",
+            "phonetic": "",
+            "meaning": "n. 通讯,沟通;(pl.)通讯系统 / n. 通讯，[通信] 通信；交流；信函 / n. 通讯； 传达； 传送； 交流"
           }
         ],
         "phrases": [
@@ -5354,12 +5354,6 @@ const ENGLISH_DATA = {
             "meaning": "v. 想要； 打算， 企图"
           },
           {
-            "word": "to",
-            "form": "to",
-            "phonetic": "",
-            "meaning": "科学家"
-          },
-          {
             "word": "smile",
             "form": "smile",
             "phonetic": "",
@@ -5378,22 +5372,10 @@ const ENGLISH_DATA = {
             "meaning": "经验；经历"
           },
           {
-            "word": "being",
-            "form": "be",
-            "phonetic": "",
-            "meaning": "n. 生物；存在， 生存"
-          },
-          {
             "word": "helpful",
             "form": "help",
             "phonetic": "/rhelpf/",
             "meaning": "有帮助的"
-          },
-          {
-            "word": "shower",
-            "form": "show",
-            "phonetic": "/ˈʃaʊə(r)/",
-            "meaning": "淋浴；阵雨"
           },
           {
             "word": "situation",
@@ -5418,6 +5400,24 @@ const ENGLISH_DATA = {
             "form": "Depending",
             "phonetic": "",
             "meaning": "v. 依赖，依靠；取决于；相信，信赖"
+          },
+          {
+            "word": "address",
+            "form": "addressing",
+            "phonetic": "/a「dres/",
+            "meaning": "v. 演说；从事；忙于；写姓名地址；向…致辞；与…说话；提出；处理 n. 地址；演讲；致辞；说话的技巧；称呼"
+          },
+          {
+            "word": "manager",
+            "form": "managers",
+            "phonetic": "/ˈmænɪdʒə(r)/",
+            "meaning": "经理；管理者"
+          },
+          {
+            "word": "method",
+            "form": "methods",
+            "phonetic": "",
+            "meaning": "n. 方法,办法 / n. 方法；条理；类函数 adj. 使用体验派表演方法的"
           }
         ],
         "phrases": [
@@ -5534,12 +5534,6 @@ const ENGLISH_DATA = {
             "meaning": "狡猾的；灵巧的"
           },
           {
-            "word": "to",
-            "form": "to",
-            "phonetic": "",
-            "meaning": "科学家"
-          },
-          {
             "word": "cope",
             "form": "cope",
             "phonetic": "",
@@ -5558,22 +5552,10 @@ const ENGLISH_DATA = {
             "meaning": "v. 钻孔 n. 孔；令人讨厌的人 / v. 钻， 挖， 打眼， 钻探；烦扰， 使厌烦 n. 讨厌的人； 麻烦事"
           },
           {
-            "word": "justify",
-            "form": "just",
-            "phonetic": "",
-            "meaning": "v. 证明合法；整理版面 / vt. 证明…是正当的， 认为有理"
-          },
-          {
             "word": "nasty",
             "form": "nasty",
             "phonetic": "/ˈnɑːsti/",
             "meaning": "令人讨厌的；下流的"
-          },
-          {
-            "word": "hasty",
-            "form": "has",
-            "phonetic": "/「hersti/",
-            "meaning": "匆忙的"
           },
           {
             "word": "result",
@@ -5586,6 +5568,24 @@ const ENGLISH_DATA = {
             "form": "science",
             "phonetic": "/ˈsaɪəns/",
             "meaning": "科学；理科"
+          },
+          {
+            "word": "confer",
+            "form": "conferring",
+            "phonetic": "",
+            "meaning": "v. 授予；给予 n. (Confer)人名；(英)康弗 / vi. 商谈， 商议 vt. 授予， 赋予"
+          },
+          {
+            "word": "variable",
+            "form": "various",
+            "phonetic": "/ˈveəriəbl/",
+            "meaning": "变量；可变的"
+          },
+          {
+            "word": "scientist",
+            "form": "scientists",
+            "phonetic": "",
+            "meaning": "n. 科学家"
           }
         ],
         "phrases": [
@@ -5684,22 +5684,10 @@ const ENGLISH_DATA = {
       "vocab": {
         "words": [
           {
-            "word": "economical",
+            "word": "economics",
             "form": "economic",
-            "phonetic": "/ˌiːkəˈnɒmɪkl/",
-            "meaning": "经济的；节俭的"
-          },
-          {
-            "word": "being",
-            "form": "be",
-            "phonetic": "",
-            "meaning": "n. 生物；存在， 生存"
-          },
-          {
-            "word": "to",
-            "form": "to",
-            "phonetic": "",
-            "meaning": "科学家"
+            "phonetic": "/,irka「nomiks;eka-/",
+            "meaning": "经济学"
           },
           {
             "word": "return",
@@ -5738,12 +5726,6 @@ const ENGLISH_DATA = {
             "meaning": "油；石油；给；加润滑油；涂油；上油"
           },
           {
-            "word": "hasty",
-            "form": "has",
-            "phonetic": "/「hersti/",
-            "meaning": "匆忙的"
-          },
-          {
             "word": "barrel",
             "form": "barrel",
             "phonetic": "/ˈbærəl/",
@@ -5754,6 +5736,24 @@ const ENGLISH_DATA = {
             "form": "December",
             "phonetic": "/dɪˈsembə(r)/",
             "meaning": "十二月"
+          },
+          {
+            "word": "call",
+            "form": "calls",
+            "phonetic": "",
+            "meaning": "v. 叫，喊；打电话；把…叫作；叫，喊 n. 叫声；号召"
+          },
+          {
+            "word": "memory",
+            "form": "memories",
+            "phonetic": "/ˈmeməri/",
+            "meaning": "记忆；回忆"
+          },
+          {
+            "word": "shock",
+            "form": "shock",
+            "phonetic": "/Jokm/",
+            "meaning": "震动；休克"
           }
         ],
         "phrases": [
@@ -5868,22 +5868,10 @@ const ENGLISH_DATA = {
             "meaning": "n. 自杀 / n. 自杀；自杀行为；自杀者 adj. 自杀的 vt. 自杀 vi. 自杀 / n. 自杀； 自取灭亡"
           },
           {
-            "word": "forest",
-            "form": "for",
-            "phonetic": "/ˈfɒrɪst/",
-            "meaning": "森林"
-          },
-          {
             "word": "medicine",
             "form": "medicine",
             "phonetic": "/「medsn;-drsn/",
             "meaning": "内服药"
-          },
-          {
-            "word": "to",
-            "form": "to",
-            "phonetic": "",
-            "meaning": "科学家"
           },
           {
             "word": "relieve",
@@ -5904,16 +5892,28 @@ const ENGLISH_DATA = {
             "meaning": "受痛苦；遮受；忍受"
           },
           {
-            "word": "ruler",
-            "form": "ruled",
-            "phonetic": "/ˈruːlə(r)/",
-            "meaning": "尺子；统治者"
+            "word": "court",
+            "form": "Court",
+            "phonetic": "/hkoxt/",
+            "meaning": "法院"
           },
           {
-            "word": "constitution",
-            "form": "constitutional",
+            "word": "effect",
+            "form": "effect",
             "phonetic": "",
-            "meaning": "n. 宪法；体制；章程；构造；建立，组成；体格 / n. 构成， 构造， 成分；体格， 体质；宪法"
+            "meaning": "作用；绪果；效果"
+          },
+          {
+            "word": "support",
+            "form": "supported",
+            "phonetic": "",
+            "meaning": "支撑；供养"
+          },
+          {
+            "word": "medical",
+            "form": "medical",
+            "phonetic": "/「medukH/",
+            "meaning": "医学的"
           }
         ],
         "phrases": [
@@ -6078,24 +6078,6 @@ const ENGLISH_DATA = {
             "meaning": "n. 教师；导师"
           },
           {
-            "word": "to",
-            "form": "to",
-            "phonetic": "",
-            "meaning": "科学家"
-          },
-          {
-            "word": "being",
-            "form": "be",
-            "phonetic": "",
-            "meaning": "n. 生物；存在， 生存"
-          },
-          {
-            "word": "emotion",
-            "form": "emotional",
-            "phonetic": "",
-            "meaning": "n. 情绪,情感,感情 / n. 情感；情绪 / n. 情绪； 情感"
-          },
-          {
             "word": "intellectual",
             "form": "intellectual",
             "phonetic": "",
@@ -6120,28 +6102,46 @@ const ENGLISH_DATA = {
             "meaning": "经验；经历"
           },
           {
-            "word": "serial",
-            "form": "serious",
-            "phonetic": "/「stariolaz/",
-            "meaning": "连续的"
-          },
-          {
-            "word": "canal",
-            "form": "can",
-            "phonetic": "",
-            "meaning": "n. 运河；[地理] 水道；[建] 管道；灌溉水渠 v. 在…开凿运河 / n. 运河； 渠"
-          },
-          {
             "word": "movement",
             "form": "movement",
             "phonetic": "/ˈmuːvmənt/",
             "meaning": "运动；移动"
           },
           {
-            "word": "notify",
-            "form": "not",
+            "word": "competition",
+            "form": "competition",
             "phonetic": "",
-            "meaning": "v. 通告，通知；公布 / vt. 通知， 告知； 报告"
+            "meaning": "n. 竞争；比赛，竞赛 / n. 竞争；比赛，竞赛"
+          },
+          {
+            "word": "host",
+            "form": "host",
+            "phonetic": "",
+            "meaning": "主人；一大群"
+          },
+          {
+            "word": "challenge",
+            "form": "challenges",
+            "phonetic": "",
+            "meaning": "n. 挑战； 艰巨任务 vt. 向…挑战"
+          },
+          {
+            "word": "teenager",
+            "form": "teenagers",
+            "phonetic": "",
+            "meaning": "n. 十几岁的青少年；十三岁到十九岁的少年 / n. 青少年"
+          },
+          {
+            "word": "especially",
+            "form": "especially",
+            "phonetic": "",
+            "meaning": "adv. 尤其；特别，格外；专门地，主要地"
+          },
+          {
+            "word": "conscious",
+            "form": "conscious",
+            "phonetic": "",
+            "meaning": "adj. 意识到的；故意的；神志清醒的 / adj. 意识到的， 自觉的； 有意识的"
           }
         ],
         "phrases": [
@@ -6225,12 +6225,6 @@ const ENGLISH_DATA = {
             "meaning": "野性的"
           },
           {
-            "word": "lover",
-            "form": "loved",
-            "phonetic": "/ˈlʌvə(r)/",
-            "meaning": "情人；爱好者"
-          },
-          {
             "word": "office",
             "form": "Office",
             "phonetic": "",
@@ -6243,22 +6237,10 @@ const ENGLISH_DATA = {
             "meaning": "服务；维修"
           },
           {
-            "word": "lateral",
-            "form": "later",
-            "phonetic": "",
-            "meaning": "adj. 侧面的，横向的 n. 侧部；[语] 边音 vt. 横向传球 / adj. 侧面的； 旁边的"
-          },
-          {
             "word": "root",
             "form": "roots",
             "phonetic": "",
             "meaning": "根"
-          },
-          {
-            "word": "forest",
-            "form": "for",
-            "phonetic": "/ˈfɒrɪst/",
-            "meaning": "森林"
           },
           {
             "word": "fascinate",
@@ -6273,22 +6255,40 @@ const ENGLISH_DATA = {
             "meaning": "n. 情报,资料,消息;信息"
           },
           {
-            "word": "to",
-            "form": "to",
-            "phonetic": "",
-            "meaning": "科学家"
-          },
-          {
             "word": "handful",
             "form": "hand",
             "phonetic": "",
             "meaning": "一把"
           },
           {
-            "word": "great",
-            "form": "great",
-            "phonetic": "/sen「serJanl/",
-            "meaning": "这条消息引起很大的轰动"
+            "word": "everyday",
+            "form": "everyday",
+            "phonetic": "",
+            "meaning": "adj. 每天的，日常的 n. 平时；寻常日子"
+          },
+          {
+            "word": "pastime",
+            "form": "pastimes",
+            "phonetic": "/「parstatm/",
+            "meaning": "娱乐"
+          },
+          {
+            "word": "simply",
+            "form": "simply",
+            "phonetic": "/ˈsɪmpli/",
+            "meaning": "仅仅；简单地"
+          },
+          {
+            "word": "matter",
+            "form": "matter",
+            "phonetic": "",
+            "meaning": "n. 物质；事件 v. 有关系；要紧"
+          },
+          {
+            "word": "kindness",
+            "form": "kind",
+            "phonetic": "",
+            "meaning": "仁憎；好意；友好行为"
           }
         ],
         "phrases": []
@@ -6370,12 +6370,6 @@ const ENGLISH_DATA = {
       "vocab": {
         "words": [
           {
-            "word": "to",
-            "form": "To",
-            "phonetic": "",
-            "meaning": "科学家"
-          },
-          {
             "word": "century",
             "form": "century",
             "phonetic": "/ˈsentʃəri/",
@@ -6386,12 +6380,6 @@ const ENGLISH_DATA = {
             "form": "statesman",
             "phonetic": "",
             "meaning": "n. 政治家,国务活动家 / n. 政治家；国务活动家 / n. 政治家， 国务活动家"
-          },
-          {
-            "word": "forest",
-            "form": "for",
-            "phonetic": "/ˈfɒrɪst/",
-            "meaning": "森林"
           },
           {
             "word": "triumph",
@@ -6418,16 +6406,10 @@ const ENGLISH_DATA = {
             "meaning": "n. 理论； 原理； 学说；见解， 看法"
           },
           {
-            "word": "ruler",
-            "form": "ruling",
-            "phonetic": "/ˈruːlə(r)/",
-            "meaning": "尺子；统治者"
-          },
-          {
-            "word": "outer",
+            "word": "outing",
             "form": "out",
-            "phonetic": "",
-            "meaning": "adj. 外面的，外部的；远离中心的 n. 环外命中 / adj. 外部的， 外面的， 外层的"
+            "phonetic": "/ˈaʊtɪŋ/",
+            "meaning": "远足；外出"
           },
           {
             "word": "scientist",
@@ -6440,6 +6422,24 @@ const ENGLISH_DATA = {
             "form": "respond",
             "phonetic": "",
             "meaning": "v. 回答；作出反应；承担责任 n. 应答；唱和 / vi. 回答， 答复；响应"
+          },
+          {
+            "word": "confuse",
+            "form": "confusing",
+            "phonetic": "/kənˈfjuːz/",
+            "meaning": "使困惑；混淆"
+          },
+          {
+            "word": "thereby",
+            "form": "thereby",
+            "phonetic": "",
+            "meaning": "adv. 因此， 从而"
+          },
+          {
+            "word": "advanced",
+            "form": "advances",
+            "phonetic": "/od vamst/",
+            "meaning": "高级的"
           }
         ],
         "phrases": [
@@ -6544,12 +6544,6 @@ const ENGLISH_DATA = {
             "meaning": "n. 垄断；独占；专营 / n. 垄断；垄断者；专卖权 / n. 垄断， 专卖"
           },
           {
-            "word": "forest",
-            "form": "for",
-            "phonetic": "/ˈfɒrɪst/",
-            "meaning": "森林"
-          },
-          {
             "word": "total",
             "form": "total",
             "phonetic": "",
@@ -6566,12 +6560,6 @@ const ENGLISH_DATA = {
             "form": "moved",
             "phonetic": "",
             "meaning": "v. 移动；迁移；感动 n. 行动；移动,活动"
-          },
-          {
-            "word": "justify",
-            "form": "just",
-            "phonetic": "",
-            "meaning": "v. 证明合法；整理版面 / vt. 证明…是正当的， 认为有理"
           },
           {
             "word": "freight",
@@ -6608,6 +6596,18 @@ const ENGLISH_DATA = {
             "form": "coordinated",
             "phonetic": "",
             "meaning": "v. 协作，协调 / n. 坐标；同等的人或物 adj. 并列的；同等的 v. 调整；整合 / adj. 同等的； 并列的 A；坐标的 n. 坐标"
+          },
+          {
+            "word": "service",
+            "form": "service",
+            "phonetic": "",
+            "meaning": "服务；维修"
+          },
+          {
+            "word": "threat",
+            "form": "threat",
+            "phonetic": "/θret/",
+            "meaning": "威胁；恐吓"
           }
         ],
         "phrases": [
@@ -6712,12 +6712,6 @@ const ENGLISH_DATA = {
             "meaning": "adj. 极好的，精彩的，绝妙的；奇妙的；美妙；胜；神妙"
           },
           {
-            "word": "hasty",
-            "form": "has",
-            "phonetic": "/「hersti/",
-            "meaning": "匆忙的"
-          },
-          {
             "word": "past",
             "form": "past",
             "phonetic": "",
@@ -6730,28 +6724,10 @@ const ENGLISH_DATA = {
             "meaning": "世纪；百年"
           },
           {
-            "word": "failure",
-            "form": "Failing",
-            "phonetic": "",
-            "meaning": "n. 失败；故障；失败者；破产 / n. 失败； 不及格 <；失败者 A；故障， 失灵；未能"
-          },
-          {
             "word": "hip",
             "form": "hips",
             "phonetic": "/hrstorrion/",
             "meaning": "臂部"
-          },
-          {
-            "word": "canal",
-            "form": "can",
-            "phonetic": "",
-            "meaning": "n. 运河；[地理] 水道；[建] 管道；灌溉水渠 v. 在…开凿运河 / n. 运河； 渠"
-          },
-          {
-            "word": "being",
-            "form": "be",
-            "phonetic": "",
-            "meaning": "n. 生物；存在， 生存"
           },
           {
             "word": "replace",
@@ -6764,6 +6740,30 @@ const ENGLISH_DATA = {
             "form": "depression",
             "phonetic": "",
             "meaning": "v. 压抑；使沮丧；使萧条 / vt. 压抑； 降低； 削弱；使沮丧， 使抑郁"
+          },
+          {
+            "word": "remove",
+            "form": "removed",
+            "phonetic": "",
+            "meaning": "v. 移动；脱掉；免职 / v. 移动，迁移；开除；调动 n. 移动；距离；搬家"
+          },
+          {
+            "word": "advanced",
+            "form": "advances",
+            "phonetic": "/od vamst/",
+            "meaning": "高级的"
+          },
+          {
+            "word": "offer",
+            "form": "offer",
+            "phonetic": "/“「pfa(r)/",
+            "meaning": "提供"
+          },
+          {
+            "word": "population",
+            "form": "population",
+            "phonetic": "/ˌpɒpjuˈleɪʃn/",
+            "meaning": "人口；居民"
           }
         ],
         "phrases": [
@@ -6964,22 +6964,22 @@ const ENGLISH_DATA = {
             "meaning": "罪犯"
           },
           {
-            "word": "notify",
-            "form": "not",
-            "phonetic": "",
-            "meaning": "v. 通告，通知；公布 / vt. 通知， 告知； 报告"
-          },
-          {
             "word": "sufficient",
             "form": "sufficiently",
             "phonetic": "",
             "meaning": "adj. (for)足够的,充分的(比enough拘谨、正式) / adj. 足够的；充分的 / adj. 足够的， 充分的"
           },
           {
-            "word": "forest",
-            "form": "for",
-            "phonetic": "/ˈfɒrɪst/",
-            "meaning": "森林"
+            "word": "failure",
+            "form": "failure",
+            "phonetic": "",
+            "meaning": "n. 失败；故障；失败者；破产 / n. 失败； 不及格 <；失败者 A；故障， 失灵；未能"
+          },
+          {
+            "word": "rise",
+            "form": "rise",
+            "phonetic": "/raɪz/",
+            "meaning": "上升；升起"
           }
         ],
         "phrases": [
@@ -7070,12 +7070,6 @@ const ENGLISH_DATA = {
       "vocab": {
         "words": [
           {
-            "word": "forest",
-            "form": "for",
-            "phonetic": "/ˈfɒrɪst/",
-            "meaning": "森林"
-          },
-          {
             "word": "lawyer",
             "form": "lawyer",
             "phonetic": "/ˈlɔːjə(r)/",
@@ -7140,6 +7134,12 @@ const ENGLISH_DATA = {
             "form": "salary",
             "phonetic": "",
             "meaning": "vt. 给加薪；给薪水 n. 薪水 / n. 薪金， 薪水"
+          },
+          {
+            "word": "match",
+            "form": "matching",
+            "phonetic": "/meetJ/",
+            "meaning": "比赛；对手"
           }
         ],
         "phrases": [
@@ -7260,28 +7260,10 @@ const ENGLISH_DATA = {
             "meaning": "连续"
           },
           {
-            "word": "to",
-            "form": "to",
-            "phonetic": "",
-            "meaning": "科学家"
-          },
-          {
             "word": "thrive",
             "form": "thrive",
             "phonetic": "/θraɪv/",
             "meaning": "繁荣；茁壮成长"
-          },
-          {
-            "word": "alphabet",
-            "form": "alphabetism",
-            "phonetic": "/ralfspet/",
-            "meaning": "字母表"
-          },
-          {
-            "word": "forest",
-            "form": "for",
-            "phonetic": "/ˈfɒrɪst/",
-            "meaning": "森林"
           },
           {
             "word": "lower",
@@ -7290,16 +7272,34 @@ const ENGLISH_DATA = {
             "meaning": "较低的"
           },
           {
-            "word": "hasty",
-            "form": "has",
-            "phonetic": "/「hersti/",
-            "meaning": "匆忙的"
+            "word": "alphabet",
+            "form": "alphabet",
+            "phonetic": "/ralfspet/",
+            "meaning": "字母表"
           },
           {
             "word": "taxi",
             "form": "taxi",
             "phonetic": "",
             "meaning": "v. 乘出租车；滑行 n. 出租汽车"
+          },
+          {
+            "word": "firm",
+            "form": "firm",
+            "phonetic": "",
+            "meaning": "adj. 坚定的；牢固的；严格的；结实的 v. 使坚定；使牢固 adv. 稳固地 n. 公司；商号"
+          },
+          {
+            "word": "call",
+            "form": "called",
+            "phonetic": "",
+            "meaning": "v. 叫，喊；打电话；把…叫作；叫，喊 n. 叫声；号召"
+          },
+          {
+            "word": "car",
+            "form": "cars",
+            "phonetic": "/kɑː(r)/",
+            "meaning": "汽车；轿车"
           }
         ],
         "phrases": [
@@ -7402,18 +7402,6 @@ const ENGLISH_DATA = {
       "vocab": {
         "words": [
           {
-            "word": "comment",
-            "form": "comes",
-            "phonetic": "",
-            "meaning": "v. 注释； 评论 n. 注释； 评论； 意见"
-          },
-          {
-            "word": "to",
-            "form": "to",
-            "phonetic": "",
-            "meaning": "科学家"
-          },
-          {
             "word": "slow",
             "form": "slowing",
             "phonetic": "/sləʊ/",
@@ -7432,22 +7420,10 @@ const ENGLISH_DATA = {
             "meaning": "咬；叮咬"
           },
           {
-            "word": "her",
-            "form": "her",
-            "phonetic": "",
-            "meaning": "小女孩因母亲的逝世悲仿得几乎晕倒在坟前"
-          },
-          {
             "word": "nail",
             "form": "nails",
             "phonetic": "",
             "meaning": "v. 钉；使固定；揭露 n. [解剖] 指甲；钉子"
-          },
-          {
-            "word": "justify",
-            "form": "just",
-            "phonetic": "",
-            "meaning": "v. 证明合法；整理版面 / vt. 证明…是正当的， 认为有理"
           },
           {
             "word": "cut",
@@ -7472,6 +7448,30 @@ const ENGLISH_DATA = {
             "form": "Most",
             "phonetic": "",
             "meaning": "adv. 主要地， 大部分， 通常"
+          },
+          {
+            "word": "client",
+            "form": "clients",
+            "phonetic": "",
+            "meaning": "n. [经] 客户；顾客；委托人 / n. 顾客；委托人， 当事人"
+          },
+          {
+            "word": "spend",
+            "form": "spend",
+            "phonetic": "",
+            "meaning": "v. 度过，消磨（时光）；花费；浪费；用尽 n. 预算"
+          },
+          {
+            "word": "month",
+            "form": "month",
+            "phonetic": "",
+            "meaning": "n. 月,月份 / n. 月，一个月的时间"
+          },
+          {
+            "word": "customer",
+            "form": "customers",
+            "phonetic": "/ˈkʌstəmə(r)/",
+            "meaning": "顾客；客户"
           }
         ],
         "phrases": [
@@ -7566,12 +7566,6 @@ const ENGLISH_DATA = {
       "vocab": {
         "words": [
           {
-            "word": "very",
-            "form": "very",
-            "phonetic": "",
-            "meaning": "adv. 很，非常；完全 adj. 同一的，正是的，恰好的"
-          },
-          {
             "word": "highly",
             "form": "high",
             "phonetic": "/ˈhaɪli/",
@@ -7582,12 +7576,6 @@ const ENGLISH_DATA = {
             "form": "athletes",
             "phonetic": "/「aelixt/",
             "meaning": "汽车；秋；季"
-          },
-          {
-            "word": "notify",
-            "form": "not",
-            "phonetic": "",
-            "meaning": "v. 通告，通知；公布 / vt. 通知， 告知； 报告"
           },
           {
             "word": "scholar",
@@ -7608,12 +7596,6 @@ const ENGLISH_DATA = {
             "meaning": "杂草"
           },
           {
-            "word": "to",
-            "form": "to",
-            "phonetic": "",
-            "meaning": "科学家"
-          },
-          {
             "word": "education",
             "form": "education",
             "phonetic": "",
@@ -7626,16 +7608,34 @@ const ENGLISH_DATA = {
             "meaning": "知识；了解"
           },
           {
-            "word": "forest",
-            "form": "for",
-            "phonetic": "/ˈfɒrɪst/",
-            "meaning": "森林"
-          },
-          {
             "word": "sake",
             "form": "sake",
             "phonetic": "/sek/",
             "meaning": "更丨义；叠皋逞亥套古龛；王里；庄；他团为诗美而喜欢诗歌"
+          },
+          {
+            "word": "difficult",
+            "form": "difficult",
+            "phonetic": "/「drtfikalt/",
+            "meaning": "困难的；费力的；不友好的；难相处的；难对付的"
+          },
+          {
+            "word": "finding",
+            "form": "find",
+            "phonetic": "",
+            "meaning": "n. 发现；裁决；发现物 v. 找到；感到（find的ing形式）；遇到 / n. 发现， 发现物"
+          },
+          {
+            "word": "intellectual",
+            "form": "intellectual",
+            "phonetic": "",
+            "meaning": "知识分子"
+          },
+          {
+            "word": "century",
+            "form": "Century",
+            "phonetic": "/ˈsentʃəri/",
+            "meaning": "世纪；百年"
           }
         ],
         "phrases": [
@@ -7798,28 +7798,10 @@ const ENGLISH_DATA = {
             "meaning": "方向"
           },
           {
-            "word": "reader",
-            "form": "Read",
-            "phonetic": "/ˈriːdə(r)/",
-            "meaning": "读者；读本"
-          },
-          {
             "word": "following",
             "form": "following",
             "phonetic": "",
             "meaning": "adj. 其次的，接着的；下列的，下述的 / adj. 接着的， 下列的"
-          },
-          {
-            "word": "texture",
-            "form": "text",
-            "phonetic": "",
-            "meaning": "n. 质地；纹理；结构；本质，实质 / n. 质地， 纹理， 结构"
-          },
-          {
-            "word": "forest",
-            "form": "for",
-            "phonetic": "/ˈfɒrɪst/",
-            "meaning": "森林"
           },
           {
             "word": "blank",
@@ -7840,22 +7822,40 @@ const ENGLISH_DATA = {
             "meaning": "体贴的；深思熟虑的"
           },
           {
-            "word": "to",
-            "form": "to",
-            "phonetic": "",
-            "meaning": "科学家"
-          },
-          {
-            "word": "being",
-            "form": "be",
-            "phonetic": "",
-            "meaning": "n. 生物；存在， 生存"
-          },
-          {
             "word": "comparable",
             "form": "compared",
             "phonetic": "",
             "meaning": "adj. 类似的，相当的；可相比的 / adj. 可比较的；比得上的 / adj. 可比较的， 比得上的 <"
+          },
+          {
+            "word": "largely",
+            "form": "largely",
+            "phonetic": "",
+            "meaning": "adv. 主要地；大部分；大量地 / adv. 主要地， 基本上；大量地， 大规模地"
+          },
+          {
+            "word": "weed",
+            "form": "we",
+            "phonetic": "",
+            "meaning": "杂草"
+          },
+          {
+            "word": "stand",
+            "form": "stand",
+            "phonetic": "/stænd/",
+            "meaning": "站立；忍受；立场"
+          },
+          {
+            "word": "means",
+            "form": "means",
+            "phonetic": "",
+            "meaning": "n. 方法， 手段"
+          },
+          {
+            "word": "float",
+            "form": "float",
+            "phonetic": "/flaut/",
+            "meaning": "浮动"
           }
         ],
         "phrases": [
@@ -7942,12 +7942,6 @@ const ENGLISH_DATA = {
       "vocab": {
         "words": [
           {
-            "word": "lover",
-            "form": "loves",
-            "phonetic": "/ˈlʌvə(r)/",
-            "meaning": "情人；爱好者"
-          },
-          {
             "word": "fat",
             "form": "fat",
             "phonetic": "",
@@ -7960,28 +7954,10 @@ const ENGLISH_DATA = {
             "meaning": "上升；升起"
           },
           {
-            "word": "owner",
-            "form": "own",
-            "phonetic": "",
-            "meaning": "n. [经] 所有者；物主"
-          },
-          {
-            "word": "canal",
-            "form": "can",
-            "phonetic": "",
-            "meaning": "n. 运河；[地理] 水道；[建] 管道；灌溉水渠 v. 在…开凿运河 / n. 运河； 渠"
-          },
-          {
             "word": "colleague",
             "form": "colleague",
             "phonetic": "",
             "meaning": "n. 同事，同僚 / n. 同事， 同僚"
-          },
-          {
-            "word": "hasty",
-            "form": "has",
-            "phonetic": "/「hersti/",
-            "meaning": "匆忙的"
           },
           {
             "word": "reputation",
@@ -7990,28 +7966,52 @@ const ENGLISH_DATA = {
             "meaning": "名声；多挂享有盛名的情况；挂由于茉人正直的品格道德行为战宗出成就而取到他人的尊重或数仰"
           },
           {
-            "word": "forest",
-            "form": "for",
-            "phonetic": "/ˈfɒrɪst/",
-            "meaning": "森林"
-          },
-          {
             "word": "evening",
             "form": "even",
             "phonetic": "",
             "meaning": "n. 晚上；傍晚；（联欢性的）晚会；后期 adj. 在晚上的；为晚上的；晚上用的 int. 晚上好（等于good evening）"
           },
           {
-            "word": "being",
-            "form": "be",
-            "phonetic": "",
-            "meaning": "n. 生物；存在， 生存"
-          },
-          {
             "word": "outrage",
             "form": "outraged",
             "phonetic": "",
             "meaning": "n. 愤怒，愤慨；暴行；侮辱 v. 凌辱，强奸；对…施暴行；激起愤怒 / n. 暴行， 骇人听闻的事件；愤慨 vt. 激怒"
+          },
+          {
+            "word": "regard",
+            "form": "regarded",
+            "phonetic": "",
+            "meaning": "n. 注意；尊重；问候；凝视 v. 注重，考虑；看待；尊敬；把…看作；与…有关"
+          },
+          {
+            "word": "underlying",
+            "form": "underlying",
+            "phonetic": "/ˌʌndəˈlaɪɪŋ/",
+            "meaning": "潜在的；根本的"
+          },
+          {
+            "word": "capable",
+            "form": "capable",
+            "phonetic": "",
+            "meaning": "adj. 有本领的,有能力的;(of)可以…的,能…的 / adj. 能干的，能胜任的；有才华的 / adj. 有能力的， 能…的"
+          },
+          {
+            "word": "fine",
+            "form": "finely",
+            "phonetic": "",
+            "meaning": "普朗的"
+          },
+          {
+            "word": "university",
+            "form": "University",
+            "phonetic": "/ˌjuːnɪˈvɜːsəti/",
+            "meaning": "大学"
+          },
+          {
+            "word": "publish",
+            "form": "published",
+            "phonetic": "/r「pAbl/",
+            "meaning": "公布"
           }
         ],
         "phrases": [
@@ -8140,12 +8140,6 @@ const ENGLISH_DATA = {
             "meaning": "杂草"
           },
           {
-            "word": "forest",
-            "form": "for",
-            "phonetic": "/ˈfɒrɪst/",
-            "meaning": "森林"
-          },
-          {
             "word": "evidence",
             "form": "evidence",
             "phonetic": "",
@@ -8164,22 +8158,28 @@ const ENGLISH_DATA = {
             "meaning": "n. 大厅；休息室；会客室；游说议员的团体 v. 对……进行游说 / n. 门廊， 门厅； 休息厅"
           },
           {
-            "word": "outer",
+            "word": "outing",
             "form": "out",
-            "phonetic": "",
-            "meaning": "adj. 外面的，外部的；远离中心的 n. 环外命中 / adj. 外部的， 外面的， 外层的"
-          },
-          {
-            "word": "to",
-            "form": "to",
-            "phonetic": "",
-            "meaning": "科学家"
+            "phonetic": "/ˈaʊtɪŋ/",
+            "meaning": "远足；外出"
           },
           {
             "word": "destroy",
             "form": "destroy",
             "phonetic": "/dɪˈstrɔɪ/",
             "meaning": "破坏；毁灭"
+          },
+          {
+            "word": "stay",
+            "form": "stay",
+            "phonetic": "/ste/",
+            "meaning": "停留"
+          },
+          {
+            "word": "nonsense",
+            "form": "nonsense",
+            "phonetic": "",
+            "meaning": "n. 胡说， 废话"
           }
         ],
         "phrases": [
@@ -8284,18 +8284,6 @@ const ENGLISH_DATA = {
             "meaning": "v. 睡，睡觉 n. 睡眠"
           },
           {
-            "word": "to",
-            "form": "to",
-            "phonetic": "",
-            "meaning": "科学家"
-          },
-          {
-            "word": "being",
-            "form": "be",
-            "phonetic": "",
-            "meaning": "n. 生物；存在， 生存"
-          },
-          {
             "word": "window",
             "form": "window",
             "phonetic": "",
@@ -8336,6 +8324,18 @@ const ENGLISH_DATA = {
             "form": "formulated",
             "phonetic": "/「formiuleito/",
             "meaning": "规划"
+          },
+          {
+            "word": "revolutionary",
+            "form": "revolutionary",
+            "phonetic": "/ˌrevəˈluːʃənri/",
+            "meaning": "革命的；革命者"
+          },
+          {
+            "word": "theory",
+            "form": "theory",
+            "phonetic": "",
+            "meaning": "n. 理论； 原理； 学说；见解， 看法"
           }
         ],
         "phrases": [
@@ -8452,12 +8452,6 @@ const ENGLISH_DATA = {
             "meaning": "演讲；言语"
           },
           {
-            "word": "to",
-            "form": "to",
-            "phonetic": "",
-            "meaning": "科学家"
-          },
-          {
             "word": "command",
             "form": "command",
             "phonetic": "",
@@ -8468,12 +8462,6 @@ const ENGLISH_DATA = {
             "form": "skill",
             "phonetic": "",
             "meaning": "adj. 熟练的；巧妙的 / adj. 灵巧的， 娴熟的"
-          },
-          {
-            "word": "owner",
-            "form": "Own",
-            "phonetic": "",
-            "meaning": "n. [经] 所有者；物主"
           },
           {
             "word": "weed",
@@ -8494,16 +8482,28 @@ const ENGLISH_DATA = {
             "meaning": "n. 照顾，照料 v. 关心，在意 / n. 关怀；照料；谨慎；忧虑 v. 照顾；关心；喜爱；顾虑"
           },
           {
-            "word": "controversial",
-            "form": "controversialist",
-            "phonetic": "",
-            "meaning": "adj. 引起争论的,有争议的 / adj. 有争议的；有争论的 / adj. 引起争论的， 有争议的"
-          },
-          {
             "word": "mix",
             "form": "mixed",
             "phonetic": "",
             "meaning": "v. 配制；混淆；使混和；使结交 n. 混合；混合物；混乱"
+          },
+          {
+            "word": "liberal",
+            "form": "liberal",
+            "phonetic": "/lmbaral/",
+            "meaning": "不严格的"
+          },
+          {
+            "word": "conservative",
+            "form": "conservative",
+            "phonetic": "",
+            "meaning": "adj. 保守的 n. 保守派，守旧者 / adj. 保守的， 守旧的 < n. 保守主义者"
+          },
+          {
+            "word": "view",
+            "form": "views",
+            "phonetic": "/wuz/",
+            "meaning": "景象"
           }
         ],
         "phrases": [
@@ -8621,12 +8621,6 @@ const ENGLISH_DATA = {
             "meaning": "adj. 其次的，接着的；下列的，下述的 / adj. 接着的， 下列的"
           },
           {
-            "word": "texture",
-            "form": "text",
-            "phonetic": "",
-            "meaning": "n. 质地；纹理；结构；本质，实质 / n. 质地， 纹理， 结构"
-          },
-          {
             "word": "sentence",
             "form": "sentences",
             "phonetic": "/「sentons/",
@@ -8637,12 +8631,6 @@ const ENGLISH_DATA = {
             "form": "removed",
             "phonetic": "",
             "meaning": "v. 移动；脱掉；免职 / v. 移动，迁移；开除；调动 n. 移动；距离；搬家"
-          },
-          {
-            "word": "forest",
-            "form": "For",
-            "phonetic": "/ˈfɒrɪst/",
-            "meaning": "森林"
           },
           {
             "word": "mostly",
@@ -8657,12 +8645,6 @@ const ENGLISH_DATA = {
             "meaning": "合适的"
           },
           {
-            "word": "to",
-            "form": "to",
-            "phonetic": "",
-            "meaning": "科学家"
-          },
-          {
             "word": "blank",
             "form": "blanks",
             "phonetic": "",
@@ -8673,6 +8655,24 @@ const ENGLISH_DATA = {
             "form": "extra",
             "phonetic": "",
             "meaning": "adv. 特别地，非常；另外 n. 临时演员；号外；额外的事物；上等产品 adj. 额外的，另外收费的；特大的"
+          },
+          {
+            "word": "breath",
+            "form": "breath",
+            "phonetic": "/bre0/",
+            "meaning": "呼服"
+          },
+          {
+            "word": "complain",
+            "form": "complaining",
+            "phonetic": "",
+            "meaning": "v. 投诉；发牢骚；诉说 / v. 抱怨； 申诉"
+          },
+          {
+            "word": "july",
+            "form": "July",
+            "phonetic": "",
+            "meaning": "n. 七月"
           }
         ],
         "phrases": [
@@ -8879,28 +8879,10 @@ const ENGLISH_DATA = {
             "meaning": "方向"
           },
           {
-            "word": "reader",
-            "form": "Read",
-            "phonetic": "/ˈriːdə(r)/",
-            "meaning": "读者；读本"
-          },
-          {
             "word": "following",
             "form": "following",
             "phonetic": "",
             "meaning": "adj. 其次的，接着的；下列的，下述的 / adj. 接着的， 下列的"
-          },
-          {
-            "word": "texture",
-            "form": "text",
-            "phonetic": "",
-            "meaning": "n. 质地；纹理；结构；本质，实质 / n. 质地， 纹理， 结构"
-          },
-          {
-            "word": "forest",
-            "form": "for",
-            "phonetic": "/ˈfɒrɪst/",
-            "meaning": "森林"
           },
           {
             "word": "blank",
@@ -8921,22 +8903,40 @@ const ENGLISH_DATA = {
             "meaning": "人口；居民"
           },
           {
-            "word": "hasty",
-            "form": "has",
-            "phonetic": "/「hersti/",
-            "meaning": "匆忙的"
-          },
-          {
             "word": "local",
             "form": "local",
             "phonetic": "",
             "meaning": "adj. 地方的,当地的；局部的 / n. [计] 局部；当地居民；本地新闻 adj. 当地的；局部的；地方性的；乡土的 / adj. 地方的， 当地的；局部的"
           },
           {
-            "word": "to",
-            "form": "To",
+            "word": "helpful",
+            "form": "help",
+            "phonetic": "/rhelpf/",
+            "meaning": "有帮助的"
+          },
+          {
+            "word": "federal",
+            "form": "federal",
+            "phonetic": "/ˈfedərəl/",
+            "meaning": "联邦的；联邦政府的"
+          },
+          {
+            "word": "support",
+            "form": "support",
             "phonetic": "",
-            "meaning": "科学家"
+            "meaning": "支撑；供养"
+          },
+          {
+            "word": "minimum",
+            "form": "minimum",
+            "phonetic": "",
+            "meaning": "n. 最小值；最低限度；最小化；最小量 adj. 最小的；最低的 / adj. 最小的， 最低的 n. 最小值， 最低限度 A"
+          },
+          {
+            "word": "fund",
+            "form": "fund",
+            "phonetic": "/fhnd/",
+            "meaning": "资金；储备"
           }
         ],
         "phrases": [
@@ -9029,22 +9029,10 @@ const ENGLISH_DATA = {
             "meaning": "n. 不顾；恶意；怨恨 v. 刁难；使恼怒 / n. 恶意； 怨恨"
           },
           {
-            "word": "ending",
-            "form": "endless",
-            "phonetic": "/「endig/",
-            "meaning": "结尾；结局"
-          },
-          {
             "word": "differ",
             "form": "difference",
             "phonetic": "/ˈdɪfə(r)/",
             "meaning": "不同；相异"
-          },
-          {
-            "word": "forest",
-            "form": "for",
-            "phonetic": "/ˈfɒrɪst/",
-            "meaning": "森林"
           },
           {
             "word": "dress",
@@ -9093,6 +9081,18 @@ const ENGLISH_DATA = {
             "form": "absorbed",
             "phonetic": "",
             "meaning": "盼引"
+          },
+          {
+            "word": "consumption",
+            "form": "consumption",
+            "phonetic": "",
+            "meaning": "n. 消费(量),消耗 / n. 消费；消耗；肺痨 / n. 消费， 消耗 <"
+          },
+          {
+            "word": "launch",
+            "form": "launched",
+            "phonetic": "",
+            "meaning": "发射"
           }
         ],
         "phrases": [
@@ -9197,12 +9197,6 @@ const ENGLISH_DATA = {
             "meaning": "杂草"
           },
           {
-            "word": "hasty",
-            "form": "has",
-            "phonetic": "/「hersti/",
-            "meaning": "匆忙的"
-          },
-          {
             "word": "distinct",
             "form": "distinctly",
             "phonetic": "/dɪˈstɪŋkt/",
@@ -9257,10 +9251,16 @@ const ENGLISH_DATA = {
             "meaning": "活的"
           },
           {
-            "word": "offer",
-            "form": "off",
-            "phonetic": "/“「pfa(r)/",
-            "meaning": "提供"
+            "word": "tourist",
+            "form": "tourists",
+            "phonetic": "/ˈtʊərɪst/",
+            "meaning": "游客；旅游者"
+          },
+          {
+            "word": "cottage",
+            "form": "Cottage",
+            "phonetic": "/「kotrds/",
+            "meaning": "村备；小屋"
           }
         ],
         "phrases": [
@@ -9369,12 +9369,6 @@ const ENGLISH_DATA = {
             "meaning": "adj. 奇怪的；陌生的；外行的 adv. 奇怪地；陌生地，冷淡地 n. (Strange)人名；(英)斯特兰奇；(瑞典、塞)斯特朗格"
           },
           {
-            "word": "to",
-            "form": "to",
-            "phonetic": "",
-            "meaning": "科学家"
-          },
-          {
             "word": "largely",
             "form": "large",
             "phonetic": "",
@@ -9417,10 +9411,16 @@ const ENGLISH_DATA = {
             "meaning": "相似的"
           },
           {
-            "word": "being",
-            "form": "be",
+            "word": "sea",
+            "form": "seas",
+            "phonetic": "/siː/",
+            "meaning": "海；海洋"
+          },
+          {
+            "word": "fasten",
+            "form": "fast",
             "phonetic": "",
-            "meaning": "n. 生物；存在， 生存"
+            "meaning": "v. 使固定；集中于；扎牢；强加于 n. (Fasten)人名；(英)法森 / vt. 扎牢， 使固定"
           }
         ],
         "phrases": [
@@ -9523,18 +9523,6 @@ const ENGLISH_DATA = {
             "meaning": "怪异的；不可思议的"
           },
           {
-            "word": "being",
-            "form": "be",
-            "phonetic": "",
-            "meaning": "n. 生物；存在， 生存"
-          },
-          {
-            "word": "to",
-            "form": "to",
-            "phonetic": "",
-            "meaning": "科学家"
-          },
-          {
             "word": "explore",
             "form": "explore",
             "phonetic": "",
@@ -9581,6 +9569,18 @@ const ENGLISH_DATA = {
             "form": "suited",
             "phonetic": "/sut,sjuzt/",
             "meaning": "合适"
+          },
+          {
+            "word": "express",
+            "form": "expressing",
+            "phonetic": "",
+            "meaning": "v. 表达；快递 adj. 明确的；迅速的；专门的 n. 快车，快递，专使；捷运公司"
+          },
+          {
+            "word": "joy",
+            "form": "joy",
+            "phonetic": "/dʒɔɪ/",
+            "meaning": "欢乐；喜悦"
           }
         ],
         "phrases": [
@@ -9642,12 +9642,6 @@ const ENGLISH_DATA = {
             "meaning": "v. 移动；脱掉；免职 / v. 移动，迁移；开除；调动 n. 移动；距离；搬家"
           },
           {
-            "word": "forest",
-            "form": "For",
-            "phonetic": "/ˈfɒrɪst/",
-            "meaning": "森林"
-          },
-          {
             "word": "mostly",
             "form": "most",
             "phonetic": "",
@@ -9660,28 +9654,34 @@ const ENGLISH_DATA = {
             "meaning": "合适的"
           },
           {
-            "word": "to",
-            "form": "to",
-            "phonetic": "",
-            "meaning": "科学家"
-          },
-          {
             "word": "extra",
             "form": "extra",
             "phonetic": "",
             "meaning": "adv. 特别地，非常；另外 n. 临时演员；号外；额外的事物；上等产品 adj. 额外的，另外收费的；特大的"
           },
           {
-            "word": "notify",
-            "form": "not",
-            "phonetic": "",
-            "meaning": "v. 通告，通知；公布 / vt. 通知， 告知； 报告"
-          },
-          {
             "word": "north",
             "form": "north",
             "phonetic": "",
             "meaning": "n. 北，北方 adj. 北方的；朝北的 adv. 在北方，向北方"
+          },
+          {
+            "word": "bank",
+            "form": "bank",
+            "phonetic": "/bseqk/",
+            "meaning": "岸；堤；银行；库；存人银行"
+          },
+          {
+            "word": "river",
+            "form": "river",
+            "phonetic": "",
+            "meaning": "n. 河，江"
+          },
+          {
+            "word": "sit",
+            "form": "sits",
+            "phonetic": "/sIt/",
+            "meaning": "坐；代人临时看小孩"
           }
         ],
         "phrases": [
@@ -9882,28 +9882,10 @@ const ENGLISH_DATA = {
             "meaning": "方向"
           },
           {
-            "word": "reader",
-            "form": "Read",
-            "phonetic": "/ˈriːdə(r)/",
-            "meaning": "读者；读本"
-          },
-          {
             "word": "following",
             "form": "following",
             "phonetic": "",
             "meaning": "adj. 其次的，接着的；下列的，下述的 / adj. 接着的， 下列的"
-          },
-          {
-            "word": "texture",
-            "form": "text",
-            "phonetic": "",
-            "meaning": "n. 质地；纹理；结构；本质，实质 / n. 质地， 纹理， 结构"
-          },
-          {
-            "word": "forest",
-            "form": "for",
-            "phonetic": "/ˈfɒrɪst/",
-            "meaning": "森林"
           },
           {
             "word": "blank",
@@ -9918,28 +9900,46 @@ const ENGLISH_DATA = {
             "meaning": "以前的"
           },
           {
-            "word": "national",
-            "form": "nations",
-            "phonetic": "",
-            "meaning": "adj. 国家的；国民的；民族的；国立的 n. 国民"
-          },
-          {
-            "word": "to",
-            "form": "to",
-            "phonetic": "",
-            "meaning": "科学家"
-          },
-          {
             "word": "regime",
             "form": "regime",
             "phonetic": "",
             "meaning": "n. 政权，政体；社会制度；管理体制 / n. 政体， 制度"
           },
           {
-            "word": "colonial",
-            "form": "colonialism",
-            "phonetic": "/kəˈləʊniəl/",
-            "meaning": "殖民的；殖民地时期的"
+            "word": "ideal",
+            "form": "ideals",
+            "phonetic": "/andiral/",
+            "meaning": "理想的"
+          },
+          {
+            "word": "representative",
+            "form": "representative",
+            "phonetic": "",
+            "meaning": "n. 代表,代理人 adj. (of)典型的,有代表性的 / adj. 典型的，有代表性的；代议制的 n. 代表；典型；众议员 / adj. 典型的， 有代表性的 n. 代表， 代理人"
+          },
+          {
+            "word": "career",
+            "form": "careers",
+            "phonetic": "/kəˈrɪə(r)/",
+            "meaning": "职业；事业"
+          },
+          {
+            "word": "talent",
+            "form": "talent",
+            "phonetic": "/“tselont/",
+            "meaning": "才能"
+          },
+          {
+            "word": "commerce",
+            "form": "commerce",
+            "phonetic": "",
+            "meaning": "n. 买卖，贸易；商务；商业 / n. 贸易；商业；商务 / n. 商业， 贸易"
+          },
+          {
+            "word": "trade",
+            "form": "trade",
+            "phonetic": "/“trerda(r)/",
+            "meaning": "贸易"
           }
         ],
         "phrases": []
@@ -10021,12 +10021,6 @@ const ENGLISH_DATA = {
       "vocab": {
         "words": [
           {
-            "word": "to",
-            "form": "to",
-            "phonetic": "",
-            "meaning": "科学家"
-          },
-          {
             "word": "examine",
             "form": "examine",
             "phonetic": "",
@@ -10081,16 +10075,22 @@ const ENGLISH_DATA = {
             "meaning": "n. 月,月份 / n. 月，一个月的时间"
           },
           {
-            "word": "lateral",
-            "form": "later",
-            "phonetic": "",
-            "meaning": "adj. 侧面的，横向的 n. 侧部；[语] 边音 vt. 横向传球 / adj. 侧面的； 旁边的"
-          },
-          {
             "word": "national",
             "form": "national",
             "phonetic": "",
             "meaning": "adj. 国家的；国民的；民族的；国立的 n. 国民"
+          },
+          {
+            "word": "team",
+            "form": "teams",
+            "phonetic": "/tiːm/",
+            "meaning": "团队；队"
+          },
+          {
+            "word": "feed",
+            "form": "feed",
+            "phonetic": "/fiːd/",
+            "meaning": "喂养；供给"
           }
         ],
         "phrases": [
@@ -10185,12 +10185,6 @@ const ENGLISH_DATA = {
       "vocab": {
         "words": [
           {
-            "word": "forest",
-            "form": "For",
-            "phonetic": "/ˈfɒrɪst/",
-            "meaning": "森林"
-          },
-          {
             "word": "past",
             "form": "past",
             "phonetic": "",
@@ -10221,12 +10215,6 @@ const ENGLISH_DATA = {
             "meaning": "n. 游行；检阅,阅兵式 v. 游行；列队行进 / n. 游行；阅兵；炫耀；行进；阅兵场 v. 游行；炫耀；列队行进 / vi. 列队行进， 游行 n. 游行； 检阅"
           },
           {
-            "word": "hasty",
-            "form": "has",
-            "phonetic": "/「hersti/",
-            "meaning": "匆忙的"
-          },
-          {
             "word": "feature",
             "form": "featured",
             "phonetic": "",
@@ -10251,10 +10239,22 @@ const ENGLISH_DATA = {
             "meaning": "邀请；招致"
           },
           {
-            "word": "to",
-            "form": "to",
+            "word": "mental",
+            "form": "mental",
+            "phonetic": "/ˈmentl/",
+            "meaning": "精神的；心理的"
+          },
+          {
+            "word": "level",
+            "form": "level",
             "phonetic": "",
-            "meaning": "科学家"
+            "meaning": "数量"
+          },
+          {
+            "word": "score",
+            "form": "score",
+            "phonetic": "",
+            "meaning": "n. 分数；二十；配乐；刻痕 v. 获得；评价；划线，刻划；把…记下 / v. 得， 记分数 n. 得分， 分数；二十 A <"
           }
         ],
         "phrases": [
@@ -10353,12 +10353,6 @@ const ENGLISH_DATA = {
       "vocab": {
         "words": [
           {
-            "word": "durable",
-            "form": "During",
-            "phonetic": "/「diuarabl/",
-            "meaning": "耐用的；持久的"
-          },
-          {
             "word": "past",
             "form": "past",
             "phonetic": "",
@@ -10371,34 +10365,16 @@ const ENGLISH_DATA = {
             "meaning": "中间的；中部"
           },
           {
-            "word": "classify",
-            "form": "class",
-            "phonetic": "/ˈklæsɪfaɪ/",
-            "meaning": "分类；归类"
-          },
-          {
             "word": "count",
             "form": "count",
             "phonetic": "",
             "meaning": "数；睹做"
           },
           {
-            "word": "hardship",
-            "form": "hard",
-            "phonetic": "/ˈhɑːdʃɪp/",
-            "meaning": "艰难；困苦"
-          },
-          {
             "word": "fair",
             "form": "fair",
             "phonetic": "/feə(r)/",
             "meaning": "公平的；集市；博览会"
-          },
-          {
-            "word": "to",
-            "form": "to",
-            "phonetic": "",
-            "meaning": "科学家"
           },
           {
             "word": "financial",
@@ -10413,16 +10389,40 @@ const ENGLISH_DATA = {
             "meaning": "adj. (from,against)安全的 v. 得到；使安全，保护 / adj. 安全的；无虑的；有把握的；稳当的 v. 保护；弄到；招致；缚住 / adj. 安全的； 可靠的； 放心的 vt. 得到某物， 获得；防护， 保卫"
           },
           {
-            "word": "hasty",
-            "form": "has",
-            "phonetic": "/「hersti/",
-            "meaning": "匆忙的"
+            "word": "economics",
+            "form": "economic",
+            "phonetic": "/,irka「nomiks;eka-/",
+            "meaning": "经济学"
           },
           {
-            "word": "economical",
-            "form": "economic",
-            "phonetic": "/ˌiːkəˈnɒmɪkl/",
-            "meaning": "经济的；节俭的"
+            "word": "risk",
+            "form": "risk",
+            "phonetic": "/rsk/",
+            "meaning": "冒"
+          },
+          {
+            "word": "pink",
+            "form": "pink",
+            "phonetic": "/pɪŋk/",
+            "meaning": "粉红色的"
+          },
+          {
+            "word": "slip",
+            "form": "slip",
+            "phonetic": "",
+            "meaning": "滑倒；溜走"
+          },
+          {
+            "word": "disappear",
+            "form": "disappearing",
+            "phonetic": "",
+            "meaning": "v. 消失；失踪；不复存在 / vi. 不见， 消失"
+          },
+          {
+            "word": "spouse",
+            "form": "spouse",
+            "phonetic": "/spaʊs/",
+            "meaning": "配偶"
           }
         ],
         "phrases": [
@@ -10523,12 +10523,6 @@ const ENGLISH_DATA = {
             "meaning": "下倾盆大雨"
           },
           {
-            "word": "justify",
-            "form": "Just",
-            "phonetic": "",
-            "meaning": "v. 证明合法；整理版面 / vt. 证明…是正当的， 认为有理"
-          },
-          {
             "word": "board",
             "form": "boards",
             "phonetic": "/ba4/",
@@ -10547,10 +10541,10 @@ const ENGLISH_DATA = {
             "meaning": "种类"
           },
           {
-            "word": "outer",
+            "word": "outing",
             "form": "out",
-            "phonetic": "",
-            "meaning": "adj. 外面的，外部的；远离中心的 n. 环外命中 / adj. 外部的， 外面的， 外层的"
+            "phonetic": "/ˈaʊtɪŋ/",
+            "meaning": "远足；外出"
           },
           {
             "word": "worst",
@@ -10577,16 +10571,22 @@ const ENGLISH_DATA = {
             "meaning": "公司；企业"
           },
           {
-            "word": "to",
-            "form": "to",
-            "phonetic": "",
-            "meaning": "科学家"
-          },
-          {
             "word": "earn",
             "form": "earn",
             "phonetic": "",
             "meaning": "v. 赚，赚得；获得，挣得；使得到；博得 n. (Earn)人名；(泰)炎"
+          },
+          {
+            "word": "especially",
+            "form": "especially",
+            "phonetic": "",
+            "meaning": "adv. 尤其；特别，格外；专门地，主要地"
+          },
+          {
+            "word": "nasty",
+            "form": "nasty",
+            "phonetic": "/ˈnɑːsti/",
+            "meaning": "令人讨厌的；下流的"
           }
         ],
         "phrases": [
@@ -10710,24 +10710,6 @@ const ENGLISH_DATA = {
             "meaning": "方向"
           },
           {
-            "word": "to",
-            "form": "to",
-            "phonetic": "",
-            "meaning": "科学家"
-          },
-          {
-            "word": "reader",
-            "form": "read",
-            "phonetic": "/ˈriːdə(r)/",
-            "meaning": "读者；读本"
-          },
-          {
-            "word": "texture",
-            "form": "text",
-            "phonetic": "",
-            "meaning": "n. 质地；纹理；结构；本质，实质 / n. 质地， 纹理， 结构"
-          },
-          {
             "word": "parent",
             "form": "parents",
             "phonetic": "",
@@ -10746,12 +10728,6 @@ const ENGLISH_DATA = {
             "meaning": "指导；导游；指南"
           },
           {
-            "word": "adult",
-            "form": "adulthood",
-            "phonetic": "/a「dopJn/",
-            "meaning": "成年人的"
-          },
-          {
             "word": "meaning",
             "form": "meaning",
             "phonetic": "/ˈmiːnɪŋ/",
@@ -10764,10 +10740,34 @@ const ENGLISH_DATA = {
             "meaning": "n. 段落；短评；段落符号 v. 将…分段 / n. 段， 节；小新闻， 短评"
           },
           {
-            "word": "notify",
-            "form": "not",
+            "word": "extra",
+            "form": "extra",
             "phonetic": "",
-            "meaning": "v. 通告，通知；公布 / vt. 通知， 告知； 报告"
+            "meaning": "adv. 特别地，非常；另外 n. 临时演员；号外；额外的事物；上等产品 adj. 额外的，另外收费的；特大的"
+          },
+          {
+            "word": "goodness",
+            "form": "Good",
+            "phonetic": "/ˈɡʊdnəs/",
+            "meaning": "善良；美德"
+          },
+          {
+            "word": "kid",
+            "form": "Kids",
+            "phonetic": "/kɪd/",
+            "meaning": "小孩；开玩笑"
+          },
+          {
+            "word": "skillful",
+            "form": "Skills",
+            "phonetic": "",
+            "meaning": "adj. 熟练的；巧妙的 / adj. 灵巧的， 娴熟的"
+          },
+          {
+            "word": "time",
+            "form": "Time",
+            "phonetic": "/taɪm/",
+            "meaning": "时间；时代；次数"
           }
         ],
         "phrases": [
@@ -10960,12 +10960,6 @@ const ENGLISH_DATA = {
       "vocab": {
         "words": [
           {
-            "word": "being",
-            "form": "be",
-            "phonetic": "",
-            "meaning": "n. 生物；存在， 生存"
-          },
-          {
             "word": "intelligent",
             "form": "intelligent",
             "phonetic": "",
@@ -10978,12 +10972,6 @@ const ENGLISH_DATA = {
             "meaning": "敢；胆敢"
           },
           {
-            "word": "notify",
-            "form": "not",
-            "phonetic": "",
-            "meaning": "v. 通告，通知；公布 / vt. 通知， 告知； 报告"
-          },
-          {
             "word": "speak",
             "form": "speak",
             "phonetic": "",
@@ -10994,12 +10982,6 @@ const ENGLISH_DATA = {
             "form": "name",
             "phonetic": "",
             "meaning": "n. 名字；名称；名声；名义 v. 给…取名"
-          },
-          {
-            "word": "to",
-            "form": "to",
-            "phonetic": "",
-            "meaning": "科学家"
           },
           {
             "word": "scientist",
@@ -11020,16 +11002,34 @@ const ENGLISH_DATA = {
             "meaning": "有帮助的"
           },
           {
-            "word": "popular",
-            "form": "popularize",
-            "phonetic": "/「pppjala(r)/",
-            "meaning": "流行的"
-          },
-          {
             "word": "disease",
             "form": "diseases",
             "phonetic": "/dɪˈziːz/",
             "meaning": "疾病"
+          },
+          {
+            "word": "thoughtful",
+            "form": "thought",
+            "phonetic": "/ˈθɔːtfl/",
+            "meaning": "体贴的；深思熟虑的"
+          },
+          {
+            "word": "actual",
+            "form": "actually",
+            "phonetic": "/ˈæktʃuəl/",
+            "meaning": "实际的；真实的"
+          },
+          {
+            "word": "controversy",
+            "form": "controversy",
+            "phonetic": "/ˈkɒntrəvɜːsi/",
+            "meaning": "争议；争论"
+          },
+          {
+            "word": "publish",
+            "form": "publishing",
+            "phonetic": "/r「pAbl/",
+            "meaning": "公布"
           }
         ],
         "phrases": []
@@ -11111,22 +11111,10 @@ const ENGLISH_DATA = {
       "vocab": {
         "words": [
           {
-            "word": "to",
-            "form": "to",
-            "phonetic": "",
-            "meaning": "科学家"
-          },
-          {
             "word": "sphere",
             "form": "spheres",
             "phonetic": "",
             "meaning": "n. 范围；球体 vt. 包围；放入球内；使…成球形 adj. 球体的 / n. 球； 球体；范围； 领域"
-          },
-          {
-            "word": "being",
-            "form": "be",
-            "phonetic": "",
-            "meaning": "n. 生物；存在， 生存"
           },
           {
             "word": "ahead",
@@ -11181,6 +11169,18 @@ const ENGLISH_DATA = {
             "form": "stress",
             "phonetic": "/stres/",
             "meaning": "压力"
+          },
+          {
+            "word": "comparable",
+            "form": "compared",
+            "phonetic": "",
+            "meaning": "adj. 类似的，相当的；可相比的 / adj. 可比较的；比得上的 / adj. 可比较的， 比得上的 <"
+          },
+          {
+            "word": "accord",
+            "form": "according",
+            "phonetic": "",
+            "meaning": "一致"
           }
         ],
         "phrases": [
@@ -11279,18 +11279,6 @@ const ENGLISH_DATA = {
       "vocab": {
         "words": [
           {
-            "word": "to",
-            "form": "to",
-            "phonetic": "",
-            "meaning": "科学家"
-          },
-          {
-            "word": "being",
-            "form": "be",
-            "phonetic": "",
-            "meaning": "n. 生物；存在， 生存"
-          },
-          {
             "word": "team",
             "form": "team",
             "phonetic": "/tiːm/",
@@ -11339,16 +11327,28 @@ const ENGLISH_DATA = {
             "meaning": "n. 名字；名称；名声；名义 v. 给…取名"
           },
           {
-            "word": "forest",
-            "form": "for",
-            "phonetic": "/ˈfɒrɪst/",
-            "meaning": "森林"
-          },
-          {
             "word": "review",
             "form": "review",
             "phonetic": "",
             "meaning": "v. 回顾,复习 n. 评论 / n. 回顾；复习；评论；检讨；检阅 v. 回顾；检查；复审"
+          },
+          {
+            "word": "depend",
+            "form": "Depending",
+            "phonetic": "",
+            "meaning": "v. 依赖，依靠；取决于；相信，信赖"
+          },
+          {
+            "word": "comment",
+            "form": "comments",
+            "phonetic": "",
+            "meaning": "v. 注释； 评论 n. 注释； 评论； 意见"
+          },
+          {
+            "word": "copyright",
+            "form": "Copyright",
+            "phonetic": "",
+            "meaning": "n. 版权，著作权 adj. 版权的；受版权保护的 v. 保护版权；为…取得版权 / n. 版权 vt. 获得…的版权"
           }
         ],
         "phrases": [
@@ -11439,12 +11439,6 @@ const ENGLISH_DATA = {
       "vocab": {
         "words": [
           {
-            "word": "ear",
-            "form": "early",
-            "phonetic": "",
-            "meaning": "n. 耳朵；穗；听觉；倾听 vi. （美俚）听见；抽穗"
-          },
-          {
             "word": "national",
             "form": "National",
             "phonetic": "",
@@ -11481,12 +11475,6 @@ const ENGLISH_DATA = {
             "meaning": "经理；管理者"
           },
           {
-            "word": "to",
-            "form": "to",
-            "phonetic": "",
-            "meaning": "科学家"
-          },
-          {
             "word": "team",
             "form": "team",
             "phonetic": "/tiːm/",
@@ -11499,16 +11487,28 @@ const ENGLISH_DATA = {
             "meaning": "趋势；倾向"
           },
           {
-            "word": "being",
-            "form": "be",
-            "phonetic": "",
-            "meaning": "n. 生物；存在， 生存"
-          },
-          {
             "word": "obscure",
             "form": "obscuring",
             "phonetic": "",
             "meaning": "adj. 模糊的,晦涩的；暗的,朦胧的 / adj. 昏暗的，朦胧的；晦涩的，不清楚的；隐蔽的；不著名的，无名的 v. 使…模糊不清，掩盖；隐藏；使难理解 n. 某种模糊的或不清楚的东西 / adj. 暗的； 朦胧的；模糊的； 晦涩的 vt. 使暗， 使不明显"
+          },
+          {
+            "word": "general",
+            "form": "generally",
+            "phonetic": "/「dsenral/",
+            "meaning": "一般的"
+          },
+          {
+            "word": "stop",
+            "form": "stopped",
+            "phonetic": "",
+            "meaning": "v. 停止；堵塞；断绝 n. 停止；车站；障碍；逗留"
+          },
+          {
+            "word": "inch",
+            "form": "inches",
+            "phonetic": "/ɪntʃ/",
+            "meaning": "英寸"
           }
         ],
         "phrases": [
@@ -11641,12 +11641,6 @@ const ENGLISH_DATA = {
             "meaning": "n. 牙科医生 / n. 牙医"
           },
           {
-            "word": "to",
-            "form": "to",
-            "phonetic": "",
-            "meaning": "科学家"
-          },
-          {
             "word": "transplant",
             "form": "transplant",
             "phonetic": "/traens「 plant/",
@@ -11681,6 +11675,12 @@ const ENGLISH_DATA = {
             "form": "most",
             "phonetic": "",
             "meaning": "adv. 主要地， 大部分， 通常"
+          },
+          {
+            "word": "remember",
+            "form": "remember",
+            "phonetic": "/rɪˈmembə(r)/",
+            "meaning": "记得；记住"
           }
         ],
         "phrases": [
@@ -11718,12 +11718,6 @@ const ENGLISH_DATA = {
             "meaning": "adj. 其次的，接着的；下列的，下述的 / adj. 接着的， 下列的"
           },
           {
-            "word": "texture",
-            "form": "text",
-            "phonetic": "",
-            "meaning": "n. 质地；纹理；结构；本质，实质 / n. 质地， 纹理， 结构"
-          },
-          {
             "word": "segment",
             "form": "segments",
             "phonetic": "",
@@ -11734,12 +11728,6 @@ const ENGLISH_DATA = {
             "form": "removed",
             "phonetic": "",
             "meaning": "v. 移动；脱掉；免职 / v. 移动，迁移；开除；调动 n. 移动；距离；搬家"
-          },
-          {
-            "word": "forest",
-            "form": "For",
-            "phonetic": "/ˈfɒrɪst/",
-            "meaning": "森林"
           },
           {
             "word": "mostly",
@@ -11754,12 +11742,6 @@ const ENGLISH_DATA = {
             "meaning": "合适的"
           },
           {
-            "word": "to",
-            "form": "to",
-            "phonetic": "",
-            "meaning": "科学家"
-          },
-          {
             "word": "blank",
             "form": "blanks",
             "phonetic": "",
@@ -11770,6 +11752,24 @@ const ENGLISH_DATA = {
             "form": "extra",
             "phonetic": "",
             "meaning": "adv. 特别地，非常；另外 n. 临时演员；号外；额外的事物；上等产品 adj. 额外的，另外收费的；特大的"
+          },
+          {
+            "word": "time",
+            "form": "time",
+            "phonetic": "/taɪm/",
+            "meaning": "时间；时代；次数"
+          },
+          {
+            "word": "pencil",
+            "form": "pencils",
+            "phonetic": "",
+            "meaning": "n. 铅笔；笔状物 v. 用铅笔写；用眉笔涂"
+          },
+          {
+            "word": "ending",
+            "form": "ended",
+            "phonetic": "/「endig/",
+            "meaning": "结尾；结局"
           }
         ],
         "phrases": [
@@ -11992,28 +11992,10 @@ const ENGLISH_DATA = {
             "meaning": "方向"
           },
           {
-            "word": "reader",
-            "form": "Read",
-            "phonetic": "/ˈriːdə(r)/",
-            "meaning": "读者；读本"
-          },
-          {
             "word": "following",
             "form": "following",
             "phonetic": "",
             "meaning": "adj. 其次的，接着的；下列的，下述的 / adj. 接着的， 下列的"
-          },
-          {
-            "word": "texture",
-            "form": "text",
-            "phonetic": "",
-            "meaning": "n. 质地；纹理；结构；本质，实质 / n. 质地， 纹理， 结构"
-          },
-          {
-            "word": "forest",
-            "form": "for",
-            "phonetic": "/ˈfɒrɪst/",
-            "meaning": "森林"
           },
           {
             "word": "blank",
@@ -12034,12 +12016,6 @@ const ENGLISH_DATA = {
             "meaning": "adj. 极好的，精彩的，绝妙的；奇妙的；美妙；胜；神妙"
           },
           {
-            "word": "justify",
-            "form": "just",
-            "phonetic": "",
-            "meaning": "v. 证明合法；整理版面 / vt. 证明…是正当的， 认为有理"
-          },
-          {
             "word": "fruit",
             "form": "fruit",
             "phonetic": "",
@@ -12050,6 +12026,30 @@ const ENGLISH_DATA = {
             "form": "experiments",
             "phonetic": "",
             "meaning": "v. 尝试；进行实验 n. 实验，试验；尝试"
+          },
+          {
+            "word": "describe",
+            "form": "described",
+            "phonetic": "/dɪˈskraɪb/",
+            "meaning": "描述；描绘"
+          },
+          {
+            "word": "science",
+            "form": "Science",
+            "phonetic": "/ˈsaɪəns/",
+            "meaning": "科学；理科"
+          },
+          {
+            "word": "time",
+            "form": "Times",
+            "phonetic": "/taɪm/",
+            "meaning": "时间；时代；次数"
+          },
+          {
+            "word": "average",
+            "form": "average",
+            "phonetic": "/「aevarId3/",
+            "meaning": "平均数；三个数的平均数是；一般水平"
           }
         ],
         "phrases": [
@@ -12142,12 +12142,6 @@ const ENGLISH_DATA = {
             "meaning": "杂草"
           },
           {
-            "word": "forest",
-            "form": "for",
-            "phonetic": "/ˈfɒrɪst/",
-            "meaning": "森林"
-          },
-          {
             "word": "setting",
             "form": "setting",
             "phonetic": "/ˈsetɪŋ/",
@@ -12190,22 +12184,28 @@ const ENGLISH_DATA = {
             "meaning": "常规；例行的"
           },
           {
-            "word": "notify",
-            "form": "Not",
-            "phonetic": "",
-            "meaning": "v. 通告，通知；公布 / vt. 通知， 告知； 报告"
-          },
-          {
-            "word": "ruler",
-            "form": "rules",
-            "phonetic": "/ˈruːlə(r)/",
-            "meaning": "尺子；统治者"
-          },
-          {
             "word": "herd",
             "form": "herd",
             "phonetic": "",
             "meaning": "放牧"
+          },
+          {
+            "word": "century",
+            "form": "century",
+            "phonetic": "/ˈsentʃəri/",
+            "meaning": "世纪；百年"
+          },
+          {
+            "word": "sting",
+            "form": "st",
+            "phonetic": "/stɪŋ/",
+            "meaning": "刺；刺痛"
+          },
+          {
+            "word": "evening",
+            "form": "even",
+            "phonetic": "",
+            "meaning": "n. 晚上；傍晚；（联欢性的）晚会；后期 adj. 在晚上的；为晚上的；晚上用的 int. 晚上好（等于good evening）"
           }
         ],
         "phrases": [
@@ -12298,28 +12298,10 @@ const ENGLISH_DATA = {
             "meaning": "有智慧的"
           },
           {
-            "word": "owner",
-            "form": "own",
-            "phonetic": "",
-            "meaning": "n. [经] 所有者；物主"
-          },
-          {
-            "word": "childhood",
-            "form": "child",
-            "phonetic": "/ˈtʃaɪldhʊd/",
-            "meaning": "童年；幼年"
-          },
-          {
             "word": "man",
             "form": "man",
             "phonetic": "/mæn/",
             "meaning": "男人；人类"
-          },
-          {
-            "word": "canal",
-            "form": "can",
-            "phonetic": "",
-            "meaning": "n. 运河；[地理] 水道；[建] 管道；灌溉水渠 v. 在…开凿运河 / n. 运河； 渠"
           },
           {
             "word": "boost",
@@ -12328,40 +12310,58 @@ const ENGLISH_DATA = {
             "meaning": "v. 促进；增加；支援 n. 推动；帮助；宣扬 / vt. 鼓励， 促进；为…做广告， 宣扬 n. 推动； 促进"
           },
           {
-            "word": "to",
-            "form": "to",
-            "phonetic": "",
-            "meaning": "科学家"
-          },
-          {
             "word": "shell",
             "form": "shell",
             "phonetic": "/ʃel/",
             "meaning": "壳；贝壳；炮弹"
           },
           {
-            "word": "outer",
+            "word": "outing",
             "form": "out",
-            "phonetic": "",
-            "meaning": "adj. 外面的，外部的；远离中心的 n. 环外命中 / adj. 外部的， 外面的， 外层的"
-          },
-          {
-            "word": "forest",
-            "form": "for",
-            "phonetic": "/ˈfɒrɪst/",
-            "meaning": "森林"
-          },
-          {
-            "word": "testify",
-            "form": "testing",
-            "phonetic": "",
-            "meaning": "v. 证明，证实；作证 / v. 证明； 证实 <"
+            "phonetic": "/ˈaʊtɪŋ/",
+            "meaning": "远足；外出"
           },
           {
             "word": "kit",
             "form": "kit",
             "phonetic": "",
             "meaning": "n. 工具箱；成套工具 v. 装备 / v. 装备 A n. 成套工具； 配套元件"
+          },
+          {
+            "word": "local",
+            "form": "local",
+            "phonetic": "",
+            "meaning": "adj. 地方的,当地的；局部的 / n. [计] 局部；当地居民；本地新闻 adj. 当地的；局部的；地方性的；乡土的 / adj. 地方的， 当地的；局部的"
+          },
+          {
+            "word": "result",
+            "form": "results",
+            "phonetic": "",
+            "meaning": "结果"
+          },
+          {
+            "word": "available",
+            "form": "available",
+            "phonetic": "/əˈveɪləbl/",
+            "meaning": "可获得的；有空的"
+          },
+          {
+            "word": "accord",
+            "form": "according",
+            "phonetic": "",
+            "meaning": "一致"
+          },
+          {
+            "word": "chief",
+            "form": "chief",
+            "phonetic": "/tʃiːf/",
+            "meaning": "主要的；首领"
+          },
+          {
+            "word": "operate",
+            "form": "operating",
+            "phonetic": "",
+            "meaning": "v. 运转；动手术；起作用"
           }
         ],
         "phrases": [
@@ -12466,22 +12466,16 @@ const ENGLISH_DATA = {
             "meaning": "n. 关系；关联 / n. 关系， 联系"
           },
           {
-            "word": "form",
-            "form": "formal",
-            "phonetic": "/fom/",
-            "meaning": "形状"
-          },
-          {
             "word": "education",
             "form": "education",
             "phonetic": "",
             "meaning": "n. 教育,培养"
           },
           {
-            "word": "economical",
+            "word": "economics",
             "form": "economic",
-            "phonetic": "/ˌiːkəˈnɒmɪkl/",
-            "meaning": "经济的；节俭的"
+            "phonetic": "/,irka「nomiks;eka-/",
+            "meaning": "经济学"
           },
           {
             "word": "growth",
@@ -12508,12 +12502,6 @@ const ENGLISH_DATA = {
             "meaning": "进步；进展"
           },
           {
-            "word": "bother",
-            "form": "both",
-            "phonetic": "/「bo6a(r)/",
-            "meaning": "打扰"
-          },
-          {
             "word": "undoubtedly",
             "form": "undoubtedly",
             "phonetic": "/An「 dautrdli/",
@@ -12526,10 +12514,22 @@ const ENGLISH_DATA = {
             "meaning": "adj. 必要的；必需的；必然的 n. 必需品"
           },
           {
-            "word": "forest",
-            "form": "for",
-            "phonetic": "/ˈfɒrɪst/",
-            "meaning": "森林"
+            "word": "social",
+            "form": "social",
+            "phonetic": "/ˈsəʊʃl/",
+            "meaning": "社会的；社交的"
+          },
+          {
+            "word": "political",
+            "form": "political",
+            "phonetic": "/pahHtug/",
+            "meaning": "政治的"
+          },
+          {
+            "word": "intellectual",
+            "form": "intellectual",
+            "phonetic": "",
+            "meaning": "知识分子"
           }
         ],
         "phrases": [
@@ -12664,12 +12664,6 @@ const ENGLISH_DATA = {
             "meaning": "政治的"
           },
           {
-            "word": "leadership",
-            "form": "leaders",
-            "phonetic": "",
-            "meaning": "n. 领导能力；领导阶层 / n. 领导"
-          },
-          {
             "word": "century",
             "form": "century",
             "phonetic": "/ˈsentʃəri/",
@@ -12682,12 +12676,6 @@ const ENGLISH_DATA = {
             "meaning": "一致"
           },
           {
-            "word": "to",
-            "form": "to",
-            "phonetic": "",
-            "meaning": "科学家"
-          },
-          {
             "word": "standard",
             "form": "standard",
             "phonetic": "/「stsendad/",
@@ -12698,6 +12686,18 @@ const ENGLISH_DATA = {
             "form": "nowhere",
             "phonetic": "",
             "meaning": "adv. 任何地方都不， 没有地方 <"
+          },
+          {
+            "word": "colonial",
+            "form": "colonial",
+            "phonetic": "/kəˈləʊniəl/",
+            "meaning": "殖民的；殖民地时期的"
+          },
+          {
+            "word": "import",
+            "form": "importance",
+            "phonetic": "/Im「 po:t/",
+            "meaning": "进口"
           }
         ],
         "phrases": []
@@ -12730,12 +12730,6 @@ const ENGLISH_DATA = {
             "meaning": "adj. 其次的，接着的；下列的，下述的 / adj. 接着的， 下列的"
           },
           {
-            "word": "texture",
-            "form": "text",
-            "phonetic": "",
-            "meaning": "n. 质地；纹理；结构；本质，实质 / n. 质地， 纹理， 结构"
-          },
-          {
             "word": "segment",
             "form": "segments",
             "phonetic": "",
@@ -12746,12 +12740,6 @@ const ENGLISH_DATA = {
             "form": "removed",
             "phonetic": "",
             "meaning": "v. 移动；脱掉；免职 / v. 移动，迁移；开除；调动 n. 移动；距离；搬家"
-          },
-          {
-            "word": "forest",
-            "form": "For",
-            "phonetic": "/ˈfɒrɪst/",
-            "meaning": "森林"
           },
           {
             "word": "mostly",
@@ -12766,12 +12754,6 @@ const ENGLISH_DATA = {
             "meaning": "合适的"
           },
           {
-            "word": "to",
-            "form": "to",
-            "phonetic": "",
-            "meaning": "科学家"
-          },
-          {
             "word": "blank",
             "form": "blanks",
             "phonetic": "",
@@ -12782,6 +12764,24 @@ const ENGLISH_DATA = {
             "form": "extra",
             "phonetic": "",
             "meaning": "adv. 特别地，非常；另外 n. 临时演员；号外；额外的事物；上等产品 adj. 额外的，另外收费的；特大的"
+          },
+          {
+            "word": "coincide",
+            "form": "Coinciding",
+            "phonetic": "",
+            "meaning": "v. 同时发生；巧合；一致；相符； / v. 一致，符合；同时发生 / vi. 和…一致， 相符， 相同"
+          },
+          {
+            "word": "theory",
+            "form": "theory",
+            "phonetic": "",
+            "meaning": "n. 理论； 原理； 学说；见解， 看法"
+          },
+          {
+            "word": "social",
+            "form": "social",
+            "phonetic": "/ˈsəʊʃl/",
+            "meaning": "社会的；社交的"
           }
         ],
         "phrases": [
@@ -12986,12 +12986,6 @@ const ENGLISH_DATA = {
             "meaning": "句子"
           },
           {
-            "word": "to",
-            "form": "to",
-            "phonetic": "",
-            "meaning": "科学家"
-          },
-          {
             "word": "supervise",
             "form": "supervise",
             "phonetic": "",
@@ -13038,6 +13032,12 @@ const ENGLISH_DATA = {
             "form": "hoped",
             "phonetic": "/ˈhəʊpfl/",
             "meaning": "有希望的"
+          },
+          {
+            "word": "shop",
+            "form": "shop",
+            "phonetic": "",
+            "meaning": "n. 商店；店铺 v. 购物"
           }
         ],
         "phrases": []
@@ -13125,12 +13125,6 @@ const ENGLISH_DATA = {
             "meaning": "n. 报纸"
           },
           {
-            "word": "durable",
-            "form": "during",
-            "phonetic": "/「diuarabl/",
-            "meaning": "耐用的；持久的"
-          },
-          {
             "word": "past",
             "form": "past",
             "phonetic": "",
@@ -13149,22 +13143,10 @@ const ENGLISH_DATA = {
             "meaning": "adv. 主要地， 大部分， 通常"
           },
           {
-            "word": "hasty",
-            "form": "has",
-            "phonetic": "/「hersti/",
-            "meaning": "匆忙的"
-          },
-          {
             "word": "scope",
             "form": "scope",
             "phonetic": "",
             "meaning": "n. 范围；余地；视野；眼界；导弹射程 v. 审视 / n. 范围；机会； 余地"
-          },
-          {
-            "word": "artist",
-            "form": "arts",
-            "phonetic": "/ˈɑːtɪst/",
-            "meaning": "艺术家；画家"
           },
           {
             "word": "difficult",
@@ -13173,22 +13155,40 @@ const ENGLISH_DATA = {
             "meaning": "困难的；费力的；不友好的；难相处的；难对付的"
           },
           {
-            "word": "to",
-            "form": "to",
-            "phonetic": "",
-            "meaning": "科学家"
-          },
-          {
-            "word": "forest",
-            "form": "for",
-            "phonetic": "/ˈfɒrɪst/",
-            "meaning": "森林"
-          },
-          {
             "word": "average",
             "form": "average",
             "phonetic": "/「aevarId3/",
             "meaning": "平均数；三个数的平均数是；一般水平"
+          },
+          {
+            "word": "reader",
+            "form": "reader",
+            "phonetic": "/ˈriːdə(r)/",
+            "meaning": "读者；读本"
+          },
+          {
+            "word": "time",
+            "form": "time",
+            "phonetic": "/taɪm/",
+            "meaning": "时间；时代；次数"
+          },
+          {
+            "word": "highly",
+            "form": "high",
+            "phonetic": "/ˈhaɪli/",
+            "meaning": "非常；高度地"
+          },
+          {
+            "word": "considerable",
+            "form": "considerable",
+            "phonetic": "",
+            "meaning": "adj. 相当大(或多)的,可观的 / adj. 相当大的；重要的，值得考虑的 / adj. 相当大的， 可观的；值得考虑的， 重要的"
+          },
+          {
+            "word": "significant",
+            "form": "significant",
+            "phonetic": "/sɪɡˈnɪfɪkənt/",
+            "meaning": "重要的；有意义的"
           }
         ],
         "phrases": [
@@ -13307,12 +13307,6 @@ const ENGLISH_DATA = {
             "meaning": "专利"
           },
           {
-            "word": "forest",
-            "form": "for",
-            "phonetic": "/ˈfɒrɪst/",
-            "meaning": "森林"
-          },
-          {
             "word": "call",
             "form": "called",
             "phonetic": "",
@@ -13323,12 +13317,6 @@ const ENGLISH_DATA = {
             "form": "methods",
             "phonetic": "",
             "meaning": "n. 方法,办法 / n. 方法；条理；类函数 adj. 使用体验派表演方法的"
-          },
-          {
-            "word": "comment",
-            "form": "com",
-            "phonetic": "",
-            "meaning": "v. 注释； 评论 n. 注释； 评论； 意见"
           },
           {
             "word": "click",
@@ -13353,6 +13341,18 @@ const ENGLISH_DATA = {
             "form": "technique",
             "phonetic": "",
             "meaning": "n. 技巧，手艺，工艺；技能，技术 / n. 技巧，技术；手法"
+          },
+          {
+            "word": "lift",
+            "form": "lifting",
+            "phonetic": "/lɪft/",
+            "meaning": "举起；电梯；搭便车"
+          },
+          {
+            "word": "court",
+            "form": "court",
+            "phonetic": "/hkoxt/",
+            "meaning": "法院"
           }
         ],
         "phrases": [
@@ -13455,12 +13455,6 @@ const ENGLISH_DATA = {
             "meaning": "社会的；社交的"
           },
           {
-            "word": "driver",
-            "form": "driven",
-            "phonetic": "",
-            "meaning": "n. 驾驶员；驱动程序；起子；传动器"
-          },
-          {
             "word": "largely",
             "form": "large",
             "phonetic": "",
@@ -13513,6 +13507,12 @@ const ENGLISH_DATA = {
             "form": "informed",
             "phonetic": "",
             "meaning": "v. (of,about)通知,告诉,报告 / v. 通知；告诉；报告 / vi. 告发， 告密 vt. 通知， 告诉， 报告"
+          },
+          {
+            "word": "compel",
+            "form": "compelling",
+            "phonetic": "",
+            "meaning": "v. 强迫，迫使；强使发生 n. (Compel)人名；(法)孔佩尔 / vt. 强迫， 迫使"
           }
         ],
         "phrases": [
@@ -13617,12 +13617,6 @@ const ENGLISH_DATA = {
             "meaning": "v. 责备；归咎于 n. 责备；责任；过失"
           },
           {
-            "word": "forest",
-            "form": "for",
-            "phonetic": "/ˈfɒrɪst/",
-            "meaning": "森林"
-          },
-          {
             "word": "trouble",
             "form": "troubles",
             "phonetic": "",
@@ -13647,12 +13641,6 @@ const ENGLISH_DATA = {
             "meaning": "品质的"
           },
           {
-            "word": "ruler",
-            "form": "rules",
-            "phonetic": "/ˈruːlə(r)/",
-            "meaning": "尺子；统治者"
-          },
-          {
             "word": "moan",
             "form": "moan",
             "phonetic": "",
@@ -13665,12 +13653,6 @@ const ENGLISH_DATA = {
             "meaning": "岸；堤；银行；库；存人银行"
           },
           {
-            "word": "to",
-            "form": "to",
-            "phonetic": "",
-            "meaning": "科学家"
-          },
-          {
             "word": "report",
             "form": "report",
             "phonetic": "",
@@ -13681,6 +13663,24 @@ const ENGLISH_DATA = {
             "form": "losses",
             "phonetic": "/lɒs/",
             "meaning": "损失；丢失"
+          },
+          {
+            "word": "fair",
+            "form": "fair",
+            "phonetic": "/feə(r)/",
+            "meaning": "公平的；集市；博览会"
+          },
+          {
+            "word": "price",
+            "form": "price",
+            "phonetic": "/praɪs/",
+            "meaning": "价格；代价"
+          },
+          {
+            "word": "party",
+            "form": "party",
+            "phonetic": "/ˈpɑːti/",
+            "meaning": "聚会；政党；一方"
           }
         ],
         "phrases": [
@@ -13706,16 +13706,10 @@ const ENGLISH_DATA = {
             "meaning": "更喜欢；宁愿"
           },
           {
-            "word": "forest",
-            "form": "for",
-            "phonetic": "/ˈfɒrɪst/",
-            "meaning": "森林"
-          },
-          {
-            "word": "outer",
+            "word": "outing",
             "form": "out",
-            "phonetic": "",
-            "meaning": "adj. 外面的，外部的；远离中心的 n. 环外命中 / adj. 外部的， 外面的， 外层的"
+            "phonetic": "/ˈaʊtɪŋ/",
+            "meaning": "远足；外出"
           },
           {
             "word": "consumption",
@@ -13730,22 +13724,10 @@ const ENGLISH_DATA = {
             "meaning": "v. 喝，饮；吸收；举杯庆贺 n. 酒，饮料；喝酒"
           },
           {
-            "word": "hasty",
-            "form": "has",
-            "phonetic": "/「hersti/",
-            "meaning": "匆忙的"
-          },
-          {
             "word": "total",
             "form": "total",
             "phonetic": "",
             "meaning": "总数"
-          },
-          {
-            "word": "to",
-            "form": "to",
-            "phonetic": "",
-            "meaning": "科学家"
           },
           {
             "word": "expect",
@@ -13770,6 +13752,24 @@ const ENGLISH_DATA = {
             "form": "service",
             "phonetic": "",
             "meaning": "服务；维修"
+          },
+          {
+            "word": "segment",
+            "form": "segment",
+            "phonetic": "",
+            "meaning": "v. 分割 n. 段；部分 / n. 段； 片； 节；部分"
+          },
+          {
+            "word": "comparable",
+            "form": "compared",
+            "phonetic": "",
+            "meaning": "adj. 类似的，相当的；可相比的 / adj. 可比较的；比得上的 / adj. 可比较的， 比得上的 <"
+          },
+          {
+            "word": "growth",
+            "form": "growth",
+            "phonetic": "/gtsbe/",
+            "meaning": "生长"
           }
         ],
         "phrases": [
@@ -13956,28 +13956,10 @@ const ENGLISH_DATA = {
             "meaning": "方向"
           },
           {
-            "word": "reader",
-            "form": "Read",
-            "phonetic": "/ˈriːdə(r)/",
-            "meaning": "读者；读本"
-          },
-          {
             "word": "following",
             "form": "following",
             "phonetic": "",
             "meaning": "adj. 其次的，接着的；下列的，下述的 / adj. 接着的， 下列的"
-          },
-          {
-            "word": "texture",
-            "form": "text",
-            "phonetic": "",
-            "meaning": "n. 质地；纹理；结构；本质，实质 / n. 质地， 纹理， 结构"
-          },
-          {
-            "word": "forest",
-            "form": "for",
-            "phonetic": "/ˈfɒrɪst/",
-            "meaning": "森林"
           },
           {
             "word": "blank",
@@ -14004,16 +13986,34 @@ const ENGLISH_DATA = {
             "meaning": "n. 运动；练习；运用；操练；礼拜；典礼 v. 锻炼；练习；使用；使忙碌；使惊恐"
           },
           {
-            "word": "to",
-            "form": "to",
-            "phonetic": "",
-            "meaning": "科学家"
-          },
-          {
             "word": "claim",
             "form": "claims",
             "phonetic": "/kleɪm/",
             "meaning": "声称；索赔；要求"
+          },
+          {
+            "word": "contrary",
+            "form": "contrary",
+            "phonetic": "",
+            "meaning": "adj. 相反的；对立的 adv. 相反地 n. 相反；反面 / adj. 相反的， 矛盾的， 对抗的 n. 矛盾， 反对；相反， 反面；对立物， 对立面"
+          },
+          {
+            "word": "laugh",
+            "form": "laughing",
+            "phonetic": "",
+            "meaning": "n. 笑；引人发笑的事或人 v. 笑"
+          },
+          {
+            "word": "influence",
+            "form": "influence",
+            "phonetic": "",
+            "meaning": "n. 影响；势力；感化；有影响的人或事 v. 影响；改变 / n. 影响； 作用；势力， 权势 vt. 影响， 感化"
+          },
+          {
+            "word": "physical",
+            "form": "physical",
+            "phonetic": "/ˈfɪzɪkl/",
+            "meaning": "身体的；物理的"
           }
         ],
         "phrases": [
@@ -14104,12 +14104,6 @@ const ENGLISH_DATA = {
       "vocab": {
         "words": [
           {
-            "word": "to",
-            "form": "to",
-            "phonetic": "",
-            "meaning": "科学家"
-          },
-          {
             "word": "hire",
             "form": "hire",
             "phonetic": "/ˈhaɪə(r)/",
@@ -14122,12 +14116,6 @@ const ENGLISH_DATA = {
             "meaning": "导演；主任；董事"
           },
           {
-            "word": "hasty",
-            "form": "has",
-            "phonetic": "/「hersti/",
-            "meaning": "匆忙的"
-          },
-          {
             "word": "classical",
             "form": "classical",
             "phonetic": "/ˈklæsɪkl/",
@@ -14138,12 +14126,6 @@ const ENGLISH_DATA = {
             "form": "sudden",
             "phonetic": "",
             "meaning": "adj. 突然的，意外的；快速的 n. 突然发生的事 / adj. 突然的， 意外的 n. 突然发生的事"
-          },
-          {
-            "word": "forest",
-            "form": "For",
-            "phonetic": "/ˈfɒrɪst/",
-            "meaning": "森林"
           },
           {
             "word": "mostly",
@@ -14174,6 +14156,24 @@ const ENGLISH_DATA = {
             "form": "sided",
             "phonetic": "",
             "meaning": "n. 边，面，侧 v. 支持"
+          },
+          {
+            "word": "critic",
+            "form": "critic",
+            "phonetic": "",
+            "meaning": "批评者；爱挑剔的人"
+          },
+          {
+            "word": "surprise",
+            "form": "surprise",
+            "phonetic": "/sa「 pralz/",
+            "meaning": "诧异"
+          },
+          {
+            "word": "comparative",
+            "form": "comparatively",
+            "phonetic": "",
+            "meaning": "adj. 比较的,相比的 / adj. 比较的；相当的 n. 比较级；对手 / adj. 比较的， 相当的 <"
           }
         ],
         "phrases": []
@@ -14309,22 +14309,22 @@ const ENGLISH_DATA = {
             "meaning": "n. 借口；理由 v. 原谅；为…申辩；给…免去"
           },
           {
-            "word": "outer",
+            "word": "outing",
             "form": "out",
-            "phonetic": "",
-            "meaning": "adj. 外面的，外部的；远离中心的 n. 环外命中 / adj. 外部的， 外面的， 外层的"
-          },
-          {
-            "word": "to",
-            "form": "to",
-            "phonetic": "",
-            "meaning": "科学家"
+            "phonetic": "/ˈaʊtɪŋ/",
+            "meaning": "远足；外出"
           },
           {
             "word": "company",
             "form": "company",
             "phonetic": "/「kAmpani/",
             "meaning": "公司"
+          },
+          {
+            "word": "broadcast",
+            "form": "Broadcasting",
+            "phonetic": "/ˈbrɔːdkɑːst/",
+            "meaning": "广播；传播"
           }
         ],
         "phrases": [
@@ -14429,12 +14429,6 @@ const ENGLISH_DATA = {
             "meaning": "指导；导游；指南"
           },
           {
-            "word": "to",
-            "form": "to",
-            "phonetic": "",
-            "meaning": "科学家"
-          },
-          {
             "word": "market",
             "form": "marketing",
             "phonetic": "",
@@ -14445,18 +14439,6 @@ const ENGLISH_DATA = {
             "form": "success",
             "phonetic": "/səkˈsesfl/",
             "meaning": "成功的"
-          },
-          {
-            "word": "being",
-            "form": "be",
-            "phonetic": "",
-            "meaning": "n. 生物；存在， 生存"
-          },
-          {
-            "word": "forest",
-            "form": "for",
-            "phonetic": "/ˈfɒrɪst/",
-            "meaning": "森林"
           },
           {
             "word": "commercial",
@@ -14483,16 +14465,34 @@ const ENGLISH_DATA = {
             "meaning": "公司"
           },
           {
-            "word": "canal",
-            "form": "can",
-            "phonetic": "",
-            "meaning": "n. 运河；[地理] 水道；[建] 管道；灌溉水渠 v. 在…开凿运河 / n. 运河； 渠"
-          },
-          {
             "word": "exploit",
             "form": "exploit",
             "phonetic": "",
             "meaning": "v. 开发，开拓；剥削；开采 n. 勋绩；功绩 / vt. 开拓， 开发"
+          },
+          {
+            "word": "form",
+            "form": "forms",
+            "phonetic": "/fom/",
+            "meaning": "形状"
+          },
+          {
+            "word": "create",
+            "form": "create",
+            "phonetic": "/kriˈeɪt/",
+            "meaning": "创造；创建"
+          },
+          {
+            "word": "earn",
+            "form": "earned",
+            "phonetic": "",
+            "meaning": "v. 赚，赚得；获得，挣得；使得到；博得 n. (Earn)人名；(泰)炎"
+          },
+          {
+            "word": "friendly",
+            "form": "friends",
+            "phonetic": "/ˈfrendli/",
+            "meaning": "友好的；亲切的"
           }
         ],
         "phrases": [
@@ -14631,12 +14631,6 @@ const ENGLISH_DATA = {
             "meaning": "n. 建议；示意；微量，细微的迹象"
           },
           {
-            "word": "childhood",
-            "form": "child",
-            "phonetic": "/ˈtʃaɪldhʊd/",
-            "meaning": "童年；幼年"
-          },
-          {
             "word": "experience",
             "form": "experience",
             "phonetic": "/ɪkˈspɪəriəns/",
@@ -14653,6 +14647,12 @@ const ENGLISH_DATA = {
             "form": "parents",
             "phonetic": "",
             "meaning": "n. 父母,母亲；母体"
+          },
+          {
+            "word": "miserable",
+            "form": "miserable",
+            "phonetic": "/“mrzrabl/",
+            "meaning": "痛苦的"
           }
         ],
         "phrases": [
@@ -14688,16 +14688,10 @@ const ENGLISH_DATA = {
       "vocab": {
         "words": [
           {
-            "word": "canal",
-            "form": "can",
-            "phonetic": "",
-            "meaning": "n. 运河；[地理] 水道；[建] 管道；灌溉水渠 v. 在…开凿运河 / n. 运河； 渠"
-          },
-          {
-            "word": "outer",
+            "word": "outing",
             "form": "out",
-            "phonetic": "",
-            "meaning": "adj. 外面的，外部的；远离中心的 n. 环外命中 / adj. 外部的， 外面的， 外层的"
+            "phonetic": "/ˈaʊtɪŋ/",
+            "meaning": "远足；外出"
           },
           {
             "word": "lawyer",
@@ -14730,18 +14724,6 @@ const ENGLISH_DATA = {
             "meaning": "时间；时代；次数"
           },
           {
-            "word": "to",
-            "form": "to",
-            "phonetic": "",
-            "meaning": "科学家"
-          },
-          {
-            "word": "notify",
-            "form": "Not",
-            "phonetic": "",
-            "meaning": "v. 通告，通知；公布 / vt. 通知， 告知； 报告"
-          },
-          {
             "word": "student",
             "form": "students",
             "phonetic": "",
@@ -14758,6 +14740,24 @@ const ENGLISH_DATA = {
             "form": "literature",
             "phonetic": "",
             "meaning": "n. 文学；文献；文艺；著作 / n. 文学， 文学作品； 文献"
+          },
+          {
+            "word": "style",
+            "form": "style",
+            "phonetic": "/staɪl/",
+            "meaning": "风格；样式"
+          },
+          {
+            "word": "college",
+            "form": "college",
+            "phonetic": "/ˈkɒlɪdʒ/",
+            "meaning": "大学；学院"
+          },
+          {
+            "word": "majority",
+            "form": "major",
+            "phonetic": "",
+            "meaning": "n. 多数；成年 / n. 多数， 大多数；【律】 成年"
           }
         ],
         "phrases": []
@@ -14927,40 +14927,16 @@ const ENGLISH_DATA = {
             "meaning": "方向"
           },
           {
-            "word": "reader",
-            "form": "Read",
-            "phonetic": "/ˈriːdə(r)/",
-            "meaning": "读者；读本"
-          },
-          {
             "word": "following",
             "form": "following",
             "phonetic": "",
             "meaning": "adj. 其次的，接着的；下列的，下述的 / adj. 接着的， 下列的"
           },
           {
-            "word": "texture",
-            "form": "text",
-            "phonetic": "",
-            "meaning": "n. 质地；纹理；结构；本质，实质 / n. 质地， 纹理， 结构"
-          },
-          {
-            "word": "forest",
-            "form": "for",
-            "phonetic": "/ˈfɒrɪst/",
-            "meaning": "森林"
-          },
-          {
             "word": "blank",
             "form": "blank",
             "phonetic": "",
             "meaning": "空自的"
-          },
-          {
-            "word": "ethic",
-            "form": "ethical",
-            "phonetic": "",
-            "meaning": "道德体系"
           },
           {
             "word": "judgment",
@@ -14985,6 +14961,30 @@ const ENGLISH_DATA = {
             "form": "justices",
             "phonetic": "",
             "meaning": "n. 司法，法律制裁；正义；法官，审判员 / n. 正义； 公平；审判， 司法， 法律制裁"
+          },
+          {
+            "word": "issue",
+            "form": "issue",
+            "phonetic": "",
+            "meaning": "放出；发行；月"
+          },
+          {
+            "word": "law",
+            "form": "law",
+            "phonetic": "",
+            "meaning": "n. 法律,法规,法学,规律,定律 / n. 法律；规律；法治；法学；诉讼；司法界 vi. 起诉；控告 vt. 控告；对…起诉"
+          },
+          {
+            "word": "behave",
+            "form": "behave",
+            "phonetic": "/br hervja(r)/",
+            "meaning": "举止端正"
+          },
+          {
+            "word": "likely",
+            "form": "like",
+            "phonetic": "/larkli/",
+            "meaning": "很可能的"
           }
         ],
         "phrases": [
@@ -15101,12 +15101,6 @@ const ENGLISH_DATA = {
             "meaning": "adj. 领导的；主要的 n. 领导；铅板；行距 v. 领导（lead的ing形式） / adj. 处于领导地位的， 前列的；首位的， 领衔的；最主要的"
           },
           {
-            "word": "to",
-            "form": "to",
-            "phonetic": "",
-            "meaning": "科学家"
-          },
-          {
             "word": "goodness",
             "form": "good",
             "phonetic": "/ˈɡʊdnəs/",
@@ -15131,16 +15125,22 @@ const ENGLISH_DATA = {
             "meaning": "性别；性"
           },
           {
-            "word": "her",
-            "form": "her",
-            "phonetic": "",
-            "meaning": "小女孩因母亲的逝世悲仿得几乎晕倒在坟前"
-          },
-          {
             "word": "join",
             "form": "Join",
             "phonetic": "/dsom/",
             "meaning": "参加；加人；连接；接合"
+          },
+          {
+            "word": "club",
+            "form": "Club",
+            "phonetic": "",
+            "meaning": "n. 俱乐部，社团；夜总会；棍棒；（扑克牌中的）梅花 v. 用棍棒打；募集 adj. 俱乐部的"
+          },
+          {
+            "word": "contend",
+            "form": "contends",
+            "phonetic": "",
+            "meaning": "v. 竞争；奋斗；斗争；争论 / vi. 竞争； 斗争 vt. 坚决主张"
           }
         ],
         "phrases": [
@@ -15279,12 +15279,6 @@ const ENGLISH_DATA = {
             "meaning": "承诺；犯（罪）；投入"
           },
           {
-            "word": "to",
-            "form": "to",
-            "phonetic": "",
-            "meaning": "科学家"
-          },
-          {
             "word": "abide",
             "form": "abide",
             "phonetic": "/əˈbaɪd/",
@@ -15301,6 +15295,12 @@ const ENGLISH_DATA = {
             "form": "nuclear",
             "phonetic": "",
             "meaning": "adj. 原子能的；[细胞] 细胞核的；中心的；原子核的 / adj. 核心的， 中心的；原子核的， 核能的 <"
+          },
+          {
+            "word": "regulation",
+            "form": "regulations",
+            "phonetic": "/ˌreɡjuˈleɪʃn/",
+            "meaning": "规章；管理"
           }
         ],
         "phrases": [
@@ -15509,18 +15509,6 @@ const ENGLISH_DATA = {
             "meaning": "等待；等候"
           },
           {
-            "word": "to",
-            "form": "to",
-            "phonetic": "",
-            "meaning": "科学家"
-          },
-          {
-            "word": "being",
-            "form": "be",
-            "phonetic": "",
-            "meaning": "n. 生物；存在， 生存"
-          },
-          {
             "word": "collect",
             "form": "collected",
             "phonetic": "/ka「lekt/",
@@ -15545,10 +15533,10 @@ const ENGLISH_DATA = {
             "meaning": "n. 方法,办法 / n. 方法；条理；类函数 adj. 使用体验派表演方法的"
           },
           {
-            "word": "outer",
+            "word": "outing",
             "form": "out",
-            "phonetic": "",
-            "meaning": "adj. 外面的，外部的；远离中心的 n. 环外命中 / adj. 外部的， 外面的， 外层的"
+            "phonetic": "/ˈaʊtɪŋ/",
+            "meaning": "远足；外出"
           },
           {
             "word": "everyday",
@@ -15561,6 +15549,18 @@ const ENGLISH_DATA = {
             "form": "discovery",
             "phonetic": "",
             "meaning": "n. 被发现的事物；发现 / n. 发现，发觉；被发现的事物"
+          },
+          {
+            "word": "follow",
+            "form": "follows",
+            "phonetic": "",
+            "meaning": "v. 跟随；接着"
+          },
+          {
+            "word": "complicate",
+            "form": "complicated",
+            "phonetic": "/ˈkɒmplɪkeɪt/",
+            "meaning": "使复杂化"
           }
         ],
         "phrases": [
@@ -15862,28 +15862,10 @@ const ENGLISH_DATA = {
             "meaning": "方向"
           },
           {
-            "word": "reader",
-            "form": "Read",
-            "phonetic": "/ˈriːdə(r)/",
-            "meaning": "读者；读本"
-          },
-          {
             "word": "following",
             "form": "following",
             "phonetic": "",
             "meaning": "adj. 其次的，接着的；下列的，下述的 / adj. 接着的， 下列的"
-          },
-          {
-            "word": "texture",
-            "form": "text",
-            "phonetic": "",
-            "meaning": "n. 质地；纹理；结构；本质，实质 / n. 质地， 纹理， 结构"
-          },
-          {
-            "word": "forest",
-            "form": "for",
-            "phonetic": "/ˈfɒrɪst/",
-            "meaning": "森林"
           },
           {
             "word": "blank",
@@ -15920,6 +15902,24 @@ const ENGLISH_DATA = {
             "form": "strength",
             "phonetic": "/streŋθ/",
             "meaning": "力量；优势"
+          },
+          {
+            "word": "ability",
+            "form": "ability",
+            "phonetic": "/arbmati/",
+            "meaning": "能力"
+          },
+          {
+            "word": "judgment",
+            "form": "judgments",
+            "phonetic": "",
+            "meaning": "n. 审判， 判决；判断力， 识别力； 看法， 意见"
+          },
+          {
+            "word": "factor",
+            "form": "factors",
+            "phonetic": "/ˈfæktə(r)/",
+            "meaning": "因素；因子"
           }
         ],
         "phrases": [
@@ -16018,22 +16018,10 @@ const ENGLISH_DATA = {
             "meaning": "责骂；训斥"
           },
           {
-            "word": "her",
-            "form": "her",
-            "phonetic": "",
-            "meaning": "小女孩因母亲的逝世悲仿得几乎晕倒在坟前"
-          },
-          {
             "word": "assistant",
             "form": "assistant",
             "phonetic": "/o「srstont/",
             "meaning": "助手"
-          },
-          {
-            "word": "forest",
-            "form": "for",
-            "phonetic": "/ˈfɒrɪst/",
-            "meaning": "森林"
           },
           {
             "word": "highly",
@@ -16072,10 +16060,22 @@ const ENGLISH_DATA = {
             "meaning": "下来"
           },
           {
-            "word": "shower",
-            "form": "shows",
-            "phonetic": "/ˈʃaʊə(r)/",
-            "meaning": "淋浴；阵雨"
+            "word": "department",
+            "form": "department",
+            "phonetic": "",
+            "meaning": "n. 部,局,处,科,部门;系,学部 / n. 部；部门；系；科；局"
+          },
+          {
+            "word": "store",
+            "form": "stores",
+            "phonetic": "",
+            "meaning": "商店"
+          },
+          {
+            "word": "bin",
+            "form": "bin",
+            "phonetic": "/bin/",
+            "meaning": "箱柜"
           }
         ],
         "phrases": [
@@ -16166,12 +16166,6 @@ const ENGLISH_DATA = {
       "vocab": {
         "words": [
           {
-            "word": "hasty",
-            "form": "has",
-            "phonetic": "/「hersti/",
-            "meaning": "匆忙的"
-          },
-          {
             "word": "trouble",
             "form": "trouble",
             "phonetic": "",
@@ -16184,28 +16178,10 @@ const ENGLISH_DATA = {
             "meaning": "n. 理论； 原理； 学说；见解， 看法"
           },
           {
-            "word": "canal",
-            "form": "can",
-            "phonetic": "",
-            "meaning": "n. 运河；[地理] 水道；[建] 管道；灌溉水渠 v. 在…开凿运河 / n. 运河； 渠"
-          },
-          {
-            "word": "being",
-            "form": "be",
-            "phonetic": "",
-            "meaning": "n. 生物；存在， 生存"
-          },
-          {
             "word": "search",
             "form": "search",
             "phonetic": "/sɜːtʃ/",
             "meaning": "搜索；寻找"
-          },
-          {
-            "word": "forest",
-            "form": "for",
-            "phonetic": "/ˈfɒrɪst/",
-            "meaning": "森林"
           },
           {
             "word": "click",
@@ -16236,6 +16212,30 @@ const ENGLISH_DATA = {
             "form": "likely",
             "phonetic": "/larkli/",
             "meaning": "很可能的"
+          },
+          {
+            "word": "past",
+            "form": "past",
+            "phonetic": "",
+            "meaning": "n. 过去；往事 adj. 过去的；结束的 prep. 越过；晚于 adv. 过；经过"
+          },
+          {
+            "word": "couple",
+            "form": "couple",
+            "phonetic": "/ˈkʌpl/",
+            "meaning": "一对；夫妻；几个"
+          },
+          {
+            "word": "fine",
+            "form": "fine",
+            "phonetic": "",
+            "meaning": "普朗的"
+          },
+          {
+            "word": "information",
+            "form": "information",
+            "phonetic": "",
+            "meaning": "n. 情报,资料,消息;信息"
           }
         ],
         "phrases": [
@@ -16374,12 +16374,6 @@ const ENGLISH_DATA = {
             "meaning": "adj. 领导的；主要的 n. 领导；铅板；行距 v. 领导（lead的ing形式） / adj. 处于领导地位的， 前列的；首位的， 领衔的；最主要的"
           },
           {
-            "word": "to",
-            "form": "to",
-            "phonetic": "",
-            "meaning": "科学家"
-          },
-          {
             "word": "living",
             "form": "lives",
             "phonetic": "/Uvm/",
@@ -16392,10 +16386,16 @@ const ENGLISH_DATA = {
             "meaning": "n. 机会 / n. 时机，机会"
           },
           {
-            "word": "forest",
-            "form": "for",
-            "phonetic": "/ˈfɒrɪst/",
-            "meaning": "森林"
+            "word": "weed",
+            "form": "we",
+            "phonetic": "",
+            "meaning": "杂草"
+          },
+          {
+            "word": "threat",
+            "form": "threats",
+            "phonetic": "/θret/",
+            "meaning": "威胁；恐吓"
           }
         ],
         "phrases": [
@@ -16486,12 +16486,6 @@ const ENGLISH_DATA = {
       "vocab": {
         "words": [
           {
-            "word": "to",
-            "form": "to",
-            "phonetic": "",
-            "meaning": "科学家"
-          },
-          {
             "word": "supreme",
             "form": "Supreme",
             "phonetic": "/suzprimisjur-/",
@@ -16504,10 +16498,10 @@ const ENGLISH_DATA = {
             "meaning": "法院"
           },
           {
-            "word": "outer",
+            "word": "outing",
             "form": "out",
-            "phonetic": "",
-            "meaning": "adj. 外面的，外部的；远离中心的 n. 环外命中 / adj. 外部的， 外面的， 外层的"
+            "phonetic": "/ˈaʊtɪŋ/",
+            "meaning": "远足；外出"
           },
           {
             "word": "law",
@@ -16534,12 +16528,6 @@ const ENGLISH_DATA = {
             "meaning": "胜利"
           },
           {
-            "word": "forest",
-            "form": "for",
-            "phonetic": "/ˈfɒrɪst/",
-            "meaning": "森林"
-          },
-          {
             "word": "matter",
             "form": "matter",
             "phonetic": "",
@@ -16556,6 +16544,18 @@ const ENGLISH_DATA = {
             "form": "defeat",
             "phonetic": "",
             "meaning": "战胜"
+          },
+          {
+            "word": "effort",
+            "form": "effort",
+            "phonetic": "",
+            "meaning": "n. 努力；成就"
+          },
+          {
+            "word": "upset",
+            "form": "upset",
+            "phonetic": "/ʌpˈset/",
+            "meaning": "使心烦；打乱"
           }
         ],
         "phrases": [
@@ -16603,12 +16603,6 @@ const ENGLISH_DATA = {
             "meaning": "n. 科学家"
           },
           {
-            "word": "bother",
-            "form": "both",
-            "phonetic": "/「bo6a(r)/",
-            "meaning": "打扰"
-          },
-          {
             "word": "inside",
             "form": "inside",
             "phonetic": "/ˌɪnˈsaɪd/",
@@ -16627,28 +16621,34 @@ const ENGLISH_DATA = {
             "meaning": "一致"
           },
           {
-            "word": "to",
-            "form": "to",
-            "phonetic": "",
-            "meaning": "科学家"
-          },
-          {
             "word": "report",
             "form": "Report",
             "phonetic": "",
             "meaning": "n. 报告,汇报 v. 报道 / n. 报告；报道；成绩单 v. 报告；报导；使报到"
           },
           {
-            "word": "numb",
-            "form": "number",
-            "phonetic": "/nʌm/",
-            "meaning": "麻木的；使麻木"
-          },
-          {
             "word": "student",
             "form": "students",
             "phonetic": "",
             "meaning": "n. 学生；学者"
+          },
+          {
+            "word": "worldwide",
+            "form": "worldwide",
+            "phonetic": "/“wsidward/",
+            "meaning": "全世界的"
+          },
+          {
+            "word": "contribute",
+            "form": "contributing",
+            "phonetic": "",
+            "meaning": "v. 贡献，出力；投稿；捐献 / v. 贡献； 捐助， 捐献；投稿；有助于"
+          },
+          {
+            "word": "global",
+            "form": "global",
+            "phonetic": "/「glaubl/",
+            "meaning": "全球的"
           }
         ],
         "phrases": [
@@ -16835,12 +16835,6 @@ const ENGLISH_DATA = {
             "meaning": "中间的；中部"
           },
           {
-            "word": "to",
-            "form": "to",
-            "phonetic": "",
-            "meaning": "科学家"
-          },
-          {
             "word": "notice",
             "form": "notice",
             "phonetic": "",
@@ -16865,18 +16859,6 @@ const ENGLISH_DATA = {
             "meaning": "清晰；清楚"
           },
           {
-            "word": "notify",
-            "form": "not",
-            "phonetic": "",
-            "meaning": "v. 通告，通知；公布 / vt. 通知， 告知； 报告"
-          },
-          {
-            "word": "being",
-            "form": "be",
-            "phonetic": "",
-            "meaning": "n. 生物；存在， 生存"
-          },
-          {
             "word": "weed",
             "form": "We",
             "phonetic": "",
@@ -16895,10 +16877,28 @@ const ENGLISH_DATA = {
             "meaning": "记得；记住"
           },
           {
-            "word": "justify",
-            "form": "just",
+            "word": "name",
+            "form": "name",
             "phonetic": "",
-            "meaning": "v. 证明合法；整理版面 / vt. 证明…是正当的， 认为有理"
+            "meaning": "n. 名字；名称；名声；名义 v. 给…取名"
+          },
+          {
+            "word": "band",
+            "form": "band",
+            "phonetic": "",
+            "meaning": "条；波段"
+          },
+          {
+            "word": "brain",
+            "form": "brain",
+            "phonetic": "/breɪn/",
+            "meaning": "大脑；智力"
+          },
+          {
+            "word": "occurrence",
+            "form": "occurrences",
+            "phonetic": "",
+            "meaning": "n. 事件,事故,发生的事情；发生,出现 / n. 发生， 出现；事件， 事故， 发生的事情"
           }
         ],
         "phrases": [
@@ -16995,22 +16995,10 @@ const ENGLISH_DATA = {
             "meaning": "命令"
           },
           {
-            "word": "to",
-            "form": "to",
-            "phonetic": "",
-            "meaning": "科学家"
-          },
-          {
             "word": "living",
             "form": "lives",
             "phonetic": "/Uvm/",
             "meaning": "活的"
-          },
-          {
-            "word": "forest",
-            "form": "for",
-            "phonetic": "/ˈfɒrɪst/",
-            "meaning": "森林"
           },
           {
             "word": "chancellor",
@@ -17043,12 +17031,6 @@ const ENGLISH_DATA = {
             "meaning": "v. 登记；注册；记录；挂号邮寄；把…挂号；正式提出 n. 登记；注册；记录；寄存器；登记簿 / v. 注册， 登记 <；指示； 自动记下；把挂号 n. 登记， 注册"
           },
           {
-            "word": "being",
-            "form": "be",
-            "phonetic": "",
-            "meaning": "n. 生物；存在， 生存"
-          },
-          {
             "word": "eligible",
             "form": "eligible",
             "phonetic": "/ˈelɪdʒəbl/",
@@ -17059,6 +17041,24 @@ const ENGLISH_DATA = {
             "form": "benefit",
             "phonetic": "/ˈbenɪfɪt/",
             "meaning": "益处；受益"
+          },
+          {
+            "word": "report",
+            "form": "report",
+            "phonetic": "",
+            "meaning": "n. 报告,汇报 v. 报道 / n. 报告；报道；成绩单 v. 报告；报导；使报到"
+          },
+          {
+            "word": "follow",
+            "form": "followed",
+            "phonetic": "",
+            "meaning": "v. 跟随；接着"
+          },
+          {
+            "word": "wait",
+            "form": "wait",
+            "phonetic": "/weɪt/",
+            "meaning": "等待；等候"
           }
         ],
         "phrases": [
@@ -17155,22 +17155,10 @@ const ENGLISH_DATA = {
             "meaning": "律师"
           },
           {
-            "word": "membership",
-            "form": "members",
-            "phonetic": "",
-            "meaning": "n. 会员资格,成员资格 / n. 资格；成员资格；会员身份 / n. 会员资格， 成员资格"
-          },
-          {
             "word": "exception",
             "form": "exception",
             "phonetic": "",
             "meaning": "n. 例外,除外 / n. 例外；异议 / n. 例外， 除外"
-          },
-          {
-            "word": "journal",
-            "form": "journalism",
-            "phonetic": "",
-            "meaning": "n. 日报，杂志；日记；分类账 / n. 定期刊物， 杂志， 日报；日志， 日记"
           },
           {
             "word": "client",
@@ -17179,22 +17167,10 @@ const ENGLISH_DATA = {
             "meaning": "n. [经] 客户；顾客；委托人 / n. 顾客；委托人， 当事人"
           },
           {
-            "word": "forest",
-            "form": "for",
-            "phonetic": "/ˈfɒrɪst/",
-            "meaning": "森林"
-          },
-          {
             "word": "complaint",
             "form": "complaint",
             "phonetic": "",
             "meaning": "n. 抱怨；诉苦；疾病；委屈 / n. 抱怨， 诉苦；申诉；疾病"
-          },
-          {
-            "word": "durable",
-            "form": "During",
-            "phonetic": "/「diuarabl/",
-            "meaning": "耐用的；持久的"
           },
           {
             "word": "decade",
@@ -17203,10 +17179,10 @@ const ENGLISH_DATA = {
             "meaning": "n. 十年，十年期；十 / n. 十年"
           },
           {
-            "word": "economical",
+            "word": "economics",
             "form": "economic",
-            "phonetic": "/ˌiːkəˈnɒmɪkl/",
-            "meaning": "经济的；节俭的"
+            "phonetic": "/,irka「nomiks;eka-/",
+            "meaning": "经济学"
           },
           {
             "word": "spend",
@@ -17219,6 +17195,30 @@ const ENGLISH_DATA = {
             "form": "legal",
             "phonetic": "",
             "meaning": "adj. 法律的,法定的;合法的,正当的 / adj. 法律的；合法的；法定的；依照法律的 n. (Legal)人名；(法)勒加尔 / adj. 法律的； 法定的 <；合法的， 正当的"
+          },
+          {
+            "word": "service",
+            "form": "services",
+            "phonetic": "",
+            "meaning": "服务；维修"
+          },
+          {
+            "word": "fasten",
+            "form": "fast",
+            "phonetic": "",
+            "meaning": "v. 使固定；集中于；扎牢；强加于 n. (Fasten)人名；(英)法森 / vt. 扎牢， 使固定"
+          },
+          {
+            "word": "inflation",
+            "form": "inflation",
+            "phonetic": "",
+            "meaning": "n. 膨胀；通货膨胀；夸张；自命不凡 / n. 通货膨胀"
+          },
+          {
+            "word": "skyscraper",
+            "form": "skyscrapers",
+            "phonetic": "/ˈskaɪskreɪpə(r)/",
+            "meaning": "摩天大楼"
           }
         ],
         "phrases": [
@@ -17313,12 +17313,6 @@ const ENGLISH_DATA = {
       "vocab": {
         "words": [
           {
-            "word": "physicist",
-            "form": "Physics",
-            "phonetic": "/「fizlslst/",
-            "meaning": "物理学家"
-          },
-          {
             "word": "interesting",
             "form": "interesting",
             "phonetic": "/「mtastm/",
@@ -17343,22 +17337,10 @@ const ENGLISH_DATA = {
             "meaning": "n. 特色，特征；容貌；特写或专题节目 v. 起重要作用 / v. 以…为特点 n. 特征， 特色；特写"
           },
           {
-            "word": "native",
-            "form": "Nature",
-            "phonetic": "",
-            "meaning": "本地的"
-          },
-          {
             "word": "string",
             "form": "string",
             "phonetic": "",
             "meaning": "n. 线，弦，细绳；一串，一行 / n. 弦， 线， 细绳 A；一串， 一行 vt. 缚， 捆； 悬挂 <"
-          },
-          {
-            "word": "forest",
-            "form": "for",
-            "phonetic": "/ˈfɒrɪst/",
-            "meaning": "森林"
           },
           {
             "word": "join",
@@ -17383,6 +17365,24 @@ const ENGLISH_DATA = {
             "form": "telephone",
             "phonetic": "",
             "meaning": "n. （美）电话；电话机；电话耳机 v. 打电话"
+          },
+          {
+            "word": "size",
+            "form": "sized",
+            "phonetic": "",
+            "meaning": "n. 大小；尺寸 adj. 一定尺寸的 v. 依大小排列"
+          },
+          {
+            "word": "bank",
+            "form": "bank",
+            "phonetic": "/bseqk/",
+            "meaning": "岸；堤；银行；库；存人银行"
+          },
+          {
+            "word": "draw",
+            "form": "draw",
+            "phonetic": "",
+            "meaning": "拉；提取"
           }
         ],
         "phrases": [
@@ -17483,12 +17483,6 @@ const ENGLISH_DATA = {
             "meaning": "n. 物质；事件 v. 有关系；要紧"
           },
           {
-            "word": "justify",
-            "form": "just",
-            "phonetic": "",
-            "meaning": "v. 证明合法；整理版面 / vt. 证明…是正当的， 认为有理"
-          },
-          {
             "word": "release",
             "form": "released",
             "phonetic": "",
@@ -17499,12 +17493,6 @@ const ENGLISH_DATA = {
             "form": "report",
             "phonetic": "",
             "meaning": "n. 报告,汇报 v. 报道 / n. 报告；报道；成绩单 v. 报告；报导；使报到"
-          },
-          {
-            "word": "artist",
-            "form": "Arts",
-            "phonetic": "/ˈɑːtɪst/",
-            "meaning": "艺术家；画家"
           },
           {
             "word": "science",
@@ -17519,12 +17507,6 @@ const ENGLISH_DATA = {
             "meaning": "v. 应受，应得 / vt. 应受， 值得"
           },
           {
-            "word": "forest",
-            "form": "for",
-            "phonetic": "/ˈfɒrɪst/",
-            "meaning": "森林"
-          },
-          {
             "word": "import",
             "form": "importance",
             "phonetic": "/Im「 po:t/",
@@ -17537,16 +17519,34 @@ const ENGLISH_DATA = {
             "meaning": "社会的；社交的"
           },
           {
-            "word": "to",
-            "form": "to",
-            "phonetic": "",
-            "meaning": "科学家"
-          },
-          {
             "word": "prosperity",
             "form": "prosperity",
             "phonetic": "/prɒˈsperəti/",
             "meaning": "繁荣；兴旺"
+          },
+          {
+            "word": "security",
+            "form": "security",
+            "phonetic": "",
+            "meaning": "n. 安全(感)；防御(物),保证(人)；(pl.)证券 / n. 安全；保证；证券；抵押品 adj. 安全的；保安的；保密的 / n. 安全"
+          },
+          {
+            "word": "liberal",
+            "form": "liberal",
+            "phonetic": "/lmbaral/",
+            "meaning": "不严格的"
+          },
+          {
+            "word": "failure",
+            "form": "failure",
+            "phonetic": "",
+            "meaning": "n. 失败；故障；失败者；破产 / n. 失败； 不及格 <；失败者 A；故障， 失灵；未能"
+          },
+          {
+            "word": "address",
+            "form": "address",
+            "phonetic": "/a「dres/",
+            "meaning": "v. 演说；从事；忙于；写姓名地址；向…致辞；与…说话；提出；处理 n. 地址；演讲；致辞；说话的技巧；称呼"
           }
         ],
         "phrases": [
@@ -17566,16 +17566,10 @@ const ENGLISH_DATA = {
       "vocab": {
         "words": [
           {
-            "word": "sit",
+            "word": "site",
             "form": "sites",
-            "phonetic": "/sIt/",
-            "meaning": "坐；代人临时看小孩"
-          },
-          {
-            "word": "forest",
-            "form": "for",
-            "phonetic": "/ˈfɒrɪst/",
-            "meaning": "森林"
+            "phonetic": "/salt/",
+            "meaning": "位置"
           },
           {
             "word": "pyramid",
@@ -17588,12 +17582,6 @@ const ENGLISH_DATA = {
             "form": "exceptions",
             "phonetic": "",
             "meaning": "n. 例外,除外 / n. 例外；异议 / n. 例外， 除外"
-          },
-          {
-            "word": "to",
-            "form": "to",
-            "phonetic": "",
-            "meaning": "科学家"
           },
           {
             "word": "norm",
@@ -17636,6 +17624,18 @@ const ENGLISH_DATA = {
             "form": "accident",
             "phonetic": "/Imvest「 gejn/",
             "meaning": "他们彻底调查了这起意外事件的原因"
+          },
+          {
+            "word": "butterfly",
+            "form": "butterfly",
+            "phonetic": "",
+            "meaning": "n. 蝴蝶；蝶泳；举止轻浮的人；追求享乐的人 / n. 蝴蝶"
+          },
+          {
+            "word": "literally",
+            "form": "literally",
+            "phonetic": "/rtarali/",
+            "meaning": "照字面意义地；确实地"
           }
         ],
         "phrases": [
@@ -17820,28 +17820,10 @@ const ENGLISH_DATA = {
             "meaning": "方向"
           },
           {
-            "word": "reader",
-            "form": "Read",
-            "phonetic": "/ˈriːdə(r)/",
-            "meaning": "读者；读本"
-          },
-          {
             "word": "following",
             "form": "following",
             "phonetic": "",
             "meaning": "adj. 其次的，接着的；下列的，下述的 / adj. 接着的， 下列的"
-          },
-          {
-            "word": "texture",
-            "form": "text",
-            "phonetic": "",
-            "meaning": "n. 质地；纹理；结构；本质，实质 / n. 质地， 纹理， 结构"
-          },
-          {
-            "word": "forest",
-            "form": "for",
-            "phonetic": "/ˈfɒrɪst/",
-            "meaning": "森林"
           },
           {
             "word": "blank",
@@ -17850,22 +17832,16 @@ const ENGLISH_DATA = {
             "meaning": "空自的"
           },
           {
-            "word": "notify",
-            "form": "not",
-            "phonetic": "",
-            "meaning": "v. 通告，通知；公布 / vt. 通知， 告知； 报告"
-          },
-          {
             "word": "relate",
             "form": "related",
             "phonetic": "/rɪˈleɪt/",
             "meaning": "联系；讲述"
           },
           {
-            "word": "friendship",
+            "word": "friendly",
             "form": "friends",
-            "phonetic": "/“frendJrp/",
-            "meaning": "友谊"
+            "phonetic": "/ˈfrendli/",
+            "meaning": "友好的；亲切的"
           },
           {
             "word": "share",
@@ -17878,6 +17854,30 @@ const ENGLISH_DATA = {
             "form": "genes",
             "phonetic": "/dsin/",
             "meaning": "基因"
+          },
+          {
+            "word": "publish",
+            "form": "published",
+            "phonetic": "/r「pAbl/",
+            "meaning": "公布"
+          },
+          {
+            "word": "university",
+            "form": "University",
+            "phonetic": "/ˌjuːnɪˈvɜːsəti/",
+            "meaning": "大学"
+          },
+          {
+            "word": "national",
+            "form": "National",
+            "phonetic": "",
+            "meaning": "adj. 国家的；国民的；民族的；国立的 n. 国民"
+          },
+          {
+            "word": "science",
+            "form": "Sciences",
+            "phonetic": "/ˈsaɪəns/",
+            "meaning": "科学；理科"
           }
         ],
         "phrases": [
@@ -18016,12 +18016,6 @@ const ENGLISH_DATA = {
             "meaning": "adj. 共和国的；共和政体的；共和主义的；拥护共和政体的 n. 共和主义者 / adj. 共和政体的； 共和国的 n. 共和党人"
           },
           {
-            "word": "to",
-            "form": "to",
-            "phonetic": "",
-            "meaning": "科学家"
-          },
-          {
             "word": "stand",
             "form": "stand",
             "phonetic": "/stænd/",
@@ -18034,10 +18028,16 @@ const ENGLISH_DATA = {
             "meaning": "种子；播种"
           },
           {
-            "word": "means",
+            "word": "meaning",
             "form": "mean",
-            "phonetic": "",
-            "meaning": "n. 方法， 手段"
+            "phonetic": "/ˈmiːnɪŋ/",
+            "meaning": "意义；含义"
+          },
+          {
+            "word": "wall",
+            "form": "wall",
+            "phonetic": "/wɔːl/",
+            "meaning": "墙；墙壁"
           }
         ],
         "phrases": [
@@ -18136,12 +18136,6 @@ const ENGLISH_DATA = {
       "vocab": {
         "words": [
           {
-            "word": "justify",
-            "form": "Just",
-            "phonetic": "",
-            "meaning": "v. 证明合法；整理版面 / vt. 证明…是正当的， 认为有理"
-          },
-          {
             "word": "constitution",
             "form": "Constitution",
             "phonetic": "",
@@ -18184,12 +18178,6 @@ const ENGLISH_DATA = {
             "meaning": "警察；警方"
           },
           {
-            "word": "canal",
-            "form": "can",
-            "phonetic": "",
-            "meaning": "n. 运河；[地理] 水道；[建] 管道；灌溉水渠 v. 在…开凿运河 / n. 运河； 渠"
-          },
-          {
             "word": "search",
             "form": "search",
             "phonetic": "/sɜːtʃ/",
@@ -18202,10 +18190,22 @@ const ENGLISH_DATA = {
             "meaning": "adj. 可动的,活动的,运动的 / adj. 可移动的；机动的；易变的；非固定的 n. 运动物体 / adj. 可动的， 活动的， 运动的"
           },
           {
-            "word": "durable",
-            "form": "during",
-            "phonetic": "/「diuarabl/",
-            "meaning": "耐用的；持久的"
+            "word": "justice",
+            "form": "justices",
+            "phonetic": "",
+            "meaning": "n. 司法，法律制裁；正义；法官，审判员 / n. 正义； 公平；审判， 司法， 法律制裁"
+          },
+          {
+            "word": "particular",
+            "form": "particularly",
+            "phonetic": "",
+            "meaning": "adj. 特定的，特指的；特殊的，特别的；讲究的；挑剔的 n. 细节，详情 / adj. 特别的；详细的；独有的；挑剔的 n. 详细说明；个别项目"
+          },
+          {
+            "word": "upset",
+            "form": "upsets",
+            "phonetic": "/ʌpˈset/",
+            "meaning": "使心烦；打乱"
           }
         ],
         "phrases": [
@@ -18320,12 +18320,6 @@ const ENGLISH_DATA = {
             "meaning": "n. 圆；循环；一回合；圆形物 adj. 圆的；完全的；大概的；肥胖的 adv. 在周围；迂回地；朝反方向；挨个 v. 完成；围捕；绕行；弄圆 prep. 附近；绕过；大约；在…周围"
           },
           {
-            "word": "to",
-            "form": "to",
-            "phonetic": "",
-            "meaning": "科学家"
-          },
-          {
             "word": "review",
             "form": "review",
             "phonetic": "",
@@ -18366,6 +18360,12 @@ const ENGLISH_DATA = {
             "form": "basic",
             "phonetic": "/beilsik/",
             "meaning": "基本的"
+          },
+          {
+            "word": "mistake",
+            "form": "mistakes",
+            "phonetic": "",
+            "meaning": "n. 错误；误会；过失 v. 弄错；误解"
           }
         ],
         "phrases": []
@@ -18465,12 +18465,6 @@ const ENGLISH_DATA = {
             "meaning": "机构；制度；习俗"
           },
           {
-            "word": "sheer",
-            "form": "she",
-            "phonetic": "",
-            "meaning": "adj. 绝对的；透明的；峻峭的；纯粹的 adv. 完全；陡峭地 v. 偏航 n. 偏航；透明薄织物 / adj. 纯粹的； 十足的， 全然的；陡峭的， 险峻的"
-          },
-          {
             "word": "collective",
             "form": "collective",
             "phonetic": "",
@@ -18481,12 +18475,6 @@ const ENGLISH_DATA = {
             "form": "sorting",
             "phonetic": "",
             "meaning": "种类"
-          },
-          {
-            "word": "being",
-            "form": "be",
-            "phonetic": "",
-            "meaning": "n. 生物；存在， 生存"
           },
           {
             "word": "market",
@@ -18507,16 +18495,28 @@ const ENGLISH_DATA = {
             "meaning": "创造；创建"
           },
           {
-            "word": "notify",
-            "form": "not",
-            "phonetic": "",
-            "meaning": "v. 通告，通知；公布 / vt. 通知， 告知； 报告"
-          },
-          {
-            "word": "driver",
+            "word": "drive",
             "form": "Driving",
             "phonetic": "",
-            "meaning": "n. 驾驶员；驱动程序；起子；传动器"
+            "meaning": "开"
+          },
+          {
+            "word": "continuous",
+            "form": "continued",
+            "phonetic": "",
+            "meaning": "adj. 连续的,持续的 / adj. 连续的，持续的；继续的；连绵不断的 / adj. 连续的， 持续的"
+          },
+          {
+            "word": "absence",
+            "form": "absence",
+            "phonetic": "/ˈæbsəns/",
+            "meaning": "缺席；缺乏"
+          },
+          {
+            "word": "morality",
+            "form": "moral",
+            "phonetic": "",
+            "meaning": "n. 道德；品行，美德 / n. 道德； 美德"
           }
         ],
         "phrases": [
@@ -18548,12 +18548,6 @@ const ENGLISH_DATA = {
             "meaning": "adj. 其次的，接着的；下列的，下述的 / adj. 接着的， 下列的"
           },
           {
-            "word": "texture",
-            "form": "text",
-            "phonetic": "",
-            "meaning": "n. 质地；纹理；结构；本质，实质 / n. 质地， 纹理， 结构"
-          },
-          {
             "word": "sentence",
             "form": "sentences",
             "phonetic": "/「sentons/",
@@ -18564,12 +18558,6 @@ const ENGLISH_DATA = {
             "form": "removed",
             "phonetic": "",
             "meaning": "v. 移动；脱掉；免职 / v. 移动，迁移；开除；调动 n. 移动；距离；搬家"
-          },
-          {
-            "word": "forest",
-            "form": "For",
-            "phonetic": "/ˈfɒrɪst/",
-            "meaning": "森林"
           },
           {
             "word": "mostly",
@@ -18584,12 +18572,6 @@ const ENGLISH_DATA = {
             "meaning": "合适的"
           },
           {
-            "word": "to",
-            "form": "to",
-            "phonetic": "",
-            "meaning": "科学家"
-          },
-          {
             "word": "blank",
             "form": "blanks",
             "phonetic": "",
@@ -18602,10 +18584,28 @@ const ENGLISH_DATA = {
             "meaning": "adv. 特别地，非常；另外 n. 临时演员；号外；额外的事物；上等产品 adj. 额外的，另外收费的；特大的"
           },
           {
-            "word": "notify",
-            "form": "not",
+            "word": "comprehend",
+            "form": "comprehend",
             "phonetic": "",
-            "meaning": "v. 通告，通知；公布 / vt. 通知， 告知； 报告"
+            "meaning": "v. 理解；包含；由…组成 / vt. 理解， 了解"
+          },
+          {
+            "word": "meaning",
+            "form": "meanings",
+            "phonetic": "/ˈmiːnɪŋ/",
+            "meaning": "意义；含义"
+          },
+          {
+            "word": "individual",
+            "form": "individual",
+            "phonetic": "/【,mdr vIdsual/",
+            "meaning": "个的"
+          },
+          {
+            "word": "outing",
+            "form": "out",
+            "phonetic": "/ˈaʊtɪŋ/",
+            "meaning": "远足；外出"
           }
         ],
         "phrases": [
@@ -18784,28 +18784,10 @@ const ENGLISH_DATA = {
             "meaning": "方向"
           },
           {
-            "word": "reader",
-            "form": "Read",
-            "phonetic": "/ˈriːdə(r)/",
-            "meaning": "读者；读本"
-          },
-          {
             "word": "following",
             "form": "following",
             "phonetic": "",
             "meaning": "adj. 其次的，接着的；下列的，下述的 / adj. 接着的， 下列的"
-          },
-          {
-            "word": "texture",
-            "form": "text",
-            "phonetic": "",
-            "meaning": "n. 质地；纹理；结构；本质，实质 / n. 质地， 纹理， 结构"
-          },
-          {
-            "word": "forest",
-            "form": "for",
-            "phonetic": "/ˈfɒrɪst/",
-            "meaning": "森林"
           },
           {
             "word": "blank",
@@ -18838,10 +18820,28 @@ const ENGLISH_DATA = {
             "meaning": "v. 包含,含有；涉及 / v. 包含；牵涉；使陷于；潜心于 / vt. 使某人卷入， 陷入； 连累；包含， 含有； 涉及"
           },
           {
-            "word": "notify",
-            "form": "not",
+            "word": "parent",
+            "form": "parents",
             "phonetic": "",
-            "meaning": "v. 通告，通知；公布 / vt. 通知， 告知； 报告"
+            "meaning": "n. 父母,母亲；母体"
+          },
+          {
+            "word": "friendly",
+            "form": "friends",
+            "phonetic": "/ˈfrendli/",
+            "meaning": "友好的；亲切的"
+          },
+          {
+            "word": "woman",
+            "form": "woman",
+            "phonetic": "",
+            "meaning": "n. (pl)women妇女，成年女子"
+          },
+          {
+            "word": "man",
+            "form": "man",
+            "phonetic": "/mæn/",
+            "meaning": "男人；人类"
           }
         ],
         "phrases": []
@@ -18941,22 +18941,10 @@ const ENGLISH_DATA = {
             "meaning": "方式；流行式样"
           },
           {
-            "word": "hasty",
-            "form": "has",
-            "phonetic": "/「hersti/",
-            "meaning": "匆忙的"
-          },
-          {
             "word": "decide",
             "form": "decided",
             "phonetic": "",
             "meaning": "v. 决定,下决心；解决,裁决 / v. 决定；解决；判决"
-          },
-          {
-            "word": "to",
-            "form": "to",
-            "phonetic": "",
-            "meaning": "科学家"
           },
           {
             "word": "define",
@@ -18977,12 +18965,6 @@ const ENGLISH_DATA = {
             "meaning": "美；丽；美人；美丽的东"
           },
           {
-            "word": "forest",
-            "form": "for",
-            "phonetic": "/ˈfɒrɪst/",
-            "meaning": "森林"
-          },
-          {
             "word": "approval",
             "form": "approval",
             "phonetic": "/əˈpruːvl/",
@@ -18993,6 +18975,24 @@ const ENGLISH_DATA = {
             "form": "law",
             "phonetic": "",
             "meaning": "n. 法律,法规,法学,规律,定律 / n. 法律；规律；法治；法学；诉讼；司法界 vi. 起诉；控告 vt. 控告；对…起诉"
+          },
+          {
+            "word": "model",
+            "form": "models",
+            "phonetic": "/ˈmɒdl/",
+            "meaning": "模型；模特；模范"
+          },
+          {
+            "word": "parliament",
+            "form": "parliament",
+            "phonetic": "",
+            "meaning": "n. 国会,议会 / n. 议会，国会 / n. 国会； 议会"
+          },
+          {
+            "word": "ban",
+            "form": "ban",
+            "phonetic": "/bsen/",
+            "meaning": "官方朋令；意为"
           }
         ],
         "phrases": [
@@ -19083,12 +19083,6 @@ const ENGLISH_DATA = {
       "vocab": {
         "words": [
           {
-            "word": "forest",
-            "form": "For",
-            "phonetic": "/ˈfɒrɪst/",
-            "meaning": "森林"
-          },
-          {
             "word": "time",
             "form": "time",
             "phonetic": "/taɪm/",
@@ -19119,12 +19113,6 @@ const ENGLISH_DATA = {
             "meaning": "n. 国家；农村,乡下"
           },
           {
-            "word": "hasty",
-            "form": "has",
-            "phonetic": "/「hersti/",
-            "meaning": "匆忙的"
-          },
-          {
             "word": "curious",
             "form": "curious",
             "phonetic": "",
@@ -19137,12 +19125,6 @@ const ENGLISH_DATA = {
             "meaning": "结果"
           },
           {
-            "word": "shower",
-            "form": "show",
-            "phonetic": "/ˈʃaʊə(r)/",
-            "meaning": "淋浴；阵雨"
-          },
-          {
             "word": "rate",
             "form": "rate",
             "phonetic": "",
@@ -19153,6 +19135,24 @@ const ENGLISH_DATA = {
             "form": "countryside",
             "phonetic": "",
             "meaning": "n. 乡下,农村 / n. 农村，乡下；乡下的全体居民"
+          },
+          {
+            "word": "national",
+            "form": "National",
+            "phonetic": "",
+            "meaning": "adj. 国家的；国民的；民族的；国立的 n. 国民"
+          },
+          {
+            "word": "service",
+            "form": "Service",
+            "phonetic": "",
+            "meaning": "服务；维修"
+          },
+          {
+            "word": "limited",
+            "form": "limited",
+            "phonetic": "",
+            "meaning": "adj. 有限的,被限制的 / adj. 有限的 n. 高级快车 / adj. 有限的， 被限制的"
           }
         ],
         "phrases": [
@@ -19251,12 +19251,6 @@ const ENGLISH_DATA = {
             "meaning": "n. 责任，职责；义务 / n. 责任， 责任心；职责， 任务"
           },
           {
-            "word": "to",
-            "form": "to",
-            "phonetic": "",
-            "meaning": "科学家"
-          },
-          {
             "word": "design",
             "form": "designed",
             "phonetic": "",
@@ -19293,22 +19287,28 @@ const ENGLISH_DATA = {
             "meaning": "n. 货币,钱"
           },
           {
-            "word": "notify",
-            "form": "not",
-            "phonetic": "",
-            "meaning": "v. 通告，通知；公布 / vt. 通知， 告知； 报告"
-          },
-          {
-            "word": "being",
-            "form": "be",
-            "phonetic": "",
-            "meaning": "n. 生物；存在， 生存"
-          },
-          {
             "word": "cut",
             "form": "cut",
             "phonetic": "/kʌt/",
             "meaning": "切；割；削减"
+          },
+          {
+            "word": "create",
+            "form": "create",
+            "phonetic": "/kriˈeɪt/",
+            "meaning": "创造；创建"
+          },
+          {
+            "word": "monetary",
+            "form": "monetary",
+            "phonetic": "",
+            "meaning": "adj. 金融的,货币的 / adj. 货币的；财政的 / adj. 金融的， 货币的"
+          },
+          {
+            "word": "company",
+            "form": "companies",
+            "phonetic": "/「kAmpani/",
+            "meaning": "公司"
           }
         ],
         "phrases": [
@@ -19423,12 +19423,6 @@ const ENGLISH_DATA = {
             "meaning": "时间；时代；次数"
           },
           {
-            "word": "to",
-            "form": "to",
-            "phonetic": "",
-            "meaning": "科学家"
-          },
-          {
             "word": "publish",
             "form": "publish",
             "phonetic": "/r「pAbl/",
@@ -19445,12 +19439,6 @@ const ENGLISH_DATA = {
             "form": "Exactly",
             "phonetic": "",
             "meaning": "adj. 准确的，精密的；精确的 v. 要求；强求；急需"
-          },
-          {
-            "word": "being",
-            "form": "be",
-            "phonetic": "",
-            "meaning": "n. 生物；存在， 生存"
           },
           {
             "word": "matter",
@@ -19471,16 +19459,28 @@ const ENGLISH_DATA = {
             "meaning": "adv. 将来(或过去)某个时候 adj. 以前的 / adv. 曾经； 在某一时刻； 有一天"
           },
           {
-            "word": "forest",
-            "form": "for",
-            "phonetic": "/ˈfɒrɪst/",
-            "meaning": "森林"
-          },
-          {
             "word": "ink",
             "form": "ink",
             "phonetic": "/mEK/",
             "meaning": "墨水"
+          },
+          {
+            "word": "aside",
+            "form": "aside",
+            "phonetic": "/o「sald/",
+            "meaning": "在旁边；留着"
+          },
+          {
+            "word": "plenty",
+            "form": "plenty",
+            "phonetic": "/「plenti/",
+            "meaning": "丰富；大量"
+          },
+          {
+            "word": "ditch",
+            "form": "ditch",
+            "phonetic": "/dɪtʃ/",
+            "meaning": "沟渠；开沟"
           }
         ],
         "phrases": [
@@ -19544,28 +19544,10 @@ const ENGLISH_DATA = {
             "meaning": "n. 物质；事件 v. 有关系；要紧"
           },
           {
-            "word": "form",
-            "form": "formal",
-            "phonetic": "/fom/",
-            "meaning": "形状"
-          },
-          {
-            "word": "inform",
-            "form": "informal",
-            "phonetic": "",
-            "meaning": "v. (of,about)通知,告诉,报告 / v. 通知；告诉；报告 / vi. 告发， 告密 vt. 通知， 告诉， 报告"
-          },
-          {
             "word": "present",
             "form": "present",
             "phonetic": "",
             "meaning": "外国人"
-          },
-          {
-            "word": "hasty",
-            "form": "has",
-            "phonetic": "/「hersti/",
-            "meaning": "匆忙的"
           },
           {
             "word": "especially",
@@ -19578,6 +19560,24 @@ const ENGLISH_DATA = {
             "form": "According",
             "phonetic": "",
             "meaning": "一致"
+          },
+          {
+            "word": "university",
+            "form": "University",
+            "phonetic": "/ˌjuːnɪˈvɜːsəti/",
+            "meaning": "大学"
+          },
+          {
+            "word": "base",
+            "form": "based",
+            "phonetic": "/bers/",
+            "meaning": "基础"
+          },
+          {
+            "word": "differ",
+            "form": "difference",
+            "phonetic": "/ˈdɪfə(r)/",
+            "meaning": "不同；相异"
           }
         ],
         "phrases": [
@@ -19752,28 +19752,10 @@ const ENGLISH_DATA = {
             "meaning": "方向"
           },
           {
-            "word": "reader",
-            "form": "Read",
-            "phonetic": "/ˈriːdə(r)/",
-            "meaning": "读者；读本"
-          },
-          {
             "word": "following",
             "form": "following",
             "phonetic": "",
             "meaning": "adj. 其次的，接着的；下列的，下述的 / adj. 接着的， 下列的"
-          },
-          {
-            "word": "texture",
-            "form": "text",
-            "phonetic": "",
-            "meaning": "n. 质地；纹理；结构；本质，实质 / n. 质地， 纹理， 结构"
-          },
-          {
-            "word": "forest",
-            "form": "for",
-            "phonetic": "/ˈfɒrɪst/",
-            "meaning": "森林"
           },
           {
             "word": "blank",
@@ -19786,12 +19768,6 @@ const ENGLISH_DATA = {
             "form": "doctor",
             "phonetic": "/ˈdɒktə(r)/",
             "meaning": "医生；博士"
-          },
-          {
-            "word": "being",
-            "form": "be",
-            "phonetic": "",
-            "meaning": "n. 生物；存在， 生存"
           },
           {
             "word": "helpful",
@@ -19810,6 +19786,30 @@ const ENGLISH_DATA = {
             "form": "close",
             "phonetic": "",
             "meaning": "关；结束"
+          },
+          {
+            "word": "care",
+            "form": "care",
+            "phonetic": "",
+            "meaning": "n. 照顾，照料 v. 关心，在意 / n. 关怀；照料；谨慎；忧虑 v. 照顾；关心；喜爱；顾虑"
+          },
+          {
+            "word": "turn",
+            "form": "turns",
+            "phonetic": "/tɜːn/",
+            "meaning": "转动；转向；轮流"
+          },
+          {
+            "word": "outing",
+            "form": "out",
+            "phonetic": "/ˈaʊtɪŋ/",
+            "meaning": "远足；外出"
+          },
+          {
+            "word": "bring",
+            "form": "bring",
+            "phonetic": "/brm/",
+            "meaning": "带来；指"
           }
         ],
         "phrases": []
@@ -19891,24 +19891,6 @@ const ENGLISH_DATA = {
       "vocab": {
         "words": [
           {
-            "word": "advise",
-            "form": "advance",
-            "phonetic": "",
-            "meaning": "劝"
-          },
-          {
-            "word": "shower",
-            "form": "show",
-            "phonetic": "/ˈʃaʊə(r)/",
-            "meaning": "淋浴；阵雨"
-          },
-          {
-            "word": "to",
-            "form": "to",
-            "phonetic": "",
-            "meaning": "科学家"
-          },
-          {
             "word": "domestic",
             "form": "domestic",
             "phonetic": "/domestk/",
@@ -19939,12 +19921,6 @@ const ENGLISH_DATA = {
             "meaning": "n. 安全(感)；防御(物),保证(人)；(pl.)证券 / n. 安全；保证；证券；抵押品 adj. 安全的；保安的；保密的 / n. 安全"
           },
           {
-            "word": "liner",
-            "form": "lines",
-            "phonetic": "/ˈlaɪnə(r)/",
-            "meaning": "班轮；衬里"
-          },
-          {
             "word": "time",
             "form": "time",
             "phonetic": "/taɪm/",
@@ -19961,6 +19937,30 @@ const ENGLISH_DATA = {
             "form": "return",
             "phonetic": "/rɪˈtɜːn/",
             "meaning": "返回；归还；回报"
+          },
+          {
+            "word": "increase",
+            "form": "increased",
+            "phonetic": "/ɪnˈkriːs/",
+            "meaning": "增加；增长"
+          },
+          {
+            "word": "safety",
+            "form": "safety",
+            "phonetic": "",
+            "meaning": "n. 安全；保险；安全设备；保险装置；安打"
+          },
+          {
+            "word": "crash",
+            "form": "crash",
+            "phonetic": "",
+            "meaning": "n. 撞碎；坠毁；破产；轰隆声；睡觉 v. 摔碎；坠落；发出隆隆声；(金融企业等)破产 / v. 碰撞， 坠落；  崩溃 n. 碰撞， 坠落， 摔坏；失败， 瓦解， 崩溃；撞击声， 爆裂声"
+          },
+          {
+            "word": "sea",
+            "form": "Sea",
+            "phonetic": "/siː/",
+            "meaning": "海；海洋"
           }
         ],
         "phrases": [
@@ -20079,24 +20079,6 @@ const ENGLISH_DATA = {
             "meaning": "尊重；敬重"
           },
           {
-            "word": "membership",
-            "form": "members",
-            "phonetic": "",
-            "meaning": "n. 会员资格,成员资格 / n. 资格；成员资格；会员身份 / n. 会员资格， 成员资格"
-          },
-          {
-            "word": "sad",
-            "form": "Sadly",
-            "phonetic": "",
-            "meaning": "adj. 难过的；悲哀的，令人悲痛的；凄惨的，阴郁的（形容颜色）"
-          },
-          {
-            "word": "notify",
-            "form": "not",
-            "phonetic": "",
-            "meaning": "v. 通告，通知；公布 / vt. 通知， 告知； 报告"
-          },
-          {
             "word": "astronomy",
             "form": "astronomy",
             "phonetic": "/əˈstrɒnəmi/",
@@ -20115,16 +20097,34 @@ const ENGLISH_DATA = {
             "meaning": "n. 三十年代 num. 三十 adj. 三十个的"
           },
           {
-            "word": "metal",
-            "form": "Meter",
-            "phonetic": "/缩 m/",
-            "meaning": "金属"
-          },
-          {
             "word": "telescope",
             "form": "Telescope",
             "phonetic": "/ˈtelɪskəʊp/",
             "meaning": "望远镜"
+          },
+          {
+            "word": "giant",
+            "form": "giant",
+            "phonetic": "/「dsaront/",
+            "meaning": "巨人"
+          },
+          {
+            "word": "view",
+            "form": "view",
+            "phonetic": "/wuz/",
+            "meaning": "景象"
+          },
+          {
+            "word": "issue",
+            "form": "issue",
+            "phonetic": "",
+            "meaning": "放出；发行；月"
+          },
+          {
+            "word": "location",
+            "form": "location",
+            "phonetic": "",
+            "meaning": "n. 地点,位置；定位,测位 / n. 位置（形容词locational）；地点；外景拍摄场地 / n. 位置， 场所"
           }
         ],
         "phrases": [
@@ -20227,12 +20227,6 @@ const ENGLISH_DATA = {
             "meaning": "prep. 除…之外 v. 除外"
           },
           {
-            "word": "to",
-            "form": "to",
-            "phonetic": "",
-            "meaning": "科学家"
-          },
-          {
             "word": "union",
             "form": "Union",
             "phonetic": "/“juzmnionzam/",
@@ -20257,18 +20251,6 @@ const ENGLISH_DATA = {
             "meaning": "时间；时代；次数"
           },
           {
-            "word": "hasty",
-            "form": "has",
-            "phonetic": "/「hersti/",
-            "meaning": "匆忙的"
-          },
-          {
-            "word": "forest",
-            "form": "for",
-            "phonetic": "/ˈfɒrɪst/",
-            "meaning": "森林"
-          },
-          {
             "word": "century",
             "form": "century",
             "phonetic": "/ˈsentʃəri/",
@@ -20285,6 +20267,24 @@ const ENGLISH_DATA = {
             "form": "concept",
             "phonetic": "",
             "meaning": "n. 概念，观念，设想 / n. 观念，概念 / n. 概念， 观念； 思想"
+          },
+          {
+            "word": "matter",
+            "form": "matter",
+            "phonetic": "",
+            "meaning": "n. 物质；事件 v. 有关系；要紧"
+          },
+          {
+            "word": "miss",
+            "form": "misses",
+            "phonetic": "",
+            "meaning": "n. 女士，小姐，年轻未婚女子"
+          },
+          {
+            "word": "mostly",
+            "form": "most",
+            "phonetic": "",
+            "meaning": "adv. 主要地， 大部分， 通常"
           }
         ],
         "phrases": [
@@ -20383,12 +20383,6 @@ const ENGLISH_DATA = {
       "vocab": {
         "words": [
           {
-            "word": "ruler",
-            "form": "ruling",
-            "phonetic": "/ˈruːlə(r)/",
-            "meaning": "尺子；统治者"
-          },
-          {
             "word": "supreme",
             "form": "Supreme",
             "phonetic": "/suzprimisjur-/",
@@ -20401,12 +20395,6 @@ const ENGLISH_DATA = {
             "meaning": "法院"
           },
           {
-            "word": "hasty",
-            "form": "has",
-            "phonetic": "/「hersti/",
-            "meaning": "匆忙的"
-          },
-          {
             "word": "conviction",
             "form": "conviction",
             "phonetic": "/kənˈvɪkʃn/",
@@ -20417,12 +20405,6 @@ const ENGLISH_DATA = {
             "form": "former",
             "phonetic": "",
             "meaning": "以前的"
-          },
-          {
-            "word": "holder",
-            "form": "holding",
-            "phonetic": "",
-            "meaning": "持有者"
           },
           {
             "word": "nose",
@@ -20449,10 +20431,28 @@ const ENGLISH_DATA = {
             "meaning": "公司"
           },
           {
-            "word": "to",
-            "form": "to",
+            "word": "highly",
+            "form": "high",
+            "phonetic": "/ˈhaɪli/",
+            "meaning": "非常；高度地"
+          },
+          {
+            "word": "judge",
+            "form": "judge",
             "phonetic": "",
-            "meaning": "科学家"
+            "meaning": "v. 判断；审判 n. 法官；裁判员"
+          },
+          {
+            "word": "trial",
+            "form": "trial",
+            "phonetic": "/ˈtraɪəl/",
+            "meaning": "审判；试验"
+          },
+          {
+            "word": "jury",
+            "form": "jury",
+            "phonetic": "",
+            "meaning": "n. [法] 陪审团；评判委员会 adj. 应急的 / n. 陪审团"
           }
         ],
         "phrases": [
@@ -20504,12 +20504,6 @@ const ENGLISH_DATA = {
             "meaning": "n. 步行，走；散步 v. 散步；走过"
           },
           {
-            "word": "to",
-            "form": "to",
-            "phonetic": "",
-            "meaning": "科学家"
-          },
-          {
             "word": "month",
             "form": "Monthly",
             "phonetic": "",
@@ -20550,6 +20544,12 @@ const ENGLISH_DATA = {
             "form": "modest",
             "phonetic": "",
             "meaning": "adj. 谦虚的 / adj. 谦虚的，谦逊的；适度的；端庄的；羞怯的 n. (Modest)人名；(罗)莫代斯特；(德)莫德斯特；(俄)莫杰斯特 / adj. 谦虚的， 谦让的； 适度的"
+          },
+          {
+            "word": "reputation",
+            "form": "reputation",
+            "phonetic": "/,repjuzteLn/",
+            "meaning": "名声；多挂享有盛名的情况；挂由于茉人正直的品格道德行为战宗出成就而取到他人的尊重或数仰"
           }
         ],
         "phrases": []
@@ -20733,12 +20733,6 @@ const ENGLISH_DATA = {
             "meaning": "n. 条件；情况；环境；身份 v. 决定；使适应；使健康；以…为条件"
           },
           {
-            "word": "childhood",
-            "form": "child",
-            "phonetic": "/ˈtʃaɪldhʊd/",
-            "meaning": "童年；幼年"
-          },
-          {
             "word": "care",
             "form": "care",
             "phonetic": "",
@@ -20779,6 +20773,12 @@ const ENGLISH_DATA = {
             "form": "good",
             "phonetic": "/ˈɡʊdnəs/",
             "meaning": "善良；美德"
+          },
+          {
+            "word": "individual",
+            "form": "individual",
+            "phonetic": "/【,mdr vIdsual/",
+            "meaning": "个的"
           }
         ],
         "phrases": []
@@ -20872,12 +20872,6 @@ const ENGLISH_DATA = {
             "meaning": "中间的；中部"
           },
           {
-            "word": "classify",
-            "form": "class",
-            "phonetic": "/ˈklæsɪfaɪ/",
-            "meaning": "分类；归类"
-          },
-          {
             "word": "campaign",
             "form": "campaign",
             "phonetic": "",
@@ -20888,12 +20882,6 @@ const ENGLISH_DATA = {
             "form": "robots",
             "phonetic": "",
             "meaning": "n. 机器人；遥控设备，自动机械；机械般工作的人"
-          },
-          {
-            "word": "forest",
-            "form": "for",
-            "phonetic": "/ˈfɒrɪst/",
-            "meaning": "森林"
           },
           {
             "word": "dismiss",
@@ -20914,22 +20902,34 @@ const ENGLISH_DATA = {
             "meaning": "冒"
           },
           {
-            "word": "being",
-            "form": "being",
-            "phonetic": "",
-            "meaning": "n. 生物；存在， 生存"
-          },
-          {
             "word": "accord",
             "form": "according",
             "phonetic": "",
             "meaning": "一致"
           },
           {
-            "word": "to",
-            "form": "to",
+            "word": "university",
+            "form": "University",
+            "phonetic": "/ˌjuːnɪˈvɜːsəti/",
+            "meaning": "大学"
+          },
+          {
+            "word": "squeeze",
+            "form": "squeezed",
             "phonetic": "",
-            "meaning": "科学家"
+            "meaning": "v. 挤；紧握；勒索 n. 压榨；紧握；拥挤；佣金 / vt. 压榨， 挤 < n. 榨取， 勒索"
+          },
+          {
+            "word": "lower",
+            "form": "Lower",
+            "phonetic": "/“laua(r)/",
+            "meaning": "较低的"
+          },
+          {
+            "word": "likely",
+            "form": "like",
+            "phonetic": "/larkli/",
+            "meaning": "很可能的"
           }
         ],
         "phrases": [
@@ -21050,18 +21050,6 @@ const ENGLISH_DATA = {
             "meaning": "更喜欢；宁愿"
           },
           {
-            "word": "to",
-            "form": "to",
-            "phonetic": "",
-            "meaning": "科学家"
-          },
-          {
-            "word": "being",
-            "form": "be",
-            "phonetic": "",
-            "meaning": "n. 生物；存在， 生存"
-          },
-          {
             "word": "filter",
             "form": "filtered",
             "phonetic": "",
@@ -21074,12 +21062,6 @@ const ENGLISH_DATA = {
             "meaning": "河流的源头"
           },
           {
-            "word": "notify",
-            "form": "not",
-            "phonetic": "",
-            "meaning": "v. 通告，通知；公布 / vt. 通知， 告知； 报告"
-          },
-          {
             "word": "social",
             "form": "social",
             "phonetic": "/ˈsəʊʃl/",
@@ -21090,6 +21072,24 @@ const ENGLISH_DATA = {
             "form": "Most",
             "phonetic": "",
             "meaning": "adv. 主要地， 大部分， 通常"
+          },
+          {
+            "word": "rely",
+            "form": "rely",
+            "phonetic": "",
+            "meaning": "依赖"
+          },
+          {
+            "word": "daily",
+            "form": "daily",
+            "phonetic": "",
+            "meaning": "每日的"
+          },
+          {
+            "word": "beef",
+            "form": "beef",
+            "phonetic": "/biːf/",
+            "meaning": "牛肉"
           }
         ],
         "phrases": [
@@ -21210,22 +21210,16 @@ const ENGLISH_DATA = {
             "meaning": "服务；维修"
           },
           {
-            "word": "bother",
-            "form": "both",
-            "phonetic": "/「bo6a(r)/",
-            "meaning": "打扰"
-          },
-          {
             "word": "side",
             "form": "sides",
             "phonetic": "",
             "meaning": "n. 边，面，侧 v. 支持"
           },
           {
-            "word": "means",
+            "word": "meaning",
             "form": "mean",
-            "phonetic": "",
-            "meaning": "n. 方法， 手段"
+            "phonetic": "/ˈmiːnɪŋ/",
+            "meaning": "意义；含义"
           },
           {
             "word": "leading",
@@ -21250,6 +21244,12 @@ const ENGLISH_DATA = {
             "form": "applied",
             "phonetic": "/arplar/",
             "meaning": "涂"
+          },
+          {
+            "word": "powerful",
+            "form": "power",
+            "phonetic": "/ˈpaʊəfl/",
+            "meaning": "强大的；有力的"
           }
         ],
         "phrases": [
@@ -21364,12 +21364,6 @@ const ENGLISH_DATA = {
             "meaning": "连续"
           },
           {
-            "word": "to",
-            "form": "to",
-            "phonetic": "",
-            "meaning": "科学家"
-          },
-          {
             "word": "bleed",
             "form": "bleed",
             "phonetic": "/blixd/",
@@ -21400,12 +21394,6 @@ const ENGLISH_DATA = {
             "meaning": "损失；丢失"
           },
           {
-            "word": "forest",
-            "form": "for",
-            "phonetic": "/ˈfɒrɪst/",
-            "meaning": "森林"
-          },
-          {
             "word": "fiscal",
             "form": "fiscal",
             "phonetic": "/ˈfɪskl/",
@@ -21422,6 +21410,18 @@ const ENGLISH_DATA = {
             "form": "expenses",
             "phonetic": "/ɪkˈspensɪv/",
             "meaning": "昂贵的"
+          },
+          {
+            "word": "revenue",
+            "form": "revenue",
+            "phonetic": "/ˈrevənjuː/",
+            "meaning": "收入；税收"
+          },
+          {
+            "word": "liability",
+            "form": "liabilities",
+            "phonetic": "/ˌlaɪəˈbɪləti/",
+            "meaning": "责任；负债；不利条件"
           }
         ],
         "phrases": [
@@ -21483,12 +21483,6 @@ const ENGLISH_DATA = {
             "meaning": "n. 委员会；佣金；犯；委任；委任状 v. 委任；使服役；委托制作 / n. 委员会；委任， 授权； 代办；佣金， 手续费"
           },
           {
-            "word": "to",
-            "form": "to",
-            "phonetic": "",
-            "meaning": "科学家"
-          },
-          {
             "word": "select",
             "form": "select",
             "phonetic": "/sɪˈlekt/",
@@ -21519,12 +21513,6 @@ const ENGLISH_DATA = {
             "meaning": "佼计"
           },
           {
-            "word": "forest",
-            "form": "for",
-            "phonetic": "/ˈfɒrɪst/",
-            "meaning": "森林"
-          },
-          {
             "word": "state",
             "form": "State",
             "phonetic": "",
@@ -21535,6 +21523,18 @@ const ENGLISH_DATA = {
             "form": "Department",
             "phonetic": "",
             "meaning": "n. 部,局,处,科,部门;系,学部 / n. 部；部门；系；科；局"
+          },
+          {
+            "word": "consider",
+            "form": "consider",
+            "phonetic": "",
+            "meaning": "v. 考虑，细想；认为；体谅，顾及 / v. 考虑；认为；考虑到；细想"
+          },
+          {
+            "word": "navy",
+            "form": "Navy",
+            "phonetic": "",
+            "meaning": "n. 海军 / n. 海军"
           }
         ],
         "phrases": []
@@ -21726,22 +21726,10 @@ const ENGLISH_DATA = {
             "meaning": "n. 航行；航海 / n. 航海， 航空；导航， 领航"
           },
           {
-            "word": "apply",
-            "form": "apps",
-            "phonetic": "/arplar/",
-            "meaning": "涂"
-          },
-          {
             "word": "available",
             "form": "available",
             "phonetic": "/əˈveɪləbl/",
             "meaning": "可获得的；有空的"
-          },
-          {
-            "word": "justify",
-            "form": "just",
-            "phonetic": "",
-            "meaning": "v. 证明合法；整理版面 / vt. 证明…是正当的， 认为有理"
           },
           {
             "word": "walk",
@@ -21762,16 +21750,28 @@ const ENGLISH_DATA = {
             "meaning": "n. 木材；木制品；树林 vi. 收集木材 vt. 植林于；给…添加木柴"
           },
           {
-            "word": "canal",
-            "form": "can",
-            "phonetic": "",
-            "meaning": "n. 运河；[地理] 水道；[建] 管道；灌溉水渠 v. 在…开凿运河 / n. 运河； 渠"
-          },
-          {
             "word": "die",
             "form": "die",
             "phonetic": "/dar/",
             "meaning": "死亡"
+          },
+          {
+            "word": "compass",
+            "form": "compass",
+            "phonetic": "",
+            "meaning": "n. 指南针，罗盘；圆规 v. 包围 / n. 罗盘， 指南针 <"
+          },
+          {
+            "word": "finding",
+            "form": "find",
+            "phonetic": "",
+            "meaning": "n. 发现；裁决；发现物 v. 找到；感到（find的ing形式）；遇到 / n. 发现， 发现物"
+          },
+          {
+            "word": "north",
+            "form": "north",
+            "phonetic": "",
+            "meaning": "n. 北，北方 adj. 北方的；朝北的 adv. 在北方，向北方"
           }
         ],
         "phrases": [
@@ -21884,34 +21884,10 @@ const ENGLISH_DATA = {
             "meaning": "岸；堤；银行；库；存人银行"
           },
           {
-            "word": "being",
-            "form": "be",
-            "phonetic": "",
-            "meaning": "n. 生物；存在， 生存"
-          },
-          {
             "word": "delay",
             "form": "delayed",
             "phonetic": "/anlei/",
             "meaning": "耿搁"
-          },
-          {
-            "word": "forest",
-            "form": "for",
-            "phonetic": "/ˈfɒrɪst/",
-            "meaning": "森林"
-          },
-          {
-            "word": "to",
-            "form": "to",
-            "phonetic": "",
-            "meaning": "科学家"
-          },
-          {
-            "word": "holder",
-            "form": "hold",
-            "phonetic": "",
-            "meaning": "持有者"
           },
           {
             "word": "harm",
@@ -21936,6 +21912,30 @@ const ENGLISH_DATA = {
             "form": "institutions",
             "phonetic": "/ˌɪnstɪˈtjuːʃn/",
             "meaning": "机构；制度；习俗"
+          },
+          {
+            "word": "official",
+            "form": "officials",
+            "phonetic": "/əˈfɪʃl/",
+            "meaning": "官方的；官员"
+          },
+          {
+            "word": "hopeful",
+            "form": "hope",
+            "phonetic": "/ˈhəʊpfl/",
+            "meaning": "有希望的"
+          },
+          {
+            "word": "benefit",
+            "form": "benefit",
+            "phonetic": "/ˈbenɪfɪt/",
+            "meaning": "益处；受益"
+          },
+          {
+            "word": "term",
+            "form": "term",
+            "phonetic": "",
+            "meaning": "学期；条件；关系"
           }
         ],
         "phrases": [
@@ -22074,12 +22074,6 @@ const ENGLISH_DATA = {
             "meaning": "v. 考虑，细想；认为；体谅，顾及 / v. 考虑；认为；考虑到；细想"
           },
           {
-            "word": "highly",
-            "form": "higher",
-            "phonetic": "/ˈhaɪli/",
-            "meaning": "非常；高度地"
-          },
-          {
             "word": "education",
             "form": "education",
             "phonetic": "",
@@ -22108,6 +22102,12 @@ const ENGLISH_DATA = {
             "form": "customers",
             "phonetic": "/ˈkʌstəmə(r)/",
             "meaning": "顾客；客户"
+          },
+          {
+            "word": "relate",
+            "form": "related",
+            "phonetic": "/rɪˈleɪt/",
+            "meaning": "联系；讲述"
           }
         ],
         "phrases": [
@@ -22276,10 +22276,10 @@ const ENGLISH_DATA = {
             "meaning": "虚构"
           },
           {
-            "word": "ethic",
-            "form": "ethical",
-            "phonetic": "",
-            "meaning": "道德体系"
+            "word": "growth",
+            "form": "growth",
+            "phonetic": "/gtsbe/",
+            "meaning": "生长"
           }
         ],
         "phrases": [
@@ -22372,18 +22372,6 @@ const ENGLISH_DATA = {
             "meaning": "n. 状态， 情况；国， 州 vt. 陈述， 说明；规定"
           },
           {
-            "word": "being",
-            "form": "be",
-            "phonetic": "",
-            "meaning": "n. 生物；存在， 生存"
-          },
-          {
-            "word": "to",
-            "form": "to",
-            "phonetic": "",
-            "meaning": "科学家"
-          },
-          {
             "word": "force",
             "form": "force",
             "phonetic": "",
@@ -22414,12 +22402,6 @@ const ENGLISH_DATA = {
             "meaning": "n. 星期四"
           },
           {
-            "word": "light",
-            "form": "lighter",
-            "phonetic": "/lalt/",
-            "meaning": "光"
-          },
-          {
             "word": "wallet",
             "form": "wallets",
             "phonetic": "/「woht/",
@@ -22432,10 +22414,28 @@ const ENGLISH_DATA = {
             "meaning": "金融的；财务的"
           },
           {
-            "word": "forest",
-            "form": "for",
-            "phonetic": "/ˈfɒrɪst/",
-            "meaning": "森林"
+            "word": "opinion",
+            "form": "opinion",
+            "phonetic": "",
+            "meaning": "n. 意见；主张"
+          },
+          {
+            "word": "decade",
+            "form": "decades",
+            "phonetic": "",
+            "meaning": "n. 十年，十年期；十 / n. 十年"
+          },
+          {
+            "word": "costly",
+            "form": "cost",
+            "phonetic": "/「kostii/",
+            "meaning": "费钱的；昂贵的"
+          },
+          {
+            "word": "revenue",
+            "form": "revenue",
+            "phonetic": "/ˈrevənjuː/",
+            "meaning": "收入；税收"
           }
         ],
         "phrases": [
@@ -22455,22 +22455,10 @@ const ENGLISH_DATA = {
       "vocab": {
         "words": [
           {
-            "word": "canal",
-            "form": "can",
-            "phonetic": "",
-            "meaning": "n. 运河；[地理] 水道；[建] 管道；灌溉水渠 v. 在…开凿运河 / n. 运河； 渠"
-          },
-          {
             "word": "helpful",
             "form": "help",
             "phonetic": "/rhelpf/",
             "meaning": "有帮助的"
-          },
-          {
-            "word": "notify",
-            "form": "not",
-            "phonetic": "",
-            "meaning": "v. 通告，通知；公布 / vt. 通知， 告知； 报告"
           },
           {
             "word": "beat",
@@ -22497,12 +22485,6 @@ const ENGLISH_DATA = {
             "meaning": "划分；分开；除"
           },
           {
-            "word": "to",
-            "form": "to",
-            "phonetic": "",
-            "meaning": "科学家"
-          },
-          {
             "word": "weed",
             "form": "we",
             "phonetic": "",
@@ -22515,16 +22497,34 @@ const ENGLISH_DATA = {
             "meaning": "景象"
           },
           {
-            "word": "verb",
-            "form": "verbal",
-            "phonetic": "/vɜːb/",
-            "meaning": "动词"
-          },
-          {
             "word": "fight",
             "form": "fight",
             "phonetic": "",
             "meaning": "搏斗"
+          },
+          {
+            "word": "exchange",
+            "form": "exchange",
+            "phonetic": "/ɪksˈtʃeɪndʒ/",
+            "meaning": "交换；交流；交易所"
+          },
+          {
+            "word": "mutual",
+            "form": "mutual",
+            "phonetic": "/「mjuztfual/",
+            "meaning": "相互的"
+          },
+          {
+            "word": "respect",
+            "form": "respect",
+            "phonetic": "",
+            "meaning": "n. 尊敬,尊重；敬意,问候 v. 尊敬,尊重 / n. 尊敬，尊重；方面；敬意 v. 尊敬，尊重；遵守"
+          },
+          {
+            "word": "means",
+            "form": "means",
+            "phonetic": "",
+            "meaning": "n. 方法， 手段"
           }
         ],
         "phrases": [
@@ -22705,12 +22705,6 @@ const ENGLISH_DATA = {
             "meaning": "坐；代人临时看小孩"
           },
           {
-            "word": "to",
-            "form": "to",
-            "phonetic": "",
-            "meaning": "科学家"
-          },
-          {
             "word": "nonetheless",
             "form": "nonetheless",
             "phonetic": "",
@@ -22729,18 +22723,6 @@ const ENGLISH_DATA = {
             "meaning": "n. 周末，周末休假；周末聚会 adj. 周末的，周末用的 v. 度周末"
           },
           {
-            "word": "national",
-            "form": "nation",
-            "phonetic": "",
-            "meaning": "adj. 国家的；国民的；民族的；国立的 n. 国民"
-          },
-          {
-            "word": "great",
-            "form": "great",
-            "phonetic": "/sen「serJanl/",
-            "meaning": "这条消息引起很大的轰动"
-          },
-          {
             "word": "sunday",
             "form": "Sunday",
             "phonetic": "",
@@ -22753,16 +22735,34 @@ const ENGLISH_DATA = {
             "meaning": "烤；烘烤"
           },
           {
-            "word": "canal",
-            "form": "can",
-            "phonetic": "",
-            "meaning": "n. 运河；[地理] 水道；[建] 管道；灌溉水渠 v. 在…开凿运河 / n. 运河； 渠"
-          },
-          {
             "word": "weed",
             "form": "we",
             "phonetic": "",
             "meaning": "杂草"
+          },
+          {
+            "word": "report",
+            "form": "report",
+            "phonetic": "",
+            "meaning": "n. 报告,汇报 v. 报道 / n. 报告；报道；成绩单 v. 报告；报导；使报到"
+          },
+          {
+            "word": "police",
+            "form": "police",
+            "phonetic": "/pəˈliːs/",
+            "meaning": "警察；警方"
+          },
+          {
+            "word": "determine",
+            "form": "determined",
+            "phonetic": "/)仁【词义/",
+            "meaning": "决定"
+          },
+          {
+            "word": "standard",
+            "form": "Standards",
+            "phonetic": "/「stsendad/",
+            "meaning": "品质的"
           }
         ],
         "phrases": [
@@ -22867,12 +22867,6 @@ const ENGLISH_DATA = {
             "meaning": "v. 叫，喊；打电话；把…叫作；叫，喊 n. 叫声；号召"
           },
           {
-            "word": "to",
-            "form": "to",
-            "phonetic": "",
-            "meaning": "科学家"
-          },
-          {
             "word": "institute",
             "form": "institute",
             "phonetic": "",
@@ -22903,22 +22897,28 @@ const ENGLISH_DATA = {
             "meaning": "标题"
           },
           {
-            "word": "hasty",
-            "form": "has",
-            "phonetic": "/「hersti/",
-            "meaning": "匆忙的"
-          },
-          {
-            "word": "forest",
-            "form": "for",
-            "phonetic": "/ˈfɒrɪst/",
-            "meaning": "森林"
-          },
-          {
-            "word": "her",
-            "form": "her",
+            "word": "colleague",
+            "form": "colleagues",
             "phonetic": "",
-            "meaning": "小女孩因母亲的逝世悲仿得几乎晕倒在坟前"
+            "meaning": "n. 同事，同僚 / n. 同事， 同僚"
+          },
+          {
+            "word": "successful",
+            "form": "success",
+            "phonetic": "/səkˈsesfl/",
+            "meaning": "成功的"
+          },
+          {
+            "word": "crown",
+            "form": "crown",
+            "phonetic": "",
+            "meaning": "n. 王冠；花冠；王权；顶点 v. 加冕；居…之顶；表彰；使圆满完成 / n. 王冠， 冕；君权； 君王 vt. 为…加冕"
+          },
+          {
+            "word": "investment",
+            "form": "investment",
+            "phonetic": "",
+            "meaning": "n. 投资；投入；封锁 / n. 投资， 投资额"
           }
         ],
         "phrases": [
@@ -23021,18 +23021,6 @@ const ENGLISH_DATA = {
             "meaning": "公布"
           },
           {
-            "word": "hasty",
-            "form": "has",
-            "phonetic": "/「hersti/",
-            "meaning": "匆忙的"
-          },
-          {
-            "word": "to",
-            "form": "to",
-            "phonetic": "",
-            "meaning": "科学家"
-          },
-          {
             "word": "print",
             "form": "print",
             "phonetic": "/prɪnt/",
@@ -23079,6 +23067,18 @@ const ENGLISH_DATA = {
             "form": "review",
             "phonetic": "",
             "meaning": "v. 回顾,复习 n. 评论 / n. 回顾；复习；评论；检讨；检阅 v. 回顾；检查；复审"
+          },
+          {
+            "word": "element",
+            "form": "element",
+            "phonetic": "/ˈelɪmənt/",
+            "meaning": "元素；要素"
+          },
+          {
+            "word": "status",
+            "form": "status",
+            "phonetic": "/ˈsteɪtəs/",
+            "meaning": "地位；状态"
           }
         ],
         "phrases": [
@@ -23185,12 +23185,6 @@ const ENGLISH_DATA = {
             "meaning": "n. 道路；小路；轨道"
           },
           {
-            "word": "to",
-            "form": "to",
-            "phonetic": "",
-            "meaning": "科学家"
-          },
-          {
             "word": "level",
             "form": "level",
             "phonetic": "",
@@ -23243,6 +23237,12 @@ const ENGLISH_DATA = {
             "form": "state",
             "phonetic": "",
             "meaning": "n. 状态， 情况；国， 州 vt. 陈述， 说明；规定"
+          },
+          {
+            "word": "senator",
+            "form": "Senator",
+            "phonetic": "/ˈsenətə(r)/",
+            "meaning": "参议员"
           }
         ],
         "phrases": [
@@ -23343,10 +23343,10 @@ const ENGLISH_DATA = {
             "meaning": "n. 参议院,上院 / n. 参议院，上院；（古罗马的）元老院 / n. 参议院， 上院"
           },
           {
-            "word": "passion",
+            "word": "passive",
             "form": "passed",
             "phonetic": "",
-            "meaning": "n. 激情；热情；酷爱；盛怒 / n. 热情， 激情； 酷爱；激怒， 大怒"
+            "meaning": "adj. 被动的，消极的；被动语态的 n. 被动语态 / adj. 被动的， 消极的 <"
           },
           {
             "word": "service",
@@ -23365,18 +23365,6 @@ const ENGLISH_DATA = {
             "form": "impose",
             "phonetic": "/ɪmˈpəʊz/",
             "meaning": "强加；征税"
-          },
-          {
-            "word": "to",
-            "form": "to",
-            "phonetic": "",
-            "meaning": "科学家"
-          },
-          {
-            "word": "forest",
-            "form": "for",
-            "phonetic": "/ˈfɒrɪst/",
-            "meaning": "森林"
           },
           {
             "word": "base",
@@ -23407,6 +23395,18 @@ const ENGLISH_DATA = {
             "form": "Man",
             "phonetic": "/mæn/",
             "meaning": "男人；人类"
+          },
+          {
+            "word": "company",
+            "form": "companies",
+            "phonetic": "/「kAmpani/",
+            "meaning": "公司"
+          },
+          {
+            "word": "apple",
+            "form": "Apple",
+            "phonetic": "",
+            "meaning": "n. 苹果，苹果树，苹果似的东西；[美俚]炸弹，手榴弹，（棒球的）球；[美俚]人，家伙。"
           }
         ],
         "phrases": [
@@ -23454,24 +23454,6 @@ const ENGLISH_DATA = {
             "meaning": "接触"
           },
           {
-            "word": "to",
-            "form": "to",
-            "phonetic": "",
-            "meaning": "科学家"
-          },
-          {
-            "word": "being",
-            "form": "be",
-            "phonetic": "",
-            "meaning": "n. 生物；存在， 生存"
-          },
-          {
-            "word": "canal",
-            "form": "can",
-            "phonetic": "",
-            "meaning": "n. 运河；[地理] 水道；[建] 管道；灌溉水渠 v. 在…开凿运河 / n. 运河； 渠"
-          },
-          {
             "word": "social",
             "form": "social",
             "phonetic": "/ˈsəʊʃl/",
@@ -23508,10 +23490,28 @@ const ENGLISH_DATA = {
             "meaning": "adv. 主要地， 大部分， 通常"
           },
           {
-            "word": "notify",
-            "form": "not",
+            "word": "comfort",
+            "form": "comfortable",
+            "phonetic": "/「kAmfatls/",
+            "meaning": "舒适"
+          },
+          {
+            "word": "stranger",
+            "form": "strangers",
+            "phonetic": "/ˈstreɪndʒə(r)/",
+            "meaning": "陌生人；外地人"
+          },
+          {
+            "word": "situation",
+            "form": "situation",
             "phonetic": "",
-            "meaning": "v. 通告，通知；公布 / vt. 通知， 告知； 报告"
+            "meaning": "n. 情况；形势；处境；位置"
+          },
+          {
+            "word": "attention",
+            "form": "attention",
+            "phonetic": "/əˈtenʃn/",
+            "meaning": "注意；注意力"
           }
         ],
         "phrases": [
@@ -23673,12 +23673,6 @@ const ENGLISH_DATA = {
             "meaning": "根"
           },
           {
-            "word": "ear",
-            "form": "early",
-            "phonetic": "",
-            "meaning": "n. 耳朵；穗；听觉；倾听 vi. （美俚）听见；抽穗"
-          },
-          {
             "word": "term",
             "form": "term",
             "phonetic": "",
@@ -23689,18 +23683,6 @@ const ENGLISH_DATA = {
             "form": "notion",
             "phonetic": "",
             "meaning": "n. 概念；见解；打算 / n. 概念， 意念；看法， 想法， 观点"
-          },
-          {
-            "word": "being",
-            "form": "be",
-            "phonetic": "",
-            "meaning": "n. 生物；存在， 生存"
-          },
-          {
-            "word": "to",
-            "form": "to",
-            "phonetic": "",
-            "meaning": "科学家"
           },
           {
             "word": "intelligence",
@@ -23725,6 +23707,24 @@ const ENGLISH_DATA = {
             "form": "electrical",
             "phonetic": "/ɪˈlektrɪkl/",
             "meaning": "电的；电气科学的"
+          },
+          {
+            "word": "signal",
+            "form": "signals",
+            "phonetic": "",
+            "meaning": "n. 信号,暗号 v. 发信号,用信号通知 / v. 发信号， 用信号通知 n. 信号， 暗号"
+          },
+          {
+            "word": "stem",
+            "form": "stems",
+            "phonetic": "/stem/",
+            "meaning": "茎"
+          },
+          {
+            "word": "nonetheless",
+            "form": "nonetheless",
+            "phonetic": "",
+            "meaning": "adv. 尽管如此，但是 / conj. /"
           }
         ],
         "phrases": []
@@ -23854,12 +23854,6 @@ const ENGLISH_DATA = {
             "meaning": "v. 增加；爬上；使骑上马；安装，架置；镶嵌，嵌入；准备上演；成立（军队等） n. 山峰；底座；乘骑用马；攀，登；运载工具；底座 / v. 登上， 爬上 <；安装， 装配； 固定； 镶嵌 n. 支架， 底座， 底板；山峰"
           },
           {
-            "word": "to",
-            "form": "to",
-            "phonetic": "",
-            "meaning": "科学家"
-          },
-          {
             "word": "trench",
             "form": "Trench",
             "phonetic": "",
@@ -23876,6 +23870,12 @@ const ENGLISH_DATA = {
             "form": "time",
             "phonetic": "/taɪm/",
             "meaning": "时间；时代；次数"
+          },
+          {
+            "word": "outing",
+            "form": "out",
+            "phonetic": "/ˈaʊtɪŋ/",
+            "meaning": "远足；外出"
           }
         ],
         "phrases": [
@@ -23992,34 +23992,10 @@ const ENGLISH_DATA = {
             "meaning": "n. [计] 选项；选择权；买卖的特权 / n. 选择， 选择权；选择的事物；选课"
           },
           {
-            "word": "being",
-            "form": "be",
-            "phonetic": "",
-            "meaning": "n. 生物；存在， 生存"
-          },
-          {
             "word": "consider",
             "form": "considering",
             "phonetic": "",
             "meaning": "v. 考虑，细想；认为；体谅，顾及 / v. 考虑；认为；考虑到；细想"
-          },
-          {
-            "word": "justify",
-            "form": "just",
-            "phonetic": "",
-            "meaning": "v. 证明合法；整理版面 / vt. 证明…是正当的， 认为有理"
-          },
-          {
-            "word": "hasty",
-            "form": "has",
-            "phonetic": "/「hersti/",
-            "meaning": "匆忙的"
-          },
-          {
-            "word": "to",
-            "form": "to",
-            "phonetic": "",
-            "meaning": "科学家"
           },
           {
             "word": "stage",
@@ -24028,10 +24004,34 @@ const ENGLISH_DATA = {
             "meaning": "n. 阶段；舞台；戏剧；驿站 v. 举行；上演；筹划"
           },
           {
+            "word": "decent",
+            "form": "decent",
+            "phonetic": "",
+            "meaning": "体面的"
+          },
+          {
+            "word": "setting",
+            "form": "set",
+            "phonetic": "/ˈsetɪŋ/",
+            "meaning": "环境；背景；设置"
+          },
+          {
             "word": "education",
-            "form": "educational",
+            "form": "Education",
             "phonetic": "",
             "meaning": "n. 教育,培养"
+          },
+          {
+            "word": "secure",
+            "form": "secure",
+            "phonetic": "",
+            "meaning": "adj. (from,against)安全的 v. 得到；使安全，保护 / adj. 安全的；无虑的；有把握的；稳当的 v. 保护；弄到；招致；缚住 / adj. 安全的； 可靠的； 放心的 vt. 得到某物， 获得；防护， 保卫"
+          },
+          {
+            "word": "route",
+            "form": "route",
+            "phonetic": "/ruːt/",
+            "meaning": "路线；途径"
           }
         ],
         "phrases": [
@@ -24148,22 +24148,10 @@ const ENGLISH_DATA = {
             "meaning": "玩笑；娱乐；有趣的人；或事物"
           },
           {
-            "word": "native",
-            "form": "Nature",
-            "phonetic": "",
-            "meaning": "本地的"
-          },
-          {
             "word": "reader",
             "form": "readers",
             "phonetic": "/ˈriːdə(r)/",
             "meaning": "读者；读本"
-          },
-          {
-            "word": "to",
-            "form": "to",
-            "phonetic": "",
-            "meaning": "科学家"
           },
           {
             "word": "describe",
@@ -24178,16 +24166,16 @@ const ENGLISH_DATA = {
             "meaning": "经验；经历"
           },
           {
-            "word": "artist",
-            "form": "art",
-            "phonetic": "/ˈɑːtɪst/",
-            "meaning": "艺术家；画家"
-          },
-          {
             "word": "science",
             "form": "science",
             "phonetic": "/ˈsaɪəns/",
             "meaning": "科学；理科"
+          },
+          {
+            "word": "artist",
+            "form": "artists",
+            "phonetic": "/ˈɑːtɪst/",
+            "meaning": "艺术家；画家"
           },
           {
             "word": "respond",
@@ -24200,6 +24188,18 @@ const ENGLISH_DATA = {
             "form": "collaborated",
             "phonetic": "/kəˈlæbəreɪt/",
             "meaning": "合作；协作"
+          },
+          {
+            "word": "consider",
+            "form": "consider",
+            "phonetic": "",
+            "meaning": "v. 考虑，细想；认为；体谅，顾及 / v. 考虑；认为；考虑到；细想"
+          },
+          {
+            "word": "result",
+            "form": "results",
+            "phonetic": "",
+            "meaning": "结果"
           }
         ],
         "phrases": [
@@ -24298,12 +24298,6 @@ const ENGLISH_DATA = {
       "vocab": {
         "words": [
           {
-            "word": "employer",
-            "form": "Employment",
-            "phonetic": "/Im「plola(r)/",
-            "meaning": "雄主"
-          },
-          {
             "word": "relation",
             "form": "Relations",
             "phonetic": "",
@@ -24316,34 +24310,22 @@ const ENGLISH_DATA = {
             "meaning": "行动；表演；法案"
           },
           {
+            "word": "employer",
+            "form": "employer",
+            "phonetic": "/Im「plola(r)/",
+            "meaning": "雄主"
+          },
+          {
             "word": "goodness",
             "form": "good",
             "phonetic": "/ˈɡʊdnəs/",
             "meaning": "善良；美德"
           },
           {
-            "word": "being",
-            "form": "be",
-            "phonetic": "",
-            "meaning": "n. 生物；存在， 生存"
-          },
-          {
             "word": "justify",
             "form": "justified",
             "phonetic": "",
             "meaning": "v. 证明合法；整理版面 / vt. 证明…是正当的， 认为有理"
-          },
-          {
-            "word": "bother",
-            "form": "both",
-            "phonetic": "/「bo6a(r)/",
-            "meaning": "打扰"
-          },
-          {
-            "word": "shower",
-            "form": "show",
-            "phonetic": "/ˈʃaʊə(r)/",
-            "meaning": "淋浴；阵雨"
           },
           {
             "word": "fair",
@@ -24358,16 +24340,34 @@ const ENGLISH_DATA = {
             "meaning": "v. 设计;构思;绘制 n. 设计；图样 / v. 设计；计划；构思 n. 设计；图案"
           },
           {
-            "word": "to",
-            "form": "to",
-            "phonetic": "",
-            "meaning": "科学家"
-          },
-          {
             "word": "ordinary",
             "form": "ordinary",
             "phonetic": "",
             "meaning": "adj. 普通的,平凡的,平常的；平庸的 / adj. 普通的；平凡的；平常的 n. 普通；平常的人（或事）"
+          },
+          {
+            "word": "common",
+            "form": "common",
+            "phonetic": "",
+            "meaning": "adj. 常见的，普遍的；共同的 n. 公地"
+          },
+          {
+            "word": "law",
+            "form": "law",
+            "phonetic": "",
+            "meaning": "n. 法律,法规,法学,规律,定律 / n. 法律；规律；法治；法学；诉讼；司法界 vi. 起诉；控告 vt. 控告；对…起诉"
+          },
+          {
+            "word": "contract",
+            "form": "contract",
+            "phonetic": "/kontrsekt/",
+            "meaning": "律"
+          },
+          {
+            "word": "lack",
+            "form": "lacked",
+            "phonetic": "/lsek/",
+            "meaning": "缺乏"
           }
         ],
         "phrases": [
@@ -24429,12 +24429,6 @@ const ENGLISH_DATA = {
             "meaning": "锋利的"
           },
           {
-            "word": "to",
-            "form": "to",
-            "phonetic": "",
-            "meaning": "科学家"
-          },
-          {
             "word": "emperor",
             "form": "emperor",
             "phonetic": "/ˈempərə(r)/",
@@ -24457,6 +24451,12 @@ const ENGLISH_DATA = {
             "form": "forces",
             "phonetic": "",
             "meaning": "力量；势力"
+          },
+          {
+            "word": "science",
+            "form": "science",
+            "phonetic": "/ˈsaɪəns/",
+            "meaning": "科学；理科"
           }
         ],
         "phrases": []
@@ -24632,24 +24632,6 @@ const ENGLISH_DATA = {
             "meaning": "n. 门；家，户；门口；通道"
           },
           {
-            "word": "forest",
-            "form": "for",
-            "phonetic": "/ˈfɒrɪst/",
-            "meaning": "森林"
-          },
-          {
-            "word": "to",
-            "form": "to",
-            "phonetic": "",
-            "meaning": "科学家"
-          },
-          {
-            "word": "being",
-            "form": "be",
-            "phonetic": "",
-            "meaning": "n. 生物；存在， 生存"
-          },
-          {
             "word": "close",
             "form": "close",
             "phonetic": "",
@@ -24690,6 +24672,24 @@ const ENGLISH_DATA = {
             "form": "emerge",
             "phonetic": "",
             "meaning": "v. 显现,浮现；暴露 / v. 浮现；摆脱；暴露 / vi. 浮现， 出现， 显现 <"
+          },
+          {
+            "word": "novelty",
+            "form": "novelty",
+            "phonetic": "",
+            "meaning": "新奇"
+          },
+          {
+            "word": "feature",
+            "form": "feature",
+            "phonetic": "",
+            "meaning": "n. 特色，特征；容貌；特写或专题节目 v. 起重要作用 / v. 以…为特点 n. 特征， 特色；特写"
+          },
+          {
+            "word": "extend",
+            "form": "extended",
+            "phonetic": "/ɪkˈstend/",
+            "meaning": "延伸；扩展；给予"
           }
         ],
         "phrases": []
@@ -24771,16 +24771,10 @@ const ENGLISH_DATA = {
       "vocab": {
         "words": [
           {
-            "word": "to",
-            "form": "to",
-            "phonetic": "",
-            "meaning": "科学家"
-          },
-          {
-            "word": "outer",
+            "word": "outing",
             "form": "out",
-            "phonetic": "",
-            "meaning": "adj. 外面的，外部的；远离中心的 n. 环外命中 / adj. 外部的， 外面的， 外层的"
+            "phonetic": "/ˈaʊtɪŋ/",
+            "meaning": "远足；外出"
           },
           {
             "word": "curious",
@@ -24837,10 +24831,16 @@ const ENGLISH_DATA = {
             "meaning": "n. 说明，解释；辩解"
           },
           {
-            "word": "withdraw",
-            "form": "withdrawal",
-            "phonetic": "/wɪðˈdrɔː/",
-            "meaning": "撤回；取款"
+            "word": "rush",
+            "form": "rushed",
+            "phonetic": "",
+            "meaning": "冲"
+          },
+          {
+            "word": "local",
+            "form": "local",
+            "phonetic": "",
+            "meaning": "adj. 地方的,当地的；局部的 / n. [计] 局部；当地居民；本地新闻 adj. 当地的；局部的；地方性的；乡土的 / adj. 地方的， 当地的；局部的"
           }
         ],
         "phrases": [
@@ -24953,18 +24953,6 @@ const ENGLISH_DATA = {
             "meaning": "获得"
           },
           {
-            "word": "being",
-            "form": "be",
-            "phonetic": "",
-            "meaning": "n. 生物；存在， 生存"
-          },
-          {
-            "word": "to",
-            "form": "to",
-            "phonetic": "",
-            "meaning": "科学家"
-          },
-          {
             "word": "bring",
             "form": "bringing",
             "phonetic": "/brm/",
@@ -24983,12 +24971,6 @@ const ENGLISH_DATA = {
             "meaning": "n. 社区；团体 / n. 社区；[生态] 群落；共同体；团体 / n. 同一地区的全体居民； 社会， 社区 <；共同体"
           },
           {
-            "word": "childhood",
-            "form": "child",
-            "phonetic": "/ˈtʃaɪldhʊd/",
-            "meaning": "童年；幼年"
-          },
-          {
             "word": "core",
             "form": "cored",
             "phonetic": "",
@@ -25005,6 +24987,24 @@ const ENGLISH_DATA = {
             "form": "help",
             "phonetic": "/rhelpf/",
             "meaning": "有帮助的"
+          },
+          {
+            "word": "infant",
+            "form": "infants",
+            "phonetic": "/“mfant/",
+            "meaning": "婴儿"
+          },
+          {
+            "word": "norm",
+            "form": "norm",
+            "phonetic": "",
+            "meaning": "n. 标准，规范 / n. 规范 A；准则"
+          },
+          {
+            "word": "accord",
+            "form": "According",
+            "phonetic": "",
+            "meaning": "一致"
           }
         ],
         "phrases": [
@@ -25112,12 +25112,6 @@ const ENGLISH_DATA = {
             "meaning": "风格；样式"
           },
           {
-            "word": "to",
-            "form": "to",
-            "phonetic": "",
-            "meaning": "科学家"
-          },
-          {
             "word": "create",
             "form": "create",
             "phonetic": "/kriˈeɪt/",
@@ -25130,18 +25124,6 @@ const ENGLISH_DATA = {
             "meaning": "n. 幻想；白日梦；幻觉 adj. 虚幻的 v. 空想；想像 / n. 想象， 幻想；幻想的产物"
           },
           {
-            "word": "hasty",
-            "form": "has",
-            "phonetic": "/「hersti/",
-            "meaning": "匆忙的"
-          },
-          {
-            "word": "forest",
-            "form": "for",
-            "phonetic": "/ˈfɒrɪst/",
-            "meaning": "森林"
-          },
-          {
             "word": "horizon",
             "form": "Horizon",
             "phonetic": "/həˈraɪzn/",
@@ -25152,6 +25134,24 @@ const ENGLISH_DATA = {
             "form": "West",
             "phonetic": "/west/",
             "meaning": "西；西方；的；西部；的；向"
+          },
+          {
+            "word": "dragon",
+            "form": "Dragons",
+            "phonetic": "",
+            "meaning": "n. 龙；凶暴的人，凶恶的人；严厉而有警觉性的女人 / n. 龙"
+          },
+          {
+            "word": "magic",
+            "form": "Magic",
+            "phonetic": "",
+            "meaning": "魔法"
+          },
+          {
+            "word": "gather",
+            "form": "Gathering",
+            "phonetic": "/ˈɡæðə(r)/",
+            "meaning": "收集；聚集"
           }
         ],
         "phrases": [
@@ -25250,12 +25250,6 @@ const ENGLISH_DATA = {
             "meaning": "谎话"
           },
           {
-            "word": "notify",
-            "form": "not",
-            "phonetic": "",
-            "meaning": "v. 通告，通知；公布 / vt. 通知， 告知； 报告"
-          },
-          {
             "word": "depth",
             "form": "depths",
             "phonetic": "/depe/",
@@ -25286,12 +25280,6 @@ const ENGLISH_DATA = {
             "meaning": "adj. 浅的,浅薄的 n. 浅滩,浅处 / adj. 浅的；肤浅的 n. [地理] 浅滩 v. 使变浅 / adj. 浅的；浅薄的 n. 浅滩， 浅处"
           },
           {
-            "word": "forest",
-            "form": "for",
-            "phonetic": "/ˈfɒrɪst/",
-            "meaning": "森林"
-          },
-          {
             "word": "species",
             "form": "species",
             "phonetic": "",
@@ -25308,6 +25296,18 @@ const ENGLISH_DATA = {
             "form": "filtering",
             "phonetic": "",
             "meaning": "滤器"
+          },
+          {
+            "word": "nearby",
+            "form": "nearby",
+            "phonetic": "",
+            "meaning": "adj. 附近的，邻近的 adv. 在附近 prep. 在…附近"
+          },
+          {
+            "word": "community",
+            "form": "communities",
+            "phonetic": "",
+            "meaning": "n. 社区；团体 / n. 社区；[生态] 群落；共同体；团体 / n. 同一地区的全体居民； 社会， 社区 <；共同体"
           }
         ],
         "phrases": []
@@ -25404,12 +25404,6 @@ const ENGLISH_DATA = {
             "meaning": "仅仅；简单地"
           },
           {
-            "word": "to",
-            "form": "to",
-            "phonetic": "",
-            "meaning": "科学家"
-          },
-          {
             "word": "institution",
             "form": "Institution",
             "phonetic": "/ˌɪnstɪˈtjuːʃn/",
@@ -25440,12 +25434,6 @@ const ENGLISH_DATA = {
             "meaning": "青铜；青铜色"
           },
           {
-            "word": "being",
-            "form": "be",
-            "phonetic": "",
-            "meaning": "n. 生物；存在， 生存"
-          },
-          {
             "word": "available",
             "form": "available",
             "phonetic": "/əˈveɪləbl/",
@@ -25468,6 +25456,18 @@ const ENGLISH_DATA = {
             "form": "pride",
             "phonetic": "/praɪd/",
             "meaning": "骄傲；自豪"
+          },
+          {
+            "word": "goodness",
+            "form": "good",
+            "phonetic": "/ˈɡʊdnəs/",
+            "meaning": "善良；美德"
+          },
+          {
+            "word": "ordinary",
+            "form": "ordinary",
+            "phonetic": "",
+            "meaning": "adj. 普通的,平凡的,平常的；平庸的 / adj. 普通的；平凡的；平常的 n. 普通；平常的人（或事）"
           }
         ],
         "phrases": [
@@ -25663,12 +25663,6 @@ const ENGLISH_DATA = {
             "meaning": "活的"
           },
           {
-            "word": "hasty",
-            "form": "has",
-            "phonetic": "/「hersti/",
-            "meaning": "匆忙的"
-          },
-          {
             "word": "experience",
             "form": "experiences",
             "phonetic": "/ɪkˈspɪəriəns/",
@@ -25693,22 +25687,28 @@ const ENGLISH_DATA = {
             "meaning": "困难的；费力的；不友好的；难相处的；难对付的"
           },
           {
-            "word": "to",
-            "form": "to",
-            "phonetic": "",
-            "meaning": "科学家"
-          },
-          {
             "word": "beauty",
             "form": "beauty",
             "phonetic": "/「bjuzti/",
             "meaning": "美；丽；美人；美丽的东"
           },
           {
-            "word": "canal",
-            "form": "can",
+            "word": "creative",
+            "form": "creative",
             "phonetic": "",
-            "meaning": "n. 运河；[地理] 水道；[建] 管道；灌溉水渠 v. 在…开凿运河 / n. 运河； 渠"
+            "meaning": "adj. 创造性的；有创造力的 / adj. 创造性的 / adj. 有创造力的， 创造性的"
+          },
+          {
+            "word": "leading",
+            "form": "lead",
+            "phonetic": "",
+            "meaning": "adj. 领导的；主要的 n. 领导；铅板；行距 v. 领导（lead的ing形式） / adj. 处于领导地位的， 前列的；首位的， 领衔的；最主要的"
+          },
+          {
+            "word": "artistic",
+            "form": "artistic",
+            "phonetic": "",
+            "meaning": "艺术"
           }
         ],
         "phrases": [
@@ -25799,12 +25799,6 @@ const ENGLISH_DATA = {
       "vocab": {
         "words": [
           {
-            "word": "forest",
-            "form": "For",
-            "phonetic": "/ˈfɒrɪst/",
-            "meaning": "森林"
-          },
-          {
             "word": "thousand",
             "form": "thousands",
             "phonetic": "/「0aUznd/",
@@ -25847,28 +25841,34 @@ const ENGLISH_DATA = {
             "meaning": "善良；美德"
           },
           {
-            "word": "hasty",
-            "form": "has",
-            "phonetic": "/「hersti/",
-            "meaning": "匆忙的"
-          },
-          {
             "word": "mystery",
             "form": "mystery",
             "phonetic": "/ˈmɪstri/",
             "meaning": "神秘；谜"
           },
           {
-            "word": "to",
-            "form": "to",
-            "phonetic": "",
-            "meaning": "科学家"
-          },
-          {
             "word": "single",
             "form": "single",
             "phonetic": "",
             "meaning": "adj. 单一的；单身的；单程的 n. 一个；单打；单程票 v. 选出"
+          },
+          {
+            "word": "event",
+            "form": "event",
+            "phonetic": "/ɪˈvent/",
+            "meaning": "事件；大事"
+          },
+          {
+            "word": "east",
+            "form": "East",
+            "phonetic": "",
+            "meaning": "n. 东方；东风；东方国家 adj. 东方的；向东的；从东方来的 adv. 向东方，在东方"
+          },
+          {
+            "word": "tame",
+            "form": "tamed",
+            "phonetic": "/tetm/",
+            "meaning": "adj. 驯服的；平淡的；乏味的；顺从的 v. 驯养；使变得平淡；制服 n. (Tame)人名；(捷)塔梅 / adj. 驯服的， 温顺的 <；沉闷的， 乏味的 vt. 驯服， 制服"
           }
         ],
         "phrases": [
@@ -25961,12 +25961,6 @@ const ENGLISH_DATA = {
             "meaning": "很可能的"
           },
           {
-            "word": "shower",
-            "form": "show",
-            "phonetic": "/ˈʃaʊə(r)/",
-            "meaning": "淋浴；阵雨"
-          },
-          {
             "word": "loss",
             "form": "Los",
             "phonetic": "/lɒs/",
@@ -26009,12 +26003,6 @@ const ENGLISH_DATA = {
             "meaning": "代表；象征；描绘"
           },
           {
-            "word": "hasty",
-            "form": "has",
-            "phonetic": "/「hersti/",
-            "meaning": "匆忙的"
-          },
-          {
             "word": "statement",
             "form": "statement",
             "phonetic": "",
@@ -26025,6 +26013,18 @@ const ENGLISH_DATA = {
             "form": "we",
             "phonetic": "",
             "meaning": "杂草"
+          },
+          {
+            "word": "goodness",
+            "form": "good",
+            "phonetic": "/ˈɡʊdnəs/",
+            "meaning": "善良；美德"
+          },
+          {
+            "word": "conscience",
+            "form": "conscience",
+            "phonetic": "",
+            "meaning": "n. 道德心，良心 / n. 良心， 良知 A"
           }
         ],
         "phrases": []
@@ -26118,12 +26118,6 @@ const ENGLISH_DATA = {
             "meaning": "v. 锯， 锯开 n. 锯子； 锯床"
           },
           {
-            "word": "to",
-            "form": "to",
-            "phonetic": "",
-            "meaning": "科学家"
-          },
-          {
             "word": "sir",
             "form": "Sir",
             "phonetic": "/sɜː(r)/",
@@ -26148,12 +26142,6 @@ const ENGLISH_DATA = {
             "meaning": "欣喜；高兴"
           },
           {
-            "word": "notify",
-            "form": "not",
-            "phonetic": "",
-            "meaning": "v. 通告，通知；公布 / vt. 通知， 告知； 报告"
-          },
-          {
             "word": "matter",
             "form": "matter",
             "phonetic": "",
@@ -26166,16 +26154,28 @@ const ENGLISH_DATA = {
             "meaning": "千"
           },
           {
-            "word": "forest",
-            "form": "for",
-            "phonetic": "/ˈfɒrɪst/",
-            "meaning": "森林"
-          },
-          {
             "word": "fool",
             "form": "fool",
             "phonetic": "",
             "meaning": "v. 欺骗；开玩笑；戏弄 n. 傻瓜；愚人；受骗者 adj. 傻的"
+          },
+          {
+            "word": "simultaneous",
+            "form": "simultaneously",
+            "phonetic": "",
+            "meaning": "adj. 同时的,同时存在的 / adj. 同时的；联立的；同时发生的 n. 同时译员 / adj. 同时的， 同时存在的 A"
+          },
+          {
+            "word": "innovation",
+            "form": "innovation",
+            "phonetic": "",
+            "meaning": "n. 创新，革新；新方法 / n. 创新， 革新， 改革 A"
+          },
+          {
+            "word": "kindness",
+            "form": "kind",
+            "phonetic": "",
+            "meaning": "仁憎；好意；友好行为"
           }
         ],
         "phrases": [
@@ -26280,16 +26280,10 @@ const ENGLISH_DATA = {
             "meaning": "服务；维修"
           },
           {
-            "word": "to",
-            "form": "to",
-            "phonetic": "",
-            "meaning": "科学家"
-          },
-          {
-            "word": "outer",
+            "word": "outing",
             "form": "out",
-            "phonetic": "",
-            "meaning": "adj. 外面的，外部的；远离中心的 n. 环外命中 / adj. 外部的， 外面的， 外层的"
+            "phonetic": "/ˈaʊtɪŋ/",
+            "meaning": "远足；外出"
           },
           {
             "word": "university",
@@ -26332,6 +26326,12 @@ const ENGLISH_DATA = {
             "form": "repeated",
             "phonetic": "",
             "meaning": "v. 重复；复制；背诵 n. 重复；副本"
+          },
+          {
+            "word": "blaze",
+            "form": "blazes",
+            "phonetic": "/blsa/",
+            "meaning": "火焰；感情等的"
           }
         ],
         "phrases": [
@@ -26363,16 +26363,10 @@ const ENGLISH_DATA = {
             "meaning": "不同；相异"
           },
           {
-            "word": "means",
+            "word": "meaning",
             "form": "mean",
-            "phonetic": "",
-            "meaning": "n. 方法， 手段"
-          },
-          {
-            "word": "being",
-            "form": "be",
-            "phonetic": "",
-            "meaning": "n. 生物；存在， 生存"
+            "phonetic": "/ˈmiːnɪŋ/",
+            "meaning": "意义；含义"
           },
           {
             "word": "conversation",
@@ -26393,18 +26387,6 @@ const ENGLISH_DATA = {
             "meaning": "有帮助的"
           },
           {
-            "word": "reader",
-            "form": "reading",
-            "phonetic": "/ˈriːdə(r)/",
-            "meaning": "读者；读本"
-          },
-          {
-            "word": "justify",
-            "form": "just",
-            "phonetic": "",
-            "meaning": "v. 证明合法；整理版面 / vt. 证明…是正当的， 认为有理"
-          },
-          {
             "word": "single",
             "form": "single",
             "phonetic": "",
@@ -26421,6 +26403,24 @@ const ENGLISH_DATA = {
             "form": "lectures",
             "phonetic": "/ˈlektʃə(r)/",
             "meaning": "讲座；演讲"
+          },
+          {
+            "word": "draw",
+            "form": "draws",
+            "phonetic": "",
+            "meaning": "拉；提取"
+          },
+          {
+            "word": "picture",
+            "form": "picture",
+            "phonetic": "/ˈpɪktʃə(r)/",
+            "meaning": "图片；描绘"
+          },
+          {
+            "word": "setting",
+            "form": "sets",
+            "phonetic": "/ˈsetɪŋ/",
+            "meaning": "环境；背景；设置"
           }
         ],
         "phrases": [
