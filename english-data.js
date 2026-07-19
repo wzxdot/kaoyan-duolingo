@@ -66,7 +66,89 @@ const ENGLISH_DATA = {
           "moreover",
           "meanwhile"
         ]
-      ]
+      ],
+      "vocab": {
+        "words": [
+          {
+            "word": "vitamin",
+            "form": "Vitamins",
+            "phonetic": "/ˈvɪtəmɪn/",
+            "meaning": "维生素"
+          },
+          {
+            "word": "organic",
+            "form": "organic",
+            "phonetic": "",
+            "meaning": "adj. [有化] 有机的；组织的；器官的；根本的 / adj. 器官的；有机的； 有机体的"
+          },
+          {
+            "word": "compound",
+            "form": "compounds",
+            "phonetic": "",
+            "meaning": "n. [化学] 化合物；混合物；复合词 adj. 复合的；混合的 v. 合成；混合；恶化，加重；和解，妥协 / adj. 混合的； 化合的； 复合的 n. 混合物， 化合物"
+          },
+          {
+            "word": "necessary",
+            "form": "necessary",
+            "phonetic": "",
+            "meaning": "adj. 必要的；必需的；必然的 n. 必需品"
+          },
+          {
+            "word": "amount",
+            "form": "amounts",
+            "phonetic": "/əˈmaʊnt/",
+            "meaning": "数量；总额"
+          },
+          {
+            "word": "diet",
+            "form": "diet",
+            "phonetic": "",
+            "meaning": "n. 饮食；食物；规定饮食 v. 节食 / n. 饮食， 食物"
+          },
+          {
+            "word": "forest",
+            "form": "for",
+            "phonetic": "/ˈfɒrɪst/",
+            "meaning": "森林"
+          },
+          {
+            "word": "normal",
+            "form": "normal",
+            "phonetic": "",
+            "meaning": "adj. 正常的；正规的，标准的 n. 正常；标准；常态"
+          },
+          {
+            "word": "growth",
+            "form": "growth",
+            "phonetic": "/gtsbe/",
+            "meaning": "生长"
+          },
+          {
+            "word": "maintenance",
+            "form": "maintenance",
+            "phonetic": "",
+            "meaning": "n. 维护，维修；保持；生活费用 / n. 维修， 保养；维持， 保持"
+          },
+          {
+            "word": "man",
+            "form": "man",
+            "phonetic": "/mæn/",
+            "meaning": "男人；人类"
+          },
+          {
+            "word": "notify",
+            "form": "not",
+            "phonetic": "",
+            "meaning": "v. 通告，通知；公布 / vt. 通知， 告知； 报告"
+          }
+        ],
+        "phrases": [
+          {
+            "phrase": "believe in",
+            "def": ""
+          }
+        ]
+      }
     },
     "Text1": {
       "passage": {
@@ -127,7 +209,89 @@ const ENGLISH_DATA = {
           "explanation": ""
         }
       ],
-      "translation": ""
+      "translation": "",
+      "vocab": {
+        "words": [
+          {
+            "word": "derive",
+            "form": "ders",
+            "phonetic": "/dɪˈraɪv/",
+            "meaning": "得到；源自"
+          },
+          {
+            "word": "to",
+            "form": "to",
+            "phonetic": "",
+            "meaning": "科学家"
+          },
+          {
+            "word": "notify",
+            "form": "not",
+            "phonetic": "",
+            "meaning": "v. 通告，通知；公布 / vt. 通知， 告知； 报告"
+          },
+          {
+            "word": "teacher",
+            "form": "teaches",
+            "phonetic": "",
+            "meaning": "n. 教师；导师"
+          },
+          {
+            "word": "canal",
+            "form": "can",
+            "phonetic": "",
+            "meaning": "n. 运河；[地理] 水道；[建] 管道；灌溉水渠 v. 在…开凿运河 / n. 运河； 渠"
+          },
+          {
+            "word": "mental",
+            "form": "mental",
+            "phonetic": "/ˈmentl/",
+            "meaning": "精神的；心理的"
+          },
+          {
+            "word": "blueprint",
+            "form": "blueprint",
+            "phonetic": "/ˈbluːprɪnt/",
+            "meaning": "蓝图；计划"
+          },
+          {
+            "word": "desire",
+            "form": "desire",
+            "phonetic": "",
+            "meaning": "希望"
+          },
+          {
+            "word": "continual",
+            "form": "continually",
+            "phonetic": "",
+            "meaning": "adj. 不断的,连续的；频繁的 / adj. 持续不断的；频繁的 / adj. 不断的， 连续的； 频繁的"
+          },
+          {
+            "word": "general",
+            "form": "general",
+            "phonetic": "/「dsenral/",
+            "meaning": "一般的"
+          },
+          {
+            "word": "routine",
+            "form": "routine",
+            "phonetic": "/ruːˈtiːn/",
+            "meaning": "常规；例行的"
+          },
+          {
+            "word": "everyday",
+            "form": "everyday",
+            "phonetic": "",
+            "meaning": "adj. 每天的，日常的 n. 平时；寻常日子"
+          }
+        ],
+        "phrases": [
+          {
+            "phrase": "used to",
+            "def": ""
+          }
+        ]
+      }
     },
     "Text2": {
       "passage": {
@@ -188,7 +352,93 @@ const ENGLISH_DATA = {
           "explanation": ""
         }
       ],
-      "translation": ""
+      "translation": "",
+      "vocab": {
+        "words": [
+          {
+            "word": "service",
+            "form": "Service",
+            "phonetic": "",
+            "meaning": "服务；维修"
+          },
+          {
+            "word": "canal",
+            "form": "can",
+            "phonetic": "",
+            "meaning": "n. 运河；[地理] 水道；[建] 管道；灌溉水渠 v. 在…开凿运河 / n. 运河； 渠"
+          },
+          {
+            "word": "corporation",
+            "form": "Corporation",
+            "phonetic": "/ˌkɔːpəˈreɪʃn/",
+            "meaning": "公司；企业"
+          },
+          {
+            "word": "to",
+            "form": "to",
+            "phonetic": "",
+            "meaning": "科学家"
+          },
+          {
+            "word": "tune",
+            "form": "tune",
+            "phonetic": "/tjuːn/",
+            "meaning": "曲调；调音"
+          },
+          {
+            "word": "channel",
+            "form": "channels",
+            "phonetic": "",
+            "meaning": "v. 引导，开导；形成河道 n. 通道；频道；海峡 / v. 引导； 集中 n. 海峡， 水道；信道， 频道；途径， 渠道"
+          },
+          {
+            "word": "national",
+            "form": "national",
+            "phonetic": "",
+            "meaning": "adj. 国家的；国民的；民族的；国立的 n. 国民"
+          },
+          {
+            "word": "radio",
+            "form": "radio",
+            "phonetic": "",
+            "meaning": "收音机"
+          },
+          {
+            "word": "dozen",
+            "form": "dozens",
+            "phonetic": "/ˈdʌzn/",
+            "meaning": "一打；十二个"
+          },
+          {
+            "word": "local",
+            "form": "local",
+            "phonetic": "",
+            "meaning": "adj. 地方的,当地的；局部的 / n. [计] 局部；当地居民；本地新闻 adj. 当地的；局部的；地方性的；乡土的 / adj. 地方的， 当地的；局部的"
+          },
+          {
+            "word": "station",
+            "form": "stations",
+            "phonetic": "",
+            "meaning": "n. 车站；驻地；地位；身份 v. 配置；安置；驻扎"
+          },
+          {
+            "word": "sport",
+            "form": "sport",
+            "phonetic": "",
+            "meaning": "n. 运动；游戏；娱乐；运动会；玩笑 v. 游戏 adj. 运动的"
+          }
+        ],
+        "phrases": [
+          {
+            "phrase": "bring about",
+            "def": ""
+          },
+          {
+            "phrase": "as well as",
+            "def": ""
+          }
+        ]
+      }
     },
     "Text3": {
       "passage": {
@@ -249,7 +499,84 @@ const ENGLISH_DATA = {
           "explanation": ""
         }
       ],
-      "translation": ""
+      "translation": "",
+      "vocab": {
+        "words": [
+          {
+            "word": "century",
+            "form": "century",
+            "phonetic": "/ˈsentʃəri/",
+            "meaning": "世纪；百年"
+          },
+          {
+            "word": "capital",
+            "form": "capital",
+            "phonetic": "/ˈkæpɪtl/",
+            "meaning": "首都；资本；大写"
+          },
+          {
+            "word": "rival",
+            "form": "rival",
+            "phonetic": "/rival(Ded, rival(1)ed, rival(1)ing/",
+            "meaning": "竞争者"
+          },
+          {
+            "word": "organization",
+            "form": "organizations",
+            "phonetic": "",
+            "meaning": "n. 组织；机构；体制；团体 / n. 组织， 机构； 体制， 结构"
+          },
+          {
+            "word": "modern",
+            "form": "modern",
+            "phonetic": "/ˈmɒdn/",
+            "meaning": "现代的；时髦的"
+          },
+          {
+            "word": "liner",
+            "form": "lines",
+            "phonetic": "/ˈlaɪnə(r)/",
+            "meaning": "班轮；衬里"
+          },
+          {
+            "word": "firm",
+            "form": "firm",
+            "phonetic": "",
+            "meaning": "adj. 坚定的；牢固的；严格的；结实的 v. 使坚定；使牢固 adv. 稳固地 n. 公司；商号"
+          },
+          {
+            "word": "replace",
+            "form": "replaced",
+            "phonetic": "",
+            "meaning": "v. 取代，代替；替换，更换；归还，偿还；把…放回原处 / vt. 替换； 取代；放回； 归还"
+          },
+          {
+            "word": "limited",
+            "form": "limited",
+            "phonetic": "",
+            "meaning": "adj. 有限的,被限制的 / adj. 有限的 n. 高级快车 / adj. 有限的， 被限制的"
+          },
+          {
+            "word": "liability",
+            "form": "liability",
+            "phonetic": "/ˌlaɪəˈbɪləti/",
+            "meaning": "责任；负债；不利条件"
+          },
+          {
+            "word": "company",
+            "form": "company",
+            "phonetic": "/「kAmpani/",
+            "meaning": "公司"
+          },
+          {
+            "word": "salary",
+            "form": "salaried",
+            "phonetic": "",
+            "meaning": "vt. 给加薪；给薪水 n. 薪水 / n. 薪金， 薪水"
+          }
+        ],
+        "phrases": []
+      }
     },
     "Text4": {
       "passage": {
@@ -310,7 +637,93 @@ const ENGLISH_DATA = {
           "explanation": ""
         }
       ],
-      "translation": ""
+      "translation": "",
+      "vocab": {
+        "words": [
+          {
+            "word": "forest",
+            "form": "for",
+            "phonetic": "/ˈfɒrɪst/",
+            "meaning": "森林"
+          },
+          {
+            "word": "great",
+            "form": "great",
+            "phonetic": "/sen「serJanl/",
+            "meaning": "这条消息引起很大的轰动"
+          },
+          {
+            "word": "majority",
+            "form": "major",
+            "phonetic": "",
+            "meaning": "n. 多数；成年 / n. 多数， 大多数；【律】 成年"
+          },
+          {
+            "word": "invention",
+            "form": "inventions",
+            "phonetic": "",
+            "meaning": "n. 发明,创造,发明物 / n. 发明；发明物；虚构；发明才能"
+          },
+          {
+            "word": "ear",
+            "form": "early",
+            "phonetic": "",
+            "meaning": "n. 耳朵；穗；听觉；倾听 vi. （美俚）听见；抽穗"
+          },
+          {
+            "word": "telegraph",
+            "form": "telegraph",
+            "phonetic": "",
+            "meaning": "n. [通信] 电报机，电报 v. 电汇；流露出；打电报给… / v. 打电报传达， 电告 n. 电报机； 电报"
+          },
+          {
+            "word": "weave",
+            "form": "weaving",
+            "phonetic": "/「wizva(r)/",
+            "meaning": "织；组合"
+          },
+          {
+            "word": "shape",
+            "form": "shaping",
+            "phonetic": "",
+            "meaning": "n. 形状；模型；身材；具体化 v. 形成；塑造，使成形；使符合"
+          },
+          {
+            "word": "factor",
+            "form": "factors",
+            "phonetic": "/ˈfæktə(r)/",
+            "meaning": "因素；因子"
+          },
+          {
+            "word": "single",
+            "form": "single",
+            "phonetic": "",
+            "meaning": "adj. 单一的；单身的；单程的 n. 一个；单打；单程票 v. 选出"
+          },
+          {
+            "word": "outer",
+            "form": "out",
+            "phonetic": "",
+            "meaning": "adj. 外面的，外部的；远离中心的 n. 环外命中 / adj. 外部的， 外面的， 外层的"
+          },
+          {
+            "word": "country",
+            "form": "country",
+            "phonetic": "",
+            "meaning": "n. 国家；农村,乡下"
+          }
+        ],
+        "phrases": [
+          {
+            "phrase": "due to",
+            "def": ""
+          },
+          {
+            "phrase": "thanks to",
+            "def": ""
+          }
+        ]
+      }
     },
     "Text5": {
       "passage": "Rumor has it that more than 20 books on creationism/evolution are in the publisher’s pipelines. A few have already appeared. The goal of all will be to try to explain to a confused and often unenlightened citizenry that there are not two equally valid scientific theories for the origin and evolution of universe and life. Cosmology, geology, and biology have provided a consistent, unified, and constantly improving account of what happened. “Scientific” creationism, which is being pushed by some for “equal time” in the classrooms whenever the scientific accounts of evolution are given, is based on religion, not science. Virtually all scientists and the majority of nonfundamentalist religious leaders have come to regard “scientific” creationism as bad science and bad religion. The first four chapters of Kitcher’s book give a very brief introduction to evolution. At appropriate places, he introduces the criticisms of the creationists and provides answers. In the last three chapters, he takes off his gloves and gives the creationists a good beating. He describes their programmes and tactics, and, for those unfamiliar with the ways of creationists, the extent of their deception and distortion may come as an unpleasant surprise. When their basic motivation is religious, one might have expected more Christian behavior. Kitcher is a philosopher, and this may account, in part, for the clarity and effectiveness of his arguments. The non-specialist will be able to obtain at least a notion of the sorts of data and argument that support evolutionary theory. The final chapters on the creationists will be extremely clear to all. On the dust jacket of this fine book, Stephen Jay Gould says: “This book stands for reason itself.” And so it does - and all would be well were reason the only judge in the creationism/evolution debate. 27. “Creationism” in the passage refers to . ［A］ evolution in its true sense as to the origin of the universe ［B］ a notion of the creation of religion ［C］ the scientific explanation of the earth formation ［D］ the deceptive theory about the origin of the universe 5",
@@ -352,7 +765,97 @@ const ENGLISH_DATA = {
           "translation": ""
         }
       ],
-      "translation": ""
+      "translation": "",
+      "vocab": {
+        "words": [
+          {
+            "word": "hasty",
+            "form": "has",
+            "phonetic": "/「hersti/",
+            "meaning": "匆忙的"
+          },
+          {
+            "word": "publish",
+            "form": "publisher",
+            "phonetic": "/r「pAbl/",
+            "meaning": "公布"
+          },
+          {
+            "word": "being",
+            "form": "be",
+            "phonetic": "",
+            "meaning": "n. 生物；存在， 生存"
+          },
+          {
+            "word": "to",
+            "form": "to",
+            "phonetic": "",
+            "meaning": "科学家"
+          },
+          {
+            "word": "confuse",
+            "form": "confused",
+            "phonetic": "/kənˈfjuːz/",
+            "meaning": "使困惑；混淆"
+          },
+          {
+            "word": "notify",
+            "form": "not",
+            "phonetic": "",
+            "meaning": "v. 通告，通知；公布 / vt. 通知， 告知； 报告"
+          },
+          {
+            "word": "valid",
+            "form": "valid",
+            "phonetic": "/「vseld/",
+            "meaning": "合理的"
+          },
+          {
+            "word": "scientific",
+            "form": "scientific",
+            "phonetic": "",
+            "meaning": "adj. 科学的，系统的"
+          },
+          {
+            "word": "theory",
+            "form": "theories",
+            "phonetic": "",
+            "meaning": "n. 理论； 原理； 学说；见解， 看法"
+          },
+          {
+            "word": "forest",
+            "form": "for",
+            "phonetic": "/ˈfɒrɪst/",
+            "meaning": "森林"
+          },
+          {
+            "word": "origin",
+            "form": "origin",
+            "phonetic": "",
+            "meaning": "n. 起源；原点；出身；开端 / n. 起源， 由来；出身， 来历"
+          },
+          {
+            "word": "geology",
+            "form": "geology",
+            "phonetic": "/dʒiˈɒlədʒi/",
+            "meaning": "地质学"
+          }
+        ],
+        "phrases": [
+          {
+            "phrase": "as well as",
+            "def": ""
+          },
+          {
+            "phrase": "deal with",
+            "def": ""
+          },
+          {
+            "phrase": "be able to",
+            "def": ""
+          }
+        ]
+      }
     }
   },
   "1997": {
@@ -422,7 +925,84 @@ const ENGLISH_DATA = {
           "enthusiasm",
           "importance"
         ]
-      ]
+      ],
+      "vocab": {
+        "words": [
+          {
+            "word": "employer",
+            "form": "employment",
+            "phonetic": "/Im「plola(r)/",
+            "meaning": "雄主"
+          },
+          {
+            "word": "office",
+            "form": "offices",
+            "phonetic": "",
+            "meaning": "n. 办公室,办事处；职务,公职；部,局,处"
+          },
+          {
+            "word": "factory",
+            "form": "factories",
+            "phonetic": "",
+            "meaning": "n. 工厂 / n. 工厂；制造厂；代理店"
+          },
+          {
+            "word": "forest",
+            "form": "for",
+            "phonetic": "/ˈfɒrɪst/",
+            "meaning": "森林"
+          },
+          {
+            "word": "time",
+            "form": "time",
+            "phonetic": "/taɪm/",
+            "meaning": "时间；时代；次数"
+          },
+          {
+            "word": "industrial",
+            "form": "industrial",
+            "phonetic": "/m「dhstrial/",
+            "meaning": "工业的"
+          },
+          {
+            "word": "giant",
+            "form": "giants",
+            "phonetic": "/「dsaront/",
+            "meaning": "巨人"
+          },
+          {
+            "word": "likely",
+            "form": "like",
+            "phonetic": "/larkli/",
+            "meaning": "很可能的"
+          },
+          {
+            "word": "general",
+            "form": "General",
+            "phonetic": "/「dsenral/",
+            "meaning": "一般的"
+          },
+          {
+            "word": "motor",
+            "form": "Motors",
+            "phonetic": "",
+            "meaning": "n. 发动机,电动机"
+          },
+          {
+            "word": "to",
+            "form": "to",
+            "phonetic": "",
+            "meaning": "科学家"
+          },
+          {
+            "word": "numb",
+            "form": "number",
+            "phonetic": "/nʌm/",
+            "meaning": "麻木的；使麻木"
+          }
+        ],
+        "phrases": []
+      }
     },
     "Translation": {
       "sentences": [
@@ -438,7 +1018,11 @@ const ENGLISH_DATA = {
         "",
         "",
         ""
-      ]
+      ],
+      "vocab": {
+        "words": [],
+        "phrases": []
+      }
     },
     "Text1": {
       "passage": {
@@ -499,7 +1083,89 @@ const ENGLISH_DATA = {
           "explanation": ""
         }
       ],
-      "translation": ""
+      "translation": "",
+      "vocab": {
+        "words": [
+          {
+            "word": "finally",
+            "form": "finally",
+            "phonetic": "/ˈfaɪnəli/",
+            "meaning": "最后；终于"
+          },
+          {
+            "word": "month",
+            "form": "months",
+            "phonetic": "",
+            "meaning": "n. 月,月份 / n. 月，一个月的时间"
+          },
+          {
+            "word": "final",
+            "form": "final",
+            "phonetic": "",
+            "meaning": "adj. 最终的；决定性的 n. 决赛；期末考试 / adj. 最终的；决定性的；不可更改的 n. 决赛；期末考试；当日报纸的末版"
+          },
+          {
+            "word": "hot",
+            "form": "hot",
+            "phonetic": "/hɒt/",
+            "meaning": "热的；辣的"
+          },
+          {
+            "word": "debate",
+            "form": "debates",
+            "phonetic": "/dn bet/",
+            "meaning": "争论"
+          },
+          {
+            "word": "northern",
+            "form": "Northern",
+            "phonetic": "",
+            "meaning": "adj. 北部的；北方的 n. 北部方言"
+          },
+          {
+            "word": "legal",
+            "form": "legal",
+            "phonetic": "",
+            "meaning": "adj. 法律的,法定的;合法的,正当的 / adj. 法律的；合法的；法定的；依照法律的 n. (Legal)人名；(法)勒加尔 / adj. 法律的； 法定的 <；合法的， 正当的"
+          },
+          {
+            "word": "author",
+            "form": "authority",
+            "phonetic": "",
+            "meaning": "作者"
+          },
+          {
+            "word": "to",
+            "form": "to",
+            "phonetic": "",
+            "meaning": "科学家"
+          },
+          {
+            "word": "doctor",
+            "form": "doctors",
+            "phonetic": "/ˈdɒktə(r)/",
+            "meaning": "医生；博士"
+          },
+          {
+            "word": "living",
+            "form": "lives",
+            "phonetic": "/Uvm/",
+            "meaning": "活的"
+          },
+          {
+            "word": "die",
+            "form": "die",
+            "phonetic": "/dar/",
+            "meaning": "死亡"
+          }
+        ],
+        "phrases": [
+          {
+            "phrase": "deal with",
+            "def": ""
+          }
+        ]
+      }
     },
     "Text2": {
       "passage": {
@@ -560,7 +1226,101 @@ const ENGLISH_DATA = {
           "explanation": ""
         }
       ],
-      "translation": ""
+      "translation": "",
+      "vocab": {
+        "words": [
+          {
+            "word": "report",
+            "form": "report",
+            "phonetic": "",
+            "meaning": "n. 报告,汇报 v. 报道 / n. 报告；报道；成绩单 v. 报告；报导；使报到"
+          },
+          {
+            "word": "consistent",
+            "form": "consistently",
+            "phonetic": "",
+            "meaning": "adj. 一贯的，一致的 / adj. 始终如一的，一致的；坚持的 / adj. 前后一致的， 始终如一的"
+          },
+          {
+            "word": "visitor",
+            "form": "visitors",
+            "phonetic": "/「vzita(r)/",
+            "meaning": "访问者；客人；来宾；参观者"
+          },
+          {
+            "word": "to",
+            "form": "to",
+            "phonetic": "",
+            "meaning": "科学家"
+          },
+          {
+            "word": "friendly",
+            "form": "friendly",
+            "phonetic": "/ˈfrendli/",
+            "meaning": "友好的；亲切的"
+          },
+          {
+            "word": "helpful",
+            "form": "helpful",
+            "phonetic": "/rhelpf/",
+            "meaning": "有帮助的"
+          },
+          {
+            "word": "mostly",
+            "form": "most",
+            "phonetic": "",
+            "meaning": "adv. 主要地， 大部分， 通常"
+          },
+          {
+            "word": "being",
+            "form": "be",
+            "phonetic": "",
+            "meaning": "n. 生物；存在， 生存"
+          },
+          {
+            "word": "fair",
+            "form": "fair",
+            "phonetic": "/feə(r)/",
+            "meaning": "公平的；集市；博览会"
+          },
+          {
+            "word": "observation",
+            "form": "observation",
+            "phonetic": "",
+            "meaning": "n. 观察；监视；观察报告 / n. 观察； 观测； 监视；观察资料或报告； 言论"
+          },
+          {
+            "word": "consider",
+            "form": "considered",
+            "phonetic": "",
+            "meaning": "v. 考虑，细想；认为；体谅，顾及 / v. 考虑；认为；考虑到；细想"
+          },
+          {
+            "word": "north",
+            "form": "North",
+            "phonetic": "",
+            "meaning": "n. 北，北方 adj. 北方的；朝北的 adv. 在北方，向北方"
+          }
+        ],
+        "phrases": [
+          {
+            "phrase": "fail to",
+            "def": ""
+          },
+          {
+            "phrase": "used to",
+            "def": ""
+          },
+          {
+            "phrase": "in view of",
+            "def": ""
+          },
+          {
+            "phrase": "on the part of",
+            "def": ""
+          }
+        ]
+      }
     },
     "Text3": {
       "passage": {
@@ -608,7 +1368,93 @@ const ENGLISH_DATA = {
           "explanation": ""
         }
       ],
-      "translation": ""
+      "translation": "",
+      "vocab": {
+        "words": [
+          {
+            "word": "technical",
+            "form": "Technically",
+            "phonetic": "/rteknd/",
+            "meaning": "技术的"
+          },
+          {
+            "word": "substance",
+            "form": "substance",
+            "phonetic": "",
+            "meaning": "n. 物质；实质；资产；主旨 / n. 物质， 实质；大意；财产， 财物"
+          },
+          {
+            "word": "alter",
+            "form": "alters",
+            "phonetic": "/ˈɔːltə(r)/",
+            "meaning": "改变；变更"
+          },
+          {
+            "word": "mental",
+            "form": "mental",
+            "phonetic": "/ˈmentl/",
+            "meaning": "精神的；心理的"
+          },
+          {
+            "word": "term",
+            "form": "term",
+            "phonetic": "",
+            "meaning": "学期；条件；关系"
+          },
+          {
+            "word": "to",
+            "form": "to",
+            "phonetic": "",
+            "meaning": "科学家"
+          },
+          {
+            "word": "sort",
+            "form": "sort",
+            "phonetic": "",
+            "meaning": "种类"
+          },
+          {
+            "word": "medicine",
+            "form": "medicine",
+            "phonetic": "/「medsn;-drsn/",
+            "meaning": "内服药"
+          },
+          {
+            "word": "chemical",
+            "form": "chemical",
+            "phonetic": "",
+            "meaning": "化学的"
+          },
+          {
+            "word": "familiar",
+            "form": "familiar",
+            "phonetic": "/fəˈmɪliə(r)/",
+            "meaning": "熟悉的；常见的"
+          },
+          {
+            "word": "alcohol",
+            "form": "alcohol",
+            "phonetic": "/「alkohol/",
+            "meaning": "酒精；乙醇"
+          },
+          {
+            "word": "tobacco",
+            "form": "tobacco",
+            "phonetic": "/təˈbækəʊ/",
+            "meaning": "烟草；烟叶"
+          }
+        ],
+        "phrases": [
+          {
+            "phrase": "lead to",
+            "def": ""
+          },
+          {
+            "phrase": "instead of",
+            "def": ""
+          }
+        ]
+      }
     },
     "Text4": {
       "passage": {
@@ -669,7 +1515,89 @@ const ENGLISH_DATA = {
           "explanation": ""
         }
       ],
-      "translation": ""
+      "translation": "",
+      "vocab": {
+        "words": [
+          {
+            "word": "company",
+            "form": "company",
+            "phonetic": "/「kAmpani/",
+            "meaning": "公司"
+          },
+          {
+            "word": "likely",
+            "form": "likes",
+            "phonetic": "/larkli/",
+            "meaning": "很可能的"
+          },
+          {
+            "word": "to",
+            "form": "to",
+            "phonetic": "",
+            "meaning": "科学家"
+          },
+          {
+            "word": "being",
+            "form": "be",
+            "phonetic": "",
+            "meaning": "n. 生物；存在， 生存"
+          },
+          {
+            "word": "contribute",
+            "form": "contributing",
+            "phonetic": "",
+            "meaning": "v. 贡献，出力；投稿；捐献 / v. 贡献； 捐助， 捐献；投稿；有助于"
+          },
+          {
+            "word": "morality",
+            "form": "moral",
+            "phonetic": "",
+            "meaning": "n. 道德；品行，美德 / n. 道德； 美德"
+          },
+          {
+            "word": "national",
+            "form": "nation",
+            "phonetic": "",
+            "meaning": "adj. 国家的；国民的；民族的；国立的 n. 国民"
+          },
+          {
+            "word": "intend",
+            "form": "intended",
+            "phonetic": "",
+            "meaning": "v. 想要； 打算， 企图"
+          },
+          {
+            "word": "career",
+            "form": "careers",
+            "phonetic": "/kəˈrɪə(r)/",
+            "meaning": "职业；事业"
+          },
+          {
+            "word": "senator",
+            "form": "Senator",
+            "phonetic": "/ˈsenətə(r)/",
+            "meaning": "参议员"
+          },
+          {
+            "word": "time",
+            "form": "Time",
+            "phonetic": "/taɪm/",
+            "meaning": "时间；时代；次数"
+          },
+          {
+            "word": "soul",
+            "form": "souls",
+            "phonetic": "/soxt/",
+            "meaning": "人类整体的"
+          }
+        ],
+        "phrases": [
+          {
+            "phrase": "in the face of",
+            "def": ""
+          }
+        ]
+      }
     },
     "Text5": {
       "passage": "Much of the language used to describe monetary policy, such as “steering the economy to a soft landing” or “a touch on the brakes”, makes it sound like a precise science. Nothing could be further from the truth. The link between interest rates and inflation is uncertain. And there are long, variable lags before policy changes have any effect on the economy. Hence the analogy that likens the conduct of monetary policy to driving a car with a blackened windscreen, a cracked rear-view mirror and a faulty steering wheel. Given all these disadvantages, central bankers seem to have had much to boast about of late. Average inflation in the big seven industrial economies fell to a mere 2.3% last year, close to its lowest level in 30 years, before rising slightly to 2.5% this July. This is a long way below the double-digit rates which many countries experienced in the 1970s and early 1980s. It is also less than most forecasters had predicted. In late 1994 the panel of economists which The Economist polls each month said that America’s inflation rate would average 3.5% in 1995. In fact, it fell to 2.6% in August, and is expected to average only about 3% for the year as a whole. In Britain and Japan inflation is running half a percentage point below the rate predicted at the end of last year. This is no flash in the pan; over the past couple of years, inflation has been consistently lower than expected in Britain and America. Economists have been particularly surprised by favourable inflation figures in Britain and the United States, since conventional measures suggest that both economies, and especially America’s, have little productive slack. America’s capacity utilisation, for example, hit historically high levels earlier this year, and its jobless rate (5.6% in August) has fallen below most estimates of the natural rate of unemployment—the rate below which inflation has taken off in the past. Why has inflation proved so mild? The most thrilling explanation is, unfortunately, a little defective. Some economists argue that powerful structural changes in the world have up-ended the old economic models that were based upon the historical link between growth and inflation.",
@@ -723,7 +1651,101 @@ const ENGLISH_DATA = {
           "translation": ""
         }
       ],
-      "translation": ""
+      "translation": "",
+      "vocab": {
+        "words": [
+          {
+            "word": "to",
+            "form": "to",
+            "phonetic": "",
+            "meaning": "科学家"
+          },
+          {
+            "word": "describe",
+            "form": "describe",
+            "phonetic": "/dɪˈskraɪb/",
+            "meaning": "描述；描绘"
+          },
+          {
+            "word": "monetary",
+            "form": "monetary",
+            "phonetic": "",
+            "meaning": "adj. 金融的,货币的 / adj. 货币的；财政的 / adj. 金融的， 货币的"
+          },
+          {
+            "word": "steer",
+            "form": "steering",
+            "phonetic": "",
+            "meaning": "v. 控制，引导；驾驶 n. 阉牛 / v. 驾驶， 掌舵；指导"
+          },
+          {
+            "word": "economy",
+            "form": "economy",
+            "phonetic": "",
+            "meaning": "n. 经济；节约 / n. 经济；节约；理财 / n. 节约；经济"
+          },
+          {
+            "word": "soft",
+            "form": "soft",
+            "phonetic": "/sɒft/",
+            "meaning": "柔软的；温和的"
+          },
+          {
+            "word": "brake",
+            "form": "brakes",
+            "phonetic": "/breɪk/",
+            "meaning": "刹车；制动器"
+          },
+          {
+            "word": "sound",
+            "form": "sound",
+            "phonetic": "/saund/",
+            "meaning": "健康的"
+          },
+          {
+            "word": "likely",
+            "form": "like",
+            "phonetic": "/larkli/",
+            "meaning": "很可能的"
+          },
+          {
+            "word": "science",
+            "form": "science",
+            "phonetic": "/ˈsaɪəns/",
+            "meaning": "科学；理科"
+          },
+          {
+            "word": "being",
+            "form": "be",
+            "phonetic": "",
+            "meaning": "n. 生物；存在， 生存"
+          },
+          {
+            "word": "truth",
+            "form": "truth",
+            "phonetic": "/truːθ/",
+            "meaning": "真相；真理"
+          }
+        ],
+        "phrases": [
+          {
+            "phrase": "result from",
+            "def": ""
+          },
+          {
+            "phrase": "lead to",
+            "def": ""
+          },
+          {
+            "phrase": "seem to",
+            "def": ""
+          },
+          {
+            "phrase": "used to",
+            "def": ""
+          }
+        ]
+      }
     }
   },
   "1998": {
@@ -793,7 +1815,84 @@ const ENGLISH_DATA = {
           "labeled",
           "marked"
         ]
-      ]
+      ],
+      "vocab": {
+        "words": [
+          {
+            "word": "mostly",
+            "form": "most",
+            "phonetic": "",
+            "meaning": "adv. 主要地， 大部分， 通常"
+          },
+          {
+            "word": "historian",
+            "form": "historians",
+            "phonetic": "",
+            "meaning": "历史学家"
+          },
+          {
+            "word": "very",
+            "form": "very",
+            "phonetic": "",
+            "meaning": "adv. 很，非常；完全 adj. 同一的，正是的，恰好的"
+          },
+          {
+            "word": "critical",
+            "form": "critically",
+            "phonetic": "",
+            "meaning": "批评的"
+          },
+          {
+            "word": "industrial",
+            "form": "Industrial",
+            "phonetic": "/m「dhstrial/",
+            "meaning": "工业的"
+          },
+          {
+            "word": "great",
+            "form": "greatly",
+            "phonetic": "/sen「serJanl/",
+            "meaning": "这条消息引起很大的轰动"
+          },
+          {
+            "word": "standard",
+            "form": "standard",
+            "phonetic": "/「stsendad/",
+            "meaning": "品质的"
+          },
+          {
+            "word": "living",
+            "form": "living",
+            "phonetic": "/Uvm/",
+            "meaning": "活的"
+          },
+          {
+            "word": "forest",
+            "form": "for",
+            "phonetic": "/ˈfɒrɪst/",
+            "meaning": "森林"
+          },
+          {
+            "word": "man",
+            "form": "man",
+            "phonetic": "/mæn/",
+            "meaning": "男人；人类"
+          },
+          {
+            "word": "insist",
+            "form": "insisted",
+            "phonetic": "",
+            "meaning": "v. 坚称，坚决认为 / v. 坚持，强调"
+          },
+          {
+            "word": "result",
+            "form": "results",
+            "phonetic": "",
+            "meaning": "结果"
+          }
+        ],
+        "phrases": []
+      }
     },
     "Text1": {
       "passage": {
@@ -854,7 +1953,105 @@ const ENGLISH_DATA = {
           "explanation": ""
         }
       ],
-      "translation": ""
+      "translation": "",
+      "vocab": {
+        "words": [
+          {
+            "word": "capture",
+            "form": "capture",
+            "phonetic": "",
+            "meaning": "v. 俘虏；夺得,攻占；捕获 n. 捕获,俘虏；夺得,攻占 / v. 俘获；夺得；捕捉，拍摄,录制 n. 捕获；战利品，俘虏 / n. 捕获， 俘虏 vt. 捕获， 俘虏；引起注意， 吸引住"
+          },
+          {
+            "word": "likely",
+            "form": "like",
+            "phonetic": "/larkli/",
+            "meaning": "很可能的"
+          },
+          {
+            "word": "giant",
+            "form": "giant",
+            "phonetic": "/「dsaront/",
+            "meaning": "巨人"
+          },
+          {
+            "word": "dam",
+            "form": "dams",
+            "phonetic": "",
+            "meaning": "水坝；水阅"
+          },
+          {
+            "word": "suffer",
+            "form": "suffering",
+            "phonetic": "",
+            "meaning": "受痛苦；遮受；忍受"
+          },
+          {
+            "word": "mercy",
+            "form": "mercy",
+            "phonetic": "",
+            "meaning": "n. 仁慈,怜悯,宽恕 / n. 仁慈，宽容；怜悯；幸运；善行 / n. 仁慈， 怜悯， 宽恕"
+          },
+          {
+            "word": "flood",
+            "form": "flood",
+            "phonetic": "",
+            "meaning": "洪水"
+          },
+          {
+            "word": "drought",
+            "form": "drought",
+            "phonetic": "/draʊt/",
+            "meaning": "干旱；旱灾"
+          },
+          {
+            "word": "to",
+            "form": "to",
+            "phonetic": "",
+            "meaning": "科学家"
+          },
+          {
+            "word": "bid",
+            "form": "bidding",
+            "phonetic": "/「brda(r)/",
+            "meaning": "出价；争取"
+          },
+          {
+            "word": "fascinate",
+            "form": "fascinating",
+            "phonetic": "",
+            "meaning": "v. 使着迷，使神魂颠倒 / vt. 迷住， 强烈吸引"
+          },
+          {
+            "word": "being",
+            "form": "be",
+            "phonetic": "",
+            "meaning": "n. 生物；存在， 生存"
+          }
+        ],
+        "phrases": [
+          {
+            "phrase": "tend to",
+            "def": ""
+          },
+          {
+            "phrase": "even though",
+            "def": ""
+          },
+          {
+            "phrase": "far from",
+            "def": ""
+          },
+          {
+            "phrase": "at the mercy of",
+            "def": ""
+          },
+          {
+            "phrase": "in return for",
+            "def": ""
+          }
+        ]
+      }
     },
     "Text2": {
       "passage": {
@@ -915,7 +2112,97 @@ const ENGLISH_DATA = {
           "explanation": ""
         }
       ],
-      "translation": ""
+      "translation": "",
+      "vocab": {
+        "words": [
+          {
+            "word": "painful",
+            "form": "pain",
+            "phonetic": "/ˈpeɪnfl/",
+            "meaning": "痛苦的；疼痛的"
+          },
+          {
+            "word": "tale",
+            "form": "tales",
+            "phonetic": "",
+            "meaning": "故事"
+          },
+          {
+            "word": "hardship",
+            "form": "harder",
+            "phonetic": "/ˈhɑːdʃɪp/",
+            "meaning": "艰难；困苦"
+          },
+          {
+            "word": "to",
+            "form": "to",
+            "phonetic": "",
+            "meaning": "科学家"
+          },
+          {
+            "word": "establish",
+            "form": "establish",
+            "phonetic": "",
+            "meaning": "v. 建立；创办；安置 / vt. 建立， 设立；安置， 使定居"
+          },
+          {
+            "word": "forest",
+            "form": "for",
+            "phonetic": "/ˈfɒrɪst/",
+            "meaning": "森林"
+          },
+          {
+            "word": "official",
+            "form": "official",
+            "phonetic": "/əˈfɪʃl/",
+            "meaning": "官方的；官员"
+          },
+          {
+            "word": "mild",
+            "form": "mildly",
+            "phonetic": "/maɪld/",
+            "meaning": "温和的；轻微的"
+          },
+          {
+            "word": "discourage",
+            "form": "discouraging",
+            "phonetic": "",
+            "meaning": "v. 阻止；使气馁 / vt. 使泄气， 使失去信心； 阻碍"
+          },
+          {
+            "word": "shower",
+            "form": "show",
+            "phonetic": "/ˈʃaʊə(r)/",
+            "meaning": "淋浴；阵雨"
+          },
+          {
+            "word": "lump",
+            "form": "lump",
+            "phonetic": "",
+            "meaning": "n. 块，块状；肿块；瘤；很多；笨人 v. 混在一起；使成块状；忍耐；笨重地移动 adj. 成团的；总共的 adv. 很；非常 / vi. 结块， 起小疙瘩 n. 团， 块 vt. 把…归并在一起"
+          },
+          {
+            "word": "manufacture",
+            "form": "manufacturing",
+            "phonetic": "",
+            "meaning": "制造"
+          }
+        ],
+        "phrases": [
+          {
+            "phrase": "due to",
+            "def": ""
+          },
+          {
+            "phrase": "fail to",
+            "def": ""
+          },
+          {
+            "phrase": "even if",
+            "def": ""
+          }
+        ]
+      }
     },
     "Text3": {
       "passage": {
@@ -976,7 +2263,101 @@ const ENGLISH_DATA = {
           "explanation": ""
         }
       ],
-      "translation": ""
+      "translation": "",
+      "vocab": {
+        "words": [
+          {
+            "word": "science",
+            "form": "Science",
+            "phonetic": "/ˈsaɪəns/",
+            "meaning": "科学；理科"
+          },
+          {
+            "word": "hasty",
+            "form": "has",
+            "phonetic": "/「hersti/",
+            "meaning": "匆忙的"
+          },
+          {
+            "word": "relationship",
+            "form": "relationship",
+            "phonetic": "",
+            "meaning": "n. 关系；关联 / n. 关系， 联系"
+          },
+          {
+            "word": "century",
+            "form": "century",
+            "phonetic": "/ˈsentʃəri/",
+            "meaning": "世纪；百年"
+          },
+          {
+            "word": "trial",
+            "form": "trial",
+            "phonetic": "/ˈtraɪəl/",
+            "meaning": "审判；试验"
+          },
+          {
+            "word": "forest",
+            "form": "for",
+            "phonetic": "/ˈfɒrɪst/",
+            "meaning": "森林"
+          },
+          {
+            "word": "rebel",
+            "form": "rebelling",
+            "phonetic": "/ˈrebl/",
+            "meaning": "反叛者；反叛"
+          },
+          {
+            "word": "church",
+            "form": "Church",
+            "phonetic": "",
+            "meaning": "n. 教堂；礼拜；教派 adj. 教会的；礼拜的 v. 领…到教堂接受宗教仪式"
+          },
+          {
+            "word": "harsh",
+            "form": "harsh",
+            "phonetic": "/haJ/",
+            "meaning": "粗糙而使人不舒服的；严厉的"
+          },
+          {
+            "word": "remark",
+            "form": "remarks",
+            "phonetic": "",
+            "meaning": "n. 评语,意见 v. 评论 / n. 注意；言辞 v. 评论；觉察 / vi. 评论； 谈论 n. 评语， 议论， 意见 vt. 注意到， 察觉"
+          },
+          {
+            "word": "scientific",
+            "form": "scientific",
+            "phonetic": "",
+            "meaning": "adj. 科学的，系统的"
+          },
+          {
+            "word": "community",
+            "form": "community",
+            "phonetic": "",
+            "meaning": "n. 社区；团体 / n. 社区；[生态] 群落；共同体；团体 / n. 同一地区的全体居民； 社会， 社区 <；共同体"
+          }
+        ],
+        "phrases": [
+          {
+            "phrase": "believe in",
+            "def": ""
+          },
+          {
+            "phrase": "subject to",
+            "def": ""
+          },
+          {
+            "phrase": "respond to",
+            "def": ""
+          },
+          {
+            "phrase": "tend to",
+            "def": ""
+          }
+        ]
+      }
     },
     "Text4": {
       "passage": {
@@ -1089,7 +2470,109 @@ const ENGLISH_DATA = {
           "explanation": ""
         }
       ],
-      "translation": ""
+      "translation": "",
+      "vocab": {
+        "words": [
+          {
+            "word": "census",
+            "form": "census",
+            "phonetic": "/a〈 l`) 【词性/",
+            "meaning": "人口普查"
+          },
+          {
+            "word": "picture",
+            "form": "picture",
+            "phonetic": "/ˈpɪktʃə(r)/",
+            "meaning": "图片；描绘"
+          },
+          {
+            "word": "national",
+            "form": "nation",
+            "phonetic": "",
+            "meaning": "adj. 国家的；国民的；民族的；国立的 n. 国民"
+          },
+          {
+            "word": "region",
+            "form": "regional",
+            "phonetic": "",
+            "meaning": "n. 地区；范围；部位 / n. 地区， 区域， 范围"
+          },
+          {
+            "word": "competition",
+            "form": "competition",
+            "phonetic": "",
+            "meaning": "n. 竞争；比赛，竞赛 / n. 竞争；比赛，竞赛"
+          },
+          {
+            "word": "population",
+            "form": "population",
+            "phonetic": "/ˌpɒpjuˈleɪʃn/",
+            "meaning": "人口；居民"
+          },
+          {
+            "word": "growth",
+            "form": "growth",
+            "phonetic": "/gtsbe/",
+            "meaning": "生长"
+          },
+          {
+            "word": "northeast",
+            "form": "Northeast",
+            "phonetic": "",
+            "meaning": "adj. 东北的；向东北的；来自东北的 n. 东北 adv. 向东北；来自东北"
+          },
+          {
+            "word": "strong",
+            "form": "strong",
+            "phonetic": "",
+            "meaning": "adj. 坚强的；强壮的；牢固的；擅长的 adv. 强劲地；猛烈地 n. (Strong)人名；(英)斯特朗"
+          },
+          {
+            "word": "forest",
+            "form": "for",
+            "phonetic": "/ˈfɒrɪst/",
+            "meaning": "森林"
+          },
+          {
+            "word": "political",
+            "form": "politics",
+            "phonetic": "/pahHtug/",
+            "meaning": "政治的"
+          },
+          {
+            "word": "economy",
+            "form": "economy",
+            "phonetic": "",
+            "meaning": "n. 经济；节约 / n. 经济；节约；理财 / n. 节约；经济"
+          }
+        ],
+        "phrases": [
+          {
+            "phrase": "be attributed to",
+            "def": ""
+          },
+          {
+            "phrase": "with respect to",
+            "def": ""
+          },
+          {
+            "phrase": "in favor of",
+            "def": ""
+          },
+          {
+            "phrase": "seem to",
+            "def": ""
+          },
+          {
+            "phrase": "so that",
+            "def": ""
+          },
+          {
+            "phrase": "except for",
+            "def": ""
+          }
+        ]
+      }
     }
   },
   "1999": {
@@ -1159,7 +2642,97 @@ const ENGLISH_DATA = {
           "an interest",
           "a profit"
         ]
-      ]
+      ],
+      "vocab": {
+        "words": [
+          {
+            "word": "industrial",
+            "form": "Industrial",
+            "phonetic": "/m「dhstrial/",
+            "meaning": "工业的"
+          },
+          {
+            "word": "safety",
+            "form": "safety",
+            "phonetic": "",
+            "meaning": "n. 安全；保险；安全设备；保险装置；安打"
+          },
+          {
+            "word": "notify",
+            "form": "not",
+            "phonetic": "",
+            "meaning": "v. 通告，通知；公布 / vt. 通知， 告知； 报告"
+          },
+          {
+            "word": "justify",
+            "form": "just",
+            "phonetic": "",
+            "meaning": "v. 证明合法；整理版面 / vt. 证明…是正当的， 认为有理"
+          },
+          {
+            "word": "company",
+            "form": "Companies",
+            "phonetic": "/「kAmpani/",
+            "meaning": "公司"
+          },
+          {
+            "word": "low",
+            "form": "low",
+            "phonetic": "",
+            "meaning": "低的"
+          },
+          {
+            "word": "accident",
+            "form": "accident",
+            "phonetic": "/Imvest「 gejn/",
+            "meaning": "他们彻底调查了这起意外事件的原因"
+          },
+          {
+            "word": "rat",
+            "form": "rates",
+            "phonetic": "/ræt/",
+            "meaning": "老鼠"
+          },
+          {
+            "word": "hardship",
+            "form": "hard",
+            "phonetic": "/ˈhɑːdʃɪp/",
+            "meaning": "艰难；困苦"
+          },
+          {
+            "word": "to",
+            "form": "to",
+            "phonetic": "",
+            "meaning": "科学家"
+          },
+          {
+            "word": "organize",
+            "form": "organize",
+            "phonetic": "",
+            "meaning": "v. 组织；使有系统化；给予生机；组织成立工会等 / vt. 组织， 编组"
+          },
+          {
+            "word": "continue",
+            "form": "continue",
+            "phonetic": "",
+            "meaning": "连续"
+          }
+        ],
+        "phrases": [
+          {
+            "phrase": "depend on",
+            "def": ""
+          },
+          {
+            "phrase": "due to",
+            "def": ""
+          },
+          {
+            "phrase": "appeal to",
+            "def": ""
+          }
+        ]
+      }
     },
     "Text1": {
       "passage": {
@@ -1220,7 +2793,89 @@ const ENGLISH_DATA = {
           "explanation": ""
         }
       ],
-      "translation": ""
+      "translation": "",
+      "vocab": {
+        "words": [
+          {
+            "word": "outer",
+            "form": "out",
+            "phonetic": "",
+            "meaning": "adj. 外面的，外部的；远离中心的 n. 环外命中 / adj. 外部的， 外面的， 外层的"
+          },
+          {
+            "word": "step",
+            "form": "Step",
+            "phonetic": "/step/",
+            "meaning": "步；步骤"
+          },
+          {
+            "word": "outside",
+            "form": "outside",
+            "phonetic": "",
+            "meaning": "外部；周围"
+          },
+          {
+            "word": "leg",
+            "form": "leg",
+            "phonetic": "",
+            "meaning": "n. 腿；支柱"
+          },
+          {
+            "word": "slip",
+            "form": "slipping",
+            "phonetic": "",
+            "meaning": "滑倒；溜走"
+          },
+          {
+            "word": "light",
+            "form": "Light",
+            "phonetic": "/lalt/",
+            "meaning": "光"
+          },
+          {
+            "word": "failure",
+            "form": "failed",
+            "phonetic": "",
+            "meaning": "n. 失败；故障；失败者；破产 / n. 失败； 不及格 <；失败者 A；故障， 失灵；未能"
+          },
+          {
+            "word": "to",
+            "form": "to",
+            "phonetic": "",
+            "meaning": "科学家"
+          },
+          {
+            "word": "comment",
+            "form": "coming",
+            "phonetic": "",
+            "meaning": "v. 注释； 评论 n. 注释； 评论； 意见"
+          },
+          {
+            "word": "successful",
+            "form": "successful",
+            "phonetic": "/səkˈsesfl/",
+            "meaning": "成功的"
+          },
+          {
+            "word": "compensate",
+            "form": "compensate",
+            "phonetic": "",
+            "meaning": "v. (for)补偿；赔偿 / v. 补偿，赔偿；抵消 / v. 补偿， 赔偿， 弥补"
+          },
+          {
+            "word": "forest",
+            "form": "for",
+            "phonetic": "/ˈfɒrɪst/",
+            "meaning": "森林"
+          }
+        ],
+        "phrases": [
+          {
+            "phrase": "tend to",
+            "def": ""
+          }
+        ]
+      }
     },
     "Text2": {
       "passage": {
@@ -1281,7 +2936,89 @@ const ENGLISH_DATA = {
           "explanation": ""
         }
       ],
-      "translation": ""
+      "translation": "",
+      "vocab": {
+        "words": [
+          {
+            "word": "mostly",
+            "form": "most",
+            "phonetic": "",
+            "meaning": "adv. 主要地， 大部分， 通常"
+          },
+          {
+            "word": "hasty",
+            "form": "has",
+            "phonetic": "/「hersti/",
+            "meaning": "匆忙的"
+          },
+          {
+            "word": "effort",
+            "form": "efforts",
+            "phonetic": "",
+            "meaning": "n. 努力；成就"
+          },
+          {
+            "word": "to",
+            "form": "to",
+            "phonetic": "",
+            "meaning": "科学家"
+          },
+          {
+            "word": "tap",
+            "form": "tap",
+            "phonetic": "/tæp/",
+            "meaning": "轻敲；水龙头；利用"
+          },
+          {
+            "word": "market",
+            "form": "market",
+            "phonetic": "",
+            "meaning": "n. 集市,市场；销路,需求(量) v. 销售"
+          },
+          {
+            "word": "being",
+            "form": "be",
+            "phonetic": "",
+            "meaning": "n. 生物；存在， 生存"
+          },
+          {
+            "word": "fashion",
+            "form": "fashion",
+            "phonetic": "",
+            "meaning": "方式；流行式样"
+          },
+          {
+            "word": "company",
+            "form": "companies",
+            "phonetic": "/「kAmpani/",
+            "meaning": "公司"
+          },
+          {
+            "word": "sell",
+            "form": "sell",
+            "phonetic": "/sel/",
+            "meaning": "出让"
+          },
+          {
+            "word": "service",
+            "form": "services",
+            "phonetic": "",
+            "meaning": "服务；维修"
+          },
+          {
+            "word": "forest",
+            "form": "for",
+            "phonetic": "/ˈfɒrɪst/",
+            "meaning": "森林"
+          }
+        ],
+        "phrases": [
+          {
+            "phrase": "be able to",
+            "def": ""
+          }
+        ]
+      }
     },
     "Text3": {
       "passage": {
@@ -1342,7 +3079,84 @@ const ENGLISH_DATA = {
           "explanation": ""
         }
       ],
-      "translation": ""
+      "translation": "",
+      "vocab": {
+        "words": [
+          {
+            "word": "invisible",
+            "form": "invisible",
+            "phonetic": "",
+            "meaning": "adj. 看不见的；无形的 / adj. 无形的，看不见的；无形的；不显眼的，暗藏的 / adj. 看不见的； 无形的"
+          },
+          {
+            "word": "border",
+            "form": "border",
+            "phonetic": "",
+            "meaning": "n. 边界， 国界；边 vt. 交界， 与…接壤； 接近 <"
+          },
+          {
+            "word": "divide",
+            "form": "divides",
+            "phonetic": "/dɪˈvaɪd/",
+            "meaning": "划分；分开；除"
+          },
+          {
+            "word": "forest",
+            "form": "for",
+            "phonetic": "/ˈfɒrɪst/",
+            "meaning": "森林"
+          },
+          {
+            "word": "classroom",
+            "form": "classroom",
+            "phonetic": "",
+            "meaning": "n. 教室"
+          },
+          {
+            "word": "student",
+            "form": "students'",
+            "phonetic": "",
+            "meaning": "n. 学生；学者"
+          },
+          {
+            "word": "career",
+            "form": "career",
+            "phonetic": "/kəˈrɪə(r)/",
+            "meaning": "职业；事业"
+          },
+          {
+            "word": "education",
+            "form": "educational",
+            "phonetic": "",
+            "meaning": "n. 教育,培养"
+          },
+          {
+            "word": "reform",
+            "form": "reform",
+            "phonetic": "",
+            "meaning": "改革"
+          },
+          {
+            "word": "very",
+            "form": "Very",
+            "phonetic": "",
+            "meaning": "adv. 很，非常；完全 adj. 同一的，正是的，恰好的"
+          },
+          {
+            "word": "subject",
+            "form": "subject",
+            "phonetic": "",
+            "meaning": "n. 主题；学科 adj. 隶属的；易遭..的 v. 使隶属"
+          },
+          {
+            "word": "explore",
+            "form": "explored",
+            "phonetic": "",
+            "meaning": "v. 探索；探测；探险 / v. 勘探， 探究， 探索 A"
+          }
+        ],
+        "phrases": []
+      }
     },
     "Text4": {
       "passage": {
@@ -1455,7 +3269,109 @@ const ENGLISH_DATA = {
           "explanation": ""
         }
       ],
-      "translation": ""
+      "translation": "",
+      "vocab": {
+        "words": [
+          {
+            "word": "team",
+            "form": "team",
+            "phonetic": "/tiːm/",
+            "meaning": "团队；队"
+          },
+          {
+            "word": "reveal",
+            "form": "revealing",
+            "phonetic": "/rɪˈviːl/",
+            "meaning": "揭示；透露"
+          },
+          {
+            "word": "month",
+            "form": "months",
+            "phonetic": "",
+            "meaning": "n. 月,月份 / n. 月，一个月的时间"
+          },
+          {
+            "word": "clone",
+            "form": "cloned",
+            "phonetic": "/klaun/",
+            "meaning": "无性繁殖"
+          },
+          {
+            "word": "adult",
+            "form": "adult",
+            "phonetic": "/a「dopJn/",
+            "meaning": "成年人的"
+          },
+          {
+            "word": "sheep",
+            "form": "sheep",
+            "phonetic": "/hau「eva(r)/",
+            "meaning": "挤作一团的人"
+          },
+          {
+            "word": "president",
+            "form": "President",
+            "phonetic": "/ˈprezɪdənt/",
+            "meaning": "总统；主席；校长"
+          },
+          {
+            "word": "move",
+            "form": "moved",
+            "phonetic": "",
+            "meaning": "v. 移动；迁移；感动 n. 行动；移动,活动"
+          },
+          {
+            "word": "swift",
+            "form": "swiftly",
+            "phonetic": "/swtt/",
+            "meaning": "快速的"
+          },
+          {
+            "word": "declare",
+            "form": "Declaring",
+            "phonetic": "",
+            "meaning": "宣布"
+          },
+          {
+            "word": "oppose",
+            "form": "opposed",
+            "phonetic": "",
+            "meaning": "v. 反对,使对立,使对抗,使相对 / v. 反对；对抗，抗争 / vt. 反对， 反抗 <"
+          },
+          {
+            "word": "to",
+            "form": "to",
+            "phonetic": "",
+            "meaning": "科学家"
+          }
+        ],
+        "phrases": [
+          {
+            "phrase": "in favor of",
+            "def": ""
+          },
+          {
+            "phrase": "rely on",
+            "def": ""
+          },
+          {
+            "phrase": "appeal to",
+            "def": ""
+          },
+          {
+            "phrase": "stick to",
+            "def": ""
+          },
+          {
+            "phrase": "tend to",
+            "def": ""
+          },
+          {
+            "phrase": "appear to",
+            "def": ""
+          }
+        ]
+      }
     }
   },
   "2000": {
@@ -1525,7 +3441,93 @@ const ENGLISH_DATA = {
           "",
           ""
         ]
-      ]
+      ],
+      "vocab": {
+        "words": [
+          {
+            "word": "farmer",
+            "form": "farmer",
+            "phonetic": "/ˈfɑːmə(r)/",
+            "meaning": "农民；农场主"
+          },
+          {
+            "word": "to",
+            "form": "to",
+            "phonetic": "",
+            "meaning": "科学家"
+          },
+          {
+            "word": "consumption",
+            "form": "consumption",
+            "phonetic": "",
+            "meaning": "n. 消费(量),消耗 / n. 消费；消耗；肺痨 / n. 消费， 消耗 <"
+          },
+          {
+            "word": "store",
+            "form": "store",
+            "phonetic": "",
+            "meaning": "商店"
+          },
+          {
+            "word": "largely",
+            "form": "large",
+            "phonetic": "",
+            "meaning": "adv. 主要地；大部分；大量地 / adv. 主要地， 基本上；大量地， 大规模地"
+          },
+          {
+            "word": "consume",
+            "form": "consuming",
+            "phonetic": "",
+            "meaning": "v. 消耗；消费；吃；喝 / v. 消耗，消费；使…著迷；挥霍 / vt. 消费， 消耗， 耗尽 <"
+          },
+          {
+            "word": "canal",
+            "form": "can",
+            "phonetic": "",
+            "meaning": "n. 运河；[地理] 水道；[建] 管道；灌溉水渠 v. 在…开凿运河 / n. 运河； 渠"
+          },
+          {
+            "word": "continue",
+            "form": "continue",
+            "phonetic": "",
+            "meaning": "连续"
+          },
+          {
+            "word": "support",
+            "form": "support",
+            "phonetic": "",
+            "meaning": "支撑；供养"
+          },
+          {
+            "word": "surplus",
+            "form": "surplus",
+            "phonetic": "",
+            "meaning": "过剩的"
+          },
+          {
+            "word": "seed",
+            "form": "seed",
+            "phonetic": "/siːd/",
+            "meaning": "种子；播种"
+          },
+          {
+            "word": "forest",
+            "form": "for",
+            "phonetic": "/ˈfɒrɪst/",
+            "meaning": "森林"
+          }
+        ],
+        "phrases": [
+          {
+            "phrase": "instead of",
+            "def": ""
+          },
+          {
+            "phrase": "as well as",
+            "def": ""
+          }
+        ]
+      }
     },
     "Text1": {
       "passage": {
@@ -1586,7 +3588,101 @@ const ENGLISH_DATA = {
           "explanation": ""
         }
       ],
-      "translation": ""
+      "translation": "",
+      "vocab": {
+        "words": [
+          {
+            "word": "effort",
+            "form": "effortless",
+            "phonetic": "",
+            "meaning": "n. 努力；成就"
+          },
+          {
+            "word": "successful",
+            "form": "success",
+            "phonetic": "/səkˈsesfl/",
+            "meaning": "成功的"
+          },
+          {
+            "word": "canal",
+            "form": "can",
+            "phonetic": "",
+            "meaning": "n. 运河；[地理] 水道；[建] 管道；灌溉水渠 v. 在…开凿运河 / n. 运河； 渠"
+          },
+          {
+            "word": "being",
+            "form": "be",
+            "phonetic": "",
+            "meaning": "n. 生物；存在， 生存"
+          },
+          {
+            "word": "dread",
+            "form": "dreadful",
+            "phonetic": "/「dredid/",
+            "meaning": "怕"
+          },
+          {
+            "word": "handicap",
+            "form": "handicap",
+            "phonetic": "/「haendiksep/",
+            "meaning": "障碍"
+          },
+          {
+            "word": "proper",
+            "form": "properly",
+            "phonetic": "/「propa(r)/",
+            "meaning": "适合的；固有的"
+          },
+          {
+            "word": "driver",
+            "form": "driving",
+            "phonetic": "",
+            "meaning": "n. 驾驶员；驱动程序；起子；传动器"
+          },
+          {
+            "word": "force",
+            "form": "force",
+            "phonetic": "",
+            "meaning": "力量；势力"
+          },
+          {
+            "word": "unit",
+            "form": "United",
+            "phonetic": "/ˈjuːnɪt/",
+            "meaning": "单元；单位"
+          },
+          {
+            "word": "state",
+            "form": "States",
+            "phonetic": "",
+            "meaning": "n. 状态， 情况；国， 州 vt. 陈述， 说明；规定"
+          },
+          {
+            "word": "justify",
+            "form": "just",
+            "phonetic": "",
+            "meaning": "v. 证明合法；整理版面 / vt. 证明…是正当的， 认为有理"
+          }
+        ],
+        "phrases": [
+          {
+            "phrase": "contribute to",
+            "def": ""
+          },
+          {
+            "phrase": "be attributed to",
+            "def": ""
+          },
+          {
+            "phrase": "as though",
+            "def": ""
+          },
+          {
+            "phrase": "in the face of",
+            "def": ""
+          }
+        ]
+      }
     },
     "Text2": {
       "passage": {
@@ -1647,7 +3743,109 @@ const ENGLISH_DATA = {
           "explanation": ""
         }
       ],
-      "translation": ""
+      "translation": "",
+      "vocab": {
+        "words": [
+          {
+            "word": "being",
+            "form": "Being",
+            "phonetic": "",
+            "meaning": "n. 生物；存在， 生存"
+          },
+          {
+            "word": "man",
+            "form": "man",
+            "phonetic": "/mæn/",
+            "meaning": "男人；人类"
+          },
+          {
+            "word": "hasty",
+            "form": "has",
+            "phonetic": "/「hersti/",
+            "meaning": "匆忙的"
+          },
+          {
+            "word": "dangerous",
+            "form": "dangerous",
+            "phonetic": "/ˈdeɪndʒərəs/",
+            "meaning": "危险的"
+          },
+          {
+            "word": "male",
+            "form": "males",
+            "phonetic": "/mel/",
+            "meaning": "男性"
+          },
+          {
+            "word": "forest",
+            "form": "for",
+            "phonetic": "/ˈfɒrɪst/",
+            "meaning": "森林"
+          },
+          {
+            "word": "female",
+            "form": "females",
+            "phonetic": "/ˈfiːmeɪl/",
+            "meaning": "女性的；雌性"
+          },
+          {
+            "word": "drop",
+            "form": "drops",
+            "phonetic": "",
+            "meaning": "v. 滴；使降低；使终止；随口漏出 n. 滴；落下；空投；微量；滴剂"
+          },
+          {
+            "word": "to",
+            "form": "to",
+            "phonetic": "",
+            "meaning": "科学家"
+          },
+          {
+            "word": "great",
+            "form": "great",
+            "phonetic": "/sen「serJanl/",
+            "meaning": "这条消息引起很大的轰动"
+          },
+          {
+            "word": "university",
+            "form": "universal",
+            "phonetic": "/ˌjuːnɪˈvɜːsəti/",
+            "meaning": "大学"
+          },
+          {
+            "word": "mortal",
+            "form": "mortality",
+            "phonetic": "",
+            "meaning": "adj. 凡人的；致死的；终有一死的；不共戴天的 n. 人类，凡人 / adj. 致命的；终有一死的 A；你死我活的， 不共戴天的 n. 凡人"
+          }
+        ],
+        "phrases": [
+          {
+            "phrase": "due to",
+            "def": ""
+          },
+          {
+            "phrase": "as well as",
+            "def": ""
+          },
+          {
+            "phrase": "take advantage of",
+            "def": ""
+          },
+          {
+            "phrase": "tend to",
+            "def": ""
+          },
+          {
+            "phrase": "used to",
+            "def": ""
+          },
+          {
+            "phrase": "far from",
+            "def": ""
+          }
+        ]
+      }
     },
     "Text3": {
       "passage": {
@@ -1708,7 +3906,93 @@ const ENGLISH_DATA = {
           "explanation": ""
         }
       ],
-      "translation": ""
+      "translation": "",
+      "vocab": {
+        "words": [
+          {
+            "word": "movement",
+            "form": "movement",
+            "phonetic": "/ˈmuːvmənt/",
+            "meaning": "运动；移动"
+          },
+          {
+            "word": "artist",
+            "form": "art",
+            "phonetic": "/ˈɑːtɪst/",
+            "meaning": "艺术家；画家"
+          },
+          {
+            "word": "certain",
+            "form": "certain",
+            "phonetic": "",
+            "meaning": "adj. 一定的,确信的,可靠的 / adj. 某一；必然的；确信；无疑的；有把握的 pron. 某些；某几个 n. (Certain)人名；(葡)塞尔塔因；(法)塞尔坦"
+          },
+          {
+            "word": "fashion",
+            "form": "fashion",
+            "phonetic": "",
+            "meaning": "方式；流行式样"
+          },
+          {
+            "word": "advisable",
+            "form": "advisable",
+            "phonetic": "/advarzabl/",
+            "meaning": "可取的"
+          },
+          {
+            "word": "to",
+            "form": "to",
+            "phonetic": "",
+            "meaning": "科学家"
+          },
+          {
+            "word": "finding",
+            "form": "find",
+            "phonetic": "",
+            "meaning": "n. 发现；裁决；发现物 v. 找到；感到（find的ing形式）；遇到 / n. 发现， 发现物"
+          },
+          {
+            "word": "outer",
+            "form": "out",
+            "phonetic": "",
+            "meaning": "adj. 外面的，外部的；远离中心的 n. 环外命中 / adj. 外部的， 外面的， 外层的"
+          },
+          {
+            "word": "aim",
+            "form": "aiming",
+            "phonetic": "/emj/",
+            "meaning": "目的在于"
+          },
+          {
+            "word": "forest",
+            "form": "for",
+            "phonetic": "/ˈfɒrɪst/",
+            "meaning": "森林"
+          },
+          {
+            "word": "principle",
+            "form": "principles",
+            "phonetic": "/prmsapl/",
+            "meaning": "原理"
+          },
+          {
+            "word": "being",
+            "form": "be",
+            "phonetic": "",
+            "meaning": "n. 生物；存在， 生存"
+          }
+        ],
+        "phrases": [
+          {
+            "phrase": "instead of",
+            "def": ""
+          },
+          {
+            "phrase": "with regard to",
+            "def": ""
+          }
+        ]
+      }
     },
     "Text4": {
       "passage": {
@@ -1821,7 +4105,97 @@ const ENGLISH_DATA = {
           "explanation": ""
         }
       ],
-      "translation": ""
+      "translation": "",
+      "vocab": {
+        "words": [
+          {
+            "word": "hasty",
+            "form": "has",
+            "phonetic": "/「hersti/",
+            "meaning": "匆忙的"
+          },
+          {
+            "word": "hardship",
+            "form": "hardly",
+            "phonetic": "/ˈhɑːdʃɪp/",
+            "meaning": "艰难；困苦"
+          },
+          {
+            "word": "social",
+            "form": "social",
+            "phonetic": "/ˈsəʊʃl/",
+            "meaning": "社会的；社交的"
+          },
+          {
+            "word": "envy",
+            "form": "envy",
+            "phonetic": "",
+            "meaning": "羡慕"
+          },
+          {
+            "word": "unit",
+            "form": "United",
+            "phonetic": "/ˈjuːnɪt/",
+            "meaning": "单元；单位"
+          },
+          {
+            "word": "state",
+            "form": "States",
+            "phonetic": "",
+            "meaning": "n. 状态， 情况；国， 州 vt. 陈述， 说明；规定"
+          },
+          {
+            "word": "seed",
+            "form": "seeing",
+            "phonetic": "/siːd/",
+            "meaning": "种子；播种"
+          },
+          {
+            "word": "morality",
+            "form": "moral",
+            "phonetic": "",
+            "meaning": "n. 道德；品行，美德 / n. 道德； 美德"
+          },
+          {
+            "word": "valuable",
+            "form": "values",
+            "phonetic": "/rvaeljuabl/",
+            "meaning": "贵重的"
+          },
+          {
+            "word": "saw",
+            "form": "saw",
+            "phonetic": "",
+            "meaning": "v. 锯， 锯开 n. 锯子； 锯床"
+          },
+          {
+            "word": "forest",
+            "form": "for",
+            "phonetic": "/ˈfɒrɪst/",
+            "meaning": "森林"
+          },
+          {
+            "word": "being",
+            "form": "being",
+            "phonetic": "",
+            "meaning": "n. 生物；存在， 生存"
+          }
+        ],
+        "phrases": [
+          {
+            "phrase": "in favor of",
+            "def": ""
+          },
+          {
+            "phrase": "rather than",
+            "def": ""
+          },
+          {
+            "phrase": "as well as",
+            "def": ""
+          }
+        ]
+      }
     }
   },
   "2001": {
@@ -1951,7 +4325,84 @@ const ENGLISH_DATA = {
           "ensure",
           "guarantee"
         ]
-      ]
+      ],
+      "vocab": {
+        "words": [
+          {
+            "word": "section",
+            "form": "Section",
+            "phonetic": "",
+            "meaning": "n. 章节；部分；地区；部门， 科 A"
+          },
+          {
+            "word": "direction",
+            "form": "Directions",
+            "phonetic": "/dsregJaydrydar/",
+            "meaning": "方向"
+          },
+          {
+            "word": "forest",
+            "form": "For",
+            "phonetic": "/ˈfɒrɪst/",
+            "meaning": "森林"
+          },
+          {
+            "word": "blank",
+            "form": "blank",
+            "phonetic": "",
+            "meaning": "空自的"
+          },
+          {
+            "word": "following",
+            "form": "following",
+            "phonetic": "",
+            "meaning": "adj. 其次的，接着的；下列的，下述的 / adj. 接着的， 下列的"
+          },
+          {
+            "word": "correspond",
+            "form": "corresponding",
+            "phonetic": "",
+            "meaning": "vi. 通信；符合， 一致；相当于， 对应"
+          },
+          {
+            "word": "bracket",
+            "form": "brackets",
+            "phonetic": "/Ea/",
+            "meaning": "元；五；江七"
+          },
+          {
+            "word": "pencil",
+            "form": "pencil",
+            "phonetic": "",
+            "meaning": "n. 铅笔；笔状物 v. 用铅笔写；用眉笔涂"
+          },
+          {
+            "word": "to",
+            "form": "to",
+            "phonetic": "",
+            "meaning": "科学家"
+          },
+          {
+            "word": "ban",
+            "form": "ban",
+            "phonetic": "/bsen/",
+            "meaning": "官方朋令；意为"
+          },
+          {
+            "word": "witness",
+            "form": "witnesses",
+            "phonetic": "/ˈwɪtnəs/",
+            "meaning": "证人；目击"
+          },
+          {
+            "word": "newspaper",
+            "form": "newspapers",
+            "phonetic": "",
+            "meaning": "n. 报纸"
+          }
+        ],
+        "phrases": []
+      }
     },
     "Text1": {
       "passage": {
@@ -2012,7 +4463,93 @@ const ENGLISH_DATA = {
           "explanation": ""
         }
       ],
-      "translation": ""
+      "translation": "",
+      "vocab": {
+        "words": [
+          {
+            "word": "canal",
+            "form": "can",
+            "phonetic": "",
+            "meaning": "n. 运河；[地理] 水道；[建] 管道；灌溉水渠 v. 在…开凿运河 / n. 运河； 渠"
+          },
+          {
+            "word": "being",
+            "form": "be",
+            "phonetic": "",
+            "meaning": "n. 生物；存在， 生存"
+          },
+          {
+            "word": "response",
+            "form": "response",
+            "phonetic": "",
+            "meaning": "n. 响应；反应；回答 / n. 回答， 回音；反应， 响应"
+          },
+          {
+            "word": "to",
+            "form": "to",
+            "phonetic": "",
+            "meaning": "科学家"
+          },
+          {
+            "word": "increase",
+            "form": "increasing",
+            "phonetic": "/ɪnˈkriːs/",
+            "meaning": "增加；增长"
+          },
+          {
+            "word": "scientific",
+            "form": "scientific",
+            "phonetic": "",
+            "meaning": "adj. 科学的，系统的"
+          },
+          {
+            "word": "knowledge",
+            "form": "knowledge",
+            "phonetic": "/ˈnɒlɪdʒ/",
+            "meaning": "知识；了解"
+          },
+          {
+            "word": "split",
+            "form": "splitting",
+            "phonetic": "",
+            "meaning": "v. 分离；使分离；劈开；离开；分解 n. 劈开；裂缝 adj. 劈开的 / v. 裂开， 劈开；分裂， 分离 n. 分化， 分裂； 裂口 A"
+          },
+          {
+            "word": "subject",
+            "form": "subject",
+            "phonetic": "",
+            "meaning": "n. 主题；学科 adj. 隶属的；易遭..的 v. 使隶属"
+          },
+          {
+            "word": "matter",
+            "form": "matter",
+            "phonetic": "",
+            "meaning": "n. 物质；事件 v. 有关系；要紧"
+          },
+          {
+            "word": "unit",
+            "form": "units",
+            "phonetic": "/ˈjuːnɪt/",
+            "meaning": "单元；单位"
+          },
+          {
+            "word": "man",
+            "form": "man",
+            "phonetic": "/mæn/",
+            "meaning": "男人；人类"
+          }
+        ],
+        "phrases": [
+          {
+            "phrase": "in terms of",
+            "def": ""
+          },
+          {
+            "phrase": "tend to",
+            "def": ""
+          }
+        ]
+      }
     },
     "Text2": {
       "passage": {
@@ -2073,7 +4610,97 @@ const ENGLISH_DATA = {
           "explanation": ""
         }
       ],
-      "translation": ""
+      "translation": "",
+      "vocab": {
+        "words": [
+          {
+            "word": "great",
+            "form": "great",
+            "phonetic": "/sen「serJanl/",
+            "meaning": "这条消息引起很大的轰动"
+          },
+          {
+            "word": "deal",
+            "form": "deal",
+            "phonetic": "/diːl/",
+            "meaning": "交易；处理"
+          },
+          {
+            "word": "attention",
+            "form": "attention",
+            "phonetic": "/əˈtenʃn/",
+            "meaning": "注意；注意力"
+          },
+          {
+            "word": "being",
+            "form": "being",
+            "phonetic": "",
+            "meaning": "n. 生物；存在， 生存"
+          },
+          {
+            "word": "to",
+            "form": "to",
+            "phonetic": "",
+            "meaning": "科学家"
+          },
+          {
+            "word": "call",
+            "form": "called",
+            "phonetic": "",
+            "meaning": "v. 叫，喊；打电话；把…叫作；叫，喊 n. 叫声；号召"
+          },
+          {
+            "word": "digital",
+            "form": "digital",
+            "phonetic": "/「drd3i0/",
+            "meaning": "举止"
+          },
+          {
+            "word": "divide",
+            "form": "divide",
+            "phonetic": "/dɪˈvaɪd/",
+            "meaning": "划分；分开；除"
+          },
+          {
+            "word": "division",
+            "form": "division",
+            "phonetic": "",
+            "meaning": "分开"
+          },
+          {
+            "word": "information",
+            "form": "information",
+            "phonetic": "",
+            "meaning": "n. 情报,资料,消息;信息"
+          },
+          {
+            "word": "rich",
+            "form": "rich",
+            "phonetic": "/rɪtʃ/",
+            "meaning": "富有的；丰富的"
+          },
+          {
+            "word": "existence",
+            "form": "exist",
+            "phonetic": "",
+            "meaning": "n. 存在，实在；生存，生活；存在物，实在物 / n. 存在， 实在；生存， 生活"
+          }
+        ],
+        "phrases": [
+          {
+            "phrase": "with respect to",
+            "def": ""
+          },
+          {
+            "phrase": "rather than",
+            "def": ""
+          },
+          {
+            "phrase": "take advantage of",
+            "def": ""
+          }
+        ]
+      }
     },
     "Text3": {
       "passage": {
@@ -2134,7 +4761,93 @@ const ENGLISH_DATA = {
           "explanation": ""
         }
       ],
-      "translation": ""
+      "translation": "",
+      "vocab": {
+        "words": [
+          {
+            "word": "reader",
+            "form": "read",
+            "phonetic": "/ˈriːdə(r)/",
+            "meaning": "读者；读本"
+          },
+          {
+            "word": "newspaper",
+            "form": "newspapers",
+            "phonetic": "",
+            "meaning": "n. 报纸"
+          },
+          {
+            "word": "editor",
+            "form": "Editors",
+            "phonetic": "",
+            "meaning": "n. 编者，编辑；社论撰写人；编辑装置 / n. 编辑， 编者"
+          },
+          {
+            "word": "to",
+            "form": "to",
+            "phonetic": "",
+            "meaning": "科学家"
+          },
+          {
+            "word": "painful",
+            "form": "painful",
+            "phonetic": "/ˈpeɪnfl/",
+            "meaning": "痛苦的；疼痛的"
+          },
+          {
+            "word": "organization",
+            "form": "organization",
+            "phonetic": "",
+            "meaning": "n. 组织；机构；体制；团体 / n. 组织， 机构； 体制， 结构"
+          },
+          {
+            "word": "deep",
+            "form": "deep",
+            "phonetic": "/diːp/",
+            "meaning": "深的；深刻的"
+          },
+          {
+            "word": "analysis",
+            "form": "analysis",
+            "phonetic": "/ornselosis/",
+            "meaning": "分析"
+          },
+          {
+            "word": "journal",
+            "form": "journalism",
+            "phonetic": "",
+            "meaning": "n. 日报，杂志；日记；分类账 / n. 定期刊物， 杂志， 日报；日志， 日记"
+          },
+          {
+            "word": "sad",
+            "form": "Sad",
+            "phonetic": "",
+            "meaning": "adj. 难过的；悲哀的，令人悲痛的；凄惨的，阴郁的（形容颜色）"
+          },
+          {
+            "word": "hasty",
+            "form": "has",
+            "phonetic": "/「hersti/",
+            "meaning": "匆忙的"
+          },
+          {
+            "word": "turn",
+            "form": "turned",
+            "phonetic": "/tɜːn/",
+            "meaning": "转动；转向；轮流"
+          }
+        ],
+        "phrases": [
+          {
+            "phrase": "owing to",
+            "def": ""
+          },
+          {
+            "phrase": "tend to",
+            "def": ""
+          }
+        ]
+      }
     },
     "Text4": {
       "passage": {
@@ -2247,7 +4960,97 @@ const ENGLISH_DATA = {
           "explanation": ""
         }
       ],
-      "translation": ""
+      "translation": "",
+      "vocab": {
+        "words": [
+          {
+            "word": "witness",
+            "form": "witnessed",
+            "phonetic": "/ˈwɪtnəs/",
+            "meaning": "证人；目击"
+          },
+          {
+            "word": "to",
+            "form": "to",
+            "phonetic": "",
+            "meaning": "科学家"
+          },
+          {
+            "word": "country",
+            "form": "countries",
+            "phonetic": "",
+            "meaning": "n. 国家；农村,乡下"
+          },
+          {
+            "word": "turn",
+            "form": "turn",
+            "phonetic": "/tɜːn/",
+            "meaning": "转动；转向；轮流"
+          },
+          {
+            "word": "competitive",
+            "form": "competitive",
+            "phonetic": "",
+            "meaning": "adj. 有竞争力的；竞争的，竞争性的 / adj. 竞争的；比赛的；求胜心切的"
+          },
+          {
+            "word": "force",
+            "form": "force",
+            "phonetic": "",
+            "meaning": "力量；势力"
+          },
+          {
+            "word": "powerful",
+            "form": "powerful",
+            "phonetic": "/ˈpaʊəfl/",
+            "meaning": "强大的；有力的"
+          },
+          {
+            "word": "corporation",
+            "form": "corporations",
+            "phonetic": "/ˌkɔːpəˈreɪʃn/",
+            "meaning": "公司；企业"
+          },
+          {
+            "word": "forest",
+            "form": "for",
+            "phonetic": "/ˈfɒrɪst/",
+            "meaning": "森林"
+          },
+          {
+            "word": "international",
+            "form": "international",
+            "phonetic": "/ˌɪntəˈnæʃnəl/",
+            "meaning": "国际的"
+          },
+          {
+            "word": "trade",
+            "form": "trade",
+            "phonetic": "/“trerda(r)/",
+            "meaning": "贸易"
+          },
+          {
+            "word": "figure",
+            "form": "figure",
+            "phonetic": "",
+            "meaning": "n. 数字；人物；图形；价格；（人的）体形；画像 v. 计算；出现；扮演角色"
+          }
+        ],
+        "phrases": [
+          {
+            "phrase": "account for",
+            "def": ""
+          },
+          {
+            "phrase": "seem to",
+            "def": ""
+          },
+          {
+            "phrase": "used to",
+            "def": ""
+          }
+        ]
+      }
     }
   },
   "2002": {
@@ -2377,7 +5180,97 @@ const ENGLISH_DATA = {
           "against",
           "with"
         ]
-      ]
+      ],
+      "vocab": {
+        "words": [
+          {
+            "word": "comparison",
+            "form": "Comparisons",
+            "phonetic": "",
+            "meaning": "n. 比较,对比 / n. 比较；对照；比喻；比较关系 / n. 比较， 对比； 比喻， 比拟"
+          },
+          {
+            "word": "century",
+            "form": "century",
+            "phonetic": "/ˈsentʃəri/",
+            "meaning": "世纪；百年"
+          },
+          {
+            "word": "print",
+            "form": "printing",
+            "phonetic": "/prɪnt/",
+            "meaning": "印刷；打印"
+          },
+          {
+            "word": "notify",
+            "form": "not",
+            "phonetic": "",
+            "meaning": "v. 通告，通知；公布 / vt. 通知， 告知； 报告"
+          },
+          {
+            "word": "newspaper",
+            "form": "newspaper",
+            "phonetic": "",
+            "meaning": "n. 报纸"
+          },
+          {
+            "word": "dominant",
+            "form": "dominant",
+            "phonetic": "",
+            "meaning": "adj. 支配的,统治的,占优势的 / adj. 显性的；占优势的；支配的，统治的 n. 显性 / adj. 支配的， 统治的；占优势的"
+          },
+          {
+            "word": "electronic",
+            "form": "electronic",
+            "phonetic": "/ɪˌlekˈtrɒnɪk/",
+            "meaning": "电子的"
+          },
+          {
+            "word": "following",
+            "form": "following",
+            "phonetic": "",
+            "meaning": "adj. 其次的，接着的；下列的，下述的 / adj. 接着的， 下列的"
+          },
+          {
+            "word": "wake",
+            "form": "wake",
+            "phonetic": "",
+            "meaning": "醒来"
+          },
+          {
+            "word": "pamphlet",
+            "form": "pamphlet",
+            "phonetic": "",
+            "meaning": "n. 小册子 / n. 小册子"
+          },
+          {
+            "word": "periodical",
+            "form": "periodical",
+            "phonetic": "/ˌpɪəriˈɒdɪkl/",
+            "meaning": "期刊；定期的"
+          },
+          {
+            "word": "durable",
+            "form": "during",
+            "phonetic": "/「diuarabl/",
+            "meaning": "耐用的；持久的"
+          }
+        ],
+        "phrases": [
+          {
+            "phrase": "as well as",
+            "def": ""
+          },
+          {
+            "phrase": "used to",
+            "def": ""
+          },
+          {
+            "phrase": "in the wake of",
+            "def": ""
+          }
+        ]
+      }
     },
     "Text1": {
       "passage": {
@@ -2451,7 +5344,101 @@ const ENGLISH_DATA = {
           "explanation": ""
         }
       ],
-      "translation": ""
+      "translation": "",
+      "vocab": {
+        "words": [
+          {
+            "word": "intend",
+            "form": "intend",
+            "phonetic": "",
+            "meaning": "v. 想要； 打算， 企图"
+          },
+          {
+            "word": "to",
+            "form": "to",
+            "phonetic": "",
+            "meaning": "科学家"
+          },
+          {
+            "word": "smile",
+            "form": "smile",
+            "phonetic": "",
+            "meaning": "v. 微笑 n. 微笑；笑容；喜色"
+          },
+          {
+            "word": "share",
+            "form": "shared",
+            "phonetic": "",
+            "meaning": "一份；你这一份费用是"
+          },
+          {
+            "word": "experience",
+            "form": "experiences",
+            "phonetic": "/ɪkˈspɪəriəns/",
+            "meaning": "经验；经历"
+          },
+          {
+            "word": "being",
+            "form": "be",
+            "phonetic": "",
+            "meaning": "n. 生物；存在， 生存"
+          },
+          {
+            "word": "helpful",
+            "form": "help",
+            "phonetic": "/rhelpf/",
+            "meaning": "有帮助的"
+          },
+          {
+            "word": "shower",
+            "form": "show",
+            "phonetic": "/ˈʃaʊə(r)/",
+            "meaning": "淋浴；阵雨"
+          },
+          {
+            "word": "situation",
+            "form": "situation",
+            "phonetic": "",
+            "meaning": "n. 情况；形势；处境；位置"
+          },
+          {
+            "word": "sympathy",
+            "form": "sympathy",
+            "phonetic": "",
+            "meaning": "n. 同情，同情心；赞同 / n. 同情；慰问；赞同 / n. 同情， 同情心；赞同"
+          },
+          {
+            "word": "view",
+            "form": "view",
+            "phonetic": "/wuz/",
+            "meaning": "景象"
+          },
+          {
+            "word": "depend",
+            "form": "Depending",
+            "phonetic": "",
+            "meaning": "v. 依赖，依靠；取决于；相信，信赖"
+          }
+        ],
+        "phrases": [
+          {
+            "phrase": "take advantage of",
+            "def": ""
+          },
+          {
+            "phrase": "refer to",
+            "def": ""
+          },
+          {
+            "phrase": "stick to",
+            "def": ""
+          },
+          {
+            "phrase": "so that",
+            "def": ""
+          }
+        ]
+      }
     },
     "Text2": {
       "passage": {
@@ -2525,7 +5512,101 @@ const ENGLISH_DATA = {
           "explanation": ""
         }
       ],
-      "translation": ""
+      "translation": "",
+      "vocab": {
+        "words": [
+          {
+            "word": "dawn",
+            "form": "dawn",
+            "phonetic": "/dams/",
+            "meaning": "黎明"
+          },
+          {
+            "word": "devise",
+            "form": "devised",
+            "phonetic": "",
+            "meaning": "v. 设计;发明;图谋;作出(计划);想出(办法) / v. 设计；想出；发明；图谋；遗赠给 n. 遗赠 / vt. 设计， 想出， 发明 <"
+          },
+          {
+            "word": "cunning",
+            "form": "cunning",
+            "phonetic": "/ˈkʌnɪŋ/",
+            "meaning": "狡猾的；灵巧的"
+          },
+          {
+            "word": "to",
+            "form": "to",
+            "phonetic": "",
+            "meaning": "科学家"
+          },
+          {
+            "word": "cope",
+            "form": "cope",
+            "phonetic": "",
+            "meaning": "v. 处理；对付；竞争 n. 长袍 / vi. 竞争， 对抗；对付， 应付， 妥善处理"
+          },
+          {
+            "word": "dangerous",
+            "form": "dangerous",
+            "phonetic": "/ˈdeɪndʒərəs/",
+            "meaning": "危险的"
+          },
+          {
+            "word": "bore",
+            "form": "boring",
+            "phonetic": "",
+            "meaning": "v. 钻孔 n. 孔；令人讨厌的人 / v. 钻， 挖， 打眼， 钻探；烦扰， 使厌烦 n. 讨厌的人； 麻烦事"
+          },
+          {
+            "word": "justify",
+            "form": "just",
+            "phonetic": "",
+            "meaning": "v. 证明合法；整理版面 / vt. 证明…是正当的， 认为有理"
+          },
+          {
+            "word": "nasty",
+            "form": "nasty",
+            "phonetic": "/ˈnɑːsti/",
+            "meaning": "令人讨厌的；下流的"
+          },
+          {
+            "word": "hasty",
+            "form": "has",
+            "phonetic": "/「hersti/",
+            "meaning": "匆忙的"
+          },
+          {
+            "word": "result",
+            "form": "resulted",
+            "phonetic": "",
+            "meaning": "结果"
+          },
+          {
+            "word": "science",
+            "form": "science",
+            "phonetic": "/ˈsaɪəns/",
+            "meaning": "科学；理科"
+          }
+        ],
+        "phrases": [
+          {
+            "phrase": "thanks to",
+            "def": ""
+          },
+          {
+            "phrase": "cope with",
+            "def": ""
+          },
+          {
+            "phrase": "deal with",
+            "def": ""
+          },
+          {
+            "phrase": "be able to",
+            "def": ""
+          }
+        ]
+      }
     },
     "Text3": {
       "passage": {
@@ -2599,7 +5680,93 @@ const ENGLISH_DATA = {
           "explanation": ""
         }
       ],
-      "translation": ""
+      "translation": "",
+      "vocab": {
+        "words": [
+          {
+            "word": "economical",
+            "form": "economic",
+            "phonetic": "/ˌiːkəˈnɒmɪkl/",
+            "meaning": "经济的；节俭的"
+          },
+          {
+            "word": "being",
+            "form": "be",
+            "phonetic": "",
+            "meaning": "n. 生物；存在， 生存"
+          },
+          {
+            "word": "to",
+            "form": "to",
+            "phonetic": "",
+            "meaning": "科学家"
+          },
+          {
+            "word": "return",
+            "form": "return",
+            "phonetic": "/rɪˈtɜːn/",
+            "meaning": "返回；归还；回报"
+          },
+          {
+            "word": "supply",
+            "form": "supply",
+            "phonetic": "",
+            "meaning": "n. 供给，补给；供应品 v. 供给，提供；补充"
+          },
+          {
+            "word": "cut",
+            "form": "cuts",
+            "phonetic": "/kʌt/",
+            "meaning": "切；割；削减"
+          },
+          {
+            "word": "march",
+            "form": "March",
+            "phonetic": "",
+            "meaning": "n. 三月(略作 Mar.) / v. (使)行军,(使)行进 n. 行军,行程 / v. （坚定地向某地）前进；行军，进军；游行示威；进展，进行 n. 行进，前进；行军；游行示威；进行曲"
+          },
+          {
+            "word": "price",
+            "form": "price",
+            "phonetic": "/praɪs/",
+            "meaning": "价格；代价"
+          },
+          {
+            "word": "oil",
+            "form": "oil",
+            "phonetic": "/on/",
+            "meaning": "油；石油；给；加润滑油；涂油；上油"
+          },
+          {
+            "word": "hasty",
+            "form": "has",
+            "phonetic": "/「hersti/",
+            "meaning": "匆忙的"
+          },
+          {
+            "word": "barrel",
+            "form": "barrel",
+            "phonetic": "/ˈbærəl/",
+            "meaning": "桶；枪管"
+          },
+          {
+            "word": "december",
+            "form": "December",
+            "phonetic": "/dɪˈsembə(r)/",
+            "meaning": "十二月"
+          }
+        ],
+        "phrases": [
+          {
+            "phrase": "account for",
+            "def": ""
+          },
+          {
+            "phrase": "be about to",
+            "def": ""
+          }
+        ]
+      }
     },
     "Text4": {
       "passage": {
@@ -2673,7 +5840,105 @@ const ENGLISH_DATA = {
           "explanation": ""
         }
       ],
-      "translation": ""
+      "translation": "",
+      "vocab": {
+        "words": [
+          {
+            "word": "supreme",
+            "form": "Supreme",
+            "phonetic": "/suzprimisjur-/",
+            "meaning": "最高的；极度的"
+          },
+          {
+            "word": "physician",
+            "form": "physician",
+            "phonetic": "/fɪˈzɪʃn/",
+            "meaning": "内科医生"
+          },
+          {
+            "word": "assist",
+            "form": "assisted",
+            "phonetic": "",
+            "meaning": "寻茎助"
+          },
+          {
+            "word": "suicide",
+            "form": "suicide",
+            "phonetic": "",
+            "meaning": "n. 自杀 / n. 自杀；自杀行为；自杀者 adj. 自杀的 vt. 自杀 vi. 自杀 / n. 自杀； 自取灭亡"
+          },
+          {
+            "word": "forest",
+            "form": "for",
+            "phonetic": "/ˈfɒrɪst/",
+            "meaning": "森林"
+          },
+          {
+            "word": "medicine",
+            "form": "medicine",
+            "phonetic": "/「medsn;-drsn/",
+            "meaning": "内服药"
+          },
+          {
+            "word": "to",
+            "form": "to",
+            "phonetic": "",
+            "meaning": "科学家"
+          },
+          {
+            "word": "relieve",
+            "form": "relieve",
+            "phonetic": "",
+            "meaning": "缓解；接替"
+          },
+          {
+            "word": "painful",
+            "form": "pain",
+            "phonetic": "/ˈpeɪnfl/",
+            "meaning": "痛苦的；疼痛的"
+          },
+          {
+            "word": "suffer",
+            "form": "suffering",
+            "phonetic": "",
+            "meaning": "受痛苦；遮受；忍受"
+          },
+          {
+            "word": "ruler",
+            "form": "ruled",
+            "phonetic": "/ˈruːlə(r)/",
+            "meaning": "尺子；统治者"
+          },
+          {
+            "word": "constitution",
+            "form": "constitutional",
+            "phonetic": "",
+            "meaning": "n. 宪法；体制；章程；构造；建立，组成；体格 / n. 构成， 构造， 成分；体格， 体质；宪法"
+          }
+        ],
+        "phrases": [
+          {
+            "phrase": "result in",
+            "def": ""
+          },
+          {
+            "phrase": "used to",
+            "def": ""
+          },
+          {
+            "phrase": "even if",
+            "def": ""
+          },
+          {
+            "phrase": "even though",
+            "def": ""
+          },
+          {
+            "phrase": "as long as",
+            "def": ""
+          }
+        ]
+      }
     }
   },
   "2003": {
@@ -2803,7 +6068,93 @@ const ENGLISH_DATA = {
           "proficiency",
           "efficiency"
         ]
-      ]
+      ],
+      "vocab": {
+        "words": [
+          {
+            "word": "teacher",
+            "form": "Teachers",
+            "phonetic": "",
+            "meaning": "n. 教师；导师"
+          },
+          {
+            "word": "to",
+            "form": "to",
+            "phonetic": "",
+            "meaning": "科学家"
+          },
+          {
+            "word": "being",
+            "form": "be",
+            "phonetic": "",
+            "meaning": "n. 生物；存在， 生存"
+          },
+          {
+            "word": "emotion",
+            "form": "emotional",
+            "phonetic": "",
+            "meaning": "n. 情绪,情感,感情 / n. 情感；情绪 / n. 情绪； 情感"
+          },
+          {
+            "word": "intellectual",
+            "form": "intellectual",
+            "phonetic": "",
+            "meaning": "知识分子"
+          },
+          {
+            "word": "physical",
+            "form": "physical",
+            "phonetic": "/ˈfɪzɪkl/",
+            "meaning": "身体的；物理的"
+          },
+          {
+            "word": "adult",
+            "form": "adults",
+            "phonetic": "/a「dopJn/",
+            "meaning": "成年人的"
+          },
+          {
+            "word": "experience",
+            "form": "experience",
+            "phonetic": "/ɪkˈspɪəriəns/",
+            "meaning": "经验；经历"
+          },
+          {
+            "word": "serial",
+            "form": "serious",
+            "phonetic": "/「stariolaz/",
+            "meaning": "连续的"
+          },
+          {
+            "word": "canal",
+            "form": "can",
+            "phonetic": "",
+            "meaning": "n. 运河；[地理] 水道；[建] 管道；灌溉水渠 v. 在…开凿运河 / n. 运河； 渠"
+          },
+          {
+            "word": "movement",
+            "form": "movement",
+            "phonetic": "/ˈmuːvmənt/",
+            "meaning": "运动；移动"
+          },
+          {
+            "word": "notify",
+            "form": "not",
+            "phonetic": "",
+            "meaning": "v. 通告，通知；公布 / vt. 通知， 告知； 报告"
+          }
+        ],
+        "phrases": [
+          {
+            "phrase": "as well as",
+            "def": ""
+          },
+          {
+            "phrase": "as long as",
+            "def": ""
+          }
+        ]
+      }
     },
     "Text1": {
       "passage": {
@@ -2864,7 +6215,84 @@ const ENGLISH_DATA = {
           "explanation": ""
         }
       ],
-      "translation": ""
+      "translation": "",
+      "vocab": {
+        "words": [
+          {
+            "word": "wild",
+            "form": "Wild",
+            "phonetic": "/wand/",
+            "meaning": "野性的"
+          },
+          {
+            "word": "lover",
+            "form": "loved",
+            "phonetic": "/ˈlʌvə(r)/",
+            "meaning": "情人；爱好者"
+          },
+          {
+            "word": "office",
+            "form": "Office",
+            "phonetic": "",
+            "meaning": "n. 办公室,办事处；职务,公职；部,局,处"
+          },
+          {
+            "word": "service",
+            "form": "Services",
+            "phonetic": "",
+            "meaning": "服务；维修"
+          },
+          {
+            "word": "lateral",
+            "form": "later",
+            "phonetic": "",
+            "meaning": "adj. 侧面的，横向的 n. 侧部；[语] 边音 vt. 横向传球 / adj. 侧面的； 旁边的"
+          },
+          {
+            "word": "root",
+            "form": "roots",
+            "phonetic": "",
+            "meaning": "根"
+          },
+          {
+            "word": "forest",
+            "form": "for",
+            "phonetic": "/ˈfɒrɪst/",
+            "meaning": "森林"
+          },
+          {
+            "word": "fascinate",
+            "form": "fascinated",
+            "phonetic": "",
+            "meaning": "v. 使着迷，使神魂颠倒 / vt. 迷住， 强烈吸引"
+          },
+          {
+            "word": "information",
+            "form": "information",
+            "phonetic": "",
+            "meaning": "n. 情报,资料,消息;信息"
+          },
+          {
+            "word": "to",
+            "form": "to",
+            "phonetic": "",
+            "meaning": "科学家"
+          },
+          {
+            "word": "handful",
+            "form": "hand",
+            "phonetic": "",
+            "meaning": "一把"
+          },
+          {
+            "word": "great",
+            "form": "great",
+            "phonetic": "/sen「serJanl/",
+            "meaning": "这条消息引起很大的轰动"
+          }
+        ],
+        "phrases": []
+      }
     },
     "Text2": {
       "passage": {
@@ -2938,7 +6366,101 @@ const ENGLISH_DATA = {
           "explanation": ""
         }
       ],
-      "translation": ""
+      "translation": "",
+      "vocab": {
+        "words": [
+          {
+            "word": "to",
+            "form": "To",
+            "phonetic": "",
+            "meaning": "科学家"
+          },
+          {
+            "word": "century",
+            "form": "century",
+            "phonetic": "/ˈsentʃəri/",
+            "meaning": "世纪；百年"
+          },
+          {
+            "word": "statesman",
+            "form": "statesman",
+            "phonetic": "",
+            "meaning": "n. 政治家,国务活动家 / n. 政治家；国务活动家 / n. 政治家， 国务活动家"
+          },
+          {
+            "word": "forest",
+            "form": "for",
+            "phonetic": "/ˈfɒrɪst/",
+            "meaning": "森林"
+          },
+          {
+            "word": "triumph",
+            "form": "triumph",
+            "phonetic": "/“trarAmf/",
+            "meaning": "胜利"
+          },
+          {
+            "word": "goodness",
+            "form": "good",
+            "phonetic": "/ˈɡʊdnəs/",
+            "meaning": "善良；美德"
+          },
+          {
+            "word": "ending",
+            "form": "end",
+            "phonetic": "/「endig/",
+            "meaning": "结尾；结局"
+          },
+          {
+            "word": "theory",
+            "form": "theory",
+            "phonetic": "",
+            "meaning": "n. 理论； 原理； 学说；见解， 看法"
+          },
+          {
+            "word": "ruler",
+            "form": "ruling",
+            "phonetic": "/ˈruːlə(r)/",
+            "meaning": "尺子；统治者"
+          },
+          {
+            "word": "outer",
+            "form": "out",
+            "phonetic": "",
+            "meaning": "adj. 外面的，外部的；远离中心的 n. 环外命中 / adj. 外部的， 外面的， 外层的"
+          },
+          {
+            "word": "scientist",
+            "form": "Scientists",
+            "phonetic": "",
+            "meaning": "n. 科学家"
+          },
+          {
+            "word": "respond",
+            "form": "respond",
+            "phonetic": "",
+            "meaning": "v. 回答；作出反应；承担责任 n. 应答；唱和 / vi. 回答， 答复；响应"
+          }
+        ],
+        "phrases": [
+          {
+            "phrase": "as well as",
+            "def": ""
+          },
+          {
+            "phrase": "respond to",
+            "def": ""
+          },
+          {
+            "phrase": "tend to",
+            "def": ""
+          },
+          {
+            "phrase": "used to",
+            "def": ""
+          }
+        ]
+      }
     },
     "Text3": {
       "passage": {
@@ -3012,7 +6534,89 @@ const ENGLISH_DATA = {
           "explanation": ""
         }
       ],
-      "translation": ""
+      "translation": "",
+      "vocab": {
+        "words": [
+          {
+            "word": "monopoly",
+            "form": "monopoly",
+            "phonetic": "",
+            "meaning": "n. 垄断；独占；专营 / n. 垄断；垄断者；专卖权 / n. 垄断， 专卖"
+          },
+          {
+            "word": "forest",
+            "form": "for",
+            "phonetic": "/ˈfɒrɪst/",
+            "meaning": "森林"
+          },
+          {
+            "word": "total",
+            "form": "total",
+            "phonetic": "",
+            "meaning": "总数"
+          },
+          {
+            "word": "ton",
+            "form": "ton",
+            "phonetic": "",
+            "meaning": "n. 吨；很多，大量"
+          },
+          {
+            "word": "move",
+            "form": "moved",
+            "phonetic": "",
+            "meaning": "v. 移动；迁移；感动 n. 行动；移动,活动"
+          },
+          {
+            "word": "justify",
+            "form": "just",
+            "phonetic": "",
+            "meaning": "v. 证明合法；整理版面 / vt. 证明…是正当的， 认为有理"
+          },
+          {
+            "word": "freight",
+            "form": "freight",
+            "phonetic": "/frett/",
+            "meaning": "货物；发生率"
+          },
+          {
+            "word": "majority",
+            "form": "major",
+            "phonetic": "",
+            "meaning": "n. 多数；成年 / n. 多数， 大多数；【律】 成年"
+          },
+          {
+            "word": "carrier",
+            "form": "carriers",
+            "phonetic": "/美/",
+            "meaning": "送货"
+          },
+          {
+            "word": "substantial",
+            "form": "substantial",
+            "phonetic": "/səbˈstænʃl/",
+            "meaning": "大量的；实质的"
+          },
+          {
+            "word": "costly",
+            "form": "cost",
+            "phonetic": "/「kostii/",
+            "meaning": "费钱的；昂贵的"
+          },
+          {
+            "word": "coordinate",
+            "form": "coordinated",
+            "phonetic": "",
+            "meaning": "v. 协作，协调 / n. 坐标；同等的人或物 adj. 并列的；同等的 v. 调整；整合 / adj. 同等的； 并列的 A；坐标的 n. 坐标"
+          }
+        ],
+        "phrases": [
+          {
+            "phrase": "appeal to",
+            "def": ""
+          }
+        ]
+      }
     },
     "Text4": {
       "passage": {
@@ -3086,7 +6690,93 @@ const ENGLISH_DATA = {
           "explanation": ""
         }
       ],
-      "translation": ""
+      "translation": "",
+      "vocab": {
+        "words": [
+          {
+            "word": "inevitable",
+            "form": "inevitable",
+            "phonetic": "/m「evrtebl/",
+            "meaning": "不可避免的"
+          },
+          {
+            "word": "optional",
+            "form": "optional",
+            "phonetic": "",
+            "meaning": "adj. 可选择的，随意的 n. 选修科目 / adj. 可以任选的， 非强制的"
+          },
+          {
+            "word": "wonderful",
+            "form": "wonder",
+            "phonetic": "",
+            "meaning": "adj. 极好的，精彩的，绝妙的；奇妙的；美妙；胜；神妙"
+          },
+          {
+            "word": "hasty",
+            "form": "has",
+            "phonetic": "/「hersti/",
+            "meaning": "匆忙的"
+          },
+          {
+            "word": "past",
+            "form": "past",
+            "phonetic": "",
+            "meaning": "n. 过去；往事 adj. 过去的；结束的 prep. 越过；晚于 adv. 过；经过"
+          },
+          {
+            "word": "century",
+            "form": "century",
+            "phonetic": "/ˈsentʃəri/",
+            "meaning": "世纪；百年"
+          },
+          {
+            "word": "failure",
+            "form": "Failing",
+            "phonetic": "",
+            "meaning": "n. 失败；故障；失败者；破产 / n. 失败； 不及格 <；失败者 A；故障， 失灵；未能"
+          },
+          {
+            "word": "hip",
+            "form": "hips",
+            "phonetic": "/hrstorrion/",
+            "meaning": "臂部"
+          },
+          {
+            "word": "canal",
+            "form": "can",
+            "phonetic": "",
+            "meaning": "n. 运河；[地理] 水道；[建] 管道；灌溉水渠 v. 在…开凿运河 / n. 运河； 渠"
+          },
+          {
+            "word": "being",
+            "form": "be",
+            "phonetic": "",
+            "meaning": "n. 生物；存在， 生存"
+          },
+          {
+            "word": "replace",
+            "form": "replaced",
+            "phonetic": "",
+            "meaning": "v. 取代，代替；替换，更换；归还，偿还；把…放回原处 / vt. 替换； 取代；放回； 归还"
+          },
+          {
+            "word": "depress",
+            "form": "depression",
+            "phonetic": "",
+            "meaning": "v. 压抑；使沮丧；使萧条 / vt. 压抑； 降低； 削弱；使沮丧， 使抑郁"
+          }
+        ],
+        "phrases": [
+          {
+            "phrase": "even if",
+            "def": ""
+          },
+          {
+            "phrase": "so that",
+            "def": ""
+          }
+        ]
+      }
     }
   },
   "2004": {
@@ -3216,7 +6906,93 @@ const ENGLISH_DATA = {
           "although",
           "supposing"
         ]
-      ]
+      ],
+      "vocab": {
+        "words": [
+          {
+            "word": "theory",
+            "form": "theories",
+            "phonetic": "",
+            "meaning": "n. 理论； 原理； 学说；见解， 看法"
+          },
+          {
+            "word": "juvenile",
+            "form": "juvenile",
+            "phonetic": "",
+            "meaning": "昌匹认"
+          },
+          {
+            "word": "commit",
+            "form": "committed",
+            "phonetic": "/kəˈmɪt/",
+            "meaning": "承诺；犯（罪）；投入"
+          },
+          {
+            "word": "focus",
+            "form": "focus",
+            "phonetic": "/「foukes/",
+            "meaning": "焦点"
+          },
+          {
+            "word": "individual",
+            "form": "individual",
+            "phonetic": "/【,mdr vIdsual/",
+            "meaning": "个的"
+          },
+          {
+            "word": "majority",
+            "form": "major",
+            "phonetic": "",
+            "meaning": "n. 多数；成年 / n. 多数， 大多数；【律】 成年"
+          },
+          {
+            "word": "contribute",
+            "form": "contributing",
+            "phonetic": "",
+            "meaning": "v. 贡献，出力；投稿；捐献 / v. 贡献； 捐助， 捐献；投稿；有助于"
+          },
+          {
+            "word": "influence",
+            "form": "influence",
+            "phonetic": "",
+            "meaning": "n. 影响；势力；感化；有影响的人或事 v. 影响；改变 / n. 影响； 作用；势力， 权势 vt. 影响， 感化"
+          },
+          {
+            "word": "criminal",
+            "form": "criminal",
+            "phonetic": "/派生】 eriminality  krimrnelati/",
+            "meaning": "罪犯"
+          },
+          {
+            "word": "notify",
+            "form": "not",
+            "phonetic": "",
+            "meaning": "v. 通告，通知；公布 / vt. 通知， 告知； 报告"
+          },
+          {
+            "word": "sufficient",
+            "form": "sufficiently",
+            "phonetic": "",
+            "meaning": "adj. (for)足够的,充分的(比enough拘谨、正式) / adj. 足够的；充分的 / adj. 足够的， 充分的"
+          },
+          {
+            "word": "forest",
+            "form": "for",
+            "phonetic": "/ˈfɒrɪst/",
+            "meaning": "森林"
+          }
+        ],
+        "phrases": [
+          {
+            "phrase": "engage in",
+            "def": ""
+          },
+          {
+            "phrase": "tend to",
+            "def": ""
+          }
+        ]
+      }
     },
     "Text1": {
       "passage": {
@@ -3290,7 +7066,93 @@ const ENGLISH_DATA = {
           "explanation": ""
         }
       ],
-      "translation": ""
+      "translation": "",
+      "vocab": {
+        "words": [
+          {
+            "word": "forest",
+            "form": "for",
+            "phonetic": "/ˈfɒrɪst/",
+            "meaning": "森林"
+          },
+          {
+            "word": "lawyer",
+            "form": "lawyer",
+            "phonetic": "/ˈlɔːjə(r)/",
+            "meaning": "律师"
+          },
+          {
+            "word": "database",
+            "form": "database",
+            "phonetic": "",
+            "meaning": "n. 数据库 / n. 数据库"
+          },
+          {
+            "word": "search",
+            "form": "searched",
+            "phonetic": "/sɜːtʃ/",
+            "meaning": "搜索；寻找"
+          },
+          {
+            "word": "successful",
+            "form": "success",
+            "phonetic": "/səkˈsesfl/",
+            "meaning": "成功的"
+          },
+          {
+            "word": "agent",
+            "form": "agent",
+            "phonetic": "/ˈeɪdʒənt/",
+            "meaning": "代理人；特工；试剂"
+          },
+          {
+            "word": "interact",
+            "form": "interactive",
+            "phonetic": "",
+            "meaning": "v. 互相作用,互相影响 / v. 互相影响；互相作用 n. 幕间剧；幕间休息 / vi. 互相作用， 互相影响"
+          },
+          {
+            "word": "feature",
+            "form": "feature",
+            "phonetic": "",
+            "meaning": "n. 特色，特征；容貌；特写或专题节目 v. 起重要作用 / v. 以…为特点 n. 特征， 特色；特写"
+          },
+          {
+            "word": "visitor",
+            "form": "visitors",
+            "phonetic": "/「vzita(r)/",
+            "meaning": "访问者；客人；来宾；参观者"
+          },
+          {
+            "word": "location",
+            "form": "location",
+            "phonetic": "",
+            "meaning": "n. 地点,位置；定位,测位 / n. 位置（形容词locational）；地点；外景拍摄场地 / n. 位置， 场所"
+          },
+          {
+            "word": "title",
+            "form": "title",
+            "phonetic": "",
+            "meaning": "标题"
+          },
+          {
+            "word": "salary",
+            "form": "salary",
+            "phonetic": "",
+            "meaning": "vt. 给加薪；给薪水 n. 薪水 / n. 薪金， 薪水"
+          }
+        ],
+        "phrases": [
+          {
+            "phrase": "rely on",
+            "def": ""
+          },
+          {
+            "phrase": "focus on",
+            "def": ""
+          }
+        ]
+      }
     },
     "Text2": {
       "passage": {
@@ -3364,7 +7226,105 @@ const ENGLISH_DATA = {
           "explanation": ""
         }
       ],
-      "translation": ""
+      "translation": "",
+      "vocab": {
+        "words": [
+          {
+            "word": "past",
+            "form": "past",
+            "phonetic": "",
+            "meaning": "n. 过去；往事 adj. 过去的；结束的 prep. 越过；晚于 adv. 过；经过"
+          },
+          {
+            "word": "century",
+            "form": "century",
+            "phonetic": "/ˈsentʃəri/",
+            "meaning": "世纪；百年"
+          },
+          {
+            "word": "condemn",
+            "form": "condemned",
+            "phonetic": "",
+            "meaning": "v. 谴责；判刑，定罪；声讨 / vt. 谴责， 指责 A；判刑， 宣告有罪"
+          },
+          {
+            "word": "form",
+            "form": "form",
+            "phonetic": "/fom/",
+            "meaning": "形状"
+          },
+          {
+            "word": "continue",
+            "form": "continues",
+            "phonetic": "",
+            "meaning": "连续"
+          },
+          {
+            "word": "to",
+            "form": "to",
+            "phonetic": "",
+            "meaning": "科学家"
+          },
+          {
+            "word": "thrive",
+            "form": "thrive",
+            "phonetic": "/θraɪv/",
+            "meaning": "繁荣；茁壮成长"
+          },
+          {
+            "word": "alphabet",
+            "form": "alphabetism",
+            "phonetic": "/ralfspet/",
+            "meaning": "字母表"
+          },
+          {
+            "word": "forest",
+            "form": "for",
+            "phonetic": "/ˈfɒrɪst/",
+            "meaning": "森林"
+          },
+          {
+            "word": "lower",
+            "form": "lower",
+            "phonetic": "/“laua(r)/",
+            "meaning": "较低的"
+          },
+          {
+            "word": "hasty",
+            "form": "has",
+            "phonetic": "/「hersti/",
+            "meaning": "匆忙的"
+          },
+          {
+            "word": "taxi",
+            "form": "taxi",
+            "phonetic": "",
+            "meaning": "v. 乘出租车；滑行 n. 出租汽车"
+          }
+        ],
+        "phrases": [
+          {
+            "phrase": "lead to",
+            "def": ""
+          },
+          {
+            "phrase": "as well as",
+            "def": ""
+          },
+          {
+            "phrase": "pay attention to",
+            "def": ""
+          },
+          {
+            "phrase": "tend to",
+            "def": ""
+          },
+          {
+            "phrase": "even if",
+            "def": ""
+          }
+        ]
+      }
     },
     "Text3": {
       "passage": {
@@ -3438,7 +7398,97 @@ const ENGLISH_DATA = {
           "explanation": ""
         }
       ],
-      "translation": ""
+      "translation": "",
+      "vocab": {
+        "words": [
+          {
+            "word": "comment",
+            "form": "comes",
+            "phonetic": "",
+            "meaning": "v. 注释； 评论 n. 注释； 评论； 意见"
+          },
+          {
+            "word": "to",
+            "form": "to",
+            "phonetic": "",
+            "meaning": "科学家"
+          },
+          {
+            "word": "slow",
+            "form": "slowing",
+            "phonetic": "/sləʊ/",
+            "meaning": "慢的；减缓"
+          },
+          {
+            "word": "economy",
+            "form": "economy",
+            "phonetic": "",
+            "meaning": "n. 经济；节约 / n. 经济；节约；理财 / n. 节约；经济"
+          },
+          {
+            "word": "bite",
+            "form": "biting",
+            "phonetic": "/baɪt/",
+            "meaning": "咬；叮咬"
+          },
+          {
+            "word": "her",
+            "form": "her",
+            "phonetic": "",
+            "meaning": "小女孩因母亲的逝世悲仿得几乎晕倒在坟前"
+          },
+          {
+            "word": "nail",
+            "form": "nails",
+            "phonetic": "",
+            "meaning": "v. 钉；使固定；揭露 n. [解剖] 指甲；钉子"
+          },
+          {
+            "word": "justify",
+            "form": "just",
+            "phonetic": "",
+            "meaning": "v. 证明合法；整理版面 / vt. 证明…是正当的， 认为有理"
+          },
+          {
+            "word": "cut",
+            "form": "cutting",
+            "phonetic": "/kʌt/",
+            "meaning": "切；割；削减"
+          },
+          {
+            "word": "file",
+            "form": "filing",
+            "phonetic": "",
+            "meaning": "链刀"
+          },
+          {
+            "word": "likely",
+            "form": "like",
+            "phonetic": "/larkli/",
+            "meaning": "很可能的"
+          },
+          {
+            "word": "mostly",
+            "form": "Most",
+            "phonetic": "",
+            "meaning": "adv. 主要地， 大部分， 通常"
+          }
+        ],
+        "phrases": [
+          {
+            "phrase": "instead of",
+            "def": ""
+          },
+          {
+            "phrase": "seem to",
+            "def": ""
+          },
+          {
+            "phrase": "used to",
+            "def": ""
+          }
+        ]
+      }
     },
     "Text4": {
       "passage": {
@@ -3512,7 +7562,97 @@ const ENGLISH_DATA = {
           "explanation": ""
         }
       ],
-      "translation": ""
+      "translation": "",
+      "vocab": {
+        "words": [
+          {
+            "word": "very",
+            "form": "very",
+            "phonetic": "",
+            "meaning": "adv. 很，非常；完全 adj. 同一的，正是的，恰好的"
+          },
+          {
+            "word": "highly",
+            "form": "high",
+            "phonetic": "/ˈhaɪli/",
+            "meaning": "非常；高度地"
+          },
+          {
+            "word": "athlete",
+            "form": "athletes",
+            "phonetic": "/「aelixt/",
+            "meaning": "汽车；秋；季"
+          },
+          {
+            "word": "notify",
+            "form": "not",
+            "phonetic": "",
+            "meaning": "v. 通告，通知；公布 / vt. 通知， 告知； 报告"
+          },
+          {
+            "word": "scholar",
+            "form": "scholars",
+            "phonetic": "",
+            "meaning": "n. 学者；奖学金获得者 / n. 学者"
+          },
+          {
+            "word": "evening",
+            "form": "Even",
+            "phonetic": "",
+            "meaning": "n. 晚上；傍晚；（联欢性的）晚会；后期 adj. 在晚上的；为晚上的；晚上用的 int. 晚上好（等于good evening）"
+          },
+          {
+            "word": "weed",
+            "form": "we",
+            "phonetic": "",
+            "meaning": "杂草"
+          },
+          {
+            "word": "to",
+            "form": "to",
+            "phonetic": "",
+            "meaning": "科学家"
+          },
+          {
+            "word": "education",
+            "form": "education",
+            "phonetic": "",
+            "meaning": "n. 教育,培养"
+          },
+          {
+            "word": "knowledge",
+            "form": "knowledge",
+            "phonetic": "/ˈnɒlɪdʒ/",
+            "meaning": "知识；了解"
+          },
+          {
+            "word": "forest",
+            "form": "for",
+            "phonetic": "/ˈfɒrɪst/",
+            "meaning": "森林"
+          },
+          {
+            "word": "sake",
+            "form": "sake",
+            "phonetic": "/sek/",
+            "meaning": "更丨义；叠皋逞亥套古龛；王里；庄；他团为诗美而喜欢诗歌"
+          }
+        ],
+        "phrases": [
+          {
+            "phrase": "in favor of",
+            "def": ""
+          },
+          {
+            "phrase": "participate in",
+            "def": ""
+          },
+          {
+            "phrase": "for the sake of",
+            "def": ""
+          }
+        ]
+      }
     }
   },
   "2005": {
@@ -3642,7 +7782,89 @@ const ENGLISH_DATA = {
           "along with",
           "aside from"
         ]
-      ]
+      ],
+      "vocab": {
+        "words": [
+          {
+            "word": "section",
+            "form": "Section",
+            "phonetic": "",
+            "meaning": "n. 章节；部分；地区；部门， 科 A"
+          },
+          {
+            "word": "direction",
+            "form": "Directions",
+            "phonetic": "/dsregJaydrydar/",
+            "meaning": "方向"
+          },
+          {
+            "word": "reader",
+            "form": "Read",
+            "phonetic": "/ˈriːdə(r)/",
+            "meaning": "读者；读本"
+          },
+          {
+            "word": "following",
+            "form": "following",
+            "phonetic": "",
+            "meaning": "adj. 其次的，接着的；下列的，下述的 / adj. 接着的， 下列的"
+          },
+          {
+            "word": "texture",
+            "form": "text",
+            "phonetic": "",
+            "meaning": "n. 质地；纹理；结构；本质，实质 / n. 质地， 纹理， 结构"
+          },
+          {
+            "word": "forest",
+            "form": "for",
+            "phonetic": "/ˈfɒrɪst/",
+            "meaning": "森林"
+          },
+          {
+            "word": "blank",
+            "form": "blank",
+            "phonetic": "",
+            "meaning": "空自的"
+          },
+          {
+            "word": "nose",
+            "form": "nose",
+            "phonetic": "/nəʊz/",
+            "meaning": "鼻子"
+          },
+          {
+            "word": "thoughtful",
+            "form": "thought",
+            "phonetic": "/ˈθɔːtfl/",
+            "meaning": "体贴的；深思熟虑的"
+          },
+          {
+            "word": "to",
+            "form": "to",
+            "phonetic": "",
+            "meaning": "科学家"
+          },
+          {
+            "word": "being",
+            "form": "be",
+            "phonetic": "",
+            "meaning": "n. 生物；存在， 生存"
+          },
+          {
+            "word": "comparable",
+            "form": "compared",
+            "phonetic": "",
+            "meaning": "adj. 类似的，相当的；可相比的 / adj. 可比较的；比得上的 / adj. 可比较的， 比得上的 <"
+          }
+        ],
+        "phrases": [
+          {
+            "phrase": "stick to",
+            "def": ""
+          }
+        ]
+      }
     },
     "Text1": {
       "passage": {
@@ -3716,7 +7938,101 @@ const ENGLISH_DATA = {
           "explanation": ""
         }
       ],
-      "translation": ""
+      "translation": "",
+      "vocab": {
+        "words": [
+          {
+            "word": "lover",
+            "form": "loves",
+            "phonetic": "/ˈlʌvə(r)/",
+            "meaning": "情人；爱好者"
+          },
+          {
+            "word": "fat",
+            "form": "fat",
+            "phonetic": "",
+            "meaning": "adj. 肥的，胖的；油腻的；丰满的 n. 脂肪，肥肉 v. 养肥；在…中加入脂肪"
+          },
+          {
+            "word": "rise",
+            "form": "rise",
+            "phonetic": "/raɪz/",
+            "meaning": "上升；升起"
+          },
+          {
+            "word": "owner",
+            "form": "own",
+            "phonetic": "",
+            "meaning": "n. [经] 所有者；物主"
+          },
+          {
+            "word": "canal",
+            "form": "can",
+            "phonetic": "",
+            "meaning": "n. 运河；[地理] 水道；[建] 管道；灌溉水渠 v. 在…开凿运河 / n. 运河； 渠"
+          },
+          {
+            "word": "colleague",
+            "form": "colleague",
+            "phonetic": "",
+            "meaning": "n. 同事，同僚 / n. 同事， 同僚"
+          },
+          {
+            "word": "hasty",
+            "form": "has",
+            "phonetic": "/「hersti/",
+            "meaning": "匆忙的"
+          },
+          {
+            "word": "reputation",
+            "form": "reputation",
+            "phonetic": "/,repjuzteLn/",
+            "meaning": "名声；多挂享有盛名的情况；挂由于茉人正直的品格道德行为战宗出成就而取到他人的尊重或数仰"
+          },
+          {
+            "word": "forest",
+            "form": "for",
+            "phonetic": "/ˈfɒrɪst/",
+            "meaning": "森林"
+          },
+          {
+            "word": "evening",
+            "form": "even",
+            "phonetic": "",
+            "meaning": "n. 晚上；傍晚；（联欢性的）晚会；后期 adj. 在晚上的；为晚上的；晚上用的 int. 晚上好（等于good evening）"
+          },
+          {
+            "word": "being",
+            "form": "be",
+            "phonetic": "",
+            "meaning": "n. 生物；存在， 生存"
+          },
+          {
+            "word": "outrage",
+            "form": "outraged",
+            "phonetic": "",
+            "meaning": "n. 愤怒，愤慨；暴行；侮辱 v. 凌辱，强奸；对…施暴行；激起愤怒 / n. 暴行， 骇人听闻的事件；愤慨 vt. 激怒"
+          }
+        ],
+        "phrases": [
+          {
+            "phrase": "tend to",
+            "def": ""
+          },
+          {
+            "phrase": "so that",
+            "def": ""
+          },
+          {
+            "phrase": "in exchange for",
+            "def": ""
+          },
+          {
+            "phrase": "in return for",
+            "def": ""
+          }
+        ]
+      }
     },
     "Text2": {
       "passage": {
@@ -3790,7 +8106,89 @@ const ENGLISH_DATA = {
           "explanation": ""
         }
       ],
-      "translation": ""
+      "translation": "",
+      "vocab": {
+        "words": [
+          {
+            "word": "remember",
+            "form": "remember",
+            "phonetic": "/rɪˈmembə(r)/",
+            "meaning": "记得；记住"
+          },
+          {
+            "word": "scientist",
+            "form": "scientists",
+            "phonetic": "",
+            "meaning": "n. 科学家"
+          },
+          {
+            "word": "smoke",
+            "form": "smoking",
+            "phonetic": "/sməʊk/",
+            "meaning": "烟；吸烟"
+          },
+          {
+            "word": "insist",
+            "form": "insisted",
+            "phonetic": "",
+            "meaning": "v. 坚称，坚决认为 / v. 坚持，强调"
+          },
+          {
+            "word": "weed",
+            "form": "we",
+            "phonetic": "",
+            "meaning": "杂草"
+          },
+          {
+            "word": "forest",
+            "form": "for",
+            "phonetic": "/ˈfɒrɪst/",
+            "meaning": "森林"
+          },
+          {
+            "word": "evidence",
+            "form": "evidence",
+            "phonetic": "",
+            "meaning": "n. 证据，证明；证据，证词 / n. 证据，证明；迹象；明显 v. 证明 / v. 证明， 表明 n. 根据， 证据；形迹， 迹象"
+          },
+          {
+            "word": "science",
+            "form": "science",
+            "phonetic": "/ˈsaɪəns/",
+            "meaning": "科学；理科"
+          },
+          {
+            "word": "lobby",
+            "form": "lobby",
+            "phonetic": "",
+            "meaning": "n. 大厅；休息室；会客室；游说议员的团体 v. 对……进行游说 / n. 门廊， 门厅； 休息厅"
+          },
+          {
+            "word": "outer",
+            "form": "out",
+            "phonetic": "",
+            "meaning": "adj. 外面的，外部的；远离中心的 n. 环外命中 / adj. 外部的， 外面的， 外层的"
+          },
+          {
+            "word": "to",
+            "form": "to",
+            "phonetic": "",
+            "meaning": "科学家"
+          },
+          {
+            "word": "destroy",
+            "form": "destroy",
+            "phonetic": "/dɪˈstrɔɪ/",
+            "meaning": "破坏；毁灭"
+          }
+        ],
+        "phrases": [
+          {
+            "phrase": "instead of",
+            "def": ""
+          }
+        ]
+      }
     },
     "Text3": {
       "passage": {
@@ -3864,7 +8262,101 @@ const ENGLISH_DATA = {
           "explanation": "［ 精准定位］ 第五段④⑤句明确指出偶尔做噩梦的人（ the rest of u s 指代“除掉那些长期做噩梦者之\n外剩下的人勺可安心睡觉或做（噩）梦，因为大脑可以自动消除不良情绪，第二天梦醒后心情都会不错。\n换言之， Cartwright 建议偶尔做噩梦的人可以照常生活，［ A］正确。\n    ［ 命题解密 ］ 正确项是对该段末两句的概括表达，其中 Lead your life as u s ual 是对 Sl eep一or rather\ndream-   on it 的合理概括 。\n    〔 B〕将原文所述“ 寻助人 一一那些长期受噩梦折磨的人”篡改为“偶尔做噩梦的人”。［ CJ 错将有意识\n控制的对象由 recurring bad dreams （反复上演的噩梦）转变为 sometim e ... bad dreams （偶尔噩梦）。［ DJ\n是对第五段 ②句中 a nxiety 的无端捏造，该词主要用以说明人们 噩梦不断的原因：白天焦虑感与 日俱增，\n并未用于传达 Cartwright 对偶尔噩梦者的建议；再有 Cartwright 只表达了要有意识地控制梦或任其发\n展，并未提到避免焦虑这个问题。\n    ［ 技巧总结］ 对比处常设题点，解答时，重在理清比较对象、比较内容，然后对号人座。如本题，第一步\n重在掌握④句 the rest of us 具体所指，并将其与题干 those who sometimes have bad dreams 相对接；第二步\n重在寻找针对 the rest of us 所 描述的具体信息： ③ 句 should seek help from a therapist；“寻求专家帮助”针对\n的是“长期 受噩梦 折磨的那些人”；⑤句中祈使句 Sl eep一 or rather dream- on it “枕着它（指焦虑〕入睡或入\n梦”针对的是“偶尔做噩梦的人”；最后，对号人座，敲定正确答案〔础。\n                                                                                                田部嚣跑回\n                                                                                                ·--,·--- ··\n                                                                                                一\n                                                                                                一\n                                                                                                十"
         }
       ],
-      "translation": ""
+      "translation": "",
+      "vocab": {
+        "words": [
+          {
+            "word": "component",
+            "form": "components",
+            "phonetic": "/kam「 paUnant/",
+            "meaning": "组成部分"
+          },
+          {
+            "word": "goodness",
+            "form": "good",
+            "phonetic": "/ˈɡʊdnəs/",
+            "meaning": "善良；美德"
+          },
+          {
+            "word": "sleep",
+            "form": "sleep",
+            "phonetic": "",
+            "meaning": "v. 睡，睡觉 n. 睡眠"
+          },
+          {
+            "word": "to",
+            "form": "to",
+            "phonetic": "",
+            "meaning": "科学家"
+          },
+          {
+            "word": "being",
+            "form": "be",
+            "phonetic": "",
+            "meaning": "n. 生物；存在， 生存"
+          },
+          {
+            "word": "window",
+            "form": "window",
+            "phonetic": "",
+            "meaning": "n. 窗；窗口；窗户"
+          },
+          {
+            "word": "opening",
+            "form": "opens",
+            "phonetic": "",
+            "meaning": "n. 开始；机会；通路；空缺的职位 adj. 开始的 v. 开放（open的ing形式）；打开；公开 / adj. 开始的， 开幕的 n. 口子； 孔；开始， 开端；空缺"
+          },
+          {
+            "word": "logic",
+            "form": "logic",
+            "phonetic": "",
+            "meaning": "n. 逻辑,逻辑学 / n. 逻辑；逻辑学；逻辑性 adj. 逻辑的 / n. 逻辑； 逻辑学 A"
+          },
+          {
+            "word": "dead",
+            "form": "dead",
+            "phonetic": "/ded/",
+            "meaning": "死亡的；无生命的"
+          },
+          {
+            "word": "speak",
+            "form": "speak",
+            "phonetic": "",
+            "meaning": "v. 说话；演讲；表明；陈述"
+          },
+          {
+            "word": "century",
+            "form": "century",
+            "phonetic": "/ˈsentʃəri/",
+            "meaning": "世纪；百年"
+          },
+          {
+            "word": "formulate",
+            "form": "formulated",
+            "phonetic": "/「formiuleito/",
+            "meaning": "规划"
+          }
+        ],
+        "phrases": [
+          {
+            "phrase": "pay attention to",
+            "def": ""
+          },
+          {
+            "phrase": "belong to",
+            "def": ""
+          },
+          {
+            "phrase": "tend to",
+            "def": ""
+          },
+          {
+            "phrase": "seem to",
+            "def": ""
+          }
+        ]
+      }
     },
     "Text4": {
       "passage": {
@@ -3938,7 +8430,93 @@ const ENGLISH_DATA = {
           "explanation": "［精准定位］ 文末 指出 ，我 们现在用 “ 纸盘”而非“盟盘”盛着我们的英语大 餐， 可能遗憾，但或许无法避\n免 ，再 由上 文“ Mc飞lvhort er 为那些 美 好大于实用之物的消逝 而 哀叹”推知，“纸盘”代表“实用但不具美感的\n事 物”，即口语化随意的 英语； “ 在盘”代 表“有 欣 赏 和艺术价值的美好事 物”，即正式、传统英语， ［ CJ 正确 。\n     ［命题解密］ ③ 句是对 ② 句内容的形象比 l喻， 文 中 pap e r plat巳s 和 china 分别对应 u se ful 和 b ea u川tiful,\n两词与 ［ CJ 叫1 的 fun ct阳\n     [ A ］ 中 temporary VS p e rm a n 巳nt 是对 纸 盘 和 资盘最直 观的反应                                                               纸盘 一 次性，而 瓷盘 可以反 复 利\n用，但脱离 全文 对“语 言 功用 vs 价值”的论述； ［ B J 利用末段出现的 radical ，再结 合首段 出现的\ncon se rvati ve 制造干扰，但前者修饰“教 育 改革” ，后者 说明 McWhorter ，与题干无关； ［ D J 是 对 u sef u l 和\nb eautiful 两 者关系， 以及 文中涉及 的 “正式语高 雅（巳 l eva t ed ton e ） ，口语随意” 等 内 容 的过 度 推断 ，但\nMcWhort er 意不在 对 语言 进行 等级 划分 。\n     f 技巧总结］ 推理题型的题 干在原文 中 往往没有直 接表述 ， 考生只能对所 考信 息本 身 以 及上下文进\n行综合分析来推理；解 答这类题应该 ， ①有意识 地揣 摩 作 者字里行 间的用 意，透过表面认识本质 ； ②结合\n全文主旨，正确项往往 是 对 文 中 关键信息 的再现 。 干扰项多 利用 字 面含义，或文中出现的、但 与 核心内\n容无关的信息设 置 而 成 。 本题考 查文章结 尾处比 II俞用 法，首先锁定信息句： ta k e our Engli sh on ...将“英\n语” 比作“ 盘 中 餐 ”，而 p ape r pl a t es 与 c h ina(p l a tes ） 由 表示 取舍关系的 in s t ea d o f 衔 接，与全文“正式语”被\n“非正式语”替代这 一 逻辑吻合；再结合上下文：对美好而欠实用事物逝去表示惋惜，从 而 不难得出答案 。\n                                                             加拿大建立全国性药品机构\n；等 －．总体分析\n      本文围绕“加拿大医疗保健费用增长”的问题展开。文章按照“批评众省长的失职行\n为“有一至 三 段） 一一指出众省长应该采取的措施（第四至八段） 一一 分析成 立全国性药 品机构遇到的阻\n力（第九至十 一 段） 一一 指出作者建议（第十二至十五段）”的脉络行文。\n等 二．语篇分析\n           I    Canada ’ s premiers(            ( the leaders of provincial②\n                                                                                                           在七月底的年度会议上，加 拿 大各省\ngovernments) ,            if      they       have   any      breath          left        after\n                                                                                                      省长们大肆抱怨渥太华（加 拿 大首都，指代\ncomplaining a bout                Ottawa       at   their    late July              annual\n                                                                                                      联邦政府）之后，如采还有一口气的话 ， 本\nm eeting,       might          spare     a    moment        to   do         something,\n                                                                                                      该抽出点时间共同做些事情来降低医疗保\ntogether, to r educ e h ealth care costs.\n                                                                                                      健费用 。\n      Il       They' re        a ll   groaning      about(       soaring® health\n                                                                                                           他们都在抱怨医疗保健预算飞涨，其\nbudgets, the fastest-growing component(                                of wh ich ar e\n                                                                                                      中增长最快的部分是药品费用 。\npharmaceutical® costs.\n      田 （ 41)\n                                                                                                              J\n                                                                                         难…\n                                                                            注\n                                                                                                  析\n                                                                                            －\n                                                                                                  分\n                                                                 …\n                                                                            … …\n                                                                                  释\n                                                                                  与\n                                                                                  … …\n                                                                                            旬 …\n                                                                 词 …\n                                                                       …\n                                                                       「L\n                                                                                                  －\n                                                                                                       －\n                                                                                                      e\n                                                                                                  合\n( premier [1 premra］ 凡总理、首相，（英联邦国家，如加\n  拿大、澳大 利亚等）特指各省行政长官省长\n                                                                                    l\\\n                                                                                    !\n                                                                                          ( component [ kam ' paunant J 凡组成\n                                                                                              部分\n                                                                                                                                      知识补充\n( provincial [ pra'vmJ！］ α ．省级的\n( groan about 抱怨\n④s叫s::>:] v . （数量， 价格 等）猛增 ，骤升\n                                                                                    :J\n                                                                                    豆     ( pharmaceutical [ ,f口：ma1s u:t rk al ］ ι\n                                                                                              制药的， 药品的\n                                                                 （＇.：击毒分析＇.－：＼ J\n      前三段批评众省长的失职行为：未能合力降低医疗保健费用。\n      首段批评众省长在“医疗保健费用增长问题”上不作为。 独句成段， if 引导的假设从句描述背 景： 加\n拿大众省长对联邦 政府大肆抱怨，可谓不遗余力；主句指出众省长的失职行为“未能联合行动起来降低\n医疗保健费用”。 情态动词 mi g ht 并非是其常用意（表可能性的 “ 也许、可能 ” 之意），而是表说话人因某\n人本该做菜 事 但却没做而不满 ，这里表明作者对众省长只知抱怨却无行动的批评 。 副同 toget h e r 前后\n均有 逗号标记起到强调j 作用 ，暗示在应 对医疗保健费用问题上众省长人心不齐才导致问题迟迟得不到\n解决，传达作者希 冀“各省应团结一致 而非各自为战”，为下文支持建 立全国性药品 机构 奠定情感基 调 。\n      第二段进一步明确问题所在：医疗保健费用，尤其是药品费用暴涨。 本段以人称代词 They （回指\nCanada's pr e mi ers ）和近义词 替 换（ all groaning abo u t 替换 complaining about, health budget s 替换 h ea l th­\ncare cos t s ） 进 一步 明确众省长抱怨的问题 ： 医疗保健费用暴涨，药品费用暴涨尤其突出。注意本段时态\n为现在进行时，上段为一般过去时，表明众省长一直抱怨，再次传达作者对众省长不干实事的讽刺 。\n      第三段为空白段 ， 可能具体说明“药品费用尤其暴涨”的问题，也可能就上述问题提出解决办法 。\n     N O What to do? f} Both t he Romanow commission①\n                                                                                    该怎么办呢 ？ 罗马诺医疗保健委员\na nd t he Kirb y committee( on hea lt h care        to say nothing of\n                                                                            会和科尔比医疗保健委员会一一其他专\nrepor ts fro m other exp erts- recommend ed t he crea tio 口 o f a\n                                                                            家的报告更不必说一一都建议设立 一 个\nnationa l dru g agency@. @Instead of eac h p rov inc巳 ha ving its\n                                                                            全国性的药品机构 。 一 改每个省份都有\nown lis t of approved dru gs , bureaucracy© , procedures and\n                                                                            各自的获批药物清单、机构、程序和有限\nli mit ed ba rgai ning power , a ll wo uld pool® reso urces, wo rk\n                                                                            议价能力的局面，所有省份集中资源，与\nw it h Ottawa , and creat e a nationa l in stitu tion.\n                                                                            渥太华合作，创建 一 个全国性的机构 。\n     V C42)                                                                         (42)\n    VI O But “ national ” doesn 't have to m ean that.\n                                                                                    但是“ 全国性的”并不一定是那个含\n@“ National” could mean interp rovincia l provinces\n                                                                            义 。＂ 全国性的”也可以指各省之间\ncombining efforts to cr ea te one body.\n                                                                            的 一一 各省合力创建一个机构 。\n     VII O Either way, one benefit of a “ national ”                                不管是哪种方式，“全国性”机构的一\norga ni zation would be to negot ia te better prices, if possible,\n                                                                            个好处是能够与药品生产商谈判获得更\nw it h dru g   manufacturers®.       f} Instead      of   having     one\n                                                                            优惠价格，如采可能的话 。 全国性机构将\nprov ince- or a series of hos pita ls wit hin a province-\n                                                                            代表所有省份（同药品生产商）议价，而不\nnegotiate a price fo r a give n dru g on t he provincial list, the\n                                                                            是由一个省份一一或省内的几家医\nnationa l age ncy wo uld nego ti at e on behalf of a ll pro vinces.\n                                                                            院 一－－针对该省药单上的某种药品议价 。\n     VII]__ @Rat her   than, say, Quebec, negotiating on behalf\n                                                                                    比如，魁北克省只能代表七百万公民\nof seven m ill ion peop le, t he na tional agency wo uld negotia te\n                                                                            议价 ， 而全国性机构将代表三千一百万加\non beha lf of 31 mi llion people. f} Basic econom ics s uggests\n                                                                            拿 大人民议价 。 基础经济学表明 ， 潜在客\nt he greater    the     potential   cons umer s ,   the   hig her    the\n                                                                            户越多，获得更优惠价格的可能性就越大 。\nlikelihood( of a better pri ce.\n                                           ：？词汇：注释与非句分析 ＜ 1'\n( commission [ ka 1m巾n] n . 委员会                              自僚机构 ； 官僚主义\n( committee ［ ！宝a1 m此 1 ] 11. 委员会                            引      ( pool [ pu:1] v. 合 伙 （集 中 ）使用 ， 共 用， （资源）主号 享\n( agen‘:y [ 'e1d3ans1] 11 . 机构                               i                  ’\n                                                                    ( manufactt rer [ ,mien\n④ bureaucr叫 ［ bju       <r<ls1] n. 官僚制 度；官僚政治 ； 官            ~-     ⑦ 阳 ii叫 ［ 1 !a1khl叫，2 可 能 性\n                                                    ； ：－语：第全在：－ ：： ；／\n     第四至八段指出众省长应该采取的措施，并说明该措施的正确性 。\n     第四段指出众省长应采取的正确措施：联合建 立全 国性的药品机构 。 首句设 问 点 明 本 段开 启解决\n问 题 。 ② 句回 答 ， 给出解决措 施： 建立全国性药品 机构（ 注 ： age n cy 意 为 “ 机构 ”， 而 非 “代 理 勺 。③ 句进而\n解释 创 立 该 机构的 宗 旨： 改变各省各自为政 、 力 量 单薄 的现 状，转变为集 中 资源与联邦政 府 合作 。\n     第五段为空白段， 可能 顺承第 四 段新信息“ 创 建全国性药品 机构”介 绍该 机构 ， 如 职 能 、益处、可行\n性 、 创 建方式等 。\n     第六段就“全国性药品机构的创建方式”进 一 步阐释解决方案。 首句 B u t 转承 上 文 指 出“ na ti ona l ”的\n意思并不 一 定 如 上文 所述 （ th at 回 指第五段 内 容） ， ② 句进而 给 出 “ na ti ona l ”的 另一 种 解读 ：各省之间的 ，\n破 折 号后 补充 解释 ： 各省（绕 过 联邦政府）合力 创 建一 个机构 。 指 代词 th at 以 及复 现的 关 键词 m ea n/\nna t i o na l 表 明 本段与第五段就 nat i o na l 一 词的 含义进 行 探 讨， 给出了两 种 解读， 也即 这一药 品机构 有两 种\n组建方式； 同时 据本段可知 ， 该 机构 并不 － 定是“隶属 于 国家政府 的 部 门机 构” ，而 更可 能 是“各省共 同 参\n与建 立 的全国性 的 组织 机 构”， 即 n at i o n a l 一词的准确意思应是“全国性的”，而非“国家的” 。\n     第七段说明该方案的好处（正确性 ） 。 首 句指出一 个 好 处“能从 药品生产商 那 里获得更 优 惠 的价\n格” 。 E i t h er way 呼 应第五 、 六段 对 n a t i o n a l 的 两 种解 读 ，同时 含有让步转 折 意 味，即 “不管 以哪种 方式组\n建全国性 机构都能带来好 结果”， 凸显这 一 措施的正确性； b e tt e r pric es 明指各省在得实惠药价， 但插入\n语 if poss ibl e 含有不确定意睐，暗指药品生产商利益受损，必然不会轻易妥协，为后文“药品生产商反对\n建立全国性药品机构”伏笔。 ② 句解释 原因 ：议价方式 发生转变，潜在客户由势单力薄的 o n e p rov in ce 变\n为购买力强大的 a ll prov in ces ，获得更优惠药价的可能性提升 。\n       第八段以魁北克省为例证明第七段。 首 句以魁北克省和 全国 人口数据对比（ seven million peo ple\nVS 31 million p eo pl e ）举 例说明全国性 药品机构的议价优势 ： 潜在客户越多，越有话语权，越可能得到更\n优 惠价格 。 例证标记词 say （ 比如说）和 类 似第七段末句的句式结构（ Rath er than ... the nationa l agency\nwould ... VS Instead of. . . the nationa l agency wou ld . .. ）均体 现 本句与上段末句的例证民明关系。②句\n上升至理论高度，从基 础H 经 济学角度进 一 步说明全国性药品 机构的议价优势 有理论支持 。\n       m(43)                                                                            (43)\n       XI O A small step has             b巴巴n    taken in th e\n                                                                                        渥太华和各省共 同出 资成 立了加 拿 大医 疗\ndir ection of a national agency w ith the creation of the\n                                                                               技术评 估 协作办公室，这意味着向成立全国性机\nCanadian Co-ordinating(       Office for H ealth Technology\n                                                                               构迈进了 一 小步 。 这个办公室发布的常 用 药物\nAssessm ent , funded by Ottawa and the provin ces.\n                                                                               许审（报告）向各省推荐应该添 加 在药品清单 上\n@Under<:!) it, a Common Drug Review recommends to\n                                                                               的新药 。 不 出 所料，但令人遗憾的是，魁北克省\nprovmc1al lists which new drugs should be included.\n                                                                               拒绝 加 入 。\n@Predictably® , and regrettably, Quebec refused to jom.\n                                                                                        一 些省长们对 于 联邦与各省之 间的 任何协\n       XI O A few premi er s are sus picious of any                            议都持怀疑态度 。 他们 （ 尤其是魁 北 克省和 阿 尔\nfeder a l- provincia l dea l-making. @They ( part i c t』 larl y\n                                                                               伯特省）只想让渥太华额外支 付几十亿加元 ，最\nQu ebec and Alberta) just want Ottawa to fork over\n                                                                               好没有 什 么附带条件 。 这就是为 什么 全国性药\naddit iona l   bill ions   with   few,    if    any,          strings©\n                                                                               品 清羊 的 想法 一 直得 不到 落实 、而 药品价格 却不\nattac h ed. @ That ’ s one r eason why th e idea of a\n                                                                               断快速 上 涨的 一个 原 因 。\nnationa l li s t has n ’ t gone anyw h ere w hil e dru g cost s\nkee p ri s ing fast.\n                                                                                               J\n                                                                  释 …\n                                                                         难\n                                                                                  …\n                                                                  与…\n                                                                                        析\n                                                                                  分…\n                                                                         … …\n                                                  词…\n                                                                  注 …\n                                                                               旬 …\n                                                           …\n                                                           「」 …\n( co-ordinate [ k:au1;:i:dme1t] v . （ 使）协作                           ll        ( be suspicious of 怀疑\n( under ['A nda］ ρ re p. 在…… 掌控 ／ 管理之下                               ;(              forl\n( predictably [ pr11diklabh] ad. 可预见地                                <         ( if a n y 虫日 ：果有的话，文中 wi th few, if any, stnngs\n( string [ st ri 日］ 凡（协议 、关系等 的附带）条件或限制\n． 经典搭配                                                               ;\n                                                                     )\\              a tt ac h ed 意为 “如果有附带条件的话，越少越好，但\n                                                                                     最好不要有 附带条件”\n                                                       :   •~j..军费：玩.0.: 1'\n       第九至十一段分析建立全国性药品机构遇到的两种阻力 ： 药品生产商反对和某些省份不合作。\n       第九段为空白段， 可能 承第 七、八段继 续 介绍机构的好处；也可能介绍 实 行情况、各利益方态度 等 。\n       第十段介绍创建全国性机构遇到阻力 ： 某些省份不合作。 ① 句先让步指出建 立全 国性药品机构小\n有进展：联邦政府和各省合资建立相关评估办公室，双方开始合作，值得高兴 。② 句说明该办公 室 的部\n分职能 C it 回指 t h e Ca nadi an Co ordinating Office for. .. ） ： 为各省推荐药品清单 。③ 句转 喜为悲 介绍其\n遇到阻碍：魁北 克省 拒绝加入 。 Pred 川 abl y, a nd regr e ttably( a nd 表对 比， 意 为“但是，可 是勺整 体传达作\n者态度 ：魁北 克省 拒绝加入 虽 在意料之中 ， 但仍不免 令 人 失望遗 憾 ，反 向暗示作 者 对建 立全匡｜性机构的\n支 持 。 另 外， Pr edictably 后有逗号隔开，侧 重 凸显 Pr edi c ta bly ，即魁北克省反对态度 最 坚决（ ， 拒绝加入在\n意 料之中 ）， 可知作 者在第 八 段 以魁北 克为 例 来 说明 “全国 性 药 品机构的 好 处”别 有 用 意，传达 批 评 ： 由于\n人口数量对比悬殊，全国性机构显然比单一省份占尽优势，但魁北克仍执迷不悟。\n     第十一段解释魁北克等省不愿加入的原因。 ① 句分析 某些省 份 不合 作的 原因 ： 一 些省长对联邦政\n府和 各省 的任何 合 作都 持 怀 疑态度， a n y 强 调 这些省 长的怀 疑具有盲目 性 。② 句 进而明确 这些省长 的 真\n实 想 法 ： 只想接受资 助 ，不 想 担负责任 。 表 强调的副词 ju s t 、修饰词 a dd i ti o na l 以 及 w i t h 引 导 的伴随 状语\n表 明 这些官员“ 一 心 只想获得额 外 资 助， 不愿接受任 何附 带条 件 ” ， 足 见 其要求过分 、 想法自私 ； 括 号 中\npart icula r ly Quebec fl乎应上段末 句 ，表 明 本段重点解释 魁北 克不 加入的 原因，其自私想法 和 反对态度 尤\n其 强烈，间 接解释 了 上段 P re d i c t a b l y 的 含 义 。 ③ 句借因果逻 辑关 系（ T ha t ' s one r easo n w hy, T h a t 回指 ②\n句内 容） 指出 某 些 省 份 不合 作的 负 面 影 响 ： 全国性药 品 清 单无 法实 现、 药 价 持续 快 速走高 。\n      XII C44)                                                                       (44)\n      圆。 0 Premi ers love to qu o te Mr. R om ano w ’ s r eport\n                                                                                     省长们 喜欢 有 选择地引用 罗 马诺先生的\nselectively(    ,   es pecia ll y the par ts a bo ut more federa l\n                                                                             报告，特别 是 有 关 联 邦 政 府提供更多资金 的\nmo ney. @ P er haps they shou ld read w hat he had to say\n                                                                             部分 。 也许他们 应该 读 读罗 马 诺先 生有 关药\nabout dru gs :“ A nati ona l dru g age ncy wo uld provide                    品不得不说的话： “ 为了尽力抑制不 断 上 涨 的\ngover nm ent s more infl u 巳 n ce on ph arm ace ut ica l                     药价，全国性药品机构会让政 府 对医药公司\ncompani es in or der         to try to constra in(      t h e ever           施加更大的 影 响 。 ”\nincr easing cost of d ru gs. ”                                                       (45 )\n     X[YI (45)                                                                       因此当 省 长们聚 集 在尼亚加 拉瀑 布 城 ，像\n      YJ So w hen t he p remi er s ga ther in N iaga ra F a ll s t o         以往那样不停地抱 怨 时 ， 他们也 应该 在自己的\nassemble® th eir us ua l comp lain t li s t, t hey sho uld a lso get         权限范围内迅 速 开始做些有利于他们的预 算\ncr acking about® som et hi ng in th eir jurisdiction® that                   及病人的 事 情 。\nwou ld h elp t heir budge ts and pa t ients.\n                                               ： ·词汇注释与难旬分析；hi\n( selectively [ sa' lek-t1vl1] ad. 有选择 地                         \\\\       ( get cracking a bout 迅速开始做 、 积极 主 动做\n( constrain [ kan 'strem] v. 迫使 ， 限 制                            ；        川ction [ , d3uar1s＇川 ” 的阳司法权\n( assemble [ a'sembal] v. 集合 、汇集\n     So when t he premiers gat her in Niaga r a Falls to assemble their usua l com p la int list , they should a lso get\ncracking a bout something in t heir jurisdicti on tha t would help their budgets and patients.\n     结构切分：\n                          句子主干 ： I       they should also get cracking about something in their jurisdiction\n                           时间状语从句\n                                        主语\n                                          ..                     i胃i吾\n                                                                                             宾i吾             定i吾\n      So       when the premiers         gather in Niagara                                       定语从句\n    衔接词引导词                 主语            谓语      丁ili:A获百－                that   would help their budgets and patients\n    to assemble        thei 「 usual   complaint list,\n                                                                      引导词              谓语               宾语\n                         目 的状语\n     功能注 释 ： 逻 辑衔接 词 So 表 明 本 句 承 上总 结 ， th ey sho uld a l so 给 出作 者对各省官员的建议 ：除 了 抱\n怨外，还 应该为 人 民 做 点实事 。\n                                                                                 J\n                                                        篇\n                                                        语\n                                                                 析 …\n                                                        － …\n                                                                 分 …\n                                                                      毛\n                                                                  －\n                                                             ．\n     第十二至十五段提建议：各省应联合起来创建全国性药品机构以降低药品费用。\n     第十二段为空白段， 可能承接上段末 句 继续分 析 某些省份不合 作的 负面影响， 也可 能针对性 地 提 出\n建 议、 解决办法 。\n       第十三段建议各省长正确解读相关研究报告，认识到建立全国性药品机构的必要性。 ①句先行铺\n垫 介绍各 省长 的做 法 ：对相 关研究报告 断 章取义， 以期 获得更多联邦资金，回应第十 一 段第二句（ T h ey\njus t want ... ） ，动词 wa nt→ q uo te 的 变 化 表 明他们将自私想法付诸行动；副词 se l ec tive l y 和 espec i a ll y 传\n达作者对这些省长自私想法、不正做法的批评态度。②句进而给出作者建议 ： 应该正确解读相关报告，\n认识到 建立全国性药品 机构的必 要性 。 w h a t he had to say about drug （其中 h e 回指 Mr. Roma now ）与\nthe parts a bout more federa l m o n ey 同 属 一 份报告的两个部分，但各省 官员 却为自身利益只 拿后者 说事，\n双引号中 内 容作者通过直接引用该 报 告另 一 部分的原话给某些省长断 章取 义的做法以有力批评 。\n       第十四段为空白段， 可能继续给众省长提建议 。\n       第十五段总结收篇，提出作者希冀：众省长应在权责范围内为民众着想，积极参与创建全国性药品\n机构。 首 词 So 表 明 本段承上总结，首先以 w h en 引导的时间状 语从句设想各省长再次开会讨论医疗保\n健问题时的情形：仍然像以往那样不停地抱怨， assemble （“收集、聚合”）和 complaint li st 形象描述“众省\n长一味堆砌抱怨，抱怨单子越拉越长”，再次讽刺众省长光说不做的 一贯 作风；之后主句提出建议：众省\n长应停止嘴上抱怨，尽快在权责范围内为各省、为人民做实事 。 that 从句表明建立全国性药品机构不仅\n能减少 医疗保健费用、有 利 于各省 财政预 算，更 能使患 者得 到 实惠， 可谓 好事一件，各省应积极推行 。\n       该段仍独旬成段，旬式和内容均与首段相呼应： when 从句对“众省长再次开会情形”的设想照应首段 if\n从句对“众省长之前开 会情形” 的假设， 主 句 they should 呼应 首段（ they) might ，均 是对众省长提出建议。\n首尾两 段前呼后应， 重申 作 者对众省长的敦 促： 一 昧抱怨并不能解决问题，尽快采取措施才是正道 。\n        [A] Quebec's resistance to a national agency is\n                                                                      [ A］魁北克省反对加入全国性机构是\nprovincialisf( ideo logy. One of the fir s t advocates0 for a      （出于）地方保护主义的意识形态 。 最先提\nnational list was a researcher at Lava l University.               倡 开 列全国性 （ 药品）清单的人之 一 的是拉\nQuebec ’ s Drug Ins urance Fund         has seen its costs         瓦尔大学的一名研究员 。 魁北克药品保险\nskyrocket( with annual increases from 14. 3 per ce nt to           基金的开销每年都以从 1 4 . 3% 到 26 . 8% 不"
         }
       ],
-      "translation": ""
+      "translation": "",
+      "vocab": {
+        "words": [
+          {
+            "word": "expect",
+            "form": "expect",
+            "phonetic": "",
+            "meaning": "v. 预期；期望,指望 / v. 期望；指望；认为；预料"
+          },
+          {
+            "word": "figure",
+            "form": "figures",
+            "phonetic": "",
+            "meaning": "n. 数字；人物；图形；价格；（人的）体形；画像 v. 计算；出现；扮演角色"
+          },
+          {
+            "word": "speech",
+            "form": "speech",
+            "phonetic": "/spiːtʃ/",
+            "meaning": "演讲；言语"
+          },
+          {
+            "word": "to",
+            "form": "to",
+            "phonetic": "",
+            "meaning": "科学家"
+          },
+          {
+            "word": "command",
+            "form": "command",
+            "phonetic": "",
+            "meaning": "命令；掌握"
+          },
+          {
+            "word": "skillful",
+            "form": "skill",
+            "phonetic": "",
+            "meaning": "adj. 熟练的；巧妙的 / adj. 灵巧的， 娴熟的"
+          },
+          {
+            "word": "owner",
+            "form": "Own",
+            "phonetic": "",
+            "meaning": "n. [经] 所有者；物主"
+          },
+          {
+            "word": "weed",
+            "form": "We",
+            "phonetic": "",
+            "meaning": "杂草"
+          },
+          {
+            "word": "likely",
+            "form": "Like",
+            "phonetic": "/larkli/",
+            "meaning": "很可能的"
+          },
+          {
+            "word": "care",
+            "form": "Care",
+            "phonetic": "",
+            "meaning": "n. 照顾，照料 v. 关心，在意 / n. 关怀；照料；谨慎；忧虑 v. 照顾；关心；喜爱；顾虑"
+          },
+          {
+            "word": "controversial",
+            "form": "controversialist",
+            "phonetic": "",
+            "meaning": "adj. 引起争论的,有争议的 / adj. 有争议的；有争论的 / adj. 引起争论的， 有争议的"
+          },
+          {
+            "word": "mix",
+            "form": "mixed",
+            "phonetic": "",
+            "meaning": "v. 配制；混淆；使混和；使结交 n. 混合；混合物；混乱"
+          }
+        ],
+        "phrases": [
+          {
+            "phrase": "instead of",
+            "def": ""
+          },
+          {
+            "phrase": "tend to",
+            "def": ""
+          }
+        ]
+      }
     },
     "NewType": {
       "passage": {
@@ -4021,7 +8599,105 @@ const ENGLISH_DATA = {
           "answer": "",
           "explanation": ""
         }
-      ]
+      ],
+      "vocab": {
+        "words": [
+          {
+            "word": "partly",
+            "form": "Part",
+            "phonetic": "",
+            "meaning": "adv. 部分地,不完全地,在一定程度上 / adv. 部分地；在一定程度上"
+          },
+          {
+            "word": "direction",
+            "form": "Directions",
+            "phonetic": "/dsregJaydrydar/",
+            "meaning": "方向"
+          },
+          {
+            "word": "following",
+            "form": "following",
+            "phonetic": "",
+            "meaning": "adj. 其次的，接着的；下列的，下述的 / adj. 接着的， 下列的"
+          },
+          {
+            "word": "texture",
+            "form": "text",
+            "phonetic": "",
+            "meaning": "n. 质地；纹理；结构；本质，实质 / n. 质地， 纹理， 结构"
+          },
+          {
+            "word": "sentence",
+            "form": "sentences",
+            "phonetic": "/「sentons/",
+            "meaning": "句子"
+          },
+          {
+            "word": "remove",
+            "form": "removed",
+            "phonetic": "",
+            "meaning": "v. 移动；脱掉；免职 / v. 移动，迁移；开除；调动 n. 移动；距离；搬家"
+          },
+          {
+            "word": "forest",
+            "form": "For",
+            "phonetic": "/ˈfɒrɪst/",
+            "meaning": "森林"
+          },
+          {
+            "word": "mostly",
+            "form": "most",
+            "phonetic": "",
+            "meaning": "adv. 主要地， 大部分， 通常"
+          },
+          {
+            "word": "suitable",
+            "form": "suitable",
+            "phonetic": "/r「surtabl/",
+            "meaning": "合适的"
+          },
+          {
+            "word": "to",
+            "form": "to",
+            "phonetic": "",
+            "meaning": "科学家"
+          },
+          {
+            "word": "blank",
+            "form": "blanks",
+            "phonetic": "",
+            "meaning": "空自的"
+          },
+          {
+            "word": "extra",
+            "form": "extra",
+            "phonetic": "",
+            "meaning": "adv. 特别地，非常；另外 n. 临时演员；号外；额外的事物；上等产品 adj. 额外的，另外收费的；特大的"
+          }
+        ],
+        "phrases": [
+          {
+            "phrase": "instead of",
+            "def": ""
+          },
+          {
+            "phrase": "rather than",
+            "def": ""
+          },
+          {
+            "phrase": "on behalf of",
+            "def": ""
+          },
+          {
+            "phrase": "deal with",
+            "def": ""
+          },
+          {
+            "phrase": "used to",
+            "def": ""
+          }
+        ]
+      }
     },
     "Translation": {
       "sentences": [
@@ -4053,7 +8729,11 @@ const ENGLISH_DATA = {
         "",
         "",
         ""
-      ]
+      ],
+      "vocab": {
+        "words": [],
+        "phrases": []
+      }
     }
   },
   "2006": {
@@ -4183,7 +8863,89 @@ const ENGLISH_DATA = {
           "r egulation",
           "c oordination"
         ]
-      ]
+      ],
+      "vocab": {
+        "words": [
+          {
+            "word": "section",
+            "form": "Section",
+            "phonetic": "",
+            "meaning": "n. 章节；部分；地区；部门， 科 A"
+          },
+          {
+            "word": "direction",
+            "form": "Directions",
+            "phonetic": "/dsregJaydrydar/",
+            "meaning": "方向"
+          },
+          {
+            "word": "reader",
+            "form": "Read",
+            "phonetic": "/ˈriːdə(r)/",
+            "meaning": "读者；读本"
+          },
+          {
+            "word": "following",
+            "form": "following",
+            "phonetic": "",
+            "meaning": "adj. 其次的，接着的；下列的，下述的 / adj. 接着的， 下列的"
+          },
+          {
+            "word": "texture",
+            "form": "text",
+            "phonetic": "",
+            "meaning": "n. 质地；纹理；结构；本质，实质 / n. 质地， 纹理， 结构"
+          },
+          {
+            "word": "forest",
+            "form": "for",
+            "phonetic": "/ˈfɒrɪst/",
+            "meaning": "森林"
+          },
+          {
+            "word": "blank",
+            "form": "blank",
+            "phonetic": "",
+            "meaning": "空自的"
+          },
+          {
+            "word": "percentage",
+            "form": "percentage",
+            "phonetic": "/pəˈsentɪdʒ/",
+            "meaning": "百分比；百分率"
+          },
+          {
+            "word": "population",
+            "form": "population",
+            "phonetic": "/ˌpɒpjuˈleɪʃn/",
+            "meaning": "人口；居民"
+          },
+          {
+            "word": "hasty",
+            "form": "has",
+            "phonetic": "/「hersti/",
+            "meaning": "匆忙的"
+          },
+          {
+            "word": "local",
+            "form": "local",
+            "phonetic": "",
+            "meaning": "adj. 地方的,当地的；局部的 / n. [计] 局部；当地居民；本地新闻 adj. 当地的；局部的；地方性的；乡土的 / adj. 地方的， 当地的；局部的"
+          },
+          {
+            "word": "to",
+            "form": "To",
+            "phonetic": "",
+            "meaning": "科学家"
+          }
+        ],
+        "phrases": [
+          {
+            "phrase": "manage to",
+            "def": ""
+          }
+        ]
+      }
     },
     "Text1": {
       "passage": {
@@ -4257,7 +9019,101 @@ const ENGLISH_DATA = {
           "explanation": "［精准定位］ 该题考查作者态度，需纵观全文。第一段提出主旨：美国社会是 一 部强大的“同化机\n器”。第二至四段通过“移民成功融入美国大众文化，不会带来威胁”论证主旨 。 第五、六段提出对立 观\n点“ 一 些美国人担 心移民对同化免疫”并 加以反驳 。 由此可见 ，移民 的融入没有 给美国社会带来威 胁 ， 即\n美国对移民的吸 收 是成功 的， ［ BJ 正确 。\n     ［命题解密］ 正确项 ［ BJ s uccessfu l 是对第 一 段 amaz i ng machine for homoge ni zing peop l e 、第 二 段\nquickly fitting into , hard ly poi so nou s 、第六段 ha rd l y s ugges t a dark and deterio rating social en vi ronment\n等所暗含 的作 者态度 的准确提炼 。\n       [ A ］ 将... wh ich may not be a ltogether elevating but is hard ly poi so nous （既 未有太大提 升作用，但也\n几 乎没有伤害〉 所 表明 的作者对移民 影 响的“ 客 观评价、总体稍稍偏向 正 面”态 度夸大为“完全肯定赞赏”\n的 r e wardi 吨 （颇有回报 的 ） 。             ［ CJ 从 五段第二句 imm i grants . . .         remain immune to the nation' s\nass imil at ive power 得 出 美国社会对移民 的吸收 “毫 无成 果（ fruitl ess ） ” 一说，但这是作者反驳的观点 。 ［ DJ\n将段末句（否定句） . . . hardly s ugges t a dark a nd det eriorating social e nvironm e nt 所暗 示的作者观点“移\n民对美国社会 几 乎未造成不良 影 响 ”改为完全相反 的 ha rmful （有害的） 。\n       ［ 技巧总结 ］ 本题提醒我们，概括作者态度要做到：一、方向正确，需特别注意理解文中否定表达（尤其\n是隐 性 否定词 hard l y, neitl町等）并识别 与作者 观点相反的 文 中人物观点；切 莫将否定当肯定 ，将批驳靶 子\n当 作 者主张。 二 、程度恰当，需权 衡 全文 内 容， 从 表示肯定／ 否定态度的选项 中找到 “度最合适” 的 一 个 。\n       具体 到 本题，首先可按“方 向”将选项分 为两组 ：“肯定”方向的 ［ A］ 、 ［ BJ ；“否定”方向 的 ［ CJ 、［ DJ ；随\n后发 现 ［ CJ 来自第五段的作者批驳观点、［ D〕违背段末句否定表达 hard l y ... dar k a nd deteriorating 所表\n明的正面态度，从而排除两项；最后在［ A ］ 、［ BJ 中 进行选 择， 排除 对第二段首句作者观点 夸 大其词 的\n[A］ 、选定能恰当概括作者态度的［间 。"
         }
       ],
-      "translation": ""
+      "translation": "",
+      "vocab": {
+        "words": [
+          {
+            "word": "spite",
+            "form": "spite",
+            "phonetic": "",
+            "meaning": "n. 不顾；恶意；怨恨 v. 刁难；使恼怒 / n. 恶意； 怨恨"
+          },
+          {
+            "word": "ending",
+            "form": "endless",
+            "phonetic": "/「endig/",
+            "meaning": "结尾；结局"
+          },
+          {
+            "word": "differ",
+            "form": "difference",
+            "phonetic": "/ˈdɪfə(r)/",
+            "meaning": "不同；相异"
+          },
+          {
+            "word": "forest",
+            "form": "for",
+            "phonetic": "/ˈfɒrɪst/",
+            "meaning": "森林"
+          },
+          {
+            "word": "dress",
+            "form": "dress",
+            "phonetic": "",
+            "meaning": "服装"
+          },
+          {
+            "word": "discourse",
+            "form": "discourse",
+            "phonetic": "/ˈdɪskɔːs/",
+            "meaning": "话语；演讲"
+          },
+          {
+            "word": "casual",
+            "form": "casualness",
+            "phonetic": "/ˈkæʒuəl/",
+            "meaning": "随意的；偶然的"
+          },
+          {
+            "word": "absence",
+            "form": "absence",
+            "phonetic": "/ˈæbsəns/",
+            "meaning": "缺席；缺乏"
+          },
+          {
+            "word": "defer",
+            "form": "deference",
+            "phonetic": "",
+            "meaning": "延期"
+          },
+          {
+            "word": "characteristic",
+            "form": "characteristic",
+            "phonetic": "",
+            "meaning": "特征"
+          },
+          {
+            "word": "popular",
+            "form": "popular",
+            "phonetic": "/「pppjala(r)/",
+            "meaning": "流行的"
+          },
+          {
+            "word": "absorb",
+            "form": "absorbed",
+            "phonetic": "",
+            "meaning": "盼引"
+          }
+        ],
+        "phrases": [
+          {
+            "phrase": "in spite of",
+            "def": ""
+          },
+          {
+            "phrase": "instead of",
+            "def": ""
+          },
+          {
+            "phrase": "prior to",
+            "def": ""
+          },
+          {
+            "phrase": "tend to",
+            "def": ""
+          }
+        ]
+      }
     },
     "Text2": {
       "passage": {
@@ -4331,7 +9187,93 @@ const ENGLISH_DATA = {
           "explanation": ""
         }
       ],
-      "translation": ""
+      "translation": "",
+      "vocab": {
+        "words": [
+          {
+            "word": "weed",
+            "form": "we",
+            "phonetic": "",
+            "meaning": "杂草"
+          },
+          {
+            "word": "hasty",
+            "form": "has",
+            "phonetic": "/「hersti/",
+            "meaning": "匆忙的"
+          },
+          {
+            "word": "distinct",
+            "form": "distinctly",
+            "phonetic": "/dɪˈstɪŋkt/",
+            "meaning": "明显的；不同的"
+          },
+          {
+            "word": "separate",
+            "form": "separate",
+            "phonetic": "",
+            "meaning": "adj. 分离的,分开的 / v. 使分离；使分开；使分居 adj. 单独的；分开的；不同的；各自的； n. 分开；抽印本"
+          },
+          {
+            "word": "hostile",
+            "form": "hostile",
+            "phonetic": "/hpstad/",
+            "meaning": "敌人的"
+          },
+          {
+            "word": "company",
+            "form": "Company",
+            "phonetic": "/「kAmpani/",
+            "meaning": "公司"
+          },
+          {
+            "word": "present",
+            "form": "presents",
+            "phonetic": "",
+            "meaning": "外国人"
+          },
+          {
+            "word": "superb",
+            "form": "superb",
+            "phonetic": "",
+            "meaning": "adj. 极好的；华丽的；宏伟的 n. (Superb)人名；(罗)苏佩尔布 / adj. 极好的， 高质量的"
+          },
+          {
+            "word": "memorial",
+            "form": "Memorial",
+            "phonetic": "/məˈmɔːriəl/",
+            "meaning": "纪念碑；纪念的"
+          },
+          {
+            "word": "largely",
+            "form": "largely",
+            "phonetic": "",
+            "meaning": "adv. 主要地；大部分；大量地 / adv. 主要地， 基本上；大量地， 大规模地"
+          },
+          {
+            "word": "living",
+            "form": "live",
+            "phonetic": "/Uvm/",
+            "meaning": "活的"
+          },
+          {
+            "word": "offer",
+            "form": "off",
+            "phonetic": "/“「pfa(r)/",
+            "meaning": "提供"
+          }
+        ],
+        "phrases": [
+          {
+            "phrase": "seem to",
+            "def": ""
+          },
+          {
+            "phrase": "used to",
+            "def": ""
+          }
+        ]
+      }
     },
     "Text3": {
       "passage": {
@@ -4405,7 +9347,93 @@ const ENGLISH_DATA = {
           "explanation": "［精准定位］ 第一段指出海洋生物濒临灭绝的现状；第 二 、 三 段借 一 项研究具体说明海洋生物量的\n急 剧减少；第四段建议渔场在正确 基线 的指导下，合理 安 排捕捞 盘，维持 一 定的生物盘水平以确保可持\n续发展。可 见 ，［曰“生 物 量水平 ” 是 作 者始终关注 的对 象 。\n       ［命题解密］ 正确项 ［ B J 为全文 的论述对象， bi omass 及 同 义表达 c h a nges in that biomass 、 the\nbiomass of large predators 、 re a l difference( in biomass) between present and pa s t 、 fi s h stocks 、 th e mass ive\nc h a n ges 、 th e biomass of a target spec i es 等多次复 现贯 穿全文 。\n       [ A］干扰源于末段首句 managem e nt e fforts （管理活动），但这仅涉及研究意义，无法涵盖全篇 。［ CJ\n利用 文中复现词汇 ca tch- s i ze 设置干扰，具有一定迷惑性，但“捕捞量”仅仅是影 响 “生物 量 变 化”的 一 个\n因素，不是文章中心话题 。［ DJ 干扰源于第 三 段②句的 fish i ng t ech no l ogy ，“技术应用”是解释“实际生 物\n量遭受更大损失 ”的原因之 一 ，不是全篇中心。\n       ［技巧总结］ 本题以“中心关注点”的形式考查考生对文章的宏观把握 。 考生 f的’题的 关键在于分消主\n次 ：微观层面上，要对每个段落进行句意梳理、大意总结， ，再抠出段落关键词；宏 观 层面上，根据每个段落\n大意，找到或者提炼出能够将各段落意义联系起来的枢纽语段或中心词 。 正确项应该是贯穿全文的主\n线、 中心词 ， 而 错误 项则不 一 定会 体现 在 所 有段落 中 。\n       本文第 一 段指出海洋生物濒临灭绝（数量剧减）的现状；第 二 段借研究指出过度捕捞导致“海洋生物\n量 的剧 减（ cha nges in biom ass ）” ； 第 三 段指出生 物 量实际变 化 其实很可能更为严重；第四段 则 指出正确\n的 基线应该准 确反映 生物量 的 变 化 ，渔场应在 此基础上 合理安 排捕 捞，维持一定的生物量水平，实现可\n持续发展 。 可见各段落按照“概括指出海洋生物量锐减 一一 以研 究发 现说明海 洋生物 量 变 化之快 一一\n进 －步 指出研究还可能低估了海 洋实际生 物 量 的变 化                                     建议维持 一 定生 物 量 水 平 以谋 求可持续发\n展”的逻辑展开，“生物量水平”贯彻始终 。 ［ BJ 选 项正确 。"
         }
       ],
-      "translation": ""
+      "translation": "",
+      "vocab": {
+        "words": [
+          {
+            "word": "man",
+            "form": "man",
+            "phonetic": "/mæn/",
+            "meaning": "男人；人类"
+          },
+          {
+            "word": "partly",
+            "form": "parts",
+            "phonetic": "",
+            "meaning": "adv. 部分地,不完全地,在一定程度上 / adv. 部分地；在一定程度上"
+          },
+          {
+            "word": "strange",
+            "form": "strange",
+            "phonetic": "",
+            "meaning": "adj. 奇怪的；陌生的；外行的 adv. 奇怪地；陌生地，冷淡地 n. (Strange)人名；(英)斯特兰奇；(瑞典、塞)斯特朗格"
+          },
+          {
+            "word": "to",
+            "form": "to",
+            "phonetic": "",
+            "meaning": "科学家"
+          },
+          {
+            "word": "largely",
+            "form": "large",
+            "phonetic": "",
+            "meaning": "adv. 主要地；大部分；大量地 / adv. 主要地， 基本上；大量地， 大规模地"
+          },
+          {
+            "word": "sudden",
+            "form": "suddenly",
+            "phonetic": "",
+            "meaning": "adj. 突然的，意外的；快速的 n. 突然发生的事 / adj. 突然的， 意外的 n. 突然发生的事"
+          },
+          {
+            "word": "extinct",
+            "form": "extinct",
+            "phonetic": "/Testmkt/",
+            "meaning": "火等；灭绝的"
+          },
+          {
+            "word": "species",
+            "form": "species",
+            "phonetic": "",
+            "meaning": "n. (物)种,种类 / n. 种， 种类"
+          },
+          {
+            "word": "slow",
+            "form": "slow",
+            "phonetic": "/sləʊ/",
+            "meaning": "慢的；减缓"
+          },
+          {
+            "word": "quick",
+            "form": "quickly",
+            "phonetic": "",
+            "meaning": "羞"
+          },
+          {
+            "word": "similar",
+            "form": "similar",
+            "phonetic": "/ˈsɪmɪlə(r)/",
+            "meaning": "相似的"
+          },
+          {
+            "word": "being",
+            "form": "be",
+            "phonetic": "",
+            "meaning": "n. 生物；存在， 生存"
+          }
+        ],
+        "phrases": [
+          {
+            "phrase": "take into account",
+            "def": ""
+          },
+          {
+            "phrase": "so far",
+            "def": ""
+          }
+        ]
+      }
     },
     "Text4": {
       "passage": {
@@ -4479,14 +9507,198 @@ const ENGLISH_DATA = {
           "explanation": "［精准定位］ 第五段③句指出教堂提醒信徒 们 灵魂处于危险之中、 肉体 会被蠕 虫咄 l噬； 第七 段 ③ 句\n也 表明宗教曾经告诉我 们死 亡终 将来 l陆、一切 终 将结束 。 由此不难推知 ［ A ］正 确 。\n     ［命题解密］ 正确项 ［ A ］ 中 remind e r of mi se r y 来 自第 五段 re minder s o f mi se r y ，是第五段 t h巳ir so ul s\nwe re in danger. .. be meat for wo rms ...及 第七段 t ha t you will die , t hat eve ryt hing e nd s 等信息 的概括 。\n     [BJ 将艺术的作用 “ 提醒人们 痛苦 的现 实（ a rt to t ell us t ha t yo u will di e , that ever ythin g e nd s ）” 换成\n“提供期望和现 实 之间的平衡（ provides a balance between expectation a nd rea l ity ）”，文 中 并未谈及“期望\n与现实之 间的 平衡” 问题 。〔 CJ 利 用末段②句中 d i sappointment 设 置干 扰，而 该 同 是在 说明 “幸福 与失 望\n（ 即 痛苦）并存（ joy ... carry.. . di sa ppointment ）”，并未谈及 人们对现代社会 失望（ disappointed at the realities\nof modern soci ety）。［ DJ 将早期 教堂 传播的内 容（ th e church . .. r e盯1ind ed . .. ）说成是 现代大众媒体倾向 于\n报道的内容（ are inclin ed to ），将过去移位到现在 。\n     ［技巧总结］ 本题是一道典型的考查考生理解和l 把握 全文 能力的题目， 要求考生 抓 住全文多个关键\n词之间关系，充分理解作者观点态度 。 解题时可采取推理正确项（符合文中的逻辑关系和作者的观点态\n度）和排除错误项（明确 每 个错 误 项的“错点”）相结合的方法 。\n       具 体来 看 本题，初步浏览四个选项可发现，全文 关 键词 art, mod ern society, mass media, religion,\nreminder of mis e ry 均出现 ， 这时考生应意识到自己 需 要结合作者观点（可参考前面几题）来分析这些 关\n键词之间的 关 系 。 进 一 步分析发现，四个选项大体根据第五段以及第七段而来，这时考 生 可锁 定 这两段\n为 ffl'f' 题关键 信息 。 最 后对比发现， ［ A ］ 两段都涉及，符合第五段 ③ 句信息，并与末段中 ③ 句相 契 合（ as\nreli gion o口ce did ） ，且符 合 作者观点（如今的反 幸福 艺术起到这 一 功能 ） ，判定为正确项； ［ 町、 ［ CJ 与第七\n段信息相矛 盾 、 ［ DJ 将第五段所述“早期教堂”所做之 事套 在现代“大众传媒”身上，故均可排除 。\n                                                                                        回｜回回\n                                                                                        t；思墨西’封冒\n                                                                                        回喃葫棚\n                                                美国赌博业的兴 旺                                外教朗读\n；守 －．总体分析\n       本文 摘 自 Newsweek《 新闻周刊 》 2002 年 11 月 2 5 日 一 篇 题为 El ec troni c M o rphine （电子吗啡 ） 的文\n章。文 章由威廉姆斯诉赌场 一案 引出对美国赌博问题的讨论 ， 通过批判赌场“故 意 诱人赌博，对赌客上\n瘾 不 作为”，揭 示 “赌博盛行”这 一 社 会 问题及背后原因“政府大力椎动” 。 全文按照“引出话题‘ 美 国赌博\n问题’ （ 第 一至 三 段）             分析赌场行为‘表里不 一 ，暗中鼓励赌博’ （第 四至七段） 一一 介绍将 ‘ 行为问题’\n归为 ‘ 医 学 问 题’ 的社 会 倾向及 其 隐忧（第八、九段）                                  介绍 美 国赌博业火爆现状及原因 （第 十、十 一\n段）”的脉络行 文 。\n登 二．语模分析\n       I On the north bank of the Ohio river sits E va nsville ,       在俄亥俄河的北岸坐落着印第安纳州的\nInd. , home of David Williams , 52 , and of a riverboat\n                                                                     埃文斯维尔市，它是 52 岁的大卫·威廉姆斯\ncasino( Ca place where gambling® games are played). During\n                                                                     的家乡，也是一处河船赌场的所在地。威廉姆\nsev巳ral years of gambling    in that casino, Williams, a state\n                                                                     斯是州审计员，年薪 35000 美元，几年来他在\nauditor(   earning   $ 35 , 000 a year,     lost approximately\n                                                                     该赌场赌输近 175000 美元 。 在赌场送给他一\n$ 17 5, 000. H e had never gambled before the casino sent him\n                                                                     张 20 美元的代金券之前，他从未涉赌。\na coupon© for $ 20 worth of gambling.\n       JI H e visited the casino , lost the $ 20 and left. On his      他来到赌场，输掉这 20 美元后离开了。\nsecond visit he lost $ 800. The casino issued(     to him, as a      第二次来赌场他输了 800 美元。赌场给他这\ngood customer, a “ Fun Card , ” which when used in the               样的优秀顾客发了一张“游乐卡” ， 在赌场使\ncasino earns points for meals and drinks , and enables the           用时可积分兑换食物和饮料，这使赌场可以\ncasino to track the user ’ s gambling ac tivities. For Williams ,    跟踪记录持卡者的赌博活动 。 对威廉姆斯而\nthose activiti es became what he calls “ electronic heroin®. ”       言，这些活动变成了他口中的“电子海洛因”。\n       ]]I (41)                   . In 1997 he lost $21,000             (41)           1997 年，他在\nto one slot machine( in two da ys. In March 199 7 he lost            一台 老虎机上两天输掉 21000 美元 。 这年\n$72, 186. H e som etimes played two slot m achines at a              三月，他输了 72186 美元 。 有时他，同时玩，两\ntime, all night, until th e boat docked® at 5 a. m. , then           台老虎机，彻夜不归，直到早晨 5 点船进港\nw ent back aboard wh en the casi 口o opened at 9 a. m. Now            （打；坪）为止，然后一到上午 9 点赌场开放时\nhe is suing® the casino, charging that it s hould have               再回来 。 现在他正起诉该赌场，称其既知他\nrefu sed hi s patronage® beca use it kn ew he was addi cted. It      已上瘾，就应拒绝他光顾 。 赌场确实知道威\ndid know he had a probl em.                                          廉姆斯有问题 。\n                                        ；二词汇注辞呈难句分析：：.：： ii\n                                                                                                                                                        阻力悦讼光\n                                                                                                                                                                     非赌头\n                                                                                                                                                                     职动码页\n                                                                                                                                                洛币四诉凡\n                                                                                                                                        海投山起口\n                                                                                                                       d 虎便告\n                                                                                                  hnM 凶\n                                                                                                                    叽老（控创\n                                                                             (h(((\n                                                                                      －\n                                                                                 叫叫阳侃时创\n                                                                                      mmu\n                                                          q\n                                                          ’ pqpq\n                                                                                              ［\n                                                                                                                            nHmv 旷川，\n                                                                                 咀\n                                                                                                            3·P\n                                                                                                                                 ． L 船提\n                                                                                                                                                             nH\n( casino [ ka'si:nau] 11. 赌场                                                                               rEUV\n                                                                                                      enu\n                                                                                                                                                                        博\n                                                                                                                                                                            扣。\n                                                                                                                                                           』14 止 ’\n                                                                                   tkIlF\n                                                                                           此如\n                                                                                 SJusnuz\n( gamble [ 'grembal] v. 赌博\n                                                          ω’q\n( auditor [ 1 :>:drta］ η．审计员\n                                                            ’v\n                                                                                                                                                                 －\n                                                              ’ tψ 白引 ’\n                                                                                        －\n                                                                                        －到m\n                                                                                                  ］\n                                                                                           MM 叫\n( coupon [ 'ku:pon］ η ．礼券，优惠券                                                                             -\n                                                                                                                        M …\n                                                                                                                                       d－\n                                                                                                                                                            FMm\n                                                                                                      「L\n                                                                                                                            m\n                                                                                                  严\n( issue [ '1sju:] v. （正式）发给                                                                                 -\n                                                                      ’ 叭且\n                                                                             …                                  -\n                                                                                       －\n     Th 巳 cas i no issued to him,   as a good customer, a “ Fun Card ,” which when used in the casino earns\npoints for meals and drinks, and enabl es the casino to track th e user ’ s gambling activities.\n     句子主干 ： I The casino            iss ued    to him , a “ Fun Card , ”                                    '\n                       王百一一         百言一        ~                                  &\n                                                                                                                      when used in the casino\n                                                                                                                                   时间状i吾\n                                                                                      定语从句\n               which     earns points    fo 「 meals   a nd drin ks , and enables the casino\n              引导词谓i吾1           宾语1           后置定语修饰宾i吾1                              连词谓i吾2                                            宾i吾2\n               to track the user’ s gambling activities.\n                               宾补2\n     功 能注释：句子主干为 Th e casino iss ued to him a “ Fun Card”； which 定语从句中包含 when 时间状\n语从句，暗含条件意味：如果在赌场使用的话……就会 · ·\n                                                : ~请篇分析＜ 1'\n     第－－至三段引出话题：由威廉姆斯诉赌场一案引出对美国赌博问题的讨论。\n     第一－段概述威廉姆斯赌输巨款的事例。 首句以 home of sb and of sth 的句式引人“某人”、“某事物”，暗\n示两者必然有瓜葛。第二句概述 二 者渊源：威廉姆斯多年赌博输掉巨款，以年薪 $35,000 反衬输掉赌金\n$175,000 数额之大，并引人好奇：威廉姆斯如何一步步陷入赌博泥潭。第 三 句追溯涉赌引子：赌场送给他\n的 2 0 美元代金券 。 never.. . before . .. 凸显之前情形 ： 作为州审计员的威廉姆斯工作体面、品行端正、从未\n涉赌； 一 张代金券却诱其沾赌，沦为赌徒，暗示赌场对威廉姆斯染上赌瘾负有不可推卸的责任 。\n     第二段详述威廉姆斯涉赌经历。 第一句承首段末句涉赌引子“ 20 美元代金券”，以 visited 、 lost 、 left\n简要介绍威廉姆斯初次涉赌情形：到赌场→输钱→离开，没有任何留恋，表明他来赌场纯属娱乐，尚未上\n瘾 。 第 二 句介绍威廉姆斯再次光顾的情形：输钱数额大幅增加。第 三 句则转换主语（ He→ The casino ）介\n绍赌场对威廉姆斯的引诱 ： 冠以“优质顾客”之“荣誉”，赠送“游乐卡”给予物质奖励，精神物质双管齐下，\n助推其滑向赌博深渊； track 表明赌场对赌客的赌博行为了如指 掌，为 下文威廉姆斯起诉赌场埋下伏笔 。\n末句暂作点评，将赌博与毒品作类比，指出威廉姆斯在赌场的诱惑和助推下，已经染上赌瘾，不能自拔。\n     第三段段首为空格， 可能介绍威廉姆斯沉迷赌博的情形。空格后，前两句借数据说明威廉姆斯输掉\n巨款、损失严重。第三句具体描述其上瘾行为。第 四句转而（ Now ）介绍目前事实“威廉姆斯正起诉赌\n场”，并给出起诉理由：赌场明知顾客成瘾而不予制止。末句作者评论，确认威廉姆斯的说辞“赌场确实\n知道他有问题”，从而将前两段所暗含的“作者对赌场的质疑”明朗化，明确作者站位 ： 同情赌客，批判赌\n场。末句时态由前一句的 一 般现在时转回一般过去时，提示下文将就赌场过去的行为做介绍。\n      N, l n March 1998, a friend of W ill iams ’ s got him                                                     1998 年 3 月， 一 个朋友将威廉姆斯\ninvoluntarily( confined® to a treatment center@ for\n                                                                                           强制送入瘾症治疗中心，并书面告知赌\naddictions, and wrote to inform the casino of Will iams ’ s\n                                                                                           场威廉姆斯的赌博问题 。 赌场将成廉姆\ngambling problem. The casino included© a photo of Wi ll iams\n                                                                                           斯的照片纳入禁入赌场的赌博者照片之\namong those of banned gamblers, and wrote to him a “ cease\n                                                                                           列，并写了一封“禁入”通知信给他 。 信\nadmissions ” letter. Noting the “ medical/ psychological ”\nna ture of prob lem gambling behavior , t he let ter sa id that                                中特别指出不良赌博行为的生理和心理\nbefo re bein g readmin ecl to t he casino he wo uld have to\n                                                                                               特性，并声明威廉姆斯必须出 示生 理和\npres巳 n t medi cal/ psycho logica I informat ion demonstrating⑤\n                                                                                               心理状况相关信息，证明光顾赌场 不会\nthat patronizing® the cas ino wo uld pose no threat(                           to hi s\n                                                                                               对他的安全和健康造成任 何 威胁， 才 能\nsa fety o r we ll being.\n                                                                                               获准再次进入赌场。\n       V C42)\n       VI T h e WaLL Street .l u uγηaL report s th a t t he cas ino has                             (42)\n24 sig ns wa rni ng : “ E nj oy th e fun .. . and a l way吕 bet® with                                据《 华尔街 日 报 》 报道，该赌场有 24\nyo ur head , not ove r it. ” Ever y entrance ticket li sts a toll-                             条警示标语：“享受东趣… … 赌博 永远 要\nfree® numb巳r for co unse ling fro m the Indi a na Department of                                理智，不要冲动”。每张 门 票 上 都列 有印\nMenta l H ea lth. Neve rth eles s, Willi am s ’ S s uit charges th a t                         第安纳 州 心理健康中 心的 免费咨询 号码 。\nt he casino,           kn ow ing      he    wa s   “ he lpless ly   addi cted         to       然而威廉姆斯控诉称 ： 赌场明明知道他\nga mblin g ，” intentionall俨 worked@ to “ lure®” him t o “ 巳ngage                               “不可救药地沉迷 于 赌博”，仍然故意“诱\nin co ndu ct aga in s t hi s w ill. ”引Te ll.                                                   使”他“违背自己的意思行事”。好吧。\n         \\I][. ( 43)\n                                                                                                  J\n                                                                         …\n                                                                          …\n                                                                          难 …\n                                                                   注\n                                                                                      分\n                                                                   释\n                                                                                      析\n                                                                         与…\n                                                                                旬\n                                                                   … …\n                                                                                … …\n                                                         词\n                                                                                      …\n                                                          －\n                                                              FL\n                                                                     －\n                                                                                           －\n                                                          e\n                                                                     ，\n                                                                                      ．\n( confine [ k;:in' fa in] v. 将\n( treatment center 治疗中心\n                                           限制在 一 定范围内                     ;\n                                                                                ( bet ［ 叫 u 打赌，赌博\n                                                                                ( toll-free a . 免费的\n( include [ 111 1klu:d] v . 使成为 ······ （I甘 一 部分                           > ( intenti<> nally [ 1r te n J;:i n !J ］ αζ／ ．故意 地\n① de’盲       trate 川\n@ patronize [ 'p况t ra1 n a 1 z] v .    光 ！硕                               \\\\    © lure [ ij ua] v. 劝诱，引诱，诱惑\n         Noting the “ medical/ psychological ” nature of problem gambling behavior , the letter said that before\nbeing readmitted to the casino he would have to present medical/ psychological information demonstrating that\npatronizing the casino would pose no th rea t to his safety or well-being.\n                                            现在分词做伴随状语\n句子主干 ： I the letter said                                                  Noting the “ medical/psychological ” nature\n                                                                          of problem gambling behavior,\n                                                          时间状语                                                              定i吾\n                          before being readmitted to the casino                                                       demonstrating\n                                                                                                                         现在分词\n                                                                                                                  宾i吾从句\n                         that patronizing the casino would pose no                             th 「eat   to his safety or well-being.\n                       引导词                     主语                        谓语                    宾语                  状i吾\n       功能洼释：伴随状 语 No ting .                        .对赌场的信 件内 容 作 出 补 充指出不良赌博行为 的 医学和 心 理学本\n质 ； 主 句以 b efo r e . .. he wo uld have to . . . 结构 引 出赌场硬性 要 求； d emo n s t ra tin g that. ..修饰\ninfo rm at i o n ， 说明赌 场对威廉 姆 斯再次进 入赌场 所 要 提供 资 料的 具 体 要 求 。\n                                                              （：· 请；震分析二：： ；／\n       第四至七段分析赌场的行为：表里不一 ， 暗中鼓励赌博 。\n      第四段介绍赌场对威廉姆斯采取的针对性措施。 第一句再次回顾之前情形“威廉姆斯被强制送医治\n疗，并书面告知赌场”，承上段末句证实赌场对其染上赌瘾 一事 确 实知情 ； inform 指“ （正式）通知”，表 明威\n廉姆斯控诉赌场“知情”有据可循 。第二 句介绍赌场采取的措施：将威廉姆斯列入禁人名单并发函通知 。\n第 三 句 具体说明通知内 容： 威廉姆斯必须出 示 相 关证 明才能 再次出入赌场。句中 safety 意为“没有危害、\n无危险”，结合威廉姆斯之前输掉巨款的情况，该词意指“经济安全”，即再次赌博不会对其经济安全、身心\n健康造成威胁，他才能 重新 出入赌 场 。 “ medi cal/ psychologi ca l叮1n 引 号既是对通知内容 的 直接引用，又表 明\n赌场推卸责任的态度 ： 一 再 强调“赌 瘾”是 赌客自身 生 理和心 理上 的问 题，赌客上瘾与赌场 元关。\n      第五段为空格， 可能继续介绍赌场的行为 。\n      第六段介绍赌场为规避责任采取的预防性措施。 首句 指出措施之 一： 贴标语提示赌客 享受 乐趣、理\n智赌博 ； Enjo y the fun 将赌博定 位为娱乐活动并鼓励参与，使人麻痹放松 ；而 a l ways bet wit h your head\n则强调赌 客要为 自己的赌博行为负 责， 如有 上瘾， 则是赌 客不理智 的个人行为 ，与 赌场无 关。第二 句介\n绍措施之 二 ：提供免 费 心理 咨询号码 ；如同赌场 墙上 的标 语 一 般，这亦是赌场为了规避责任而做的表面\n功夫。第 三 句转折，以威廉姆斯的控诉传达作者对赌场上述措施的质疑：尽管赌场采取了 一 些预防赌客\n上瘾的措施，但威廉姆斯仍控诉赌场故意诱其违背臼身意愿参赌 。 句中多次引用威廉姆斯的原话，以\nh elpl essly/ aga inst his w ill 和 int e nti o na ll y/ lur e 分 别刻画“威廉姆斯”和 “赌场” 的行 为 ：无助、无力 、违背\n本意 却无 法反 抗 vs 使 用各 种伎俩故 意引诱 、将人引入歧途 。 段末借语气 词 W e ll （对不愉快 的 事 情或局\n面表示接受）尽显作者对威廉姆斯遭遇的同情和l 无奈，隐含对赌场 言行不一、 暗中使坏的行为的批判 。\n      第七段为空格， 可能针对赌场的行为、 责 任进行分析 。\n      Vlll\" The fourth edition of the Diagnostic① αnd Statistical\n                                                                                   《 精神疾病诊断与统计手册 》 第四版\nManual ( of M ental Disorders says “ pathological( gambling ”                   指 出 ，“病态赌博’p 指 一 种持续的，反复的，\ninvolves persistent, recurring and uncontrollable pursuit less of               不可控制的行为，其最重妥的不在 于 追求\nmoney than of the thrill of taking risks in ques t of a windfall©               金钱，而在于追求冒险发横财的刺激感 。\n     ,IX:, ( 44)                     . Pu s hed by scie nce , o r wha t           (44)                      。 在科学或所谓\n                                                                                “科学”的推动下，社会将从前被视为性格\ncla ims to be scie nce, socie ty is rec lass ifying what once\n                                                                                缺陷或道德弱点的行为重新划为类似 于 身\nw e re considered character flaws (          o r moral failings® as\n                                                                                体缺陷的“人格障碍” 。\npersonalit y diso rd e rs akin to( ph ys ica l di sa biliti es.\n                                                                                   J\n                                                              …\n                                                              难…\n                                                                         分 …\n                                                          注\n                                                              －\n                                                                         析 …\n                                                              与 …\n                                                              旬\n                                                          …\n                                                              释 …\n                                                  词\n                                                      E\n                                                                            －\n                                                          －\n                                                      …\n( diagnostic [ ,da1c>g1nost 1k］α ． 诊 断性的                          I)   ( windfall [ 'windfo:1 ] 11. 意 外之财\n( manual [ 'mcenjuc>i] n. 说明书，使用 手 册                              > ( flaw [ fl::,:] n. 缺点\n( pathological [ ,pce0c>1 ind 3, kc> ！ ］ α ． （行为或感情）非理            < @ failing [ 1feiiIJJ］ 儿缺点，弱点\n  智 的， 无法控 制的， 病态的                                                $ ( akin to 与 …·· 相似（类似）\n     Pushed by science ，。r what claims to be science, society is reclassifying what once were considered\ncharacter flaws or moral failings as personality disorders akin to physical disabilities.\n             句子主干 ： I society       is rec lassifying what once were considered character flaws or moral failmgs\n                           主语             谓语                                     从句做宾’语\n                           as personality disorder\n                                     宾补\n                                     一「 原因状语                                             ｜ 后宣定语\n                           Pushed by sc i enc巳， or what claims\n      功能注释：过 去分词结构做状语，说明主句发生的原因 ：（ 社会）由于被科学所椎动， or what claims to\nbe sc i ence 传递出作者对 sc i ence 的保留态 度；主句采取 soc i ety is rec lass if ying. . as .. .的结构，将 人们对\n同 一事 物的 今昔 观 点呈现， 即 昔日 的 c h arac t er fl aws or m ora l fa ilin gs 如今被视作 p e r so n a lit y di sord er s 。\n                                              ：·语篇分析 －~ ： ： i/\n       第八、九段介绍将“行为问题”归为“医学问题”的社会倾向及其隐忧：不利于反思赌博问题。\n       第八段介绍赌瘾的心理学定义。 权威心理学手册认为，病态赌博（即，赌瘾）是一 种精神疾病（ pathological\n意为“病理学的、由疾病引起的 勺，症状表现为持续 、反 复、无法自控地追求冒险发横财的剌 激感。\n       第九段段首为空格， 可能围绕“赌瘾”的心理学定义继续阐释、分析、评价等 。空格后 指出 当前一种\n社会倾 向：将个人的性格缺陷或道德问 题划定为“人格疾病”。 akin to physical disabilities 以“身体缺陷”\n类 比 “人格疾病”，表 明这 一 倾向隐含之意：赌痛、原本不是病，而是个人性格或道德上的缺陷（，赌场利用\n这一性格缺陷诱使人赌博 ，尚还有 责任可追究），但 社 会重新定义之后，赌瘾就变成了一种疾病，如同身\n体残疾一样，完全是赌徒个人问题，与赌场无关，更与社会无关，照应第四段赌场的况辞“问题赌博具有\n生理和 心理 上的特 性” （ th e “ medical/ psychologica l” nature of probl em ga mbling be h avior ）。 w h at claims\nto be sc i e n ce 暗示作者对所谓“科学” 的怀 疑，进而传达对所谓“科学”推动下这 种社 会倾 向的怀 疑：社会\n将赌瘾定义为疾病，把一个复杂的社会问题弱化为个人的身体、心理疾病，只知要求赌瘾患者治病 ， 却不\n知反思赌博泛滥这一社会 问 题及其深层原因， 从而引出下 文从社 会层面对赌博 问 题的探讨。\n       X C45)                                                                                         (45)\n       XI F orty four stat es have lotteries( , 29 have casinos,                                      美国有 44 个州发行 彩 票 ， 29 个州设\nand most of t hese states a re to varying degrees® dependent\n                                                                                                   有赌场，而且其中大多 数 不同程度地依\non- you might say addi cted to- revenues® from wagering®\n                                                                                                   赖或者说“沉溺于”赌博收入。自 1 9 9 5\nAnd since t he fir st Internet gambling s ite was cr ea ted in\n                                                                                                   年首个在线赌博网站创 建 以来 ， 争夺赌\n1995, competition for gamblers ' doll ar s has become intense.\n                                                                                                   徒金钱的竞争愈演愈烈 。 据 《 新闻周刊 》\nThe Oct. 28 issue(      of 1、.fewsweek r eported tha t 2 million\n                                                                                                   1 0 月 28 日刊报道，每周有 200 万人光顾\ngambler s patronize 1, 800 virtuafID casinos every 四ek. With $ 3. 5\n                                                                                                   1800 个虚拟赌场 。 由于今年网络赌博中\nbillion being lost on Internet wagers t his yea r , gambling has\n                                                                                                   赌输金额达到 35 亿 美 元，赌博已 超 过色\npassed pornography( as the Web ’ s most profita ble business.\n                                                                                                   情 ， 成为网络上最赚钱 的行业 。\n                                                                                                     J\n                                           …\n                                                             释\n                                                                          难\n                                                       注 －\n                                                             … …\n                                                                   与 …\n                                                                   …\n                                                                                    …\n                                                                                    分\n                                           词…\n                                                                              旬 …\n                                                …\n                                                广」 －\n                                                                                              E川\n                                                                          －\n                                                                                        品’1\n                                                                                    －\n                                                                                         －\n( lottery [11otan ] ,   （用发行彩票为政府、慈善机构等                              \\\\       ( wager ['we1d3a］ υ． ／η. t丁赌，赌博\n  集资的） 抽 彩给奖法                                                        >        ( issue [ '1J u:] n. （报刊 的 ）期，号\n( to varying degrees 在不同程度上                                          ((       ® virtual ［＇曰：tJuai ］ α ．虚拟的\n( revenue [ 1revanju：］ η ． 财政收入，税收收入，收益                              $        ( pornography [ p;:i:1nograf1］ η．色情 作品\n                                              江击毒分析：－~                              :1'\n       第十、十一段介绍美国赌博业火爆现状及原因：赌博业的发展离不开政府的大力支持。\n       第十段为空格， 可能 继续阐释、分析、评价社会对“赌瘾” 的认识的 变 化， 或说明这种变 化有何 影响。\n       第十一段介绍美国赌博业的火爆现状 。 第一句介绍线下赌博的盛况：影票、赌场十分普遍（ Forty-\nfour states ... lotteri es 、 29 ... cas inos ）；多数 州政府 高度依赖赌博业带来的 财政收 入， add i cted 一词既强\n调政府对赌博业的依赖程度之高，说明政府大力支持赌博业的立场，同时也凸显作者调侃语气“政府对\n赌博 业‘ 上瘾了’”，暗含 批判之 意。第二至 四句介绍网 络赌博的火爆：参赌人数多、赌场数量多、利润高。\n       [A] Although no s uch evidence was presented, the\n                                                                                                   [A］ 尽 管 没有此类证据被出示 ， 赌场营\ncasino ’ s marketing department continued to pepper(                      him\n                                                                                         销部仍不断 给他寄邮件 ， 而且他进赌场使用\nw ith mailings. And he entered the casino and used hi s Fun\n                                                                                          游乐卡竟未被发现 。\nCard without being detected.\n      [BJ It is unclear what luring was requi red , give n hi s\n                                                                                                           [BJ 考虑到他的强迫性行为，不清楚到\ncompulsive® behavior. And in w hat sense was hi s will\n                                                                                                      底需要何种诱惑（让他违背意愿行事） 。 在\noperative(J) ?\n                                                                                                      何种意义上他的意愿才起作用？\n      [ C] By the time he had lost $ 5, 000 he sa id to\n                                                                                                           [CJ 当输了 5000 美元时，他对自 己说\nhimse lf that if he co uld get back to even(I) , he would quit.\n                                                                                                      如采回本，就不赌了。然而，一天夜里他赢\nOne night he won $5,500, but he did not quit .                                                        了 5500 美元，却没有就此停手 。\n      [ D]     Gambl ing ha s been a common fea ture of                                                    [DJ 赌博一直是美国人生活的普遍特\nAmerican life forever, but for a long t ime it was broadl y                                           征，但是长期以来，它被普遍认为是一种罪\nconsidered a sin , or a socia l di sease. Now it is a socia l                                         恶或社会弊病 。 现在赌博却成为一种社会\npolicy: the mos t important a nd aggressive promoter of                                               政策：在美国，赌博最重要、最积极的推动者\ngambling in Ame ri ca is the gove rnment.                                                             就是政府 。\n      [ E ] David Willi am s ’ s s uit should trouble this                                                 [E］威廉姆斯的诉讼案大概会给这个赌博\ngamb ling nat ion. But don ’ t be t on it.                                                            盛行的国家带来困扰，但如l 将赌注押在此事上 。\n      [ F ] It is worrisome that society i s 附dicalizing①                                                  [F］令人不安的是，社会正将越来越多\nmore a nd more behaviora l probl ems, often defining as                                               的行为问题医学化，过去更为严厉的几代人\nad di ctions wha t earlier, sterner® generations explai ned as                                        解释为意志力薄弱的行为现在常常被定义\nwea kness of will.                                                                                    为“瘾症” 。\n      [ G J The anonymous( , lonely, undi stracted nature of                                               [G］在线赌博匿名、个人化和不受干扰\nonline gam bling is especia ll y conducive® to compulsive                                             的特点特别容易导致强迫性行为，但是即使\nbehavior. But eve n if th 巳 gove rnm e nt knew how to move                                            政府知道如何打击网络赌博，但这么做的理\nagainst Internet gambling, what would be its grounds®                                                 由又是什么呢？\nfor doing so? [ 71 3 words]\n                                                                          与 －\n                                                                                         －\n                                                                                  …\n                                                                  e\n                                                                                         分\n                                                                                  难 …\n                                                                        释\n                                                                        … …\n                                                                  注 …\n                                                                                         旬 u\n                                                      ．\n                                                                                                      巨川\n                                                      苟同 …\n                                                             广」\n                                             －‘吁且，\n                                                                                                  ’\n                                                                                              …\n                                                  －\n( pepper [ 1pepa J υ．用 小物体 不断打击（ A 项）                                             SI          问 题） (F 项）\n( compulsive [ kam' pAls1 v Jι 难控 制的 (B 项）                                        ~ © st叫St3:n］ α 严厉的，严格 的 （ F 项）\nQ) operative [ 'oparat1v J α ．\n( get back to even 回 本，不输不赢（ C 项）\n                                 可使用，在使用中（ B 项）\n( medicalize [ 'med1kala1z] v. 用医学方法处置（非医学\n                                                                                  :\n                                                                                  $ ( anonymous [ a' nornmas ］ α．匿名的（ G 项）\n                                                                                    ( cond… [ kan1dju:s1v] a . 使容易发生的＜ G 项 ）\n                                                                                  $ ( ground [graund ］ η． 理 由，依据 （ G 项）\n~~： 三．试题精解\n                                                                                                      JJ\n                                                                                        析 …\n                                                                   选\n                                                                                  分\n                                                                   项\n                                                                                  … …\n                                                                   －\n                                                                                         －\n                                                                              －\n                                                                     …\n      [A ］赌场仍在暗中鼓励他赌博。\n      【要点解析】① s uch evidence 是“他”出人赌场需出示的某种“证明”，可能指代第四段末句用以证明\n其健康状况 的 m edica l/ psychological inform at i o n ； ② 选项 首句介绍赌场不断诱惑“ 他” 赌博，第二句 F un\nCa rd 继第二段后再次 出现，可能 与第二 、 三 段威廉姆斯沉迷赌博的过程相关 。 【可选空格】 空 41 或 42 。\n      [BJ 既已上瘾，外界诱惑和个人意愿各有何作用 ？\n      【要点解析】（ what) luring 、 hi s will 复 现 第六 段倒数第 二 句中“ lure”、“（ against) his w ill ”，均说明“诱\n惑 ”和“ 意愿”的对立， 选项可能出现在 第六段 前后 。 【可选空格】空 42 或 43 0\n      [CJ 赌博上瘾的事例。\n      【要点解析】 ①选 项介 绍“ 他”的 赌博经历， 可以确定 h e 指代事例人物“威廉 姆 斯” ； ② 时间 点 By the\ntim e 、 on e night ， 金额 $5,000 、 $5 , 500 可能与第 三 段众 多 时间、数字线索有关。 【可选空格】 空 4 1 。\n      [ DJ 赌博从罪恶、社会弊病变为政府积极推行的社会政策 。\n      【要点解析】 ① Gam bling/ American li fe 表明选项涉及对美国赌博业的一般性讨论，而非威廉姆斯个\n案；②赌博由“社会弊病”到“社会政策”的昔今变 化，可能与第九段赌痛、由“性格、道德弱点”到“人格障\n碍”的变化相关； ③ “赌博成为 一 种社会政策，获政府大力支持”与末段首句“政府高度依赖赌博收入”构\n成“结果一原因”的逻辑关系 。 【可选空格】 空 4 4 或 4 5 。\n      [ E］威廉姆斯诉赌场案可能会给这个“嗜赌国家”带来困扰，但也不一定 。\n      【要点解析】 ① th i s gamb ling nat ion 提示上文涉及“赌博成为 全国性 问题”相 关 内容，与末段内容“美\n国赌博业发展火爆”相关；②选项总结指出作者对此案的期望“让嗜赌国家陷入麻烦，反思赌博问题”，应\n为文章结尾 。 【可选空格】 空白。\n      [F］社会出现行为问题“疾病化”倾向，“意志力薄弱”如今变“瘾症”。\n      E 要点解析】①选项介绍的社会倾向“将行为问题医学 化” 与第九段末 句“社 会将性格或道德缺陷重新\n定义为人格疾病”相关联；②选项复现 will“ 意志力”一 词，同时指出“捕、症的定义”（ defini ng/ addictions ），而第\n八段提及“赌腊的定义”， 二者可能形成“从概括到 具 体”的论述逻辑 。 【可选空格】空 43 或 44 0\n      [ G ］在线赌博易致人上瘾，但政府不会反对它。\n      【要点解析】 ①关键词 o nline/ Int e rn et gamb li ng 、 government 分别复现末段 Internet gambling 、 states ;\n② 选项涉及在线赌博的危害以及政府的立场，与末段内容相关 。 【可选空格】空 45 。\n      综上，各空格可能对应的选项为：\n                                                                                       第一囚\n                                                                   第一印\n                                                                                 空一盯\n                                                                                         空一「 L\n                                                                                       G一田\n               空格         第 41 空       第 42 空       第 43 空\n                                                                            一［\n                                                                     一「｜」\n                                                                                                 一『 」\n                                                                                             G\n                                                                                                  l\n            可能选项          [ A] [CJ     [A] [BJ      [BJ [F]\n                                                                                                  l\n                                        ：·调解元；J\n      4 1. 本题考核的知识点是：特征词的呼应 十 上下文的衔接 。 正确率： 59 %\n      【空格推测】第 二 段介绍“威廉姆斯开始涉赌”，借 e l ectronic h e roin 将赌博比作毒品 ，暗 示其可能上\n瘾，空格下文以数据、事例说明 他输钱之 多、行为之疯狂，显然已经染上赌瘾，故空格处 内容很可能涉及\n其“沉迷赌博、染上赌瘾”的情形 。\n      【答案敲定】由选项分析可知，［ A ] [C］ 为本题备选 1页 。\n      [ A ］虽然复 现 Fun Card 一 词，并介绍赌场暗中怂恿威廉姆斯赌博，可能导致他染上赌瘾，但选项中\nsuch ev idence 在第 二 段找不到与之对应的内容，故排除 。\n      [ CJ 中出现威廉姆斯输掉 金 额$ 5000 、$ 5500 ，与上文$ 20 、$ 800 和下文$ 21000 、$ 72186 可形成\n递增的数字序列，直观说明威廉姆斯输钱越来越多，反映了 他沦为赌徒的过 程 ： 头两次输掉$ 20 、$ 800\n不以为意，“小赌怡情”；输掉$ 5000 不 甘心， 赢 回 $ 5500 却不愿收手，已经上瘾；两天输 $21000 ， 一 个月\n输$ 72186 ，彻底沦为赌徒 。 “回本就收手”的理性 声音终 不敌赌瘾，呼应了第 二 段末句 e l ectronic heroin:\n赌博犹如l 毒品，让人失 去 理性，欲罢不能 。 因此，［ CJ 为正确项 。"
         }
       ],
-      "translation": ""
+      "translation": "",
+      "vocab": {
+        "words": [
+          {
+            "word": "artist",
+            "form": "artists",
+            "phonetic": "/ˈɑːtɪst/",
+            "meaning": "艺术家；画家"
+          },
+          {
+            "word": "weird",
+            "form": "weird",
+            "phonetic": "/wɪəd/",
+            "meaning": "怪异的；不可思议的"
+          },
+          {
+            "word": "being",
+            "form": "be",
+            "phonetic": "",
+            "meaning": "n. 生物；存在， 生存"
+          },
+          {
+            "word": "to",
+            "form": "to",
+            "phonetic": "",
+            "meaning": "科学家"
+          },
+          {
+            "word": "explore",
+            "form": "explore",
+            "phonetic": "",
+            "meaning": "v. 探索；探测；探险 / v. 勘探， 探究， 探索 A"
+          },
+          {
+            "word": "emotion",
+            "form": "emotions",
+            "phonetic": "",
+            "meaning": "n. 情绪,情感,感情 / n. 情感；情绪 / n. 情绪； 情感"
+          },
+          {
+            "word": "focus",
+            "form": "focus",
+            "phonetic": "/「foukes/",
+            "meaning": "焦点"
+          },
+          {
+            "word": "feeling",
+            "form": "feel",
+            "phonetic": "",
+            "meaning": "n. 感觉，触觉；感情，情绪；同情 adj. 有感觉的；有同情心的；富于感情的 v. 感觉；认为（feel的现在分词）；触摸"
+          },
+          {
+            "word": "form",
+            "form": "forms",
+            "phonetic": "/fom/",
+            "meaning": "形状"
+          },
+          {
+            "word": "likely",
+            "form": "like",
+            "phonetic": "/larkli/",
+            "meaning": "很可能的"
+          },
+          {
+            "word": "painting",
+            "form": "painting",
+            "phonetic": "/ˈpeɪntɪŋ/",
+            "meaning": "绘画；油画"
+          },
+          {
+            "word": "suit",
+            "form": "suited",
+            "phonetic": "/sut,sjuzt/",
+            "meaning": "合适"
+          }
+        ],
+        "phrases": [
+          {
+            "phrase": "rather than",
+            "def": ""
+          },
+          {
+            "phrase": "focus on",
+            "def": ""
+          },
+          {
+            "phrase": "as if",
+            "def": ""
+          },
+          {
+            "phrase": "in the wake of",
+            "def": ""
+          }
+        ]
+      }
     },
     "NewType": {
       "passage": {
         "en": "Part B Directions: In the following article, some sentences have been removed. For Questions 41-45, choose the most suitable one from the list A-G to fit into each of the numbered gaps. There are two extra choices, which you do not need to use. Mark your answers on ANSWER SHEET 1. ( 10 points) On the north bank of the Ohio river sits Evansville, Ind., home of David Williams, 52, and of a riverboat casino ( a place where gambling games are played) . During several years of gambling in that casino, Williams, a state auditor earning $35,000 a year, lost approximately $175,000. He had never gambled before the casino sent him a coupon for $20 worth of gambling. He visited the casino, lost the $20 and left. On his second visit he lost $800. The casino issued to him, as a good customer, a \"Fun Card,\" which when used in the casino earns points for meals and drinks, and enables the casino to track the user's gambling activities. For Williams, those activities became what he calls \"electronic heroin. \" (41 ) _ _ ________________ _ In 1997 he lost $21,000 to one slot machine in two days. In March 1997 he lost $72,186. He sometimes played two slot machines at a time, all night, until the boat docked at 5 a.m., then went back aboard when the casino opened at 9 a.m. Now he is suing the casino, charging that it should have refused his patronage because it knew he was addicted. It did know he had a problem. In March 1998, a friend of Williams's got him involuntarily confined to a treatment center for addictions, and wrote to inform the casino of Williams's gambling problem. The casino included a photo of Williams among those of banned gamblers, and wrote to him a \" cease admissions\" letter. Noting the \"medicaV psychological\" nature of problem gambling behavior, the letter said that before being readmitted to the casino he would have to present medicaV psychological information demonstrating that patronizing the casino would pose no threat to his safety or well-being. (42) ___________________ The Wall Street Journal reports that the casino has 24 signs warning: \"Enjoy the fun. .. and always bet with your head, not over it. \" Every entrance ticket lists a toll-free number for counseling from the Indiana Department of Mental Health. Nevertheless, Williams's suit charges that the casino, knowing he was \"helplessly addicted to gambling,\" intentionally worked to \" lure \" him to \"engage in conduct against his will. \" Well. ( 43) --------------------------- The fourth edition of the Diagnostic and Statistical Manual of Mental Disorders says \" pathological gambling\" involves persistent, recurring and uncontrollable pursuit less of money than of the thrill of taking risks in quest of a windfall. (44) __________________ _ Pushed by science, or what claims to be science, society is reclassifying what once were considered character flaws or moral failings as personality disorders akin to physical disabilities. (45)_ ________________ _ Forty-four states have lotteries, 29 have casinos, and most of these states are to varying degrees dependent on-you might say addicted to-revenues from wagering. And since the first Internet gambling site was created in 1995, competition for gamblers' dollars has become intense. The Oct. 28 issue of Newsweek reported that 2 million gamblers patronize 1 ,8 00 virtual casinos every week. With $3.5 billion being lost on Internet wagers this year, gambling has passed pornography as the Web's most profitable business. A. Although no such evidence was presented, the casino's marketing department continued to pepper him with mailings. And he entered the casino and used his Fun Card without being detected. B. It is unclear what luring was required, given his compulsive behavior. And in what sense was his will operative? C. By the time he had lost $5 , 000 he said to himself that if he could get back to even, he would quit. One night he won $5 ,5 00, but he did not quit. D. Gambling has been a common feature of American life forever, but for a long time it was broadly considered a sin, or a social disease. Now it is a social policy : the most important and aggressive promoter of gambling in America is the government. E. David Williams's suit should trouble this gambling nation. But don't bet on it. F. It is worrisome that society is medicalizing more and more behavioral problems, often defining as addictions what earlier, sterner generations explained as weakness of will. G. The anonymous, lonely, undistracted nature of online gambling is especially conducive to compulsive behavior. But even if the government knew how to move against Internet gambling, what would be its grounds for doing so?",
         "zh": ""
       },
-      "questions": []
+      "questions": [],
+      "vocab": {
+        "words": [
+          {
+            "word": "partly",
+            "form": "Part",
+            "phonetic": "",
+            "meaning": "adv. 部分地,不完全地,在一定程度上 / adv. 部分地；在一定程度上"
+          },
+          {
+            "word": "direction",
+            "form": "Directions",
+            "phonetic": "/dsregJaydrydar/",
+            "meaning": "方向"
+          },
+          {
+            "word": "following",
+            "form": "following",
+            "phonetic": "",
+            "meaning": "adj. 其次的，接着的；下列的，下述的 / adj. 接着的， 下列的"
+          },
+          {
+            "word": "sentence",
+            "form": "sentences",
+            "phonetic": "/「sentons/",
+            "meaning": "句子"
+          },
+          {
+            "word": "remove",
+            "form": "removed",
+            "phonetic": "",
+            "meaning": "v. 移动；脱掉；免职 / v. 移动，迁移；开除；调动 n. 移动；距离；搬家"
+          },
+          {
+            "word": "forest",
+            "form": "For",
+            "phonetic": "/ˈfɒrɪst/",
+            "meaning": "森林"
+          },
+          {
+            "word": "mostly",
+            "form": "most",
+            "phonetic": "",
+            "meaning": "adv. 主要地， 大部分， 通常"
+          },
+          {
+            "word": "suitable",
+            "form": "suitable",
+            "phonetic": "/r「surtabl/",
+            "meaning": "合适的"
+          },
+          {
+            "word": "to",
+            "form": "to",
+            "phonetic": "",
+            "meaning": "科学家"
+          },
+          {
+            "word": "extra",
+            "form": "extra",
+            "phonetic": "",
+            "meaning": "adv. 特别地，非常；另外 n. 临时演员；号外；额外的事物；上等产品 adj. 额外的，另外收费的；特大的"
+          },
+          {
+            "word": "notify",
+            "form": "not",
+            "phonetic": "",
+            "meaning": "v. 通告，通知；公布 / vt. 通知， 告知； 报告"
+          },
+          {
+            "word": "north",
+            "form": "north",
+            "phonetic": "",
+            "meaning": "n. 北，北方 adj. 北方的；朝北的 adv. 在北方，向北方"
+          }
+        ],
+        "phrases": [
+          {
+            "phrase": "engage in",
+            "def": ""
+          },
+          {
+            "phrase": "even if",
+            "def": ""
+          },
+          {
+            "phrase": "but for",
+            "def": ""
+          }
+        ]
+      }
     },
     "Translation": {
       "sentences": [
@@ -4520,7 +9732,11 @@ const ENGLISH_DATA = {
         "",
         "",
         ""
-      ]
+      ],
+      "vocab": {
+        "words": [],
+        "phrases": []
+      }
     }
   },
   "2007": {
@@ -4650,7 +9866,84 @@ const ENGLISH_DATA = {
           "pessimistic about",
           "unprepared for"
         ]
-      ]
+      ],
+      "vocab": {
+        "words": [
+          {
+            "word": "section",
+            "form": "Section",
+            "phonetic": "",
+            "meaning": "n. 章节；部分；地区；部门， 科 A"
+          },
+          {
+            "word": "direction",
+            "form": "Directions",
+            "phonetic": "/dsregJaydrydar/",
+            "meaning": "方向"
+          },
+          {
+            "word": "reader",
+            "form": "Read",
+            "phonetic": "/ˈriːdə(r)/",
+            "meaning": "读者；读本"
+          },
+          {
+            "word": "following",
+            "form": "following",
+            "phonetic": "",
+            "meaning": "adj. 其次的，接着的；下列的，下述的 / adj. 接着的， 下列的"
+          },
+          {
+            "word": "texture",
+            "form": "text",
+            "phonetic": "",
+            "meaning": "n. 质地；纹理；结构；本质，实质 / n. 质地， 纹理， 结构"
+          },
+          {
+            "word": "forest",
+            "form": "for",
+            "phonetic": "/ˈfɒrɪst/",
+            "meaning": "森林"
+          },
+          {
+            "word": "blank",
+            "form": "blank",
+            "phonetic": "",
+            "meaning": "空自的"
+          },
+          {
+            "word": "former",
+            "form": "former",
+            "phonetic": "",
+            "meaning": "以前的"
+          },
+          {
+            "word": "national",
+            "form": "nations",
+            "phonetic": "",
+            "meaning": "adj. 国家的；国民的；民族的；国立的 n. 国民"
+          },
+          {
+            "word": "to",
+            "form": "to",
+            "phonetic": "",
+            "meaning": "科学家"
+          },
+          {
+            "word": "regime",
+            "form": "regime",
+            "phonetic": "",
+            "meaning": "n. 政权，政体；社会制度；管理体制 / n. 政体， 制度"
+          },
+          {
+            "word": "colonial",
+            "form": "colonialism",
+            "phonetic": "/kəˈləʊniəl/",
+            "meaning": "殖民的；殖民地时期的"
+          }
+        ],
+        "phrases": []
+      }
     },
     "Text1": {
       "passage": {
@@ -4724,7 +10017,97 @@ const ENGLISH_DATA = {
           "explanation": "［精准定位］ 文章开篇由“优秀球员生日现象”引人，引发“优秀是否源于天生”这一疑问：后以艾利克\n森一系列研究说明“记忆能力并非 基因决定， 而是刻意练习下的认知l 活动”，末段则以其更多研究突破单\n纯“对记忆能力的民明”，明确指出“天赋”被高估，各领域的优秀表现几乎都是通过后天的努力练习造就\n的，故 ［ CJ 正 确 。\n    ［命题解密］ 正确项 ［ CJ 是对文章主旨句（文末句） (:1包括l 象概括，其中 practice 、 perfect 分别对应 made\n（后天培养）、 expert p erform e rs （出色表现者） 。\n    [ A ］ 从 ②句 T h ey gather a ll data they can, not just. .. but also ...推断出“研究者们怀揣坚定信念投\n身研究，最终得出正确结论”，但文中旨在强调“后天练习 vs 先天基因”两者对于优秀表现的影响，而不\n在于说明“成功源 于 执 着 的信念（ faith ）” 。［ B] II俞 义“因果报应”，能体现“足够努力便会收获成功”，但 侧\n重点在于“产出和1 投入 一 致，后者决定前者”，偏离本文批驳立意“优秀无关天赋，而是源自后天勤奋”。\n[DJ 强调“先天因素”，干扰源自第 二 段 ② 句“父句遗传因素对孕育优秀球员的影响”，但后文对这种先天\n因素予以了否定 。\n    ［技巧总结］ 本文以现象开篇，引出话题并树靶；继而依据研究打靶并提出新观点。命题人借谚语考\n查学生概括全文主旨的能力 。 此题 需要 从文 章主旨句（往往 出现 于首尾段 、与开篇方式紧密相关）入手，\n抓住文章脉络进行解答 。\n       首先．通读 首 尾段，发现文末句 实 为观点句，指出：出色 表 现者几乎都 是后天 培 养 而非先 天 遗传的，\n初步断 定［ CJ 的正确性 。 其次 ， 通读 全 文，抓住行文脉络： 首 两段引 1±\\ 文 章 话题： II：＼色 表 现的 要素 ，并暗中\n树 立 靶 子 ：／：I：＼ 色 表 现源于先天；末 三 段进而以艾利克森 一 系列研 究 的结论升华文 章主 题：人的成就源自\n后 天 培 养 而非先 天 遗传，最终判定［ CJ 正确 。\n                                                                                                                   囡岛屿        田\n                                                                                                                   品画~咀＂\n                                                                                                                   一\n                                                                                                                   …\n                                                                                                                   回西驰捧号\n                                                                                                                   外教朗读"
         }
       ],
-      "translation": ""
+      "translation": "",
+      "vocab": {
+        "words": [
+          {
+            "word": "to",
+            "form": "to",
+            "phonetic": "",
+            "meaning": "科学家"
+          },
+          {
+            "word": "examine",
+            "form": "examine",
+            "phonetic": "",
+            "meaning": "v. 检查；调查； 检测；考试"
+          },
+          {
+            "word": "birth",
+            "form": "birth",
+            "phonetic": "",
+            "meaning": "n. 出生；血统，出身；起源"
+          },
+          {
+            "word": "certificate",
+            "form": "certificates",
+            "phonetic": "/sa「ttfrkat/",
+            "meaning": "证"
+          },
+          {
+            "word": "cup",
+            "form": "Cup",
+            "phonetic": "",
+            "meaning": "n. 杯子；奖杯，优胜杯；(一)杯，一杯的容量 / n. 杯子；奖杯；酒杯 v. 使成杯状；为…拔火罐"
+          },
+          {
+            "word": "mostly",
+            "form": "most",
+            "phonetic": "",
+            "meaning": "adv. 主要地， 大部分， 通常"
+          },
+          {
+            "word": "likely",
+            "form": "likely",
+            "phonetic": "/larkli/",
+            "meaning": "很可能的"
+          },
+          {
+            "word": "finding",
+            "form": "find",
+            "phonetic": "",
+            "meaning": "n. 发现；裁决；发现物 v. 找到；感到（find的ing形式）；遇到 / n. 发现， 发现物"
+          },
+          {
+            "word": "elite",
+            "form": "elite",
+            "phonetic": "",
+            "meaning": "n. 精英；精华；中坚分子 / n. 上层人士； 掌权人物； 实力集团； 精英"
+          },
+          {
+            "word": "month",
+            "form": "months",
+            "phonetic": "",
+            "meaning": "n. 月,月份 / n. 月，一个月的时间"
+          },
+          {
+            "word": "lateral",
+            "form": "later",
+            "phonetic": "",
+            "meaning": "adj. 侧面的，横向的 n. 侧部；[语] 边音 vt. 横向传球 / adj. 侧面的； 旁边的"
+          },
+          {
+            "word": "national",
+            "form": "national",
+            "phonetic": "",
+            "meaning": "adj. 国家的；国民的；民族的；国立的 n. 国民"
+          }
+        ],
+        "phrases": [
+          {
+            "phrase": "account for",
+            "def": ""
+          },
+          {
+            "phrase": "rather than",
+            "def": ""
+          },
+          {
+            "phrase": "tend to",
+            "def": ""
+          }
+        ]
+      }
     },
     "Text2": {
       "passage": {
@@ -4798,7 +10181,101 @@ const ENGLISH_DATA = {
           "explanation": "［精准定位］ 纵观全文 ， 首段 作 者提 出质疑“ IQ 测试 高分未 必反映各方面能力超群”， 第 二 段明确观\n点“智力不能仅 通过智商分数体现 ” ， 第 三 段说明社会现象“智商分数仍是人类智力的衡 量 标准”，末段通\n过论述包括 IQ 测 试在内的标准化测试的缺陷来批判第 三 段所述社会现象的不合理性 。 可见，作者对\nIQ 测试的准确性待怀疑态度， ［ BJ 正确 。\n       ［命题解密］ 作者对 IQ 测 试的怀疑态度贯穿全文，可从较为明显表明态度的首段 ＠ 句和第 二 段 ①\n句，以及第四段关于标准化测试缺陷的论述中总结得出 。\n       [ A ］ 根据首段例子“ IQ 测试高分得主能回答所有读者问题”和第 三 段首句“铛！商分数仍是人类智力\n的衡 量 标准”，而认为作者对 IQ 测试持支持态度，但选项忽略了首段作者质疑的语气以及后文对 IQ 测\n试缺陷的论述 。［ CJ 的误区在于根据首段涉及 IQ 测试考查内容的介绍、第 三 段涉及 IQ 测试主要形式、费\n用、版本、计算方式等的介绍、第四段②句在肯定 IQ 测试价值的同时也说明其局限性，从而认为作者仅是\n客观公正地介绍 IQ 测试 。 实际上，作者是本着客观公正的态度对“ IQ 测试分数能全面反映人的智力”表\n示怀疑 。［ DJ 将作者的怀疑态度过度引申为“对 IQ 测 试存有偏见”，本文对 IQ 测试准确性的质疑有理有\n据，并未掺杂任何偏见 。\n       ［技巧总结］ 本题针对全篇内容考查作者态度 。 此 类考查作者态度题的文章 一 般不会有褒贬色彩\n明显的词汇直接修饰文章中心词，而是蕴含于行文论述的各具体方面，因此考生可从以下 三 点切人： 1)\n重点关注文中评述性语句（转 折词、否 定表达 、质疑 i吾气 等），概括得 出人物观 点态度，初步 做出选 择； 2)\n结合重点段落的大意把握作者态度； 3 ）结合其 他试题答案进行验证 。\n       具 体到本题：首先关注文中有 关 IQ 测 试的评述性语句（首段⑤句 It ’ s not obvious／第 二 段①句\nClearl y... encompasses more／第 四段 ①③句 may not assess all/do not necessarily predict so we ll ），可知l\n作者认为“ IQ 测试不能全面反映人的能力”。然后结合各段大意“首段对‘ IQ 测试高分反映各方面能力\n超群’提出质疑，第二段明确质疑的合理性，第四段论述 IQ 测试的缺陷”，综合可知，作者对 IQ 测试的准\n确性持怀疑态度，［ BJ 正确 。 另外，通过本文第四题的答案 test scores may not be reliabl e indi cato rs of\none ’ s ability 可以验证选项［囚 。 注 ：［ D J Biased （存有偏见的）在考查文章作者对论述 对象态度 的题型\n中，往往可以直接排除，因为此类文章带有误导性，一般不会入选为考研材料 。 但是对于考查 文中人物\n观点 的题型，这 一 选项有可能为正确项，因为文中人物观点并不 一 定客观 。"
         }
       ],
-      "translation": ""
+      "translation": "",
+      "vocab": {
+        "words": [
+          {
+            "word": "forest",
+            "form": "For",
+            "phonetic": "/ˈfɒrɪst/",
+            "meaning": "森林"
+          },
+          {
+            "word": "past",
+            "form": "past",
+            "phonetic": "",
+            "meaning": "n. 过去；往事 adj. 过去的；结束的 prep. 越过；晚于 adv. 过；经过"
+          },
+          {
+            "word": "sunday",
+            "form": "Sunday",
+            "phonetic": "",
+            "meaning": "n. 星期日；礼拜日"
+          },
+          {
+            "word": "newspaper",
+            "form": "newspaper",
+            "phonetic": "",
+            "meaning": "n. 报纸"
+          },
+          {
+            "word": "supplement",
+            "form": "supplement",
+            "phonetic": "",
+            "meaning": "v. 增补，补充 n. 增补，补充；补充物；增刊，副刊 / n. 增补， 补充；增刊 vt. 增补， 补充"
+          },
+          {
+            "word": "parade",
+            "form": "Parade",
+            "phonetic": "",
+            "meaning": "n. 游行；检阅,阅兵式 v. 游行；列队行进 / n. 游行；阅兵；炫耀；行进；阅兵场 v. 游行；炫耀；列队行进 / vi. 列队行进， 游行 n. 游行； 检阅"
+          },
+          {
+            "word": "hasty",
+            "form": "has",
+            "phonetic": "/「hersti/",
+            "meaning": "匆忙的"
+          },
+          {
+            "word": "feature",
+            "form": "featured",
+            "phonetic": "",
+            "meaning": "n. 特色，特征；容貌；特写或专题节目 v. 起重要作用 / v. 以…为特点 n. 特征， 特色；特写"
+          },
+          {
+            "word": "column",
+            "form": "column",
+            "phonetic": "",
+            "meaning": "圆柱"
+          },
+          {
+            "word": "call",
+            "form": "called",
+            "phonetic": "",
+            "meaning": "v. 叫，喊；打电话；把…叫作；叫，喊 n. 叫声；号召"
+          },
+          {
+            "word": "invite",
+            "form": "invited",
+            "phonetic": "/ɪnˈvaɪt/",
+            "meaning": "邀请；招致"
+          },
+          {
+            "word": "to",
+            "form": "to",
+            "phonetic": "",
+            "meaning": "科学家"
+          }
+        ],
+        "phrases": [
+          {
+            "phrase": "rather than",
+            "def": ""
+          },
+          {
+            "phrase": "fail to",
+            "def": ""
+          },
+          {
+            "phrase": "used to",
+            "def": ""
+          },
+          {
+            "phrase": "even though",
+            "def": ""
+          }
+        ]
+      }
     },
     "Text3": {
       "passage": {
@@ -4872,7 +10349,97 @@ const ENGLISH_DATA = {
           "explanation": ""
         }
       ],
-      "translation": ""
+      "translation": "",
+      "vocab": {
+        "words": [
+          {
+            "word": "durable",
+            "form": "During",
+            "phonetic": "/「diuarabl/",
+            "meaning": "耐用的；持久的"
+          },
+          {
+            "word": "past",
+            "form": "past",
+            "phonetic": "",
+            "meaning": "n. 过去；往事 adj. 过去的；结束的 prep. 越过；晚于 adv. 过；经过"
+          },
+          {
+            "word": "middle",
+            "form": "middle",
+            "phonetic": "/ˈmɪdl/",
+            "meaning": "中间的；中部"
+          },
+          {
+            "word": "classify",
+            "form": "class",
+            "phonetic": "/ˈklæsɪfaɪ/",
+            "meaning": "分类；归类"
+          },
+          {
+            "word": "count",
+            "form": "count",
+            "phonetic": "",
+            "meaning": "数；睹做"
+          },
+          {
+            "word": "hardship",
+            "form": "hard",
+            "phonetic": "/ˈhɑːdʃɪp/",
+            "meaning": "艰难；困苦"
+          },
+          {
+            "word": "fair",
+            "form": "fair",
+            "phonetic": "/feə(r)/",
+            "meaning": "公平的；集市；博览会"
+          },
+          {
+            "word": "to",
+            "form": "to",
+            "phonetic": "",
+            "meaning": "科学家"
+          },
+          {
+            "word": "financial",
+            "form": "financially",
+            "phonetic": "/faɪˈnænʃl/",
+            "meaning": "金融的；财务的"
+          },
+          {
+            "word": "secure",
+            "form": "secure",
+            "phonetic": "",
+            "meaning": "adj. (from,against)安全的 v. 得到；使安全，保护 / adj. 安全的；无虑的；有把握的；稳当的 v. 保护；弄到；招致；缚住 / adj. 安全的； 可靠的； 放心的 vt. 得到某物， 获得；防护， 保卫"
+          },
+          {
+            "word": "hasty",
+            "form": "has",
+            "phonetic": "/「hersti/",
+            "meaning": "匆忙的"
+          },
+          {
+            "word": "economical",
+            "form": "economic",
+            "phonetic": "/ˌiːkəˈnɒmɪkl/",
+            "meaning": "经济的；节俭的"
+          }
+        ],
+        "phrases": [
+          {
+            "phrase": "bring about",
+            "def": ""
+          },
+          {
+            "phrase": "tend to",
+            "def": ""
+          },
+          {
+            "phrase": "used to",
+            "def": ""
+          }
+        ]
+      }
     },
     "Text4": {
       "passage": {
@@ -4946,7 +10513,105 @@ const ENGLISH_DATA = {
           "explanation": "［精准定位］ 第五段①句提到“法律 制 裁缺失”助长了公司对数据保护管理不善、重视不足（导致数据\n泄 露） 的态势 ， ② ③句 加州 颁布法律和华盛顿立法 机 关审议数据安全法规的提案有利于改善“法律制裁\n缺失”的现状 。 由 此 可推知，数据安全法规（法律 制 裁）是解决数据’泄露 问 题的方法之 一 ，［ DJ 正确。\n        〔命题解密］ 正确项［ DJ 是对段中前 三 句 t h e lack of legal pena lty ... passed a law ... t hat may change\nfast ... security l eg i s l ati on 所传达的法律制裁作用的概括总结。\n        [A ］将①句句意“数据 泄露在欧洲｜ 并不缺乏法律 制 裁”篡改为与之相反的“数据世露在欧洲更为严\n重 ” 。［ BJ 源自末句 a hu gely important decis ion ，但却未 见 其前 overs h adowed 所蕴藏的“这 一 重大决定因\n紧随其后的信用卡账户失窃案件 而 黯然失色”之意。［ CJ 源自②句 Un til Ca liforn ia recently passed a\nlaw . .，却将美国范围扩大为世界范围（欧洲早已有之），且将 data- sec uri ty l eg i s l at i on 泛 化 为 sec urit y\nl eg i s l at i on 。\n        ［技巧总结〕 元明显定位信息的推理题通常采取选项定位法（ 即借助 选项关键同，尤以标示性强的\n名词性信息为主），将选项信息 一一 回文对应 加以 验证。如本题 ： 先通过［ A ］、［町、 ［ CJ 关键词 E u rope 、\nFTC 、 Ca li fornia 分别 x.J- l直到①、④、②句，再对 比 原文信息发现，选项中 more severe 、 essen tial 、 sec urity\nl eg i s lation 等细节均与原文不符 。 ；再由段中前 三 句的逻辑关系（缺乏法律 制 裁助长了数据管理不善、重\n视不足的态势（进而导致数据泄露） 一一 数据安全立法可能改变这 一 情形）确定 ［ DJ 为正确工页 。\n                                             父母帮助孩子顺利进入成年期\niJ 一．总健分析\n     本文 摘自 Time（（ 时代周刊 》“社 会 ”板块 2004 年 1 月 1 6 日 一 篇 题为 H ow Ca n a P a rent H e lp ? （家长\n如何帮助 孩子？） 的 文章，是关于 父母如何帮助孩 子 顺利进 入 成 年 期的说明 文。\n；等 二．语篇分析\n                        小标题                                                           主题词                              翻译\n[ A] Set a Good Exa m ple for Yo ur Kid s                        [ A] Good E xa m ple                      [ A ］ 为孩子 树 立一 个好榜样\n[ BJ Build Yo ur Kid s' Work Skill s                             [ B] Work Ski ll s                        [ BJ 培养孩子的工作技 能\n[ CJ Place Ti me Limits on Leis ur e Ac ti vities                [ C] Tim e Limits/ Leis ure Act i 川       [ C J 对娱乐 活动 时间加以 限 制\n[ DJ T a ll< abo ut th e F utu re on a Reg ul ar Bas is          [ DJ F uture/ Regul a r                   [ D J 经常谈论未来\n[ E] H elp Kid s Develop Co ping Stra tegies                      [ E ] Cop i 吨 S tr a t eg i es           [ E ］ 帮 助 孩子 制 定应对策略\n[ F] Help Your Kid s Fig ure Out Wh o They A re [ F] F ig ur e O ut Wh o They Are                          [ F］ 帮助孩子 了 解向己\n[ G] Build Your Kid s ’ Sense of R es pon sibi lit y             [ G] Sense o f Respo ns ibili ty          [ G］ 培养孩子 的 责 任 感\n                                                             ； · 词1¢if~ ：＜： i/                                             回自归到回\n( set an exam1>le 树 立榜样                                                    II     ( develop [ d11velap] v. f!lu 定（ 规划 ），   植国在嚣摔\n                                                                                                                           回砸自军植佑\n( leisure activity 娱乐活动                                                    导      形成 （ 观 点 ）                                知识补充\n( on a regular basis 定 期地， 经常 地                                            ！ ⑤fig盯e 01’\n                                                          ． 小标题分析 ＜ II\n     纵观小标 题 可 总结 出以下 三 点： 一 ，标题均为祈使旬， 而祈使句 常 用 于表“要求 、 建议、劝告、 叮 嘱”\n等 ； 二 ， Yo ur Kid s/Kid s 多次出现， 意 指 “ 作 为家长 的 ‘ 你 ’ 丰ll ‘ 你的 孩子”’ ； 三 ，选项主题词涉及“榜样、工\n作、娱乐、未来、责任”等多个方面 ，与 段藩 主 旨 直 接相 关 ， 是 vi:; 配 小 标题与 相 应段落 的 重 要 参考。 综合 雄\n知 ，本文立 足 “局 外人”的角 度 ，从 多 个 方 面对 “家 长如何 培育孩子 ” 提 出 建悦 。\n             How Can a Parent Help?                                                                父母怎样帮助孩子？\n      I O M oth ers and fath er s can do a lot to ensure①                              家 长们可 以做1良多事来确保自己 的 孩子顺利\na safe landing in 巳arly adulthood® for their kid s.                             进入成年初期。 即 使 工 作起薪看起来很低，难以\n@Even if a job ’ s s tarting salary seem s too smal l to                        满足 一 个 即 将成年孩子 〔 想要〉 快速得 到 满足 的 需\nsati s fy an em erging adul t ’ s need for rapid contenf ll ,                   求，但是如采这个准成年人 已 经做好 了开 始转变\n                                                                                的 准备，那么他在从学校向职场的过渡中逍遥的\nthe transition® from school to work can be less of a\n                                                                                挫 折 也许会少些 。            以 下 的几种方法，节选自我撰\nsetback® if t he sta rt up adult is ready for the move.\n                                                                                写 的 《 不管你是否做好准备，人生就在眼前 》 一 书 。\n@H 巳r e a re a few meas ures,         drawn from m y book                       家长们可以借鉴，以避免我所说的 “ 对工作和生活\nR ead y or Not, H ere L ife Comes, that pa rents ca n                           准备不足”的情况，发 生：\ntak e to prevent w hat I call “ work l if巳 unrea din ess’＇ ：\n                                                                                                   J\n                                                                       释\n                                                                            难\n                                                                 －\n                                                                       …\n                                                                       与－\n                                                                            … －\n                                                                                      分\n                                                                                      …\n                                                                                          析\n                                                                 注 …\n                                                                                旬\n                                                    词\n                                                                                －\n                                                          …\n                                                    －\n                                                          「L …\n                                                                                  …\n                                                     一\n                                                                                      e\n( ensure [ rn If ua〕 v . 保证                                                1      ② ad川\n                                                                                                                                                               唰利\n                                                                                                                                           安，叭’太\n                                                                                                                                                         陆）而\n                                                                                                   ① ②③\n                                                                                                                                                    着薪\n                                                                                                                                               全起\n                                                                                                                                                                       着\n                                                                                                                                 UM\n                                                                                                                               M\n                                                                                                                                is\n                                                                            仆出 付\n                                                                                                                                                                工中匕也\n                                                                                                                t\n                                                                                                                ， l\n                                                                                                                                    nH\n                                                                                                       <\n( content [ kan'Lent ] n. （同 conte ntm e nt ）满足                                                       SSt\n                                                                                                          nd\n                                                                                                                          内\n                                                                               ， 出／\n                                                                               ，\n                                                                                                                               gω\n                                                                                                          tlu\n                                                                                                                          nH\n( transition [ trren 'z1Jan] 11. 过渡\n                                                                                                            到\n                                                                                                                                    内\n                                                                                                            unu\n                                                                                  付出dbd 且 ／付出 ，\n@ setback [ 'setbre k ］ 凡挫折，退步\n                                                                                                          丁M\n                                                                                                      u                         -\n．经典搭自己\n                                                                                                                  J\n                                                                      篇\n                                                                      析\n                                                                      语\n                                                                      分\n                                                                      … …\n                                                                      … －\n                                                                        －\n       首段点明全文主题：家长可以采取一些措施帮助孩子顺利进入成年初期 。 ① 句 子｜： 门见 LLJ ，提：·I',\n观点 。 sa f e l a nding 为比 II俞用法，以“（飞机 等 ）安全 着 llil1 I 降落” 比 II命 “孩子安全、健康 地 长大成年”；\nca n do a l o t 表 明 家长 可做 事情 之多，为后文 多方 面的建议展开铺垫 。② 句先以 Even if 从句假设指\n出孩子成长过程中可能会遇到的问题“起薪低、 需求多”， see m s （看 似…… ［ 而 实际未必］，含子写定之\n意）表 明 孩子遇到的问题并非是真正的闲难，可能是思想 ｜二 的不成熟导致的错 民认识， 可以通过外\n界帮 助和l 引导 加以 解决，暗示家 i夭帮助的必要性；之后指出孩子们的正确做法 “ 做好开始转 变 的准\n备”，就能减少成长中遇到的挫折 。巳m e rging a dult /s ta rt- up a du lt H于应 首句 中 ea rl y adu lth ood, th e\ntrans it io n from sc hoo l to wo rk 进 一 步明确“ 即 将成年 ／ 成年初期”指的是“离开 学校走人 lf,H 场这 一 时\n期” 。③ 句进而引出本文写作目的 ： 就家长 如何 帮助孩子应对“工作和生活准备不足”提 建 议 。\nwor k- life unr e ad in ess 照应上句 the tr a n s itio n from sc hoo l to work ， 是家 长帮助孩子解决的问题 。\n       JI O You can sta rt this process when t h ey a re 11 or 12.                                                                       你可 以 在 孩子 十一 、 二 岁时开始这\n@ Periodically(          review      th e ir   emerging® s tre ngt h s                            a nd                         个过 程 。 定 期和 孩 子一 起反思他 们 表现\nweaknesses         w it h    th em      a nd        wo rk       togeth e1     on                    a ny                       出 来 的优缺点 ， 一 起努 力克服 每 一个 缺\n                                                                                                                               点，比如在与人有 效交流或合作方 面的\ns hortcom in gs,      like   difficu lt y      in    comm uni cating               w e ll                 or\n                                                                                                                               困难 。 另外 ， 发现 孩 子一 直以来 的 兴趣\ncollaborating® .@) A lso, identify® th e kind s o f in te res t s th ey\n                                                                                                                               所在，因为 这 些能够 提 供 线索来寻找最\nke e p com in g bac k to, as t h es 巳 o ff e r c lu es to th 巳 ca re e rs t h at\n                                                                                                                               适 合他们的职业 。\nw ill fit th e m best.\n                                                                                                                                    J\n                                                                             难 令\n                                                            …\n                                                                      …\n                                                                      洼\n                                                                      与 …\n                                                                                                      分\n                                                                                                      析\n                                                                                                  －\n                                                                                                  句\n                                                            词\n                                                                      … …\n                                                                      释\n                                                                 厂」\n                                                                                                                      …\n                                                            －\n( periodically [ , p1ar1' od1 kl1 ］ α cl . 定期地                              \\i                    ( identify [ a11clent1fa1] v . 发现，识别\n( emerging [ 11ma:cl31 !J］ α    新兴的，新出现的                                    » ·经典搭配\n( collaborate [ ka1 1 配bare1t ]v .    合作 ；协作                         ：叫叫力改善或完成\n                                                                ；·毒草分析：L _: ; /\n       ①句指 出 家伏在孩子 成年之前就应该采取措施进行引导和帮助 。 本句 出现 指代 i可 You 和I th ey ，根\n据 首段 可知l 阴间分别指“ 家辰 ”和“孩子”； this p rocess 指代 小 标题 的内 容 。②① 句以：）j: ;YIJ tJi· 使句式\n1巳v i ew ... and wor k toget h e r on ... id entify . .. 具 体阐 述“这 一 过程”中父母应如何做： 定 期 与孩子 一 起反\n思 他们的优缺 点、 一 起克服缺点（塑造孩子正确的思想 意 识），进而 发现孩子 的 兴趣 ［：h 在 。 A l so f斗 递进之\n意，表 明“ 发 现孩 子 的 兴趣为未来 职业做准备”是 进行这 一 过程的目的所在 。\n       【抓关键词】 id e ntify / in terests\n       【锁定标题】 Cl ）本段中 P巳riodicall y / ca r巳巳 rs/ w ill “定 WJ ／玉k 来 11,Rj业”与 ［ D J 的 主题 词 R 巳g t卢\n有！沂重 叠 ；（ 2 ）段巾 id 巳 ntif y 与［ F］主题词 F igL e out 近义，且 str巳 ngth 吕 and we吕k口E日S巳旦／ int 巳 r c:s t s 是 个人\n特性的 表 现，与“我是谁 ／ 自我”（ W h o Th ey Are ） 相 关 。\n      III O Kid s need a range of authentic© role                                 孩子们需要 一 些真实的榜样                 不是他\nmodets®- as opposed to m e mb巳 rs of th eir clique(;l) , pop\n                                                                           们小圈子里的人，也不是明星或被大肆吹嘘的\ns tars a nd vaunted® a thl et es. 8 H ave reg ular dinner-\n                                                                           运动员 。 经常在就餐时与孩子谈论家庭成员\nt ab le di scuss ions abo ut peop le the family kno ws and\n                                                                           所认识的人以及他们是如何取得现在的成就\nhow t hey go t w here they ar e. 8 Di sc uss the joys and\n                                                                           的 。 与孩子谈论一下你自己职业生涯中的乐\ndownsides® of yo ur ow n career and encoura ge your kids\n                                                                           趣以及存在的问题，并鼓励他为自己的未来做\nto form som e ideas a bout their own futur e. 。 Wh e n\n                                                                           一些打算 。 当问及他们将来想做什么的时候 ，\nas k ed w ha t t hey wa nt to do , they s ho uld be di scoura ged\n                                                                           应该阻止他们回答说“我不知道” 。 他们可以\nfrom saying “ I have no idea . ” 0They can ch ange their\n                                                                           不断地改变想法，但是对未来仅有模糊的构想\nminds 200 tim es , but hav ing onl y a foggy® view of the\n                                                                           可不怎么好 。\nfutur e is o f li tt le good.\n                                              ： · 词汇注释时句分析 . :;/\n( authentic [;i:'Ele nt1 k ］ α ． 真实 的                              \\\\   ( vaunted [ 1v;i:nt1d ］ α－ 受 吹捧的；被吹嘘的\n( role model 榜样                                                    ~    ® clow叫 ［ ＇ ctaunsa1d ] 11. （某事物（：1~ ） ::f 足之处，缺点\n( clique [ k li :k］ 几小｜到子， 小 集团                                    II   @ foggy [ ' f口9 1 ］ ι 模糊 的 ，不 明确的\n                                                      ； 二语篇分析.            :1'\n      前三旬引出“真实的榜样”并说明榜样的作用。 ① 句指山孩 子需耍 一 些真实 的 梳B 样， a uth e r i c 强恻\n这些榜样要 真实存 在的，不能是虚构的 ；破折 号后 补充说明｜归F 些些人 不是“真实 的 榜样” ： 孩子圈 中的人\n（算不上是榜样） 、明 星或被大肆 吹捧的运动员（ 经 过包装或 夸 张 宣 传，不 真实）。② 句进而给／:I:＼作 者 II良\n中 “真实榜样”是“家庭 成员都认识的、有所成就的人”， 并 指出 家民应采 取措施：定期1 同 孩子 时论这 些\n人及 其 成就（，以发挥 榜 样的引导作用） 。③ 句 a nd 之前补充 ② 句：除了谈论外人的成就之外，父母也 是\n孩子的真实榜样，也应和孩子谈谈自身职 业 生涯 中的苦 与乐 ； a nd 之 后明确“谈论 真实榜 样”的目的：鼓\n励孩子对 自己 的未 来有 所设想、有所规划 。④① 句进 而且明 孩子应如何“设想未来” 。④ 句先从反面\n总说“不鼓励孩子对未来 毫 无想法”，⑤句 则进 一步 明确在“设 想未来” 的过 程中有想法好过没有想法，\n但想 法不 一 定是一 成不 变 的，而 是可 以 根据现实情况随时调整，关键在于耍对未来形成清晰明确的\n认识 。\n      【抓关键词】 ro l e mode ls/ reg ular .. . di sc ussions/t h eir own futur e\n      【锁定标题】 (1 ）本段前 三 句均围绕 ro l e mod e l s 展开，与 ［ A ］ 的 主题 词 Good Examp l e 相 关 联；（ 2 ）段\n中 Futur e 及其 近义同 w h a t th ey wa nt to do 多次 出现 ，与［ DJ 的主题词 Futur e 相 关联 。\n      凹 OT eac h 巳 r s a r e res ponsib le for      teac hing kids how to\n                                                                                         教师负责教孩子如何学习， 家 长 应\nlearn; parents s ho uld be res ponsible for t eac hing them ho w to\n                                                                                   该负责教他们如何工作 。 给他们布 直\nwo rk. 8 A ssign respons ibili t ies aro und the house and m ak e\n                                                                                   一些家务活，并确保按时完成家庭作\ns ur e hom ework deadli nes ar e m et. 8 Encourage teenagers to\n                                                                                   止 。 鼓励青少年做兼职 。孩 子需 妥 大\nta k e a part- time j o b . 。 Kid s need p lenty of practice delaymg\n                                                                                   量练习延迟享受以及运用有 效 的组 织\ngratification(    and deploying(        eff ecti ve orga ni za ti onal skill s,\n                                                                                   技能，比如管理时间和分清轻重 缓 急 。\ns uch as manag ing tim e an d setting priorities(;l)\n                                               ： ·词rt注释与难旬分析.                                   :ii\n( gratification [ ,gn:etif1 1ke1f an] n. 满足\n( deploy [ ci11plo1 ] v. 运用                                             ;\n                                                                        $       ( ass ign res ponsibilities aro und the house 布置家务活\n                                                                                ( meet a deadline 如期完成\n@ priority [ prn1'orit1] n . 优先级，优先权\n．经典搭配                                                                   ;\n                                                                        \\)      ( delay grat ifi catio n 延迟享受\n                                                         ： ：~： 语第分析＜ ii\n       ①句 以 原词复现（ be r es pon sible for ）由教 师的职 责 引 至家长 的 职责 ： 教 师 负责抓学习 ， 家妖应负责\n抓 工 作 ，联系本文写作目的“家长 如何 帮 助 孩子 ”可知 ，家 长 帮 助 孩子培养工作技 能 才是讨论重点， s ho uld\n表强烈要求或建议， 目 11 家长应当担负起自己 的 责 任 。②③句 以 并 列祈使 句式（ Assign . . . make s ur e ...\nEnco urage . . . ）指 出 家长 们的做 法 ： 给孩子安 排 家务活 、保证 孩子 作业 按 时 完 成 、鼓 励 孩子 做 兼 职 。④ 句\n总结这些 做 法 的 目 的： 培养孩子 的 基本工 作 技 能 ， 如延迟 享受 、 有效运 用 组织 能 力等 。\n       【抓关键词】 h ow to wor k/ p lenty of practice\n       【锁定标题】 (l ）段中 respo n s ibl e/ r es p o n s ibiliti es 复 现 ，与［ G］ 的 主题 词 Se n se of Res po n s ibili ty 相 关；\n( 2) how to wo rk 以 及 o rga ni zat i o n a l skill s/ m a naging time a nd setting pri o riti es 涉及“工 作技 能 ” ，与〔町 的\n主题同 W o rk S kill s 相 关联。\n       V O P !ay ing vid eo games enco urages immedi a te content.                                    玩电子游戏会助长即时满足惑 。\nf} A nd ho urs o f watc hing T V s hows w ith canned(                         la ugh te r       长时间看带有预录笑声的电 ;jJi!, 节目只\nonl y teac hes kid s to process in fo rm ati o n in a pass ive way.                             会教孩子被动地处理信息 。           同时，长时\n@ A t th e sa me tim e, li st enin g th ro ugh earp hones to the sam e                          间戴耳机听羊调的音乐节奏将导致孩\nmonotonous® beats® fo r lo ng stretches© enco ur ages kids to                                   子沉浸在自己的世界里而不去追求其\nstay      ins ide    t heir   bubble®    instea d    of          p urs uing       oth er        他事情 。 所有这些活动都可能防碍重\nendeavors® . 。 A ll th ese activit ies can p reven t the grow th of                             要的交流和思考技能的发展，并使孩子\nim po r tant commu ni cat ion a nd t hin k ing skill s and m ak e it                            很难养成大多数工作所需要的持续注\ndi ff icul t   for   kid s    to   deve lop   the   ki nd          of   sustained①              l 意力 。\nco nce n tration t hey w ill need fo r mos t jobs .\n                                                                                                   J\n                                                                 注 －\n                                                                 …\n                                                                 －\n                                                                 难 …\n                                                                                   分\n                                                                                         析\n                                                                 与\n                                                                                   … …\n                                                    词 …\n                                                                 释 …\n                                                                 旬\n                                                                 …\n                                                                                         …\n                                                                  …\n                                                          －\n                                                          「」 …\n                                                     －\n                                                                                            ．\n( canned [ kcend ］ α （电视 和 电台节目 中的 ）预先录 制的                               \\,      ( stretch [st retf] 凡（连续 的 ） 一 段 H才问\n   （音乐或笑声）                                                               >       ( bubble [ 1bAbal] n . 气 泡 ，文中 比 II俞“想象，幻想”\n( monotonous [ ma1 nntan部］ α．单调 的 ；元变 化的                                 Ci      @endeavor ［旷 deva］ 凡 尝试，努力\n( beat [bi:t] n. （音乐或诗歌 的 〉节拍 ， （音乐）节奏                                   $       ⑦ sustain创 〔sa1st emd ］ α． 椅续 的\n                                                          江i硝分析；二＼I\n       前 三 句 以 并 列 动名词结 构 P laying ... /watching ... / listening . ..列 举孩子 日 常活动， 近 义同 ho urs of/ for\nlong st re t c h es 说明 孩子 进 行这些活动 时的 特点 ：时间 长 ， 不 加 节 制 ， 从而 产生不良影 IIJ句 “追求 即时 满足感” 、\n“被动处理信息”、“沉浸在自己 的世 界 中 、消磨意志 ”； 其 中 encou rage （意为“ 助推 、助长”，含贬义） 。 A nd 和\nAt the same time 体现前 三 句 的 并列 关系 。 ④句 进 一 步明确 孩子长 时间 进行这些活动 的 危害“不 利 于培养\n交流、思考能力，不 利 于集中注意力”，提醒家长不应 听之任之，而 应采 取 措施进行干预 。\n       【抓关键词】 P l ay in g/ watching/ li steni ng 、 ho u rs of/ fo r long s tretches 、 pr event/ cliffic ul t\n       【锁定标题】 Cl ）段 中 所 列 举孩子 的 活动（ 玩 游戏、看 电视、听 音乐）可 归 于“娱乐活动”，孩子 进 行这些\n活动 的 特点“ 时间 氏”可 联想到“应限 制时间” ，［ CJ 的主题词 Lei s ure Activities/ T ime Limi ts 与之相关 ； （ 2 ）末\n句涉及工作中所需 的 多 种 能力“交流 和 思考 能力、 注意力 持 续 的 能力 ”， 与［町 的 主题词 Work Skill s 相关 。\n     i'7I1 OThey sho uld know how t o deal w ith setbac ks,                    他们应该知道如何应对挫折、压力和无法\nstresses and feelings of inadeq uacy( . @They s ho uld a lso\n                                                                         胜任工作之感 。 他们也应该学会如何解决问题\nlea rn how to solve problems a nd resolve® conflicts , wa ys\n                                                                         和化解冲突，学会集忠广益的方法和批判性地\nto bra instormOl and t hink cr iti ca ll y. @) Di scussions a t\n                                                                         思考 。 家庭讨论可以帮助孩子锻炼这些能力并\nhome ca n help k ids prac ti ce do ing these t hings and help\n                                                                         帮助他们把这些技能应用到日常的生活情\nth em ap ply these s k ill s to ever yday life situa tions.\n                                                                         景中 。\n                                                                                   J\n                                              …\n                                                                －\n                                                          ，\n                                                                析 …\n                                                                分－\n                                                                难 …\n                                                                与\n                                                          释 …\n                                                                旬\n                                                          注\n                                              词句\n                                                                 …\n                                                                 u\n                                                          …\n                                                   ·\n                                                   「」 …\n                                                                   …\n                                                                     －\n( inadeq uacy [ m1 配d血NISI ］ 凡 不 能胜任 工 作，能力                     11   ② resolve 〔 r1 1zolv ］ υ． 解决 、化解\n  不足                                                            ))   ( brainstorm [ 'bremst口’m ] v. 集思广益，头脑风暴\n                                                  ； 二语篇分析. :;/\n     首两句 以 并 列 句式 T h ey s ho t』d know . . . / They s hould a lso learn . . . ( t h ey 承接上文而来 ， 指 代 k id s)\n指出孩子应具备 的 能力“应对挫折 、 压力 ， 解决 问 题 、冲 突 、批判 性思考等” ，近 义词 d ea l wit h/ so lve/\nr eso l ve 体现这些 能 力 的 共 同 点 ： 面对 问 题 时如何 应 对 。③ 句 进而 指 出 家长 如何 帮 助 孩子培养并应用这\n些能力（ t hese things/ th ese s ki ll s 回 指 前两 句 内 容） ：组 织家庭讨 论 来帮 助 孩子培养应 对问 题的 能 力 。\n     【抓关键词】 d ea l with /s olve/ resolve\n     【锁定标题】 Cl ）前两 句提及孩子应具备 的 一 系列能力 ，末句又提及 s k ill s 一 词，可能 与“工 作 技 能 ”\n相 关 ， ［ B]C 主题 词 W ork Ski ll s ） 可能 是 段 落 的标题；（ 2 ）前两句 提及 的能力均涉 及 “如何 解决 问 题”，与\n［町 的 主题词 Co ping S trateg i es 相 关联。\n      哑！ 0 Wha t a bo ut the son o r da ughter who is gro w n\n                                                                                 那些已经长大但在成年初期似乎苦苦\nbut seems to be stru ggling and wa nder ing aim less ly                   挣扎并感到无所适从的孩子该怎么办呢 ？\nth ro ug h earl y adu lthood ? @Parents still have a major ro le           家长依旧需妥扮演重要角色，只不过此时会\nto play , but now it is more delicate( . @ T hey ha ve to be               更加微妙 。 他们必须 小 心，避免表现出对孩\nca refu l not to come across as® di sappointed in t heir ch ild.          子感到失望 。 不管他们羽翼刚刚丰满的（看\n。 Th ey s hould exhibit s tro ng interes t and res pect for               似幼稚或考虑欠周全的〉孩子目前的兴趣是\nw ha teve r cu rr en tl y interests t heir fledging® adult ( as           什么，家长者~应该对此表现出强烈的兴趣与\nnaive® or ill® conceived® as it may seem ) whi le becoming a               尊重，同时要成为孩子的伙伴，与之共同探\npartner in exploring options for the fu t ure. 0 Most of all ,             索未来的选择 。 最重要的是，这些刚刚成年\nthese new ad ults m ust feel that they are respected and                   的孩子必须感受到赏识他们的家人的尊重\ns upported by a fa mily that appreciates( them. [595 words]                和支持 。\n                                           ＞ .词汇注释与难旬分析. ·:~\n( delicate [ 1d e l1k1t ＿ α ．微 妙的\n( come across as 给人 的印 象是 ， 显得 ， 表 现 出\n( fledgi ng [ 1fled3 1IJ ］ ι 羽翼 刚 满 的\n( naive [ na11 i:v Jα ． 幼稚\n                                                                ;\n                                                                11   @ Ht [ 11] ad . 不 好 ；差劲， 不足\n                                                                     ( conceive [ k叫si:v] v. 设 想构 思\n                                                                     ( app reciate [ a' pri :f阳t ] v . 欣 赏\n                                     ：＿.道篇分析：L      ::: 1'\n      末段指出对于刚成年但陆入困境的孩子，父母应给予足够关注和尊重。 ①句将话题对象由前文“未\n成年子女”转至“已成年但在成年初期还无法适应的孩子”。②句总说家长的角色变 化： 更 加做妙、 更 加\n重要。①④句进而以并列句式（ T h ey have to/ They sho uld . .. whil e... ）说明家长的做法“关注并尊重孩\n子”，在与孩子沟通过程中父母应倍加 小心 、更 加 关注孩子的感受，并与孩子成为伙伴。末句从 刚成 年孩\n子的角度指出 他们 应该持有的正确态度“感受到赏识 他们的 家人的尊重和支持”。 Most of a ll 表明自身\n态度较之家人帮助更 加 重要。\n      纵观全文，作者重点就“家长应如何帮助孩子”提出建议，也涉及“孩子应如何做以配合家长”的\n内容 。\n      综上，各个段落可能对应的小标题可总结如下：\n      ’ 第 二段（第 1 题）｜第 三 段（第 2 题） ｜ 第四段（第 3 题） ｜ 第五段（第 4 题） ｜ 第六段（第 5 题）\n          [DJ [FJ      I   [AJ [DJ    I   [BJ [GJ        I   [ BJ [CJ   I   [BJ [EJ\n；~~ 三试题精解\n      解题思路与技巧综述： 小标题类文 章要 求考生根据段落内容总结主旨大意，进而匹配相应的小标\n题 。 此 类文章有 三 个特点：①首段 一 般引出话题，明确下文各段的 写 作目的：针对话题提建议、做要求，\n或说明某 一 过程等；②小标题选项言简意贱，但有明显主题词，相当于总述句， 而 与之相匹配的段落相当\n于分述，主题同与分述所围绕的中 心 主旨一致，方为正确匹配；③干扰项的主题词一般与某段或某 几段\n信息相关联，但这些信息通常是细枝末节，不足以概括全段。\n      角！~ 题 一 般步骤可 参考 ： ①迅速浏览小标题、提取主题词，②阅读首段，明确写作目的，③阅读各段 、根\n据段落信息和小标题的主题词锁定备选项，④归纳段落主旨，匹配正确标题，排除干扰标题。\n      4 1. 答案 F     正确率： 54 %\n      ［标题匹配］ 第二段 指出，父母应帮助孩子了解自身优缺点并 一 起克服缺点，以此发现孩子的兴趣\n所在，为未来的职业做准备，也即父母应 着重 引导孩子正确认识自我、了解自身特点，［ FJ “帮助孩子弄清\n楚他 们 是谁， 即帮助孩子认清自我”与该主旨相符，标题主题词 figur e out 与段落关键词 ident ify 近义 。\n      ［干扰项排除 J [DJ Talk about the Future on a Regular Basi s 虽与 文中部分信息 Periodically review/\ncareers 有所重叠，但文中“寻找未来职业”是家长采取某些措施的目的，并非措施本身，这些措施并未涉\n及“谈论未来”，故排除。\n      4 2. 答案 D     正确率： 56 %\n      ［标题匹配］ 第 三 段指出，父母应通过经常谈论孩子身边真实榜样的事迹，包括外人的成就和家长\n的职业生涯，引导孩子对自己的未来进行设想和规划，关键词 Have regular dinner table discussions 强调\n这种“涉及未来”的对话应是经常性的、定期的。［ DJ “经常讨论未来”契合本段主旨。\n      ［干扰项排除］ [AJSet a Good Example for Your Kids 虽然复现首句 role models 一词，且段落前 三\n句均围绕“榜样”展开，但“孩子树立榜样”的目的是“通过参照这些榜样的事迹来规划自身的未来”，也 即\n“树立榜样”是“规划未来”的 一 种辅助方式，并非 重点， 故排除 。\n      4 3. 答案 B   正确率： 65 %\n      ［标题匹配 】 第 四段 意 在提醒 家长通过有意 识的布 置家务活、鼓 励孩子做兼职来培养孩子基本的工作\n技能，酋句“家长应教孩子女｜｜何工作”（ how to work）为主旨句，［ BJ “培养孩子工作技能”与该主旨一致 。\n      ［干扰项排除 J [GJ Bui!\n但首句提及眩词是为了说明“教师和 家长对孩子 的 责 任”，并非“孩子的责任感”； 第 二 句提及眩词是为了\n说明“家伏可通过给孩 子 布 置 家务活来培养 工 作技能”，也与“孩子的 责 任感”无 关， 故排除 。\n     4 4 . 答案 C        正确率： 71 %\n     ［ 标题匹配］ 第五段无主旨句，亦未涉及家长的内容，而是以长时间玩乐活动对孩子造成危害来侧\n面提 醒家长应 进行干预：控制孩 子 的 娱乐 时长， ［ CJ “ 对娱乐活动时间加以 控 制”符 合本段主旨，其中\nL eisure A ctiv i ti e s 总 结概括 P l a ying ... / watch ing ... / li s t ening ...等活动， P l ac e Tim e Limi 比 ｜书 文 11::i\nho urs of/ long stretc h es 反 向引申而 来 。\n     ［ 干扰项排除］ ［旧 的 主题 同 Wo rk Skill s 虽与段末 提及的 “工作所 需 的能力，如 交流和思考能力、持续\n注意力”相关联，但“工作能力”仅是细枝末节，选项遗漏重要信息“长时间娱乐活动及其危 害 ”，以排除 。"
         }
       ],
-      "translation": ""
+      "translation": "",
+      "vocab": {
+        "words": [
+          {
+            "word": "pour",
+            "form": "pours",
+            "phonetic": "",
+            "meaning": "下倾盆大雨"
+          },
+          {
+            "word": "justify",
+            "form": "Just",
+            "phonetic": "",
+            "meaning": "v. 证明合法；整理版面 / vt. 证明…是正当的， 认为有理"
+          },
+          {
+            "word": "board",
+            "form": "boards",
+            "phonetic": "/ba4/",
+            "meaning": "板"
+          },
+          {
+            "word": "finally",
+            "form": "finally",
+            "phonetic": "/ˈfaɪnəli/",
+            "meaning": "最后；终于"
+          },
+          {
+            "word": "sort",
+            "form": "sorted",
+            "phonetic": "",
+            "meaning": "种类"
+          },
+          {
+            "word": "outer",
+            "form": "out",
+            "phonetic": "",
+            "meaning": "adj. 外面的，外部的；远离中心的 n. 环外命中 / adj. 外部的， 外面的， 外层的"
+          },
+          {
+            "word": "worst",
+            "form": "worst",
+            "phonetic": "/wɜːst/",
+            "meaning": "最坏的；最差地"
+          },
+          {
+            "word": "trouble",
+            "form": "troubles",
+            "phonetic": "",
+            "meaning": "n. 麻烦；烦恼；故障；动乱 v. 麻烦；使烦恼；折磨"
+          },
+          {
+            "word": "feeble",
+            "form": "feeble",
+            "phonetic": "/ˈfiːbl/",
+            "meaning": "虚弱的；无力的"
+          },
+          {
+            "word": "corporation",
+            "form": "corporation",
+            "phonetic": "/ˌkɔːpəˈreɪʃn/",
+            "meaning": "公司；企业"
+          },
+          {
+            "word": "to",
+            "form": "to",
+            "phonetic": "",
+            "meaning": "科学家"
+          },
+          {
+            "word": "earn",
+            "form": "earn",
+            "phonetic": "",
+            "meaning": "v. 赚，赚得；获得，挣得；使得到；博得 n. (Earn)人名；(泰)炎"
+          }
+        ],
+        "phrases": [
+          {
+            "phrase": "lead to",
+            "def": ""
+          },
+          {
+            "phrase": "on behalf of",
+            "def": ""
+          },
+          {
+            "phrase": "fail to",
+            "def": ""
+          },
+          {
+            "phrase": "used to",
+            "def": ""
+          },
+          {
+            "phrase": "in search of",
+            "def": ""
+          }
+        ]
+      }
     },
     "NewType": {
       "passage": {
@@ -5029,7 +10694,97 @@ const ENGLISH_DATA = {
           "answer": "",
           "explanation": ""
         }
-      ]
+      ],
+      "vocab": {
+        "words": [
+          {
+            "word": "partly",
+            "form": "Part",
+            "phonetic": "",
+            "meaning": "adv. 部分地,不完全地,在一定程度上 / adv. 部分地；在一定程度上"
+          },
+          {
+            "word": "direction",
+            "form": "Directions",
+            "phonetic": "/dsregJaydrydar/",
+            "meaning": "方向"
+          },
+          {
+            "word": "to",
+            "form": "to",
+            "phonetic": "",
+            "meaning": "科学家"
+          },
+          {
+            "word": "reader",
+            "form": "read",
+            "phonetic": "/ˈriːdə(r)/",
+            "meaning": "读者；读本"
+          },
+          {
+            "word": "texture",
+            "form": "text",
+            "phonetic": "",
+            "meaning": "n. 质地；纹理；结构；本质，实质 / n. 质地， 纹理， 结构"
+          },
+          {
+            "word": "parent",
+            "form": "parents",
+            "phonetic": "",
+            "meaning": "n. 父母,母亲；母体"
+          },
+          {
+            "word": "suppose",
+            "form": "supposed",
+            "phonetic": "",
+            "meaning": "v. 料想,猜想;假定 / v. 假设；认为；让（虚拟语气）；推想 conj. 假使…结果会怎样"
+          },
+          {
+            "word": "guide",
+            "form": "guide",
+            "phonetic": "/ɡaɪd/",
+            "meaning": "指导；导游；指南"
+          },
+          {
+            "word": "adult",
+            "form": "adulthood",
+            "phonetic": "/a「dopJn/",
+            "meaning": "成年人的"
+          },
+          {
+            "word": "meaning",
+            "form": "meaning",
+            "phonetic": "/ˈmiːnɪŋ/",
+            "meaning": "意义；含义"
+          },
+          {
+            "word": "paragraph",
+            "form": "paragraphs",
+            "phonetic": "",
+            "meaning": "n. 段落；短评；段落符号 v. 将…分段 / n. 段， 节；小新闻， 短评"
+          },
+          {
+            "word": "notify",
+            "form": "not",
+            "phonetic": "",
+            "meaning": "v. 通告，通知；公布 / vt. 通知， 告知； 报告"
+          }
+        ],
+        "phrases": [
+          {
+            "phrase": "instead of",
+            "def": ""
+          },
+          {
+            "phrase": "deal with",
+            "def": ""
+          },
+          {
+            "phrase": "even if",
+            "def": ""
+          }
+        ]
+      }
     },
     "Translation": {
       "sentences": [
@@ -5067,7 +10822,11 @@ const ENGLISH_DATA = {
         "",
         "",
         ""
-      ]
+      ],
+      "vocab": {
+        "words": [],
+        "phrases": []
+      }
     }
   },
   "2008": {
@@ -5197,7 +10956,84 @@ const ENGLISH_DATA = {
           "inevitable",
           "continuous"
         ]
-      ]
+      ],
+      "vocab": {
+        "words": [
+          {
+            "word": "being",
+            "form": "be",
+            "phonetic": "",
+            "meaning": "n. 生物；存在， 生存"
+          },
+          {
+            "word": "intelligent",
+            "form": "intelligent",
+            "phonetic": "",
+            "meaning": "adj. 聪明的,明智的 / adj. 智能的；聪明的；理解力强的 / adj. 聪明的， 明智的"
+          },
+          {
+            "word": "dare",
+            "form": "dare",
+            "phonetic": "/dea(r)/",
+            "meaning": "敢；胆敢"
+          },
+          {
+            "word": "notify",
+            "form": "not",
+            "phonetic": "",
+            "meaning": "v. 通告，通知；公布 / vt. 通知， 告知； 报告"
+          },
+          {
+            "word": "speak",
+            "form": "speak",
+            "phonetic": "",
+            "meaning": "v. 说话；演讲；表明；陈述"
+          },
+          {
+            "word": "name",
+            "form": "name",
+            "phonetic": "",
+            "meaning": "n. 名字；名称；名声；名义 v. 给…取名"
+          },
+          {
+            "word": "to",
+            "form": "to",
+            "phonetic": "",
+            "meaning": "科学家"
+          },
+          {
+            "word": "scientist",
+            "form": "scientist",
+            "phonetic": "",
+            "meaning": "n. 科学家"
+          },
+          {
+            "word": "institution",
+            "form": "institution",
+            "phonetic": "/ˌɪnstɪˈtjuːʃn/",
+            "meaning": "机构；制度；习俗"
+          },
+          {
+            "word": "helpful",
+            "form": "helped",
+            "phonetic": "/rhelpf/",
+            "meaning": "有帮助的"
+          },
+          {
+            "word": "popular",
+            "form": "popularize",
+            "phonetic": "/「pppjala(r)/",
+            "meaning": "流行的"
+          },
+          {
+            "word": "disease",
+            "form": "diseases",
+            "phonetic": "/dɪˈziːz/",
+            "meaning": "疾病"
+          }
+        ],
+        "phrases": []
+      }
     },
     "Text1": {
       "passage": {
@@ -5271,7 +11107,101 @@ const ENGLISH_DATA = {
           "explanation": "［精准定位 ］ 开 篇 即通过对比 男女情况提 出现 象 ：比起 男性，女性尤其容易受 到 压 力的负面 影 响； 第 二\n至五段分别从 生理 和社会两 个角 度分析现象产生的原因：雌性激素使得女性在压力下更易分泌不良 化 学\n物质，她们承担多得多的压力且这种压力更具将久性和反复性 。尽管 论述有时 II路去“与男性的比较”，但这\n一 对比贯穿全文始终，是作者关注 的 重点 ；而从文中 way ahead ... undesirab le catego ry 、 unfort unatel y 、 not\nnecessarily that women don ’ t cope as we ll 等 明显吁占在女性 一 边”的笔触以及末段“向女性的建议”可知作者\n并非“客观论述性 别 差异” ，而 是发表对其性别所致劣势的同情与担忧，因此 ［ DJ 为最佳题目。\n       ［命题解密 ］ 正确项 ［ DJ 与主题保持了高度 的→致性：其中 G e nd e r In eq ua l i ty 概括了文章主体部分\nsex h o rm o n es 、 Ad ding to a women ’ s . . . her in creased “ opportuniti es ” fo r   st ress 、 a not her   d i ff e r ence\nbet ween the sexes 的论述角 度； W omen Under Str巳ss 则包 含了全文的两个关键词 wo m e n 和 stress 。\n       [A ］ 中反问形式的 No W ay Out? I暗示全文主要针对“仰＝决 问题”打 开， 即把 重 心放于 “介绍 如何 应\n对、克服 压力， 说明并非 无 路可走”，而 全文 着 重 “指明现 象 ’分析现 象原因 ”，仅在文 末提及“建议”；其次\n选项范围过宽，虽 言及 S tr ess , t;I] 忽略全文另外 一 个 关键词 Wome n 。［ BJ 源自第 二 段性激 素 对压力反 应\n的影响，去｜］范围过 窄 ，将文中两个 关键 词 Stress 、 Wom e n 及 文 中所 展 现出来的两性之间的不 平等 性过度\n缩小为 Response to Stress o [ CJ 根据 第 二 段中所述 chem i cals 而来，但全文的侧重点不在于“从化学物质\n的角度对 压 力分析” 。\n         ［ 技 巧总 结 ］ 标题题的解答需要 寻 找文章主题句和主题关键词 。 正确项必须包含主题关键问或其\n替换词，同时注意选项涵盖范围的大小，太小可能流于细节，太大就会超出文章时论的范围；其次作者字\n里行间流露的感情色彩也可以作为解题的辅助依据 。\n     本文首段就引出了文章主题：女性相较男性而 言 ，极易受到压力的负面影 H向，之后各段就此展开时\n论 。主题关键 同在文中就 是 两个： women 幸n s tress o 最贴合 的便 是［ DJ 。 选项中 ［ BJ 虽然未直接提及“女\n性” ，但 也 有 gend e r diffe re nce 这 一 关键 词， 与 stre ss 一 起，似 有其道 理，但从感情色彩上 来看，该 内 容未\n能体现作 者“ 同情 女 性”这 一感情 色 彩 。［ A ］ 把侧 重 点“ 女 性 压力”延至“ 所有人 的 压 力”， 且 偷换了论述 重\n点（重心不在“ way”，即“办法”） ; [ CJ 仅为论证过程中的细节 。"
         }
       ],
-      "translation": ""
+      "translation": "",
+      "vocab": {
+        "words": [
+          {
+            "word": "to",
+            "form": "to",
+            "phonetic": "",
+            "meaning": "科学家"
+          },
+          {
+            "word": "sphere",
+            "form": "spheres",
+            "phonetic": "",
+            "meaning": "n. 范围；球体 vt. 包围；放入球内；使…成球形 adj. 球体的 / n. 球； 球体；范围； 领域"
+          },
+          {
+            "word": "being",
+            "form": "be",
+            "phonetic": "",
+            "meaning": "n. 生物；存在， 生存"
+          },
+          {
+            "word": "ahead",
+            "form": "ahead",
+            "phonetic": "",
+            "meaning": "在前"
+          },
+          {
+            "word": "undesirable",
+            "form": "undesirable",
+            "phonetic": "/ˌʌndɪˈzaɪərəbl/",
+            "meaning": "不受欢迎的；不良的"
+          },
+          {
+            "word": "category",
+            "form": "category",
+            "phonetic": "",
+            "meaning": "n. 种类，部属，类目,范畴，类型 / n. 种类，分类；[数] 范畴 / n. 种类"
+          },
+          {
+            "word": "particular",
+            "form": "particularly",
+            "phonetic": "",
+            "meaning": "adj. 特定的，特指的；特殊的，特别的；讲究的；挑剔的 n. 细节，详情 / adj. 特别的；详细的；独有的；挑剔的 n. 详细说明；个别项目"
+          },
+          {
+            "word": "depress",
+            "form": "depression",
+            "phonetic": "",
+            "meaning": "v. 压抑；使沮丧；使萧条 / vt. 压抑； 降低； 削弱；使沮丧， 使抑郁"
+          },
+          {
+            "word": "anxiety",
+            "form": "anxiety",
+            "phonetic": "/aeJ「 zalrati/",
+            "meaning": "焦虑；渴望"
+          },
+          {
+            "word": "disorder",
+            "form": "disorders",
+            "phonetic": "",
+            "meaning": "n. 失调,疾病；混乱,杂乱；骚乱 / n. 混乱， 杂乱； 骚乱；【医】失调； 疾病"
+          },
+          {
+            "word": "response",
+            "form": "response",
+            "phonetic": "",
+            "meaning": "n. 响应；反应；回答 / n. 回答， 回音；反应， 响应"
+          },
+          {
+            "word": "stress",
+            "form": "stress",
+            "phonetic": "/stres/",
+            "meaning": "压力"
+          }
+        ],
+        "phrases": [
+          {
+            "phrase": "in response to",
+            "def": ""
+          },
+          {
+            "phrase": "cope with",
+            "def": ""
+          },
+          {
+            "phrase": "tend to",
+            "def": ""
+          },
+          {
+            "phrase": "appear to",
+            "def": ""
+          }
+        ]
+      }
     },
     "Text2": {
       "passage": {
@@ -5345,7 +11275,93 @@ const ENGLISH_DATA = {
           "explanation": "［精准定位］ 文章前两段指出：随着网络的发展，如今出现了科学成果自由获取的新趋势，并概述其\n影 响 。第三 、四段 则 具 体指出如今大多数科 学期 刊已在 线 出版，并带来了全新的在线商业模式 。 可见，\n作 者主要关注点在于“ 科 学 出版新方式 一一 在线出版”， ［ BJ 正确 。\n      ［命题解密］ 正确项 ［ BJ 是对原文 I t used to be, No longer, Th is is now changi ng 时间线索所凸显的\n“出版方式变化”的合理概括 。\n      〔 A ］ 将第 二 段 ④ 句出版商的威胁“科研出版自由获取新趋势， 即 网络出版”篡改为“网络”，且文章并\n非只 关注新趋 势对“出版商”的 影 响 。［ CJ 由“科研成果的广泛传播和方便获取有 利 于实现知识的价值”\n而推断“论文作者（为 实 现研究的价值）愿意接受网络出版”，但文中未 直 接论述作者对新出版方式的态\n度，即使推断正确，也并非文章重心 。［ DJ 将“网络（ I nt ern e t / On li ne ）影响 ： 科研成果获取更容易”篡改为\n“网络服务（ O nli ne serv i ce ）的影响 ： 出版更容易”，且文中并未指出出版变得更容易 。\n      ［技巧总结］ 从文 章来看 ，本文涉及 多 处今昔对比，以及 多 个概念之间的纷杂关系，抓取文 章主 旨需\n要较 强的分 Vi· 、概括、归纳、综合能力 。 从选项 看 ，不仅涉及 多组关系 ，均暗示今昔对比，且增添了新概念\n( A new mod e of pub li ca t i on 、 new channel fo r p u bl i cat i on ） ，这无疑进 一 步增加了识 别 的难度 。 解答 此 类\n题时， 考生需 ： 一 ，根据文章时间、逻辑关系标识词把握全文的叙事逻辑；通 过 文中重复出现的关键词明\n确文 章论 述对 象（注 ： No longer, t his is now chang in g 后面往往紧跟作者关注的“新事物”，为 重点关 注 内\n容） ； 二 ，识别各选项仨1:i 涉及 的“概念”及“关系”，排除与文 章有 偏 差 的选项 。\n      如本题：首先根据’ used to be . . . no longe r 以及 This is now c ha nging 判断本文主要采用了今昔对比\n逻辑，重在论述如今新现象，并重点 i.ifl 定出现新事物的关键句（第二段②句及第三段 ② 句），可知文中主\n要关注的新事 物为“研究 成 果自 由 获 取 （ free access to scient ifi c res ults ） ／ 在线出版（ journa l s . . . onl i n e ） ” 。\n再看选项，四个选项均体现“新事物”，分别为网络 C The In tern et ） 、新出版方式 C A new mode of\npublicat i on ）、新出版渠道（ the new channe l for publication ）以及网络服务（ on line service ） 。 此时可大致确\n定［ BJ 最契合 。 再进一步看选项中的“新旧关系（新事物产生的影响、面对的情形）”，对比之后发现［ A],\n[CJ 、 ［ DJ 均有悖文意、且未能体现全文内容（具体见“干扰项 排除勺，可确 定［ B]o"
         }
       ],
-      "translation": ""
+      "translation": "",
+      "vocab": {
+        "words": [
+          {
+            "word": "to",
+            "form": "to",
+            "phonetic": "",
+            "meaning": "科学家"
+          },
+          {
+            "word": "being",
+            "form": "be",
+            "phonetic": "",
+            "meaning": "n. 生物；存在， 生存"
+          },
+          {
+            "word": "team",
+            "form": "team",
+            "phonetic": "/tiːm/",
+            "meaning": "团队；队"
+          },
+          {
+            "word": "submit",
+            "form": "submit",
+            "phonetic": "",
+            "meaning": "v. 使服从；主张；呈递 / vi. 服从， 屈服 A vt. 呈送， 提交 A"
+          },
+          {
+            "word": "result",
+            "form": "results",
+            "phonetic": "",
+            "meaning": "结果"
+          },
+          {
+            "word": "journal",
+            "form": "journal",
+            "phonetic": "",
+            "meaning": "n. 日报，杂志；日记；分类账 / n. 定期刊物， 杂志， 日报；日志， 日记"
+          },
+          {
+            "word": "editor",
+            "form": "editor",
+            "phonetic": "",
+            "meaning": "n. 编者，编辑；社论撰写人；编辑装置 / n. 编辑， 编者"
+          },
+          {
+            "word": "remove",
+            "form": "remove",
+            "phonetic": "",
+            "meaning": "v. 移动；脱掉；免职 / v. 移动，迁移；开除；调动 n. 移动；距离；搬家"
+          },
+          {
+            "word": "author",
+            "form": "authors'",
+            "phonetic": "",
+            "meaning": "作者"
+          },
+          {
+            "word": "name",
+            "form": "names",
+            "phonetic": "",
+            "meaning": "n. 名字；名称；名声；名义 v. 给…取名"
+          },
+          {
+            "word": "forest",
+            "form": "for",
+            "phonetic": "/ˈfɒrɪst/",
+            "meaning": "森林"
+          },
+          {
+            "word": "review",
+            "form": "review",
+            "phonetic": "",
+            "meaning": "v. 回顾,复习 n. 评论 / n. 回顾；复习；评论；检讨；检阅 v. 回顾；检查；复审"
+          }
+        ],
+        "phrases": [
+          {
+            "phrase": "used to",
+            "def": ""
+          },
+          {
+            "phrase": "so far",
+            "def": ""
+          }
+        ]
+      }
     },
     "Text3": {
       "passage": {
@@ -5419,7 +11435,105 @@ const ENGLISH_DATA = {
           "explanation": "［精准定位］ 文章前 三 段指 出· 美国人总体身高己停 止 增长；第 四 段 明 确原因 ： 达 到 基因设定极限；第\n五段 则 指 出 这 种 基因最大值近期不会改变 。 可 见 ［ CJ 为文章意在传达的主旨 。\n     ［命题解密］ [CJ 是全文主旨句（第 二 段①句） Ameri cans have genera lly stopped growing 以及其同义表\n达 reach ed their limit. . . aren't li ke ly to get any ta ll er. . . average height has n ’ t rea lly changed since 1960. 的概括\n改写。其 中 geneti c 对应第 四 段所述“真正原因” real constra in ts that are set by the genetic archi tectu re ,\n     [A］ 将 第 三 段②③④句 所 述历史 个别现 象“ 20 世 纪 初 美国 人 身高增长缓慢， 随 后出现了较快 的 增\n长； 至 1 960 年又停 止了 增长 ” 篡改为“整 体 趋势” ，且 其本身 也 算不上“循环模式”。［ BJ 将末段末句 A nd\nif yo u need to pr edi ct human h e i g ht：“可 以 用当前的身高数据预 测 将来 的 人的身高”意在强调的“身高增 l夭\n停 止 ”偷换 为“身高增长的可预测性” 。［ DJ 将末段首句 can“可能”视为事实，并 由此 主观推断“基因模式\n已 经改变”， 而 实际上该句转 折 之后 do n ’ t expect thi s to happe n soo n“ 近 期不太 可 能”才是作者语义重点 。\n     ［技巧总结］ 文章主旨题的解答关键在选项“ 对 象（体 现 于选项 中的 名词信息） ／ 结论（体现于选项其\n他 名同或动词性信息）正确”，正确项必须恰当概 括 全文观点，既不能太泛 、 淹没中 心 观点， 也 不能太窄、\n无力概括全文 。 解题 时 可借 助 两层线索：一、关键词复 现； 二 、 段落主旨及文章层次。女日 本题，从“对象”\n看，［ A] the cha nge of hu ma n h e i g h t 、 ［ B] hum a n h ei ght 、［ CJ A meri ca ns ... ge netic grow th limit： 均体 现 了文\n中 谈 论 对象“美国人 的 身高增长”，有 可 能正确 。 再 从 “结论”看，［ C] reac h ed their ge ne ti c grow th li m i t 概\n括 了文中反复出现 的同 义表达 stopped g r ow in g 、 appa r e ntl y reac hed t heir li m i t 、 go n e as far as we ca n go 、\nhas n ’ t rea ll y c h ange d 、 h as not changed for some t i me 、 u se today ’ s data and fee l fa irl y confi de n t ，且顺应全\n文的论证结 构 “揭示事实                      明确原因             重申事实” ， 故正确 。\n   回：眩目"
         }
       ],
-      "translation": ""
+      "translation": "",
+      "vocab": {
+        "words": [
+          {
+            "word": "ear",
+            "form": "early",
+            "phonetic": "",
+            "meaning": "n. 耳朵；穗；听觉；倾听 vi. （美俚）听见；抽穗"
+          },
+          {
+            "word": "national",
+            "form": "National",
+            "phonetic": "",
+            "meaning": "adj. 国家的；国民的；民族的；国立的 n. 国民"
+          },
+          {
+            "word": "basketball",
+            "form": "Basketball",
+            "phonetic": "/「bazskitborl/",
+            "meaning": "篮球"
+          },
+          {
+            "word": "season",
+            "form": "season",
+            "phonetic": "",
+            "meaning": "n. 时期；季节；赛季 v. 给…调味；使适应"
+          },
+          {
+            "word": "majority",
+            "form": "major",
+            "phonetic": "",
+            "meaning": "n. 多数；成年 / n. 多数， 大多数；【律】 成年"
+          },
+          {
+            "word": "sport",
+            "form": "sports",
+            "phonetic": "",
+            "meaning": "n. 运动；游戏；娱乐；运动会；玩笑 v. 游戏 adj. 运动的"
+          },
+          {
+            "word": "manager",
+            "form": "managers",
+            "phonetic": "/ˈmænɪdʒə(r)/",
+            "meaning": "经理；管理者"
+          },
+          {
+            "word": "to",
+            "form": "to",
+            "phonetic": "",
+            "meaning": "科学家"
+          },
+          {
+            "word": "team",
+            "form": "team",
+            "phonetic": "/tiːm/",
+            "meaning": "团队；队"
+          },
+          {
+            "word": "trend",
+            "form": "trend",
+            "phonetic": "/trend/",
+            "meaning": "趋势；倾向"
+          },
+          {
+            "word": "being",
+            "form": "be",
+            "phonetic": "",
+            "meaning": "n. 生物；存在， 生存"
+          },
+          {
+            "word": "obscure",
+            "form": "obscuring",
+            "phonetic": "",
+            "meaning": "adj. 模糊的,晦涩的；暗的,朦胧的 / adj. 昏暗的，朦胧的；晦涩的，不清楚的；隐蔽的；不著名的，无名的 v. 使…模糊不清，掩盖；隐藏；使难理解 n. 某种模糊的或不清楚的东西 / adj. 暗的； 朦胧的；模糊的； 晦涩的 vt. 使暗， 使不明显"
+          }
+        ],
+        "phrases": [
+          {
+            "phrase": "result from",
+            "def": ""
+          },
+          {
+            "phrase": "add to",
+            "def": ""
+          },
+          {
+            "phrase": "tend to",
+            "def": ""
+          },
+          {
+            "phrase": "even though",
+            "def": ""
+          },
+          {
+            "phrase": "as far as",
+            "def": ""
+          }
+        ]
+      }
     },
     "Text4": {
       "passage": {
@@ -5493,14 +11607,198 @@ const ENGLISH_DATA = {
           "explanation": "［精准定位］ 根据题干关键词 Was hingto n ’ S decisio n to fr℃e s l aves 定位到第六段②句 。 该句指出华\n盛顿在目睹了独立战争中黑人士兵的勇敢后，开始相信人人生而平等，最终决定解放其奴隶。可 见 ， 让\n他 最终下决心释放奴隶 的 是 他 在 独 立 战争中的经历，［因为正确选项 。\n       ［命题解密］ 题干 十 正确 J]J1 [BJ 构成对末段 ② 句... had begun to .. . after observing the bravery of the\nblack soldiers during the Revolutionary War, .. . grant hi s slaves their freedom 所暗 含因果关系 的明确 。\n      [A ］对第二段⑤句反向干扰，将开同元勋（包括华』，｛t. ~ffi ） “在奴隶制 问 题上做出了道德妥 协 ／采取了不\n够道德的做法（ m ora l co m p rom i ses ）”改为相反的“华盛顿出于道德考虑释放了奴隶（ mora l\nco n s i d e rat i o n s ）”。［ CJ 曲 解第四段 ② 句 Own in g s laves was “ like hav ing a large bank acco un t” 之中 含有 的\n逻 辑关系 ，将 “奴隶具有巨大 的 经济 价 值 ，所以 奴隶主不愿解放奴隶”改为与之 相 悖 的 “华盛 顿（奴 隶主）\n之 所以 释放奴隶是因为其经济状况”。 ［ DJ 利用 第五段①句 po l i t i ca l li ves 断 章取义，但原文 指出政 治家\n的 “政治生涯得益于奴隶 制 ”，与华盛顿解放奴隶的行为无关 。\n      ［技巧总结］ 本文就“文中多处提及的人物行为”设置因果细节题，答案所在句为关系复杂 的 长难句、\n且并未使用直接因果关系词 。 本题考查考生对文中隐含医｜ 果关系的把握 。 解答 此 类题目 时 需 ： 一，定位\n需准 确： 一定要 抓 住题干关键词、知道题目 问的 是该人物的“ 19]［＼一具体行为”； 二 ，挖掘需深入 ： 定位原文\n后，需深入挖 掘 原文中隐含的因果关系，要意识 到 因果关系不仅仅体 现 在逻辑 副 词，连词上（ t h er efor e,\nc on sequ e川 l y, b eca u se ） ， 还可 能体现 在动同上（ dri ve, prompt 等），甚至是 时间 关系上（ 如作 者 强调的 先\n后动 作 ） ； 三 ，干扰排 除需有理有据：查看选项是否与原文对应内容 相 悖，是否与本题 所问 逻辑不通。 如\n本题，先根据题干关键 同明 确 ： 本题考查“华盛顿释放奴隶”的原因，定位至第六段 ② 句 ；随 后发 现 该 句所 强\n调的 时间 先后 中 （ had beg un to . .. aft er... . ）暗含因果关系， ［ BJ 选项符合这 一 关系，故正确 。 而 ［ A］ 、 ［ CJ 、\n〔D〕不仅与题目 所问 华盛顿行为没有直接关系，且与题干无法建立通顺的逻辑关系，故 排 除 。\n                                                  ；二全局题秸解＜ 1'"
         }
       ],
-      "translation": ""
+      "translation": "",
+      "vocab": {
+        "words": [
+          {
+            "word": "president",
+            "form": "president",
+            "phonetic": "/ˈprezɪdənt/",
+            "meaning": "总统；主席；校长"
+          },
+          {
+            "word": "unit",
+            "form": "United",
+            "phonetic": "/ˈjuːnɪt/",
+            "meaning": "单元；单位"
+          },
+          {
+            "word": "state",
+            "form": "States",
+            "phonetic": "",
+            "meaning": "n. 状态， 情况；国， 州 vt. 陈述， 说明；规定"
+          },
+          {
+            "word": "hire",
+            "form": "hired",
+            "phonetic": "/ˈhaɪə(r)/",
+            "meaning": "雇用；租用"
+          },
+          {
+            "word": "dentist",
+            "form": "dentist",
+            "phonetic": "",
+            "meaning": "n. 牙科医生 / n. 牙医"
+          },
+          {
+            "word": "to",
+            "form": "to",
+            "phonetic": "",
+            "meaning": "科学家"
+          },
+          {
+            "word": "transplant",
+            "form": "transplant",
+            "phonetic": "/traens「 plant/",
+            "meaning": "以移植"
+          },
+          {
+            "word": "jaw",
+            "form": "jaw",
+            "phonetic": "",
+            "meaning": "n. 颌；下巴；狭窄入口；唠叨 v. 教训；唠叨 / n. 下颌， 下巴"
+          },
+          {
+            "word": "extract",
+            "form": "extracted",
+            "phonetic": "/Ik「strekt/",
+            "meaning": "取出"
+          },
+          {
+            "word": "mouth",
+            "form": "mouths",
+            "phonetic": "",
+            "meaning": "n. 口，嘴；河口 v. 做作地说，装腔作势地说；喃喃地说出"
+          },
+          {
+            "word": "tree",
+            "form": "tree",
+            "phonetic": "",
+            "meaning": "n. 树；木料；树状物 v. 把赶上树"
+          },
+          {
+            "word": "mostly",
+            "form": "most",
+            "phonetic": "",
+            "meaning": "adv. 主要地， 大部分， 通常"
+          }
+        ],
+        "phrases": [
+          {
+            "phrase": "focus on",
+            "def": ""
+          }
+        ]
+      }
     },
     "NewType": {
       "passage": {
         "en": "Part B Directions: In the following text, some segments have been removed. For Questions 41-45, choose the most suitable one from the list A-G to fit into each of the numbered blanks. There are two extra choices, which do not fit in any of the blanks. Mark your answers on ANSWER SHEET 1. (1 0 points) The time for sharpening pencils, arranging your desk, and doing almost anything else instead of writing has ended. The first draft will appear on the page only if you stop avoiding the inevitable and sit, stand up, or lie down to write. (41 ) __________ Be flexible. Your outline should smoothly conduct you from one point to the next, but do not permit it to railroad you. If a relevant and important idea occurs to you now, work it into the draft. ( 42) _____________ Grammar, punctuation, and spelling can wait until you revise. Concentrate on what you are saying. Good writing most often occurs when you are in hot pursuit of an idea rather than in a nervous search for errors. ( 43) _ ____________ Your pages will be easier to keep track of that way, and, if you have to clip a paragraph to place it elsewhere, you will not lose any writing on the other side. If you are working on a word processor, you can take advantage of its capacity to make additions and deletions as well as move entire paragraphs by making just a few simple keyboard commands. Some software programs can also check spelling and certain grammatical elements in your writing. (4 4)_ _____________ These printouts are also easier to read than the screen when you work on revisions. Once you have a first draft on paper, you can delete material that is unrelated to your thesis and add material necessary to illustrate your points and make your paper convincing. The student who wrote\" The A&P as a State of Mind\" wisely dropped a paragraph that questioned whether Sammy displays chauvinistic attitudes toward women. ( 45)- ----------- - -- Remember that your initial draft is only that. You should go through the paper many times-and then again-working to substantiate and clarify your ideas. You may even end up with several entire versions of the paper. Rewrite. The sentences within each paragraph should be related to a single topic. Transitions should connect one paragraph to the next so that there are no abrupt or confusing shifts. Awkward or wordy phrasing or unclear sentences and paragraphs should be mercilessly poked and prodded into shape. A. To make revising easier, leave wide margins and extra space between lines so that you can easily add words, sentences, and corrections. Write on only one side of the paper. B. After you have clearly and adequately developed the body of your paper, pay particular attention to the introductory and concluding paragraphs. It's probably best to write the introduction last, after you know precisely what you are introducing. Concluding paragraphs demand equal attention because they leave the reader with a final impression. C. It's worth remembering, however, that though a clean copy fresh off a printer may look terrific, it will read only as well as the thinking and writing that have gone into it. Many writers prudently store their data on disks and print their pages each time they finish a draft to avoid losing any material because of power failures or other problems. D. It makes no difference how you write, just so you do. Now that you have developed a topic into a tentative thesis, you can assemble your notes and begin to flesh out whatever outline you have made. E. Although this is an interesting issue, it has nothing to do with the thesis, which explains how the setting influences Sammy's decision to quit his job. Instead of including that paragraph, she added one that described Lengel's crabbed response to the girls so that she could lead up to the A&P \"policy\" he enforces. F. In the final paragraph about the significance of the setting in \" A&P,\" the student brings together the reasons Sammy quit his job by referring to his refusal to accept Lengel's store policies. G. By using the first draft as a means of thinking about what you want to say, you will very likely discover more than your notes originally suggested. Plenty of good writers don't use outlines at all but discover ordering principles as they write. Do not attempt to compose a perfectly correct draft the first time around.",
         "zh": ""
       },
-      "questions": []
+      "questions": [],
+      "vocab": {
+        "words": [
+          {
+            "word": "partly",
+            "form": "Part",
+            "phonetic": "",
+            "meaning": "adv. 部分地,不完全地,在一定程度上 / adv. 部分地；在一定程度上"
+          },
+          {
+            "word": "direction",
+            "form": "Directions",
+            "phonetic": "/dsregJaydrydar/",
+            "meaning": "方向"
+          },
+          {
+            "word": "following",
+            "form": "following",
+            "phonetic": "",
+            "meaning": "adj. 其次的，接着的；下列的，下述的 / adj. 接着的， 下列的"
+          },
+          {
+            "word": "texture",
+            "form": "text",
+            "phonetic": "",
+            "meaning": "n. 质地；纹理；结构；本质，实质 / n. 质地， 纹理， 结构"
+          },
+          {
+            "word": "segment",
+            "form": "segments",
+            "phonetic": "",
+            "meaning": "v. 分割 n. 段；部分 / n. 段； 片； 节；部分"
+          },
+          {
+            "word": "remove",
+            "form": "removed",
+            "phonetic": "",
+            "meaning": "v. 移动；脱掉；免职 / v. 移动，迁移；开除；调动 n. 移动；距离；搬家"
+          },
+          {
+            "word": "forest",
+            "form": "For",
+            "phonetic": "/ˈfɒrɪst/",
+            "meaning": "森林"
+          },
+          {
+            "word": "mostly",
+            "form": "most",
+            "phonetic": "",
+            "meaning": "adv. 主要地， 大部分， 通常"
+          },
+          {
+            "word": "suitable",
+            "form": "suitable",
+            "phonetic": "/r「surtabl/",
+            "meaning": "合适的"
+          },
+          {
+            "word": "to",
+            "form": "to",
+            "phonetic": "",
+            "meaning": "科学家"
+          },
+          {
+            "word": "blank",
+            "form": "blanks",
+            "phonetic": "",
+            "meaning": "空自的"
+          },
+          {
+            "word": "extra",
+            "form": "extra",
+            "phonetic": "",
+            "meaning": "adv. 特别地，非常；另外 n. 临时演员；号外；额外的事物；上等产品 adj. 额外的，另外收费的；特大的"
+          }
+        ],
+        "phrases": [
+          {
+            "phrase": "instead of",
+            "def": ""
+          },
+          {
+            "phrase": "rather than",
+            "def": ""
+          },
+          {
+            "phrase": "as well as",
+            "def": ""
+          },
+          {
+            "phrase": "take advantage of",
+            "def": ""
+          },
+          {
+            "phrase": "concentrate on",
+            "def": ""
+          },
+          {
+            "phrase": "point to",
+            "def": ""
+          }
+        ]
+      }
     },
     "Translation": {
       "sentences": [
@@ -5544,7 +11842,11 @@ const ENGLISH_DATA = {
         "",
         "",
         ""
-      ]
+      ],
+      "vocab": {
+        "words": [],
+        "phrases": []
+      }
     }
   },
   "2009": {
@@ -5674,7 +11976,89 @@ const ENGLISH_DATA = {
           "So far",
           "Better still"
         ]
-      ]
+      ],
+      "vocab": {
+        "words": [
+          {
+            "word": "section",
+            "form": "Section",
+            "phonetic": "",
+            "meaning": "n. 章节；部分；地区；部门， 科 A"
+          },
+          {
+            "word": "direction",
+            "form": "Directions",
+            "phonetic": "/dsregJaydrydar/",
+            "meaning": "方向"
+          },
+          {
+            "word": "reader",
+            "form": "Read",
+            "phonetic": "/ˈriːdə(r)/",
+            "meaning": "读者；读本"
+          },
+          {
+            "word": "following",
+            "form": "following",
+            "phonetic": "",
+            "meaning": "adj. 其次的，接着的；下列的，下述的 / adj. 接着的， 下列的"
+          },
+          {
+            "word": "texture",
+            "form": "text",
+            "phonetic": "",
+            "meaning": "n. 质地；纹理；结构；本质，实质 / n. 质地， 纹理， 结构"
+          },
+          {
+            "word": "forest",
+            "form": "for",
+            "phonetic": "/ˈfɒrɪst/",
+            "meaning": "森林"
+          },
+          {
+            "word": "blank",
+            "form": "blank",
+            "phonetic": "",
+            "meaning": "空自的"
+          },
+          {
+            "word": "intelligence",
+            "form": "intelligence",
+            "phonetic": "",
+            "meaning": "n. 智力,聪明;理解力；情报,消息,报导 / n. 智力， 才智； 灵性， 悟性；情报， 消息； 报道"
+          },
+          {
+            "word": "wonderful",
+            "form": "wonder",
+            "phonetic": "",
+            "meaning": "adj. 极好的，精彩的，绝妙的；奇妙的；美妙；胜；神妙"
+          },
+          {
+            "word": "justify",
+            "form": "just",
+            "phonetic": "",
+            "meaning": "v. 证明合法；整理版面 / vt. 证明…是正当的， 认为有理"
+          },
+          {
+            "word": "fruit",
+            "form": "fruit",
+            "phonetic": "",
+            "meaning": "n. 水果；产物 v. 结果实"
+          },
+          {
+            "word": "experiment",
+            "form": "experiments",
+            "phonetic": "",
+            "meaning": "v. 尝试；进行实验 n. 实验，试验；尝试"
+          }
+        ],
+        "phrases": [
+          {
+            "phrase": "instead of",
+            "def": ""
+          }
+        ]
+      }
     },
     "Text1": {
       "passage": {
@@ -5748,7 +12132,89 @@ const ENGLISH_DATA = {
           "explanation": "［精准定位 ］ 根据题干关键词 Ryan 、 standardized test ing 定位到第七段 。 ②③句 引用赖安对标准化\n测 试的评 价：它打破 了美国信 仰体系中的重 要准 则 ；这条“人无所不能”的准 则 造就了平庸。而赖安的评\n价 是基于① 句“标准化测试导致很少人会本能地使用创新和协作思维” 。 由于标准 化 测试忽视 创 新能\n力，而培养新习惯是为促进创新思维，故标准化测试阻碍了新习惯的形成， ［ A］正确 。\n     ［ 命题解密 ］ 正确项 ［ A ］的信息隐含于第七段。该段主要论述了标准 化测试限制了人的创新思维 。\n最后 两句指出形成新习惯的目的在于创新 。 这与第 二 段给出的文章主旨“培养新习惯有利于发展创新\n思主仕”相 一 致 。 因此“标准化测试”与“新习惯”之间的关系隐含其中。\n     [ BJ 将第七段 ① 句 e mpha s i s 、②句 breaks 、 ③ 句 commonness 糕杂到一起形成干扰 。 而实际文中指\n出“标准化测试 一 直在忽 视创新思维、助长平庸”，并非“标准化测试曾经强调、如今不再强调平庸” 。［ CJ\n与第 七段 ① 句 em ph as is on ... few of us inherentl y use ... （人生来具有四种基本思维能力，标准化测试只\n强调其中的两种，而忽视另外两种，目11 ：改变了 原有的思维模式）相反。［ DJ 与第七段②句 This breaks the\nmajor rul e in th e Am erica n be li ef system （标准 化测试打破了 美国信 仰体系的主要原 则）反向 。\n     ［ 技巧总结 ］ 本题就文中人物观点命制“事物关系细节题”。“ 代词所指”是解答本题最大的 障碍。理\n解代同所指的主要方式有：语法角度的“就近原 则 ”，语篇角度的“句际语意衔接”，语用角度的“作者整体\n观点”等 。 若指示代同实在纷杂难解， 则可 结合排除法。具体看解题，只有多角度推敲， 理解了 ②句 T hi s\n回指①句所述情况， ③ 句 T h at @I 指 ② 句美国信仰体系中“人无所不能”原则， it 与 That 同指，④句 it 指代\nwhat yo u ’ re good at ，⑤句 This 指代 ④ 句，问题才会 迎刃而 解（具体见“语篇分析”）。亦可借助排除法：先\n排除与原文明显相悖的 ［ CJ 、 ［ DJ ，再借助人物对“忽视创新的标准化测试”所持批判态度排除［ BJ 。"
         }
       ],
-      "translation": ""
+      "translation": "",
+      "vocab": {
+        "words": [
+          {
+            "word": "weed",
+            "form": "We",
+            "phonetic": "",
+            "meaning": "杂草"
+          },
+          {
+            "word": "forest",
+            "form": "for",
+            "phonetic": "/ˈfɒrɪst/",
+            "meaning": "森林"
+          },
+          {
+            "word": "setting",
+            "form": "setting",
+            "phonetic": "/ˈsetɪŋ/",
+            "meaning": "环境；背景；设置"
+          },
+          {
+            "word": "brain",
+            "form": "brains",
+            "phonetic": "/breɪn/",
+            "meaning": "大脑；智力"
+          },
+          {
+            "word": "pilot",
+            "form": "pilot",
+            "phonetic": "/「parlat/",
+            "meaning": "飞行员"
+          },
+          {
+            "word": "relax",
+            "form": "relaxing",
+            "phonetic": "",
+            "meaning": "v. 放松，休息；松懈，松弛；变从容；休养 / v. 松弛， 放松； 休息"
+          },
+          {
+            "word": "comfort",
+            "form": "comfort",
+            "phonetic": "/「kAmfatls/",
+            "meaning": "舒适"
+          },
+          {
+            "word": "familiar",
+            "form": "familiar",
+            "phonetic": "/fəˈmɪliə(r)/",
+            "meaning": "熟悉的；常见的"
+          },
+          {
+            "word": "routine",
+            "form": "routine",
+            "phonetic": "/ruːˈtiːn/",
+            "meaning": "常规；例行的"
+          },
+          {
+            "word": "notify",
+            "form": "Not",
+            "phonetic": "",
+            "meaning": "v. 通告，通知；公布 / vt. 通知， 告知； 报告"
+          },
+          {
+            "word": "ruler",
+            "form": "rules",
+            "phonetic": "/ˈruːlə(r)/",
+            "meaning": "尺子；统治者"
+          },
+          {
+            "word": "herd",
+            "form": "herd",
+            "phonetic": "",
+            "meaning": "放牧"
+          }
+        ],
+        "phrases": [
+          {
+            "phrase": "rather than",
+            "def": ""
+          }
+        ]
+      }
     },
     "Text2": {
       "passage": {
@@ -5822,7 +12288,101 @@ const ENGLISH_DATA = {
           "explanation": "［精准定位］ 文首两段 引出 D N A 检测；中间两段介绍 DNA 检测的用途及条件；末两段分析指出\nD N A 检测的问题 。 ［ BJ 最 切合文 革、 。\n     ［ 命题解密］ 正确项 ［ BJ 是对全篇全部 内容的 覆盖，又明 确了文 章 论述的对象 。\n     [ A J 仨I二I Fors 源自第 三 段 Among the most popular 、 the latest rage amo ng passionate ge口 ea logists （ 最流\n行的有……、最近在狂热系谱学家中……）等内容而来，令学生可能产生作者在训述“ DNA 检 测的优 点”\n的错 觉， 而那只 是对 DNA 检 测的 客观介绍，并 非 意 指其“好的方面” 。［ CJ 将第 二 段“ avail able without\nprescri pri on s 、 ove r th e- counter （ 无 需 处方自ll 可 获得）”视为“ DNA Testing Outside the La b （ 实验室 外的 DNA\n检测）”，而商业基因检测并非就是实验室外 的 基因检 测 。［ DJ 根据第五段 skeptica l 、 fal se precision （怀疑\n的、伪精确性 ）等 内容而来，但文 意旨 在“揭示 DNA 检测只能揭示 一 两位祖先信息，精确性有待提高”，而\n选项中 Li es （肮育）贬义色彩过重，而且该选项没有涵盖前四段对 DNA testing 的介绍 。\n     ［ 技巧总结 ］ 命题点通常依 全篇 布局均匀分布，因 此 纵观其 他四 道题题干以窥视全篇主旨内容不失\n为解 答文章主 旨题（标题题）的捷径 。 具 体思路为：纵观其他四题，前两题针对 首 四段， 考查 PTK(DNA\n检测 一 种）的特点、用途 （ availab ili ty 、 pricing, used to ）；第 三 、四题针对末两段，考查 DNA 检测的弊端\n(fai ls, prob l em ）；就 此可见， 文章对 DNA 检 测的特点、用途及问题都做了诠释， ［ BJ 能涵 盖这些信息。\n                                                                                                         B远~葛回"
         }
       ],
-      "translation": ""
+      "translation": "",
+      "vocab": {
+        "words": [
+          {
+            "word": "wise",
+            "form": "wise",
+            "phonetic": "/warz/",
+            "meaning": "有智慧的"
+          },
+          {
+            "word": "owner",
+            "form": "own",
+            "phonetic": "",
+            "meaning": "n. [经] 所有者；物主"
+          },
+          {
+            "word": "childhood",
+            "form": "child",
+            "phonetic": "/ˈtʃaɪldhʊd/",
+            "meaning": "童年；幼年"
+          },
+          {
+            "word": "man",
+            "form": "man",
+            "phonetic": "/mæn/",
+            "meaning": "男人；人类"
+          },
+          {
+            "word": "canal",
+            "form": "can",
+            "phonetic": "",
+            "meaning": "n. 运河；[地理] 水道；[建] 管道；灌溉水渠 v. 在…开凿运河 / n. 运河； 渠"
+          },
+          {
+            "word": "boost",
+            "form": "boost",
+            "phonetic": "",
+            "meaning": "v. 促进；增加；支援 n. 推动；帮助；宣扬 / vt. 鼓励， 促进；为…做广告， 宣扬 n. 推动； 促进"
+          },
+          {
+            "word": "to",
+            "form": "to",
+            "phonetic": "",
+            "meaning": "科学家"
+          },
+          {
+            "word": "shell",
+            "form": "shell",
+            "phonetic": "/ʃel/",
+            "meaning": "壳；贝壳；炮弹"
+          },
+          {
+            "word": "outer",
+            "form": "out",
+            "phonetic": "",
+            "meaning": "adj. 外面的，外部的；远离中心的 n. 环外命中 / adj. 外部的， 外面的， 外层的"
+          },
+          {
+            "word": "forest",
+            "form": "for",
+            "phonetic": "/ˈfɒrɪst/",
+            "meaning": "森林"
+          },
+          {
+            "word": "testify",
+            "form": "testing",
+            "phonetic": "",
+            "meaning": "v. 证明，证实；作证 / v. 证明； 证实 <"
+          },
+          {
+            "word": "kit",
+            "form": "kit",
+            "phonetic": "",
+            "meaning": "n. 工具箱；成套工具 v. 装备 / v. 装备 A n. 成套工具； 配套元件"
+          }
+        ],
+        "phrases": [
+          {
+            "phrase": "rely on",
+            "def": ""
+          },
+          {
+            "phrase": "subject to",
+            "def": ""
+          },
+          {
+            "phrase": "used to",
+            "def": ""
+          },
+          {
+            "phrase": "even though",
+            "def": ""
+          }
+        ]
+      }
     },
     "Text3": {
       "passage": {
@@ -5896,7 +12456,101 @@ const ENGLISH_DATA = {
           "explanation": ""
         }
       ],
-      "translation": ""
+      "translation": "",
+      "vocab": {
+        "words": [
+          {
+            "word": "relationship",
+            "form": "relationship",
+            "phonetic": "",
+            "meaning": "n. 关系；关联 / n. 关系， 联系"
+          },
+          {
+            "word": "form",
+            "form": "formal",
+            "phonetic": "/fom/",
+            "meaning": "形状"
+          },
+          {
+            "word": "education",
+            "form": "education",
+            "phonetic": "",
+            "meaning": "n. 教育,培养"
+          },
+          {
+            "word": "economical",
+            "form": "economic",
+            "phonetic": "/ˌiːkəˈnɒmɪkl/",
+            "meaning": "经济的；节俭的"
+          },
+          {
+            "word": "growth",
+            "form": "growth",
+            "phonetic": "/gtsbe/",
+            "meaning": "生长"
+          },
+          {
+            "word": "country",
+            "form": "countries",
+            "phonetic": "",
+            "meaning": "n. 国家；农村,乡下"
+          },
+          {
+            "word": "alike",
+            "form": "alike",
+            "phonetic": "/əˈlaɪk/",
+            "meaning": "相似的；同样地"
+          },
+          {
+            "word": "progress",
+            "form": "Progress",
+            "phonetic": "/ˈprəʊɡres/",
+            "meaning": "进步；进展"
+          },
+          {
+            "word": "bother",
+            "form": "both",
+            "phonetic": "/「bo6a(r)/",
+            "meaning": "打扰"
+          },
+          {
+            "word": "undoubtedly",
+            "form": "undoubtedly",
+            "phonetic": "/An「 dautrdli/",
+            "meaning": "无疑"
+          },
+          {
+            "word": "necessary",
+            "form": "necessary",
+            "phonetic": "",
+            "meaning": "adj. 必要的；必需的；必然的 n. 必需品"
+          },
+          {
+            "word": "forest",
+            "form": "for",
+            "phonetic": "/ˈfɒrɪst/",
+            "meaning": "森林"
+          }
+        ],
+        "phrases": [
+          {
+            "phrase": "depend on",
+            "def": ""
+          },
+          {
+            "phrase": "subject to",
+            "def": ""
+          },
+          {
+            "phrase": "prior to",
+            "def": ""
+          },
+          {
+            "phrase": "be able to",
+            "def": ""
+          }
+        ]
+      }
     },
     "Text4": {
       "passage": {
@@ -5970,14 +12624,177 @@ const ENGLISH_DATA = {
           "explanation": "［精准定位］ 文首 三 段 重点 分析受过良好教育的移民；末两段则 着 力分析未受良好教育的移民，其\n中又分为 秉持宗教 迷信思想的移民和抱有实际生存目的的移民 。由 此可见， 新英格 兰 早期移民来自不\n同 文 化 背 景 ，［ CJ 正确 。\n     ［命题解密］ 正确项［ CJ 中 diffe re nt intell ectual backgrounds 是 对本文所述 三 类移民 的受教育水平、\n宗教信 仰和 经济动 机 等信息 的 概括 。\n     [ A ］ 对首段和第 三 段 的 p o l i ti ca l l ead e r s 以偏概全，新英格 兰 的 早期定居者中 既 有像 J o hn Winthrop\n这样的政 治领 袖，也 有 牧师以及占移民总数大部分的手 工 业 者、农民等，显然这些人并未从事政治活动 。\n[BJ 根据第 四 段④至⑥句关于“ J o hn Dan e 受 到 《圣经》 感召移民新大陆”的故 事 设 置 干扰，但类 似 受 到 宗\n教激励 而 移民的人仅占一部分 ， 第五段 也明确指出 有许多 人移 民是为了“捕鱼”（谋生） 。［ DJ 源自第 四段\n②句 fe w . .. left litera r y compos itions to be a na l yz e d ，但该句意指 未受良好教育移民没留下 什么书面作 品\n供 后 人 研究， 而 非所有移民，且第 三 段 ③ 句明 确 指 出 受 良 好教育移民大量著书立 作 （供后 人 参考）。\n       ［技巧总结］ 解答全局题应首先明 确 考查对象是 论 述对象整 体还 是其 中 某 一 分类 ， 若为 论述对 象整\n体，则 对于仅涉及群 体 中某 一类 细 节信息 的 选项可直接 排 除 。 然后，结合文 章主 旨和 各 段 落 中心 等主干\n内 容，筛选出概括合理 的 选项 。 本题针对新英格兰早期移民这一群 体 整体发 问 ，因 此 可 排除 仅是其 中 某\n一类 移民特点 的 ［ A ］、［町、［ DJ 选琐，可直接得 到 正确答案 ［ CJ 。\n                                        19 至 20 世纪的文化人类学理论                                                           外教朗读\n斗士._&fjji_tlj\n       文章节选自数字多媒 体 百科全书 E nca rta“社会学 和 社会改革”（ Sociology and Social Re form ） 条 目下\n“文 化 ”类 的 一 篇文章。本文按 照时间顺 序 介 绍了 1 9 至 20 世纪 五 种 文 化人 类学理 论 ，并 对 各 相 关理 论\n进 行了对 比分析 。 脉 络 ： 介绍 1 9 世 纪 的 两 种进化 理 论 （→、二 段 ） 一一介 绍 20 世 纪 的 历史 特 殊 论 （ 三 、四\n段） 一一介 绍与之对 立 的 文 化 传播 论 （五 、 六 段 ） 。\n；如 二．语撞金析\n        I O Coinciding(         wit h t he groundbreaking® t heory of\n                                                                                     在英国博物学家查尔斯 · 达尔文于\nbiologica l evoluti on pro posed by Briti s h naturalist(          Charles     19 世纪 60 年代提出开创性生物进化论\nDarwin in th e 1860s, Briti s h social phi loso pher H erbert                  的同时，英国社会哲学家赫伯特 · 斯宾\nSpencer put for ward his ow n t heo ry of biologica l and cultural             塞也提出了自己的生物和文化进化理\nevo luti on. @ Spencer arg ued t hat all worldly® ph enom ena,                 论 。 其斤宾塞认为，世间万象，包括人类社\n111 cludi ng hum an societ ies , cha nged over time, adva ncing                会，都随着时间而变化，趋向完善 。 41.\ntowa rd perfection@. ,[l.\n                                            ； 二：司主注：需要丰：旬分玩：•：： d\n( coincide [, k;,o m'sard] v . （尤指因巧合） 同时 发生 ； （想              $     ( naturalist [ 1metJ cJ rcJ l1st ］ η ． 博 物 学家\n  法、观点等）丰l\n( gr     d 叫<ing 阳md, b r它r l仨\n       Coinciding with the groundbreaking theory of biological evolution proposed by British naturalist Charles\nDarwin in the 1860s , British social philosopher Herbert Spencer put forward his own theory of biological and\ncultural evolution.\n                        proposed by British natu ralist Charles Darwin in the 1860s ,\n                                                    过去分词短语做定语\n         Coinciding with the groundbreaking          theo 「y   of biological evolution\n                                                    现在分词短语做状i吾\n       句子主干 ： I    Herbert Spencer put forward his own theo「Y\n                          主i吾                  i胃i吾宾i吾\n                                同f立i吾\n          British socia l philosopher                     of biological and cultu ral evolution .\n功能注释： 句首现在分词 Co inc iding with 做伴随状 语， 引 出与 达 尔文生 物进化论同时 期发表、且 观 点一\n致的另 一 理论，并将重点落 脚 于该 理论。\n                                                      ：：：－话：篇介护； J\n      第 一 段介绍斯宾塞的理论。 首句由达尔文 的 “生 物进化论”引出 斯宾塞 的 “生 物 和文 化进化论 ”。\nCo inciding w i t h 含两重意思 ： 一 、同时 发生， 即两种 理论 发表 时期相同 （ in the 1 860s ） ； 二 、 （ 想 法或 观 点） 相\n符、 一 致， 即 两种理论有 一 致之处，借由 二 人 身 份 对 比 （ naturalis t VS social phil o so ph e r ） 和理论词 汇 对比\n可知l 两理论均涉及生物进化，但斯宾塞的理 论 还涉及文 化进化 ，二者 相 异 之处 往往是后文 的 论述重点 。\n② 句进 而 阐述斯宾 塞 的理论， 包 含 三 个要点 ： 一 、 a ll worldly ph e nom ena 囊 括世间 万象（ wor l d l y 意为“与\n我 们 生活 的 物质世界有关的勺 ， 表明斯宾塞 认 为 进化 具 有 普 遍性 ， 不 仅 包括 “生 物进化”， 还 包 括“ 人 类社\n会的进 化 ”，明确首句所述“文 化进化 ”的 内 涵 ； 二 、 c ha nge d ove r time 表 明进化 一 直发生，是 一 个 持续 的过\n程； 三 、 advanc ing towa rd pe rf ect io n 说明进 化的 方 向“ 完美 、极致 飞 理论关键词 为 evo lution/ a ll worldl y\nphenom ena/ p e rfect i o n 。 注意，观点 引 出词 a rg u e 暗示 斯 宾塞 的观 点有争 议 ， 作 者并 非 完全赞 同 。 随 后为\n空 4 1 ，可能继续阐释斯 宾塞 的进 化 理论， 也可能 对该理论进行 评 价 ， 明确作 者态度。\n         JI   O Am erican socia l scient ist Lewis                   H enr y\n                                                                                            美国社会科学家刘易斯·亨利·摩尔根\nMorga n introduced( ano ther theor y of cultu ra l evolution\n                                                                                    在 19 世纪末提出了另一种文化进化理论 。 摩\nin t he late 1800s. @ Morga n he lped found mod ern\n                                                                                    尔根帮助创立了现代人类学 一一－对人类社会、\nanthropology<2l- th e scientifi c stud y of human soc iet ies ,\n                                                                                    习俗和信仰的科学研究 一一 因此成为最早的\ncustoms a nd beli efs- t hu s becoming one of t he ea rli es t\n                                                                                    人类学家之一 。 在他的著作中 ， 他试图说明文\nanthropologists( . @In hi s wo rk , he attemp ted to show\n                                                                                    化的各个方面是如何随着社会的进化而共同\nhow a ll aspects of cul t ure changed together in the\n                                                                                    发生变化的。 42.\nevo luti on o f societies. 42 .\n                                                                                                J\n                                                                      释\n                                                                                难\n                                                                                     分\n                                                                                     …\n                                                                                     析\n                                                                   注 －\n                                                                      … －\n                                                                            与\n                                                                                    旬\n                                                      词 …\n                                                            …\n                                                                                …\n                                                            「」 …\n                                                                                            －\n                                                                                        …\n                                                                                ，\n( introduce [ mtra1dju:s] v . 提出，引人\n( anthropology [ ，配 n 8 ra'pol ad3 1 ] n. 人类学                            ;1 ( anthropologist [ 1 记n8ra pol ad31st ］ η．\n                                                                                人类学家\n                                                                                                        I\n                                                       I ~）~：第分析＜ 1'\n      第二段介绍摩尔根的文化进化理论。 首句 引 11＼ 另 一 人物 Morgan 及其“文 化进化 理论 ”， a nother theory\nof cult ura l evo luti on 复 现 首段关键词“文 化进 化”， 表 明 摩 尔根的观 点是 对 斯宾塞 观 点 的 继承 和 发展。②句\n介 绍摩尔根的学术成就并具 体介 绍 现代人 类学 的研 究 内 容 ，为 下文 介绍 其 观 点 铺 垫。③ 句进而介 绍其 理\n论要点 ， 亦可分 三 个要点来理解 ： 一 、 a ll aspects of c ulture 表 明 摩尔 根的 关注点较 之斯宾塞 的 “ 监间万物”更\n具体， 深入 到 文 化 的各 个 方面，借 ② 句 现代人类学 的 主要 研 究 内 容 可知， “文 化的 各 个 方 面 ”具 体 涉及 人 类\n社会 、 习俗 和 信 仰 等 ； 二 、 cha nged toget h e r 表 明 文 化 各 个 方 面 共 同 发生变 化， 并 非部分 变 化、部分 不变 ； 三 、\nevolution of soci et i es 出 明人类社会在不 断进化 之 中， 与 上段 ② 句斯 宾塞 的观 点“ 人 类 社 会 随时间而 不 断 变\n化”一 致 。 综合可 知 ， 二 人均强调 “社会在 进化 ” ，但斯 宾塞 认为“进化的 方 向 是 （通过 弱 肉强 食 而） 趋于完\n美”，摩尔根 则 并未 明确强调进化的 方 向和 方式。 理论关键词 all aspects of culture/ evolution 。 随后 为 空’钮 ，\n可 能 具 体阐 释“文 化各 个 方面 的进化过 程” ，也可能 发表 作 者看 法 。\n       圆 。 In t he ea rl y 1900s in North Ameri ca,                                         在 20 世纪初期的北美，德裔美国人类学\nGer ma n- bo rn     A meri ca n   ant hro po logist    Franz             Boas       ， 家弗朗茨·博尼斯详尽阐述了一种新的文化\ndeveloped ( a new th eory of cul t ure know n as hi stori ca l                      情 理论，被称作历史特殊论 。 历史特殊论强调所\npart icul ari sm.   @Hi s torica l   particularism® ,              which\nemph as ized the uniqu eness of a ll cultures, gave n巳W                 有文化的独特性，为人类学指明了新方向 。\ndirec t ion to a nth ropo logy. 43.                     .               43.\n                                             : .词汇注释与难旬分析： ： J\n( develop [ d 1 1 叩p] V. 详尽 阐述 ， 阐明 （ 想 法或 观点）                ~   @ p缸ticul缸ism ［ 阳＇t 1kjul衍I Z\n                                                    ；．语篇分析二 J\n       第三段引出历史特殊论和文化传播论。 首句引出另一人类学家及其理论：博厄斯的历史特殊论 。 a\nnew theory of c ult ure 不 同于前两段 复 现的 theory of culture revolution ，表明博厄斯并非补充或深化之前两\n种理论，而 是另起炉灶 ，创 建－ 种 全新 的、与前两种理论有本质区别的文化理论 。② 句概括指出历史特 殊\n论的理论要点“强 调所 有文 化都 具有 独特性”并说明其学术意义 “为 人类 学发展指 明新方向”； a ll cultures\n表明博厄斯将不同文 化 看 成相互独 立 的个体来探究其独特性，相比斯 宾塞将“ 世间万物”笼统归 于“文 化 ”、\n摩尔 根将 文 化看 作 是一个包 含 不同方面的整体，足 见博厄斯研 究视角的 创 新， new direction 复 现 n ew ，给博\n厄斯自成一 派的 全；所理论以肯·定。 理论关键词 uniqueness （近义解释 particularism ） 。 随后为 空心，② 句显\n然未具体展现历史特殊论，故就目前行文 看 ，选项很 可能继 续阐释该理论，如引述、举例等 。\n       N Boas felt t ha t the culture of an y society mu st              博尼斯认为任何社会的文化都必须被理解\nb e und er stood as th e res ult of a unique hi s tory and\n                                                                  为某一独特历史的产物，而不是同属于某一更广\nnot as one of m any cul t u r es belonging to a broad er\n                                                                  义的进化阶段或者文化类型的许多文化之一 。\nevolu tiona ry stage o r typ e o f culture. 44 ."
         }
       ],
-      "translation": ""
+      "translation": "",
+      "vocab": {
+        "words": [
+          {
+            "word": "mostly",
+            "form": "most",
+            "phonetic": "",
+            "meaning": "adv. 主要地， 大部分， 通常"
+          },
+          {
+            "word": "thorough",
+            "form": "thoroughly",
+            "phonetic": "/「9Ara/",
+            "meaning": "彻底的；精心的"
+          },
+          {
+            "word": "intellectual",
+            "form": "intellectuals",
+            "phonetic": "",
+            "meaning": "知识分子"
+          },
+          {
+            "word": "history",
+            "form": "history",
+            "phonetic": "/「hstri/",
+            "meaning": "历史；学；来历；经历"
+          },
+          {
+            "word": "minister",
+            "form": "ministers",
+            "phonetic": "",
+            "meaning": "n. 部长；大臣；牧师 v. 执行牧师职务；辅助或伺候某人"
+          },
+          {
+            "word": "political",
+            "form": "political",
+            "phonetic": "/pahHtug/",
+            "meaning": "政治的"
+          },
+          {
+            "word": "leadership",
+            "form": "leaders",
+            "phonetic": "",
+            "meaning": "n. 领导能力；领导阶层 / n. 领导"
+          },
+          {
+            "word": "century",
+            "form": "century",
+            "phonetic": "/ˈsentʃəri/",
+            "meaning": "世纪；百年"
+          },
+          {
+            "word": "accord",
+            "form": "According",
+            "phonetic": "",
+            "meaning": "一致"
+          },
+          {
+            "word": "to",
+            "form": "to",
+            "phonetic": "",
+            "meaning": "科学家"
+          },
+          {
+            "word": "standard",
+            "form": "standard",
+            "phonetic": "/「stsendad/",
+            "meaning": "品质的"
+          },
+          {
+            "word": "nowhere",
+            "form": "nowhere",
+            "phonetic": "",
+            "meaning": "adv. 任何地方都不， 没有地方 <"
+          }
+        ],
+        "phrases": []
+      }
     },
     "NewType": {
       "passage": {
         "en": "Part B Directions: In the following text, some segments have been removed. For Questions 41-45, choose the most suitable one from the list A-G to fit into each of the numbered blanks. There are two extra choices, which do not fit in any of the blanks. Mark your answers on ANSWER SHEET 1. ( 10 points) Coinciding with the groundbreaking theory of biological evolution proposed by British naturalist Charles Darwin in the 1860s, British social philosopher Herbert Spencer put forward his own theory of biological and cultural evolution. Spencer argued that all worldly phenomena, including human societies, changed over time, advancing toward perfection. ( 41) --------- American social scientist Lewis Henry Morgan introduced another theory of cultural evolution in the late 1800s. Morgan helped found modem anthropology­ the scientific study of human societies, customs and beliefs-thus becoming one of the earliest anthropologists. In his work, he attempted to show how all aspects of culture changed together in the evolution of societies. ( 42) --------- In the early 1900s in North America, German-born American anthro- pologist Franz Boas developed a new theory of culture known as historical particularism. Historical particularism, which emphasized the uniqueness of all cultures, gave new direction to anthropology. ( 43) Boas felt that the culture of any society must be understood as the result of a unique history and not as one of many cultures belonging to a broader evolutionary stage or type of culture. ( 44) ----- - - -- Historical particularism became a dominant approach to the study of culture in American anthropology, largely through the influence of many students of Boas. But a number of anthropologists in the early 1900s also rejected the particularist theory of culture in favor of diffusionism. Some attributed virtually every important cultural achievement to the inventions of a few, especially gifted peoples that, according to diffusionists, then spread to other cultures. ( 45) --------- A Iso in the early 1900s, French sociologist Emile Durkheim developed a theory of culture that would greatly influence anthropology. Durkheim proposed that religious beliefs functioned to reinforce social solidarity. An interest in the relationship between the function of society and culture became a major theme in European, and especially British, anthropology. A. Other anthropologists believed that cultural innovations, such as inventions , had a single origin and passed from society to society. This theory was known as diffusionism. B. In order to study particular cultures as completely as possible, he became skilled in linguistics, the study of languages, and in physical anthropology, the study of human biology and anatomy. C. He argued that human evolution was characterized by a struggle he called the \"survival of the fittest,\" in which weaker races and societies must eventually be replaced by stronger, more advanced races and societies. D. They also focused on important rituals that appeared to preserve a people's social structure, such as initiation ceremonies that formally signify children's entrance into adulthood. E. Thus, in his view, diverse aspects of culture, such as the structure of families, forms of marriage, categories of kinship, ownership of property, forms of government, technology, and systems of food production, all changed as societies evolved. F. Supporters of the theory viewed culture as a collection of integrated parts that work together to keep a society functioning. G. For example, British anthropologists Grafton Elliot Smith and W. J. Perry incorrectly suggested, on the basis of inadequate information, that farming, pottery making, and metallurgy all originated in ancient Egypt and diffused throughout the world. In fact, all of these cultural developments occurred separately at different times in many parts of the world.",
         "zh": ""
       },
-      "questions": []
+      "questions": [],
+      "vocab": {
+        "words": [
+          {
+            "word": "partly",
+            "form": "Part",
+            "phonetic": "",
+            "meaning": "adv. 部分地,不完全地,在一定程度上 / adv. 部分地；在一定程度上"
+          },
+          {
+            "word": "direction",
+            "form": "Directions",
+            "phonetic": "/dsregJaydrydar/",
+            "meaning": "方向"
+          },
+          {
+            "word": "following",
+            "form": "following",
+            "phonetic": "",
+            "meaning": "adj. 其次的，接着的；下列的，下述的 / adj. 接着的， 下列的"
+          },
+          {
+            "word": "texture",
+            "form": "text",
+            "phonetic": "",
+            "meaning": "n. 质地；纹理；结构；本质，实质 / n. 质地， 纹理， 结构"
+          },
+          {
+            "word": "segment",
+            "form": "segments",
+            "phonetic": "",
+            "meaning": "v. 分割 n. 段；部分 / n. 段； 片； 节；部分"
+          },
+          {
+            "word": "remove",
+            "form": "removed",
+            "phonetic": "",
+            "meaning": "v. 移动；脱掉；免职 / v. 移动，迁移；开除；调动 n. 移动；距离；搬家"
+          },
+          {
+            "word": "forest",
+            "form": "For",
+            "phonetic": "/ˈfɒrɪst/",
+            "meaning": "森林"
+          },
+          {
+            "word": "mostly",
+            "form": "most",
+            "phonetic": "",
+            "meaning": "adv. 主要地， 大部分， 通常"
+          },
+          {
+            "word": "suitable",
+            "form": "suitable",
+            "phonetic": "/r「surtabl/",
+            "meaning": "合适的"
+          },
+          {
+            "word": "to",
+            "form": "to",
+            "phonetic": "",
+            "meaning": "科学家"
+          },
+          {
+            "word": "blank",
+            "form": "blanks",
+            "phonetic": "",
+            "meaning": "空自的"
+          },
+          {
+            "word": "extra",
+            "form": "extra",
+            "phonetic": "",
+            "meaning": "adv. 特别地，非常；另外 n. 临时演员；号外；额外的事物；上等产品 adj. 额外的，另外收费的；特大的"
+          }
+        ],
+        "phrases": [
+          {
+            "phrase": "in favor of",
+            "def": ""
+          },
+          {
+            "phrase": "on the basis of",
+            "def": ""
+          }
+        ]
+      }
     },
     "Translation": {
       "sentences": [
@@ -6013,7 +12830,11 @@ const ENGLISH_DATA = {
         "",
         "",
         ""
-      ]
+      ],
+      "vocab": {
+        "words": [],
+        "phrases": []
+      }
     }
   },
   "2010": {
@@ -6143,7 +12964,84 @@ const ENGLISH_DATA = {
           "surpassing",
           "hitting"
         ]
-      ]
+      ],
+      "vocab": {
+        "words": [
+          {
+            "word": "national",
+            "form": "National",
+            "phonetic": "",
+            "meaning": "adj. 国家的；国民的；民族的；国立的 n. 国民"
+          },
+          {
+            "word": "council",
+            "form": "Council",
+            "phonetic": "",
+            "meaning": "n. 委员会；会议；理事会；地方议会；顾问班子 / n. 理事会， 委员会， 议事机构"
+          },
+          {
+            "word": "sentence",
+            "form": "sent",
+            "phonetic": "/「sentons/",
+            "meaning": "句子"
+          },
+          {
+            "word": "to",
+            "form": "to",
+            "phonetic": "",
+            "meaning": "科学家"
+          },
+          {
+            "word": "supervise",
+            "form": "supervise",
+            "phonetic": "",
+            "meaning": "v. 管理,监督 / v. 监督，管理；指导 / v. 管理， 监督"
+          },
+          {
+            "word": "experiment",
+            "form": "experiments",
+            "phonetic": "",
+            "meaning": "v. 尝试；进行实验 n. 实验，试验；尝试"
+          },
+          {
+            "word": "telephone",
+            "form": "telephone",
+            "phonetic": "",
+            "meaning": "n. （美）电话；电话机；电话耳机 v. 打电话"
+          },
+          {
+            "word": "partly",
+            "form": "parts",
+            "phonetic": "",
+            "meaning": "adv. 部分地,不完全地,在一定程度上 / adv. 部分地；在一定程度上"
+          },
+          {
+            "word": "factory",
+            "form": "factory",
+            "phonetic": "",
+            "meaning": "n. 工厂 / n. 工厂；制造厂；代理店"
+          },
+          {
+            "word": "call",
+            "form": "called",
+            "phonetic": "",
+            "meaning": "v. 叫，喊；打电话；把…叫作；叫，喊 n. 叫声；号召"
+          },
+          {
+            "word": "plant",
+            "form": "Plant",
+            "phonetic": "/plamnt/",
+            "meaning": "n. 工厂，车间；植物；设备；庄稼 v. 种植；培养；栽培；安置"
+          },
+          {
+            "word": "hopeful",
+            "form": "hoped",
+            "phonetic": "/ˈhəʊpfl/",
+            "meaning": "有希望的"
+          }
+        ],
+        "phrases": []
+      }
     },
     "Text1": {
       "passage": {
@@ -6217,7 +13115,97 @@ const ENGLISH_DATA = {
           "explanation": ""
         }
       ],
-      "translation": ""
+      "translation": "",
+      "vocab": {
+        "words": [
+          {
+            "word": "newspaper",
+            "form": "newspapers",
+            "phonetic": "",
+            "meaning": "n. 报纸"
+          },
+          {
+            "word": "durable",
+            "form": "during",
+            "phonetic": "/「diuarabl/",
+            "meaning": "耐用的；持久的"
+          },
+          {
+            "word": "past",
+            "form": "past",
+            "phonetic": "",
+            "meaning": "n. 过去；往事 adj. 过去的；结束的 prep. 越过；晚于 adv. 过；经过"
+          },
+          {
+            "word": "century",
+            "form": "century",
+            "phonetic": "/ˈsentʃəri/",
+            "meaning": "世纪；百年"
+          },
+          {
+            "word": "mostly",
+            "form": "most",
+            "phonetic": "",
+            "meaning": "adv. 主要地， 大部分， 通常"
+          },
+          {
+            "word": "hasty",
+            "form": "has",
+            "phonetic": "/「hersti/",
+            "meaning": "匆忙的"
+          },
+          {
+            "word": "scope",
+            "form": "scope",
+            "phonetic": "",
+            "meaning": "n. 范围；余地；视野；眼界；导弹射程 v. 审视 / n. 范围；机会； 余地"
+          },
+          {
+            "word": "artist",
+            "form": "arts",
+            "phonetic": "/ˈɑːtɪst/",
+            "meaning": "艺术家；画家"
+          },
+          {
+            "word": "difficult",
+            "form": "difficult",
+            "phonetic": "/「drtfikalt/",
+            "meaning": "困难的；费力的；不友好的；难相处的；难对付的"
+          },
+          {
+            "word": "to",
+            "form": "to",
+            "phonetic": "",
+            "meaning": "科学家"
+          },
+          {
+            "word": "forest",
+            "form": "for",
+            "phonetic": "/ˈfɒrɪst/",
+            "meaning": "森林"
+          },
+          {
+            "word": "average",
+            "form": "average",
+            "phonetic": "/「aevarId3/",
+            "meaning": "平均数；三个数的平均数是；一般水平"
+          }
+        ],
+        "phrases": [
+          {
+            "phrase": "appeal to",
+            "def": ""
+          },
+          {
+            "phrase": "fail to",
+            "def": ""
+          },
+          {
+            "phrase": "used to",
+            "def": ""
+          }
+        ]
+      }
     },
     "Text2": {
       "passage": {
@@ -6291,7 +13279,93 @@ const ENGLISH_DATA = {
           "explanation": "［ 精准定位］ 第 一 、 二 段引 出现 象 C 11fJ 全文主 题）“最高专利法庭意欲减少商业方法 专 利的 授予” ； 第\n三 、 12!1 段评价现 象“这是专 利 法庭 的 1 80 度态度大逆转”；第五段分 析现 象原因“应最高法院反（商 业方\n法）专 利 趋势 而为” 。 由 此 可见，全文围绕“法庭准备对商 业方 法专 利做出限制”展开论述， ［ A ］ 正确 。\n       ［ 命题解密 ］ 正确项 ［ A］ 是对全文主题 的 最 佳综合概括 。其 中 l oo ming 对应 文 中 appears ready to\n . wou ld use ... has th e potent ia l . . . wo uld be ． ．．所 反映 出来的 “逼 近的 ，潜 在的”之 意。\n       [ BJ 故意遗漏了主题关键词“限 制” ，全文论述的是“限 制对商业 方法专 利持有人的保护”，而非“保护”\n本身 。［ CJ 错将细节当作主题，其次文中不仅仅讨论 A legal case （ 一 个法律案例）而是讨论了 In re B凶缸，\nSta te St reet case （两个法律案 例），而且对它们的论述都 是 为了证明商业方法专利面临威胁 。［ DJ 将“商业 方\n法专利受到的威胁是‘潜在的（ potential) ＇”偷换为“普遍的（ prevailing）”；最后两段虽然涉及法院的新举措，\n但该举措是 对最高法院反专利趋势的 一 个回应，尚处于行动的初期，未到“普遍、占优势”的地步 。\n      ［技巧总结］ 主旨题 ff)!（， 题技巧在仔细辨 别选项 信息，尤其是选项与原文相关句的结构和词汇相 似\n时，更 要注意是否 有关键词被偷换 。 这种干扰法往往利用考生时间紧，来不及细 看 ，或不把选项读到底\n的倾向 。 女日本题 ［ DJ 项若不去1H i卖， 很容易误选 。 但文中法院还未对相关案件做出明确裁决，因此商业方法\n专 利受到的威胁和反对尚未“普遍、盛行” 。其 次，贯穿全文表可能性的同语和l 将来时态（ appears ready to\n  . wou ld use . . . ha s th e pote ntial . . . would be ．．．）也说明了这 一 点 。\n   回踊姐E\n   ...司~\"'IC_~"
         }
       ],
-      "translation": ""
+      "translation": "",
+      "vocab": {
+        "words": [
+          {
+            "word": "past",
+            "form": "past",
+            "phonetic": "",
+            "meaning": "n. 过去；往事 adj. 过去的；结束的 prep. 越过；晚于 adv. 过；经过"
+          },
+          {
+            "word": "decade",
+            "form": "decade",
+            "phonetic": "",
+            "meaning": "n. 十年，十年期；十 / n. 十年"
+          },
+          {
+            "word": "thousand",
+            "form": "thousands",
+            "phonetic": "/「0aUznd/",
+            "meaning": "千"
+          },
+          {
+            "word": "patent",
+            "form": "patents",
+            "phonetic": "/「petnt/",
+            "meaning": "专利"
+          },
+          {
+            "word": "forest",
+            "form": "for",
+            "phonetic": "/ˈfɒrɪst/",
+            "meaning": "森林"
+          },
+          {
+            "word": "call",
+            "form": "called",
+            "phonetic": "",
+            "meaning": "v. 叫，喊；打电话；把…叫作；叫，喊 n. 叫声；号召"
+          },
+          {
+            "word": "method",
+            "form": "methods",
+            "phonetic": "",
+            "meaning": "n. 方法,办法 / n. 方法；条理；类函数 adj. 使用体验派表演方法的"
+          },
+          {
+            "word": "comment",
+            "form": "com",
+            "phonetic": "",
+            "meaning": "v. 注释； 评论 n. 注释； 评论； 意见"
+          },
+          {
+            "word": "click",
+            "form": "click",
+            "phonetic": "",
+            "meaning": "呈嗣声"
+          },
+          {
+            "word": "legal",
+            "form": "legal",
+            "phonetic": "",
+            "meaning": "adj. 法律的,法定的;合法的,正当的 / adj. 法律的；合法的；法定的；依照法律的 n. (Legal)人名；(法)勒加尔 / adj. 法律的； 法定的 <；合法的， 正当的"
+          },
+          {
+            "word": "strategy",
+            "form": "strategy",
+            "phonetic": "",
+            "meaning": "n. 战略，策略 / n. 战略， 策略"
+          },
+          {
+            "word": "technique",
+            "form": "technique",
+            "phonetic": "",
+            "meaning": "n. 技巧，手艺，工艺；技能，技术 / n. 技巧，技术；手法"
+          }
+        ],
+        "phrases": [
+          {
+            "phrase": "rather than",
+            "def": ""
+          },
+          {
+            "phrase": "in the wake of",
+            "def": ""
+          }
+        ]
+      }
     },
     "Text3": {
       "passage": {
@@ -6365,7 +13439,101 @@ const ENGLISH_DATA = {
           "explanation": "［精准定位］ 由题干 关键 词 th e dyn amics of social inf! u e n ce 定位 到第五段，此段首先介绍研究方式：\n其中具体操作为分析“影响他人的能力”和“被他人影响的倾向”相关变 量 ，随 即指出研 究发现：影 响得以\n广泛传播的最主要条件是大批易 受影 H白人群的 参与。可见，社会影 H向动态变化的 关键要素是有很多人\n愿意受到影 II［句（题干 es sent\n    ［命题解密］ 正确 I页 ［ CJ 对应 ① 句 t e nden cy to be inflt』巳n cecl 、 ② 句 ea sily inf! u e n ced 。\n     [ A ］ 将“易受影响”过度解 读为“渴望 被接纳” 。［ BJ 将 实验控 制变 量 “影响他人的能力”偷换成“影响\n他人的冲动 ／愿望” 。［ DJ 将“易被他人 影 II［句的倾向”曲解为 “ 倾向依赖他人” 。\n    ［技巧总结］ 命题人借 第五段所述 “研究结论” 考查“全文主 旨” 。 解题时需要： 一 、提炼研究结论 ／ 发\n现，初步得出答案； 二 、利用 全文论 证结构找到文中各观点之间 关系 ， 检验答案是否符合其间关系。\n    如本题，首先根据题干 定位至第五段 所关注研究的结论： ① 句介绍研究对象、研究方法、 具 体操作；\n② 句才是研究结论句（ found 是观点 表达 词） , essential e l em e nt： 对应 principal requirem ent, cr itical ，句子\n以 no t of ... but , rat her, of. ..取 舍结构强 调 了 社 会影 响 动态变 化中的重 要因素 a criti ca l mass of eas il y\ninflu enced peop l e 。将 四项 与 之相 较 ，唯 有［ CJ 与之 一 致 。最 后 ， 借助作者对 Gl ad we ll 观 点 的 反驳态度，\n可 排 除 “强调 影 响他 人 能 力吨甘 ［町， 以 及与本文探讨对 象无关 的 ［ A］ 、 ［ D] o\n   回主部血E团\n   团：那略\n      知识补充"
         }
       ],
-      "translation": ""
+      "translation": "",
+      "vocab": {
+        "words": [
+          {
+            "word": "tip",
+            "form": "Tipping",
+            "phonetic": "/tɪp/",
+            "meaning": "提示；小费；尖端"
+          },
+          {
+            "word": "social",
+            "form": "social",
+            "phonetic": "/ˈsəʊʃl/",
+            "meaning": "社会的；社交的"
+          },
+          {
+            "word": "driver",
+            "form": "driven",
+            "phonetic": "",
+            "meaning": "n. 驾驶员；驱动程序；起子；传动器"
+          },
+          {
+            "word": "largely",
+            "form": "large",
+            "phonetic": "",
+            "meaning": "adv. 主要地；大部分；大量地 / adv. 主要地， 基本上；大量地， 大规模地"
+          },
+          {
+            "word": "partly",
+            "form": "part",
+            "phonetic": "",
+            "meaning": "adv. 部分地,不完全地,在一定程度上 / adv. 部分地；在一定程度上"
+          },
+          {
+            "word": "tiny",
+            "form": "tiny",
+            "phonetic": "",
+            "meaning": "adj. 极小的,微小的 / adj. 微小的；很少的 n. (Tiny)人名；(葡、印)蒂尼"
+          },
+          {
+            "word": "minority",
+            "form": "minority",
+            "phonetic": "",
+            "meaning": "n. 少数民族；少数派；未成年 adj. 少数的；属于少数派的 / n. 少数， 少数派； 少数民族"
+          },
+          {
+            "word": "special",
+            "form": "special",
+            "phonetic": "",
+            "meaning": "adj. 特殊的，特别的 / n. 特使，特派人员；特刊；特色菜；专车；特价商品 adj. 特别的；专门的，专用的"
+          },
+          {
+            "word": "individual",
+            "form": "individuals",
+            "phonetic": "/【,mdr vIdsual/",
+            "meaning": "个的"
+          },
+          {
+            "word": "call",
+            "form": "called",
+            "phonetic": "",
+            "meaning": "v. 叫，喊；打电话；把…叫作；叫，喊 n. 叫声；号召"
+          },
+          {
+            "word": "influential",
+            "form": "influentials",
+            "phonetic": "/ˌɪnfluˈenʃl/",
+            "meaning": "有影响力的"
+          },
+          {
+            "word": "inform",
+            "form": "informed",
+            "phonetic": "",
+            "meaning": "v. (of,about)通知,告诉,报告 / v. 通知；告诉；报告 / vi. 告发， 告密 vt. 通知， 告诉， 报告"
+          }
+        ],
+        "phrases": [
+          {
+            "phrase": "rely on",
+            "def": ""
+          },
+          {
+            "phrase": "pay attention to",
+            "def": ""
+          },
+          {
+            "phrase": "seem to",
+            "def": ""
+          },
+          {
+            "phrase": "with the exception of",
+            "def": ""
+          }
+        ]
+      }
     },
     "Text4": {
       "passage": {
@@ -6439,14 +13607,190 @@ const ENGLISH_DATA = {
           "explanation": "三、解题思路可参考： ① 了解各段大意、洞悉全文结构（现象分析型、问题解决型、介绍说明型等）， ②\n提取各段路标词，初步判断段间联系，③确定首尾段，或从已给定段落入手，借助路标词和语义依次确定\n段落位置， ④ 纵 览 全篇，检验流 11局度 。\n    （一）通读全文，总结全文主旨。 由文中高频词汇 E u rope , big retai lers, the wholesa le food a nd drink\nmarket, profi t 可初步总结全文主旨：欧洲大型食品饮料零售商可从食品饮料批发市场获利 。\n    （二）从首段和已给出位 置 的段落入手，找到解题突破口。"
         }
       ],
-      "translation": ""
+      "translation": "",
+      "vocab": {
+        "words": [
+          {
+            "word": "blame",
+            "form": "blaming",
+            "phonetic": "",
+            "meaning": "v. 责备；归咎于 n. 责备；责任；过失"
+          },
+          {
+            "word": "forest",
+            "form": "for",
+            "phonetic": "/ˈfɒrɪst/",
+            "meaning": "森林"
+          },
+          {
+            "word": "trouble",
+            "form": "troubles",
+            "phonetic": "",
+            "meaning": "n. 麻烦；烦恼；故障；动乱 v. 麻烦；使烦恼；折磨"
+          },
+          {
+            "word": "scene",
+            "form": "scenes",
+            "phonetic": "",
+            "meaning": "n. 场面；情景；景象；事件"
+          },
+          {
+            "word": "aim",
+            "form": "aim",
+            "phonetic": "/emj/",
+            "meaning": "目的在于"
+          },
+          {
+            "word": "standard",
+            "form": "standard",
+            "phonetic": "/「stsendad/",
+            "meaning": "品质的"
+          },
+          {
+            "word": "ruler",
+            "form": "rules",
+            "phonetic": "/ˈruːlə(r)/",
+            "meaning": "尺子；统治者"
+          },
+          {
+            "word": "moan",
+            "form": "moan",
+            "phonetic": "",
+            "meaning": "v. 抱怨，悲叹；呻吟 n. 呻吟声；悲叹 / vi. 呻吟；抱怨， 发牢骚 n. 呻吟声， 呜咽声 A vt. 以呻吟声说出"
+          },
+          {
+            "word": "bank",
+            "form": "banks",
+            "phonetic": "/bseqk/",
+            "meaning": "岸；堤；银行；库；存人银行"
+          },
+          {
+            "word": "to",
+            "form": "to",
+            "phonetic": "",
+            "meaning": "科学家"
+          },
+          {
+            "word": "report",
+            "form": "report",
+            "phonetic": "",
+            "meaning": "n. 报告,汇报 v. 报道 / n. 报告；报道；成绩单 v. 报告；报导；使报到"
+          },
+          {
+            "word": "loss",
+            "form": "losses",
+            "phonetic": "/lɒs/",
+            "meaning": "损失；丢失"
+          }
+        ],
+        "phrases": [
+          {
+            "phrase": "result in",
+            "def": ""
+          }
+        ]
+      }
     },
     "NewType": {
       "passage": {
         "en": "[A] The first and more important is the consumer's growing preference for eating out: the consumption of food and drink in places other than homes has risen from about 32 percent of total consumption in 1995 to 35 percent in 2000 and is expected to approach 38 percent by 2005. This development is boosting wholesale demand from the food service segment by 4 to 5 percent a year across Europe, compared with growth in retail demand of 1 to 2 percent. Meanwhile, as the recession is looming large, people are getting anxious. They tend to keep a tighter hold on their purse and consider eating at home a realistic alternative. [B] Retail sales of food and drink in Europe's largest markets are at a standstill, leaving European grocery retailers hungry for opportunities to grow. Most leading retailers have already tried e-commerce, with limited success, and expansion abroad. But almost all have ignored the big, profitable opportunity in their own backyard: the wholesale food and drink trade, which appears to be just the kind of market retailers need. [CJ Will such variations bring about a change in the overall structure of the food and drink market? Definitely not. The functioning of the market is based on flexible trends dominated by potential buyers. In other words, it is up to the buyer, rather than the seller, to decide what to buy. At any rate, this change will ultimately be acclaimed by an ever-growing number of both domestic and international consumers, regardless of how long the current consumer pattern will take hold. [D] All in all, this clearly seems to be a market in which big retailers could profitably apply their gigantic scale, existing infrastructure, and proven skills in the management of product ranges, logistics, and marketing intelligence. Retailers that master the intricacies of wholesaling in Europe may well expect to rake in substantial profits thereby. At least, that is how it looks as a whole. Closer inspection reveals important differences among the biggest national markets, especially in their customer segments and wholesale structures, as well as the competitive d amics of individual food and drink categories. Big retailers must yn understand these differences before they can identify the segments of European wholesaling in which their particular abilities might unseat smaller but entrenched competitors. New skills and unfamiliar business models are needed too. [EJ Despite variations in detail, wholesale markets in the countries that have been closely examined -France, Germany, Italy and Spain - are made out of the same building blocks. Demand comes mainly from two sources: independent morn-and-pop grocery stores which, unlike large retail chains, are too small to buy straight from producers, and food service operators that cater to consumers when they don't eat at home. Such food service operators range from snack machines to large institutional catering ventures, but most of these businesses are known in the trade as \"horeca\": hotels, restaurants, and cafes. Overall, Europe's wholesale market for food and drink is growing at the same sluggish pace as the retail market, but the figures, when added together, mask two opposing trends. [F] For example, wholesale food and drink sales came to $ 268 billion in France, Germany, Italy, Spain, and the United Kingdom in 2000 - more than 40 percent of retail sales. Moreover, average overall margins are higher in wholesale than in retail; wholesale demand from the food service sector is growing quickly as more Europeans eat out more often; and changes in the competitive d amics of this yn fragmented industry are at last making it feasible for wholesalers to consolidate. [GJ However, none of these requirements should deter large retailers (and even some large food producers and existing wholesalers) from trying their hand, for those that master the intricacies of wholesaling in Europe stand to reap considerable gams.",
         "zh": ""
       },
-      "questions": []
+      "questions": [],
+      "vocab": {
+        "words": [
+          {
+            "word": "prefer",
+            "form": "preference",
+            "phonetic": "/prr fo:(r)/",
+            "meaning": "更喜欢；宁愿"
+          },
+          {
+            "word": "forest",
+            "form": "for",
+            "phonetic": "/ˈfɒrɪst/",
+            "meaning": "森林"
+          },
+          {
+            "word": "outer",
+            "form": "out",
+            "phonetic": "",
+            "meaning": "adj. 外面的，外部的；远离中心的 n. 环外命中 / adj. 外部的， 外面的， 外层的"
+          },
+          {
+            "word": "consumption",
+            "form": "consumption",
+            "phonetic": "",
+            "meaning": "n. 消费(量),消耗 / n. 消费；消耗；肺痨 / n. 消费， 消耗 <"
+          },
+          {
+            "word": "drink",
+            "form": "drink",
+            "phonetic": "",
+            "meaning": "v. 喝，饮；吸收；举杯庆贺 n. 酒，饮料；喝酒"
+          },
+          {
+            "word": "hasty",
+            "form": "has",
+            "phonetic": "/「hersti/",
+            "meaning": "匆忙的"
+          },
+          {
+            "word": "total",
+            "form": "total",
+            "phonetic": "",
+            "meaning": "总数"
+          },
+          {
+            "word": "to",
+            "form": "to",
+            "phonetic": "",
+            "meaning": "科学家"
+          },
+          {
+            "word": "expect",
+            "form": "expected",
+            "phonetic": "",
+            "meaning": "v. 预期；期望,指望 / v. 期望；指望；认为；预料"
+          },
+          {
+            "word": "boost",
+            "form": "boosting",
+            "phonetic": "",
+            "meaning": "v. 促进；增加；支援 n. 推动；帮助；宣扬 / vt. 鼓励， 促进；为…做广告， 宣扬 n. 推动； 促进"
+          },
+          {
+            "word": "demand",
+            "form": "demand",
+            "phonetic": "/drmarnd/",
+            "meaning": "要求；查问"
+          },
+          {
+            "word": "service",
+            "form": "service",
+            "phonetic": "",
+            "meaning": "服务；维修"
+          }
+        ],
+        "phrases": [
+          {
+            "phrase": "bring about",
+            "def": ""
+          },
+          {
+            "phrase": "rather than",
+            "def": ""
+          },
+          {
+            "phrase": "as well as",
+            "def": ""
+          },
+          {
+            "phrase": "tend to",
+            "def": ""
+          }
+        ]
+      }
     },
     "Translation": {
       "sentences": [
@@ -6462,7 +13806,11 @@ const ENGLISH_DATA = {
         "",
         "",
         ""
-      ]
+      ],
+      "vocab": {
+        "words": [],
+        "phrases": []
+      }
     }
   },
   "2011": {
@@ -6592,7 +13940,93 @@ const ENGLISH_DATA = {
           "Similarly",
           "Conversely"
         ]
-      ]
+      ],
+      "vocab": {
+        "words": [
+          {
+            "word": "section",
+            "form": "Section",
+            "phonetic": "",
+            "meaning": "n. 章节；部分；地区；部门， 科 A"
+          },
+          {
+            "word": "direction",
+            "form": "Directions",
+            "phonetic": "/dsregJaydrydar/",
+            "meaning": "方向"
+          },
+          {
+            "word": "reader",
+            "form": "Read",
+            "phonetic": "/ˈriːdə(r)/",
+            "meaning": "读者；读本"
+          },
+          {
+            "word": "following",
+            "form": "following",
+            "phonetic": "",
+            "meaning": "adj. 其次的，接着的；下列的，下述的 / adj. 接着的， 下列的"
+          },
+          {
+            "word": "texture",
+            "form": "text",
+            "phonetic": "",
+            "meaning": "n. 质地；纹理；结构；本质，实质 / n. 质地， 纹理， 结构"
+          },
+          {
+            "word": "forest",
+            "form": "for",
+            "phonetic": "/ˈfɒrɪst/",
+            "meaning": "森林"
+          },
+          {
+            "word": "blank",
+            "form": "blank",
+            "phonetic": "",
+            "meaning": "空自的"
+          },
+          {
+            "word": "view",
+            "form": "viewed",
+            "phonetic": "/wuz/",
+            "meaning": "景象"
+          },
+          {
+            "word": "laughter",
+            "form": "laughter",
+            "phonetic": "",
+            "meaning": "n. 笑；笑声 / n. 笑， 笑声"
+          },
+          {
+            "word": "exercise",
+            "form": "exercise",
+            "phonetic": "",
+            "meaning": "n. 运动；练习；运用；操练；礼拜；典礼 v. 锻炼；练习；使用；使忙碌；使惊恐"
+          },
+          {
+            "word": "to",
+            "form": "to",
+            "phonetic": "",
+            "meaning": "科学家"
+          },
+          {
+            "word": "claim",
+            "form": "claims",
+            "phonetic": "/kleɪm/",
+            "meaning": "声称；索赔；要求"
+          }
+        ],
+        "phrases": [
+          {
+            "phrase": "instead of",
+            "def": ""
+          },
+          {
+            "phrase": "rather than",
+            "def": ""
+          }
+        ]
+      }
     },
     "Text1": {
       "passage": {
@@ -6666,7 +14100,84 @@ const ENGLISH_DATA = {
           "explanation": ""
         }
       ],
-      "translation": ""
+      "translation": "",
+      "vocab": {
+        "words": [
+          {
+            "word": "to",
+            "form": "to",
+            "phonetic": "",
+            "meaning": "科学家"
+          },
+          {
+            "word": "hire",
+            "form": "hire",
+            "phonetic": "/ˈhaɪə(r)/",
+            "meaning": "雇用；租用"
+          },
+          {
+            "word": "director",
+            "form": "director",
+            "phonetic": "/dəˈrektə(r)/",
+            "meaning": "导演；主任；董事"
+          },
+          {
+            "word": "hasty",
+            "form": "has",
+            "phonetic": "/「hersti/",
+            "meaning": "匆忙的"
+          },
+          {
+            "word": "classical",
+            "form": "classical",
+            "phonetic": "/ˈklæsɪkl/",
+            "meaning": "古典的；经典的"
+          },
+          {
+            "word": "sudden",
+            "form": "sudden",
+            "phonetic": "",
+            "meaning": "adj. 突然的，意外的；快速的 n. 突然发生的事 / adj. 突然的， 意外的 n. 突然发生的事"
+          },
+          {
+            "word": "forest",
+            "form": "For",
+            "phonetic": "/ˈfɒrɪst/",
+            "meaning": "森林"
+          },
+          {
+            "word": "mostly",
+            "form": "most",
+            "phonetic": "",
+            "meaning": "adv. 主要地， 大部分， 通常"
+          },
+          {
+            "word": "partly",
+            "form": "part",
+            "phonetic": "",
+            "meaning": "adv. 部分地,不完全地,在一定程度上 / adv. 部分地；在一定程度上"
+          },
+          {
+            "word": "response",
+            "form": "response",
+            "phonetic": "",
+            "meaning": "n. 响应；反应；回答 / n. 回答， 回音；反应， 响应"
+          },
+          {
+            "word": "sober",
+            "form": "sober",
+            "phonetic": "/ˈsəʊbə(r)/",
+            "meaning": "清醒的；严肃的"
+          },
+          {
+            "word": "side",
+            "form": "sided",
+            "phonetic": "",
+            "meaning": "n. 边，面，侧 v. 支持"
+          }
+        ],
+        "phrases": []
+      }
     },
     "Text2": {
       "passage": {
@@ -6740,7 +14251,101 @@ const ENGLISH_DATA = {
           "explanation": ""
         }
       ],
-      "translation": ""
+      "translation": "",
+      "vocab": {
+        "words": [
+          {
+            "word": "depart",
+            "form": "departed",
+            "phonetic": "",
+            "meaning": "v. 离开,起程 adj. 过去的,逝世的 / v. 离开；出发，起程；违反；去世 adj. 逝世的 / vi. 离开， 起程"
+          },
+          {
+            "word": "president",
+            "form": "president",
+            "phonetic": "/ˈprezɪdənt/",
+            "meaning": "总统；主席；校长"
+          },
+          {
+            "word": "bank",
+            "form": "Bank",
+            "phonetic": "/bseqk/",
+            "meaning": "岸；堤；银行；库；存人银行"
+          },
+          {
+            "word": "august",
+            "form": "August",
+            "phonetic": "",
+            "meaning": "adj. 威严的；令人敬畏的 n. 八月（简写为Aug）"
+          },
+          {
+            "word": "explanation",
+            "form": "explanation",
+            "phonetic": "",
+            "meaning": "n. 说明，解释；辩解"
+          },
+          {
+            "word": "straight",
+            "form": "straight",
+            "phonetic": "",
+            "meaning": "adj. 直的；连续的；笔直的；正直的；整齐的；异性恋的 adv. 直接地；不断地；立即；坦率地 n. 直；直线；直男，直女，异性恋者"
+          },
+          {
+            "word": "cloak",
+            "form": "cloaking",
+            "phonetic": "",
+            "meaning": "n. 斗蓬；宽大外衣；托词 v. 遮掩；隐匿 / n. 外套， 斗篷 vt. 掩盖， 蒙蔽"
+          },
+          {
+            "word": "exit",
+            "form": "exit",
+            "phonetic": "/rekstt;「egzIt/",
+            "meaning": "出口"
+          },
+          {
+            "word": "excuse",
+            "form": "excuses",
+            "phonetic": "",
+            "meaning": "n. 借口；理由 v. 原谅；为…申辩；给…免去"
+          },
+          {
+            "word": "outer",
+            "form": "out",
+            "phonetic": "",
+            "meaning": "adj. 外面的，外部的；远离中心的 n. 环外命中 / adj. 外部的， 外面的， 外层的"
+          },
+          {
+            "word": "to",
+            "form": "to",
+            "phonetic": "",
+            "meaning": "科学家"
+          },
+          {
+            "word": "company",
+            "form": "company",
+            "phonetic": "/「kAmpani/",
+            "meaning": "公司"
+          }
+        ],
+        "phrases": [
+          {
+            "phrase": "rather than",
+            "def": ""
+          },
+          {
+            "phrase": "in response to",
+            "def": ""
+          },
+          {
+            "phrase": "stick to",
+            "def": ""
+          },
+          {
+            "phrase": "used to",
+            "def": ""
+          }
+        ]
+      }
     },
     "Text3": {
       "passage": {
@@ -6814,7 +14419,93 @@ const ENGLISH_DATA = {
           "explanation": ""
         }
       ],
-      "translation": ""
+      "translation": "",
+      "vocab": {
+        "words": [
+          {
+            "word": "guide",
+            "form": "guide",
+            "phonetic": "/ɡaɪd/",
+            "meaning": "指导；导游；指南"
+          },
+          {
+            "word": "to",
+            "form": "to",
+            "phonetic": "",
+            "meaning": "科学家"
+          },
+          {
+            "word": "market",
+            "form": "marketing",
+            "phonetic": "",
+            "meaning": "n. 集市,市场；销路,需求(量) v. 销售"
+          },
+          {
+            "word": "successful",
+            "form": "success",
+            "phonetic": "/səkˈsesfl/",
+            "meaning": "成功的"
+          },
+          {
+            "word": "being",
+            "form": "be",
+            "phonetic": "",
+            "meaning": "n. 生物；存在， 生存"
+          },
+          {
+            "word": "forest",
+            "form": "for",
+            "phonetic": "/ˈfɒrɪst/",
+            "meaning": "森林"
+          },
+          {
+            "word": "commercial",
+            "form": "commercials",
+            "phonetic": "",
+            "meaning": "adj. 商业的；商务的；可获利的 n. 广告节目 / adj. 商业的；营利的；靠广告收入的 n. 商业广告 / adj. 商业的， 商务的， 贸易的 n. 广告"
+          },
+          {
+            "word": "print",
+            "form": "print",
+            "phonetic": "/prɪnt/",
+            "meaning": "印刷；打印"
+          },
+          {
+            "word": "majority",
+            "form": "major",
+            "phonetic": "",
+            "meaning": "n. 多数；成年 / n. 多数， 大多数；【律】 成年"
+          },
+          {
+            "word": "company",
+            "form": "companies",
+            "phonetic": "/「kAmpani/",
+            "meaning": "公司"
+          },
+          {
+            "word": "canal",
+            "form": "can",
+            "phonetic": "",
+            "meaning": "n. 运河；[地理] 水道；[建] 管道；灌溉水渠 v. 在…开凿运河 / n. 运河； 渠"
+          },
+          {
+            "word": "exploit",
+            "form": "exploit",
+            "phonetic": "",
+            "meaning": "v. 开发，开拓；剥削；开采 n. 勋绩；功绩 / vt. 开拓， 开发"
+          }
+        ],
+        "phrases": [
+          {
+            "phrase": "be used to",
+            "def": ""
+          },
+          {
+            "phrase": "used to",
+            "def": ""
+          }
+        ]
+      }
     },
     "Text4": {
       "passage": {
@@ -6888,14 +14579,189 @@ const ENGLISH_DATA = {
           "explanation": ""
         }
       ],
-      "translation": ""
+      "translation": "",
+      "vocab": {
+        "words": [
+          {
+            "word": "surprise",
+            "form": "surprise",
+            "phonetic": "/sa「 pralz/",
+            "meaning": "诧异"
+          },
+          {
+            "word": "insight",
+            "form": "insightful",
+            "phonetic": "/m「sIst/",
+            "meaning": "洞察力"
+          },
+          {
+            "word": "magazine",
+            "form": "magazine",
+            "phonetic": "/,maega「zizn/",
+            "meaning": "杂志；期刊"
+          },
+          {
+            "word": "cover",
+            "form": "cover",
+            "phonetic": "",
+            "meaning": "v. 覆盖；包括,涉及 n. (书的)封面；盖子,套子 / v. 包括；采访，报导；涉及 n. 封面，封皮；盖子；掩蔽物;幌子，借口"
+          },
+          {
+            "word": "story",
+            "form": "story",
+            "phonetic": "",
+            "meaning": "n. 故事；小说；新闻报道；来历；假话 vt. 用历史故事画装饰 vi. 说谎"
+          },
+          {
+            "word": "hate",
+            "form": "Hate",
+            "phonetic": "/het/",
+            "meaning": "恨；憎恨；不愿；不喜欢；恨；憎恶"
+          },
+          {
+            "word": "likely",
+            "form": "like",
+            "phonetic": "/larkli/",
+            "meaning": "很可能的"
+          },
+          {
+            "word": "suggestion",
+            "form": "suggestion",
+            "phonetic": "",
+            "meaning": "n. 建议；示意；微量，细微的迹象"
+          },
+          {
+            "word": "childhood",
+            "form": "child",
+            "phonetic": "/ˈtʃaɪldhʊd/",
+            "meaning": "童年；幼年"
+          },
+          {
+            "word": "experience",
+            "form": "experience",
+            "phonetic": "/ɪkˈspɪəriəns/",
+            "meaning": "经验；经历"
+          },
+          {
+            "word": "conclude",
+            "form": "concluding",
+            "phonetic": "",
+            "meaning": "v. 结束,终止；断定,下结论 / vt. 结束， 终止；断定， 下结论；缔结， 议定 <"
+          },
+          {
+            "word": "parent",
+            "form": "parents",
+            "phonetic": "",
+            "meaning": "n. 父母,母亲；母体"
+          }
+        ],
+        "phrases": [
+          {
+            "phrase": "instead of",
+            "def": ""
+          },
+          {
+            "phrase": "rather than",
+            "def": ""
+          },
+          {
+            "phrase": "as well as",
+            "def": ""
+          },
+          {
+            "phrase": "fail to",
+            "def": ""
+          },
+          {
+            "phrase": "even though",
+            "def": ""
+          }
+        ]
+      }
     },
     "NewType": {
       "passage": {
         "en": "[A] No disciplines have seized on professionalism with as much enthusiasm as the humanities. You can, Mr. Menand points out, become a lawyer in three years and a medical doctor in four. But the regular time it takes to get a doctoral degree in the humanities is nine years. Not surprisingly, up to half of all doctoral students in English drop out before getting their degrees. [BJ His concern is mainly with the humanities: literature, languages, philosophy and so on. These are disciplines that are going out of style: 22% of American college graduates now major in business compared with only 2% in history and 4% in English. However, many leading American universities want their undergraduates to have a grounding in the basic canon of ideas that every educated person should possess. But most find it difficult to agree on what a \"general education\" should look like. At Harvard, Mr. Menand notes, \"the great books are read because they have been read\" - they form a sort of social glue. [q Equally unsurprisingly, only about half end up with professorships for which they entered graduate school. There are simply too few posts. This is partly because universities continue to produce ever more PhDs. But fewer students want to study humanities subjects: English departments awarded more bachelor's degrees in 1970-71 than they did 20 years later. Fewer students require fewer teachers. So, at the end of a decade of thesis-writing, many humanities students leave the profession to do something for which they have not been trained. [D] One reason why it is hard to design and teach such courses is that they cut across the insistence by top American universities that liberal-arts education and professional education should be kept separate, taught in different schools. Many students experience both varieties. Although more than half of Harvard undergraduates end up in law, medicine or business, future doctors and lawyers must study a non-specialist liberal-arts degree before embarking on a professional qualification. [EJ Besides professionalising the professions by this separation, top American universities have professionalised the professor. The growth in public money for academic research has speeded the process: federal research grants rose fourfold between 1960 and 1990, but faculty teaching hours fell by half as research took its toll. Professionalism has turned the acquisition of a doctoral degree into a prerequisite for a successful academic career: as late as 1969 a third of American professors did not possess one. But the key idea behind professionalisation, argues Mr. Menand, is that \"the knowledge and skills needed for a particular specialisation are transmissible but not transferable.\" So disciplines acquire a monopoly not just over the production of knowledge, but also over the production of the producers of knowledge. [F] The key to reforming higher education, concludes Mr. Menand, is to alter the way in which \"the producers of knowledge are produced\". Otherwise, academics will continue to think dangerously alike, increasingly detached from the societies which they study, investigate and criticise. \"Academic inquiry, at least in some fields, may need to become less exclusionary and more holistic.\" Yet quite how that happens, Mr. Menand does not say. [GJ The subtle and intelligent little book The Marketplace of Ideas: Reform and Resistance in the American University should be read by every student thinking of applying to take a doctoral degree. They may then decide to go elsewhere. For something curious has been happening in American universities, and Louis Menand, a professor of English at Harvard University, captured it skillfully. 1-141. 1-142. 1-1 1-143. 1-144. 1-14� _.5 � G E",
         "zh": ""
       },
-      "questions": []
+      "questions": [],
+      "vocab": {
+        "words": [
+          {
+            "word": "canal",
+            "form": "can",
+            "phonetic": "",
+            "meaning": "n. 运河；[地理] 水道；[建] 管道；灌溉水渠 v. 在…开凿运河 / n. 运河； 渠"
+          },
+          {
+            "word": "outer",
+            "form": "out",
+            "phonetic": "",
+            "meaning": "adj. 外面的，外部的；远离中心的 n. 环外命中 / adj. 外部的， 外面的， 外层的"
+          },
+          {
+            "word": "lawyer",
+            "form": "lawyer",
+            "phonetic": "/ˈlɔːjə(r)/",
+            "meaning": "律师"
+          },
+          {
+            "word": "medical",
+            "form": "medical",
+            "phonetic": "/「medukH/",
+            "meaning": "医学的"
+          },
+          {
+            "word": "doctor",
+            "form": "doctor",
+            "phonetic": "/ˈdɒktə(r)/",
+            "meaning": "医生；博士"
+          },
+          {
+            "word": "regular",
+            "form": "regular",
+            "phonetic": "",
+            "meaning": "adj. 定期的；有规律的；合格的；整齐的；普通的 n. 常客；正式队员；中坚分子 adv. 定期地；经常地"
+          },
+          {
+            "word": "time",
+            "form": "time",
+            "phonetic": "/taɪm/",
+            "meaning": "时间；时代；次数"
+          },
+          {
+            "word": "to",
+            "form": "to",
+            "phonetic": "",
+            "meaning": "科学家"
+          },
+          {
+            "word": "notify",
+            "form": "Not",
+            "phonetic": "",
+            "meaning": "v. 通告，通知；公布 / vt. 通知， 告知； 报告"
+          },
+          {
+            "word": "student",
+            "form": "students",
+            "phonetic": "",
+            "meaning": "n. 学生；学者"
+          },
+          {
+            "word": "drop",
+            "form": "drop",
+            "phonetic": "",
+            "meaning": "v. 滴；使降低；使终止；随口漏出 n. 滴；落下；空投；微量；滴剂"
+          },
+          {
+            "word": "literature",
+            "form": "literature",
+            "phonetic": "",
+            "meaning": "n. 文学；文献；文艺；著作 / n. 文学， 文学作品； 文献"
+          }
+        ],
+        "phrases": []
+      }
     },
     "Translation": {
       "sentences": [
@@ -6911,7 +14777,11 @@ const ENGLISH_DATA = {
         "",
         "",
         ""
-      ]
+      ],
+      "vocab": {
+        "words": [],
+        "phrases": []
+      }
     }
   },
   "2012": {
@@ -7041,7 +14911,89 @@ const ENGLISH_DATA = {
           "in a word",
           "as a result"
         ]
-      ]
+      ],
+      "vocab": {
+        "words": [
+          {
+            "word": "section",
+            "form": "Section",
+            "phonetic": "",
+            "meaning": "n. 章节；部分；地区；部门， 科 A"
+          },
+          {
+            "word": "direction",
+            "form": "Directions",
+            "phonetic": "/dsregJaydrydar/",
+            "meaning": "方向"
+          },
+          {
+            "word": "reader",
+            "form": "Read",
+            "phonetic": "/ˈriːdə(r)/",
+            "meaning": "读者；读本"
+          },
+          {
+            "word": "following",
+            "form": "following",
+            "phonetic": "",
+            "meaning": "adj. 其次的，接着的；下列的，下述的 / adj. 接着的， 下列的"
+          },
+          {
+            "word": "texture",
+            "form": "text",
+            "phonetic": "",
+            "meaning": "n. 质地；纹理；结构；本质，实质 / n. 质地， 纹理， 结构"
+          },
+          {
+            "word": "forest",
+            "form": "for",
+            "phonetic": "/ˈfɒrɪst/",
+            "meaning": "森林"
+          },
+          {
+            "word": "blank",
+            "form": "blank",
+            "phonetic": "",
+            "meaning": "空自的"
+          },
+          {
+            "word": "ethic",
+            "form": "ethical",
+            "phonetic": "",
+            "meaning": "道德体系"
+          },
+          {
+            "word": "judgment",
+            "form": "judgments",
+            "phonetic": "",
+            "meaning": "n. 审判， 判决；判断力， 识别力； 看法， 意见"
+          },
+          {
+            "word": "supreme",
+            "form": "Supreme",
+            "phonetic": "/suzprimisjur-/",
+            "meaning": "最高的；极度的"
+          },
+          {
+            "word": "court",
+            "form": "Court",
+            "phonetic": "/hkoxt/",
+            "meaning": "法院"
+          },
+          {
+            "word": "justice",
+            "form": "justices",
+            "phonetic": "",
+            "meaning": "n. 司法，法律制裁；正义；法官，审判员 / n. 正义； 公平；审判， 司法， 法律制裁"
+          }
+        ],
+        "phrases": [
+          {
+            "phrase": "apart from",
+            "def": ""
+          }
+        ]
+      }
     },
     "Text1": {
       "passage": {
@@ -7115,7 +15067,93 @@ const ENGLISH_DATA = {
           "explanation": ""
         }
       ],
-      "translation": ""
+      "translation": "",
+      "vocab": {
+        "words": [
+          {
+            "word": "message",
+            "form": "message",
+            "phonetic": "",
+            "meaning": "n. 消息；差使；启示；预言；广告词 v. 报信，报告；[通信] 报文 / n. 消息， 信息， 通讯；启示， 要旨"
+          },
+          {
+            "word": "invitation",
+            "form": "invitation",
+            "phonetic": "",
+            "meaning": "n. 邀请,招待；请柬 / n. 邀请；引诱；请帖；邀请函 / n. 邀请， 招待；请柬"
+          },
+          {
+            "word": "mostly",
+            "form": "most",
+            "phonetic": "",
+            "meaning": "adv. 主要地， 大部分， 通常"
+          },
+          {
+            "word": "weed",
+            "form": "we",
+            "phonetic": "",
+            "meaning": "杂草"
+          },
+          {
+            "word": "leading",
+            "form": "leads",
+            "phonetic": "",
+            "meaning": "adj. 领导的；主要的 n. 领导；铅板；行距 v. 领导（lead的ing形式） / adj. 处于领导地位的， 前列的；首位的， 领衔的；最主要的"
+          },
+          {
+            "word": "to",
+            "form": "to",
+            "phonetic": "",
+            "meaning": "科学家"
+          },
+          {
+            "word": "goodness",
+            "form": "good",
+            "phonetic": "/ˈɡʊdnəs/",
+            "meaning": "善良；美德"
+          },
+          {
+            "word": "drink",
+            "form": "drinking",
+            "phonetic": "",
+            "meaning": "v. 喝，饮；吸收；举杯庆贺 n. 酒，饮料；喝酒"
+          },
+          {
+            "word": "casual",
+            "form": "casual",
+            "phonetic": "/ˈkæʒuəl/",
+            "meaning": "随意的；偶然的"
+          },
+          {
+            "word": "sex",
+            "form": "sex",
+            "phonetic": "/seks/",
+            "meaning": "性别；性"
+          },
+          {
+            "word": "her",
+            "form": "her",
+            "phonetic": "",
+            "meaning": "小女孩因母亲的逝世悲仿得几乎晕倒在坟前"
+          },
+          {
+            "word": "join",
+            "form": "Join",
+            "phonetic": "/dsom/",
+            "meaning": "参加；加人；连接；接合"
+          }
+        ],
+        "phrases": [
+          {
+            "phrase": "as well as",
+            "def": ""
+          },
+          {
+            "phrase": "fail to",
+            "def": ""
+          }
+        ]
+      }
     },
     "Text2": {
       "passage": {
@@ -7189,7 +15227,89 @@ const ENGLISH_DATA = {
           "explanation": ""
         }
       ],
-      "translation": ""
+      "translation": "",
+      "vocab": {
+        "words": [
+          {
+            "word": "deal",
+            "form": "deal",
+            "phonetic": "/diːl/",
+            "meaning": "交易；处理"
+          },
+          {
+            "word": "except",
+            "form": "except",
+            "phonetic": "",
+            "meaning": "prep. 除…之外 v. 除外"
+          },
+          {
+            "word": "company",
+            "form": "company",
+            "phonetic": "/「kAmpani/",
+            "meaning": "公司"
+          },
+          {
+            "word": "majority",
+            "form": "major",
+            "phonetic": "",
+            "meaning": "n. 多数；成年 / n. 多数， 大多数；【律】 成年"
+          },
+          {
+            "word": "energy",
+            "form": "energy",
+            "phonetic": "/pa「tenJali/",
+            "meaning": "潜在的能量"
+          },
+          {
+            "word": "justify",
+            "form": "justified",
+            "phonetic": "",
+            "meaning": "v. 证明合法；整理版面 / vt. 证明…是正当的， 认为有理"
+          },
+          {
+            "word": "outrage",
+            "form": "outrage",
+            "phonetic": "",
+            "meaning": "n. 愤怒，愤慨；暴行；侮辱 v. 凌辱，强奸；对…施暴行；激起愤怒 / n. 暴行， 骇人听闻的事件；愤慨 vt. 激怒"
+          },
+          {
+            "word": "commit",
+            "form": "commitment",
+            "phonetic": "/kəˈmɪt/",
+            "meaning": "承诺；犯（罪）；投入"
+          },
+          {
+            "word": "to",
+            "form": "to",
+            "phonetic": "",
+            "meaning": "科学家"
+          },
+          {
+            "word": "abide",
+            "form": "abide",
+            "phonetic": "/əˈbaɪd/",
+            "meaning": "遵守；忍受"
+          },
+          {
+            "word": "strict",
+            "form": "strict",
+            "phonetic": "/stnkt/",
+            "meaning": "严格的；严厉的；严谨的；精确的"
+          },
+          {
+            "word": "nuclear",
+            "form": "nuclear",
+            "phonetic": "",
+            "meaning": "adj. 原子能的；[细胞] 细胞核的；中心的；原子核的 / adj. 核心的， 中心的；原子核的， 核能的 <"
+          }
+        ],
+        "phrases": [
+          {
+            "phrase": "subject to",
+            "def": ""
+          }
+        ]
+      }
     },
     "Text3": {
       "passage": {
@@ -7367,7 +15487,97 @@ const ENGLISH_DATA = {
           "explanation": ""
         }
       ],
-      "translation": ""
+      "translation": "",
+      "vocab": {
+        "words": [
+          {
+            "word": "science",
+            "form": "science",
+            "phonetic": "/ˈsaɪəns/",
+            "meaning": "科学；理科"
+          },
+          {
+            "word": "fact",
+            "form": "facts",
+            "phonetic": "",
+            "meaning": "n. 事实,实际"
+          },
+          {
+            "word": "wait",
+            "form": "waiting",
+            "phonetic": "/weɪt/",
+            "meaning": "等待；等候"
+          },
+          {
+            "word": "to",
+            "form": "to",
+            "phonetic": "",
+            "meaning": "科学家"
+          },
+          {
+            "word": "being",
+            "form": "be",
+            "phonetic": "",
+            "meaning": "n. 生物；存在， 生存"
+          },
+          {
+            "word": "collect",
+            "form": "collected",
+            "phonetic": "/ka「lekt/",
+            "meaning": "收集；收"
+          },
+          {
+            "word": "objective",
+            "form": "objective",
+            "phonetic": "",
+            "meaning": "n. 目标,目的 adj. 客观的,真实的 / adj. 客观的；目标的；宾格的 n. 目的；目标；[光] 物镜；宾格 / adj. 客观的， 真实的 n. 目标， 目的"
+          },
+          {
+            "word": "scientific",
+            "form": "scientific",
+            "phonetic": "",
+            "meaning": "adj. 科学的，系统的"
+          },
+          {
+            "word": "method",
+            "form": "method",
+            "phonetic": "",
+            "meaning": "n. 方法,办法 / n. 方法；条理；类函数 adj. 使用体验派表演方法的"
+          },
+          {
+            "word": "outer",
+            "form": "out",
+            "phonetic": "",
+            "meaning": "adj. 外面的，外部的；远离中心的 n. 环外命中 / adj. 外部的， 外面的， 外层的"
+          },
+          {
+            "word": "everyday",
+            "form": "everyday",
+            "phonetic": "",
+            "meaning": "adj. 每天的，日常的 n. 平时；寻常日子"
+          },
+          {
+            "word": "discovery",
+            "form": "discovery",
+            "phonetic": "",
+            "meaning": "n. 被发现的事物；发现 / n. 发现，发觉；被发现的事物"
+          }
+        ],
+        "phrases": [
+          {
+            "phrase": "focus on",
+            "def": ""
+          },
+          {
+            "phrase": "appear to",
+            "def": ""
+          },
+          {
+            "phrase": "used to",
+            "def": ""
+          }
+        ]
+      }
     },
     "NewType": {
       "passage": {
@@ -7435,7 +15645,78 @@ const ENGLISH_DATA = {
           "answer": "",
           "explanation": ""
         }
-      ]
+      ],
+      "vocab": {
+        "words": [
+          {
+            "word": "direction",
+            "form": "Directions",
+            "phonetic": "/dsregJaydrydar/",
+            "meaning": "方向"
+          },
+          {
+            "word": "essay",
+            "form": "essay",
+            "phonetic": "",
+            "meaning": "n. 散文；试图；随笔 v. 尝试；对…做试验 / n. 文章， 短文"
+          },
+          {
+            "word": "base",
+            "form": "based",
+            "phonetic": "/bers/",
+            "meaning": "基础"
+          },
+          {
+            "word": "following",
+            "form": "following",
+            "phonetic": "",
+            "meaning": "adj. 其次的，接着的；下列的，下述的 / adj. 接着的， 下列的"
+          },
+          {
+            "word": "drawing",
+            "form": "drawing",
+            "phonetic": "",
+            "meaning": "n. 图画；牵引；素描术 v. 绘画；吸引（draw的ing形式）；拖曳"
+          },
+          {
+            "word": "describe",
+            "form": "describe",
+            "phonetic": "/dɪˈskraɪb/",
+            "meaning": "描述；描绘"
+          },
+          {
+            "word": "brief",
+            "form": "briefly",
+            "phonetic": "/brit/",
+            "meaning": "短时间的"
+          },
+          {
+            "word": "intend",
+            "form": "intended",
+            "phonetic": "",
+            "meaning": "v. 想要； 打算， 企图"
+          },
+          {
+            "word": "meaning",
+            "form": "meaning",
+            "phonetic": "/ˈmiːnɪŋ/",
+            "meaning": "意义；含义"
+          },
+          {
+            "word": "comment",
+            "form": "comments",
+            "phonetic": "",
+            "meaning": "v. 注释； 评论 n. 注释； 评论； 意见"
+          },
+          {
+            "word": "neat",
+            "form": "neatly",
+            "phonetic": "",
+            "meaning": "整洁的"
+          }
+        ],
+        "phrases": []
+      }
     }
   },
   "2013": {
@@ -7565,7 +15846,89 @@ const ENGLISH_DATA = {
           "promising",
           "helpful"
         ]
-      ]
+      ],
+      "vocab": {
+        "words": [
+          {
+            "word": "section",
+            "form": "Section",
+            "phonetic": "",
+            "meaning": "n. 章节；部分；地区；部门， 科 A"
+          },
+          {
+            "word": "direction",
+            "form": "Directions",
+            "phonetic": "/dsregJaydrydar/",
+            "meaning": "方向"
+          },
+          {
+            "word": "reader",
+            "form": "Read",
+            "phonetic": "/ˈriːdə(r)/",
+            "meaning": "读者；读本"
+          },
+          {
+            "word": "following",
+            "form": "following",
+            "phonetic": "",
+            "meaning": "adj. 其次的，接着的；下列的，下述的 / adj. 接着的， 下列的"
+          },
+          {
+            "word": "texture",
+            "form": "text",
+            "phonetic": "",
+            "meaning": "n. 质地；纹理；结构；本质，实质 / n. 质地， 纹理， 结构"
+          },
+          {
+            "word": "forest",
+            "form": "for",
+            "phonetic": "/ˈfɒrɪst/",
+            "meaning": "森林"
+          },
+          {
+            "word": "blank",
+            "form": "blank",
+            "phonetic": "",
+            "meaning": "空自的"
+          },
+          {
+            "word": "consider",
+            "form": "considering",
+            "phonetic": "",
+            "meaning": "v. 考虑，细想；认为；体谅，顾及 / v. 考虑；认为；考虑到；细想"
+          },
+          {
+            "word": "information",
+            "form": "information",
+            "phonetic": "",
+            "meaning": "n. 情报,资料,消息;信息"
+          },
+          {
+            "word": "individual",
+            "form": "individual",
+            "phonetic": "/【,mdr vIdsual/",
+            "meaning": "个的"
+          },
+          {
+            "word": "likely",
+            "form": "like",
+            "phonetic": "/larkli/",
+            "meaning": "很可能的"
+          },
+          {
+            "word": "strength",
+            "form": "strength",
+            "phonetic": "/streŋθ/",
+            "meaning": "力量；优势"
+          }
+        ],
+        "phrases": [
+          {
+            "phrase": "depend on",
+            "def": ""
+          }
+        ]
+      }
     },
     "Text1": {
       "passage": {
@@ -7639,7 +16002,93 @@ const ENGLISH_DATA = {
           "explanation": ""
         }
       ],
-      "translation": ""
+      "translation": "",
+      "vocab": {
+        "words": [
+          {
+            "word": "devil",
+            "form": "Devil",
+            "phonetic": "/ˈdevl/",
+            "meaning": "魔鬼；家伙"
+          },
+          {
+            "word": "scold",
+            "form": "scolds",
+            "phonetic": "/skəʊld/",
+            "meaning": "责骂；训斥"
+          },
+          {
+            "word": "her",
+            "form": "her",
+            "phonetic": "",
+            "meaning": "小女孩因母亲的逝世悲仿得几乎晕倒在坟前"
+          },
+          {
+            "word": "assistant",
+            "form": "assistant",
+            "phonetic": "/o「srstont/",
+            "meaning": "助手"
+          },
+          {
+            "word": "forest",
+            "form": "for",
+            "phonetic": "/ˈfɒrɪst/",
+            "meaning": "森林"
+          },
+          {
+            "word": "highly",
+            "form": "high",
+            "phonetic": "/ˈhaɪli/",
+            "meaning": "非常；高度地"
+          },
+          {
+            "word": "fashion",
+            "form": "fashion",
+            "phonetic": "",
+            "meaning": "方式；流行式样"
+          },
+          {
+            "word": "affect",
+            "form": "affect",
+            "phonetic": "/a「fektm/",
+            "meaning": "影陌；强调间接"
+          },
+          {
+            "word": "deep",
+            "form": "deep",
+            "phonetic": "/diːp/",
+            "meaning": "深的；深刻的"
+          },
+          {
+            "word": "sweater",
+            "form": "sweater",
+            "phonetic": "/ˈswetə(r)/",
+            "meaning": "毛衣；运动衫"
+          },
+          {
+            "word": "descend",
+            "form": "descended",
+            "phonetic": "/dr send/",
+            "meaning": "下来"
+          },
+          {
+            "word": "shower",
+            "form": "shows",
+            "phonetic": "/ˈʃaʊə(r)/",
+            "meaning": "淋浴；阵雨"
+          }
+        ],
+        "phrases": [
+          {
+            "phrase": "rely on",
+            "def": ""
+          },
+          {
+            "phrase": "react to",
+            "def": ""
+          }
+        ]
+      }
     },
     "Text2": {
       "passage": {
@@ -7713,7 +16162,93 @@ const ENGLISH_DATA = {
           "explanation": ""
         }
       ],
-      "translation": ""
+      "translation": "",
+      "vocab": {
+        "words": [
+          {
+            "word": "hasty",
+            "form": "has",
+            "phonetic": "/「hersti/",
+            "meaning": "匆忙的"
+          },
+          {
+            "word": "trouble",
+            "form": "trouble",
+            "phonetic": "",
+            "meaning": "n. 麻烦；烦恼；故障；动乱 v. 麻烦；使烦恼；折磨"
+          },
+          {
+            "word": "theory",
+            "form": "theory",
+            "phonetic": "",
+            "meaning": "n. 理论； 原理； 学说；见解， 看法"
+          },
+          {
+            "word": "canal",
+            "form": "can",
+            "phonetic": "",
+            "meaning": "n. 运河；[地理] 水道；[建] 管道；灌溉水渠 v. 在…开凿运河 / n. 运河； 渠"
+          },
+          {
+            "word": "being",
+            "form": "be",
+            "phonetic": "",
+            "meaning": "n. 生物；存在， 生存"
+          },
+          {
+            "word": "search",
+            "form": "search",
+            "phonetic": "/sɜːtʃ/",
+            "meaning": "搜索；寻找"
+          },
+          {
+            "word": "forest",
+            "form": "for",
+            "phonetic": "/ˈfɒrɪst/",
+            "meaning": "森林"
+          },
+          {
+            "word": "click",
+            "form": "click",
+            "phonetic": "",
+            "meaning": "呈嗣声"
+          },
+          {
+            "word": "company",
+            "form": "companies",
+            "phonetic": "/「kAmpani/",
+            "meaning": "公司"
+          },
+          {
+            "word": "aim",
+            "form": "aim",
+            "phonetic": "/emj/",
+            "meaning": "目的在于"
+          },
+          {
+            "word": "mostly",
+            "form": "most",
+            "phonetic": "",
+            "meaning": "adv. 主要地， 大部分， 通常"
+          },
+          {
+            "word": "likely",
+            "form": "likely",
+            "phonetic": "/larkli/",
+            "meaning": "很可能的"
+          }
+        ],
+        "phrases": [
+          {
+            "phrase": "due to",
+            "def": ""
+          },
+          {
+            "phrase": "so that",
+            "def": ""
+          }
+        ]
+      }
     },
     "Text3": {
       "passage": {
@@ -7787,7 +16322,93 @@ const ENGLISH_DATA = {
           "explanation": ""
         }
       ],
-      "translation": ""
+      "translation": "",
+      "vocab": {
+        "words": [
+          {
+            "word": "decade",
+            "form": "decades",
+            "phonetic": "",
+            "meaning": "n. 十年，十年期；十 / n. 十年"
+          },
+          {
+            "word": "vision",
+            "form": "visions",
+            "phonetic": "/「v3enmri/",
+            "meaning": "视力；她的视力已降到；想象；目光"
+          },
+          {
+            "word": "largely",
+            "form": "largely",
+            "phonetic": "",
+            "meaning": "adv. 主要地；大部分；大量地 / adv. 主要地， 基本上；大量地， 大规模地"
+          },
+          {
+            "word": "means",
+            "form": "means",
+            "phonetic": "",
+            "meaning": "n. 方法， 手段"
+          },
+          {
+            "word": "positive",
+            "form": "positive",
+            "phonetic": "/ˈpɒzətɪv/",
+            "meaning": "积极的；肯定的"
+          },
+          {
+            "word": "science",
+            "form": "Science",
+            "phonetic": "/ˈsaɪəns/",
+            "meaning": "科学；理科"
+          },
+          {
+            "word": "cure",
+            "form": "cure",
+            "phonetic": "/kjʊə(r)/",
+            "meaning": "治愈；治疗"
+          },
+          {
+            "word": "leading",
+            "form": "leading",
+            "phonetic": "",
+            "meaning": "adj. 领导的；主要的 n. 领导；铅板；行距 v. 领导（lead的ing形式） / adj. 处于领导地位的， 前列的；首位的， 领衔的；最主要的"
+          },
+          {
+            "word": "to",
+            "form": "to",
+            "phonetic": "",
+            "meaning": "科学家"
+          },
+          {
+            "word": "living",
+            "form": "lives",
+            "phonetic": "/Uvm/",
+            "meaning": "活的"
+          },
+          {
+            "word": "opportunity",
+            "form": "opportunity",
+            "phonetic": "",
+            "meaning": "n. 机会 / n. 时机，机会"
+          },
+          {
+            "word": "forest",
+            "form": "for",
+            "phonetic": "/ˈfɒrɪst/",
+            "meaning": "森林"
+          }
+        ],
+        "phrases": [
+          {
+            "phrase": "look forward to",
+            "def": ""
+          },
+          {
+            "phrase": "used to",
+            "def": ""
+          }
+        ]
+      }
     },
     "Text4": {
       "passage": {
@@ -7861,14 +16482,190 @@ const ENGLISH_DATA = {
           "explanation": ""
         }
       ],
-      "translation": ""
+      "translation": "",
+      "vocab": {
+        "words": [
+          {
+            "word": "to",
+            "form": "to",
+            "phonetic": "",
+            "meaning": "科学家"
+          },
+          {
+            "word": "supreme",
+            "form": "Supreme",
+            "phonetic": "/suzprimisjur-/",
+            "meaning": "最高的；极度的"
+          },
+          {
+            "word": "court",
+            "form": "Court",
+            "phonetic": "/hkoxt/",
+            "meaning": "法院"
+          },
+          {
+            "word": "outer",
+            "form": "out",
+            "phonetic": "",
+            "meaning": "adj. 外面的，外部的；远离中心的 n. 环外命中 / adj. 外部的， 外面的， 外层的"
+          },
+          {
+            "word": "law",
+            "form": "law",
+            "phonetic": "",
+            "meaning": "n. 法律,法规,法学,规律,定律 / n. 法律；规律；法治；法学；诉讼；司法界 vi. 起诉；控告 vt. 控告；对…起诉"
+          },
+          {
+            "word": "monday",
+            "form": "Monday",
+            "phonetic": "",
+            "meaning": "n. 星期一 / n. 星期一"
+          },
+          {
+            "word": "modest",
+            "form": "modest",
+            "phonetic": "",
+            "meaning": "adj. 谦虚的 / adj. 谦虚的，谦逊的；适度的；端庄的；羞怯的 n. (Modest)人名；(罗)莫代斯特；(德)莫德斯特；(俄)莫杰斯特 / adj. 谦虚的， 谦让的； 适度的"
+          },
+          {
+            "word": "victory",
+            "form": "victory",
+            "phonetic": "/ˈvɪktəri/",
+            "meaning": "胜利"
+          },
+          {
+            "word": "forest",
+            "form": "for",
+            "phonetic": "/ˈfɒrɪst/",
+            "meaning": "森林"
+          },
+          {
+            "word": "matter",
+            "form": "matter",
+            "phonetic": "",
+            "meaning": "n. 物质；事件 v. 有关系；要紧"
+          },
+          {
+            "word": "constitution",
+            "form": "Constitution",
+            "phonetic": "",
+            "meaning": "n. 宪法；体制；章程；构造；建立，组成；体格 / n. 构成， 构造， 成分；体格， 体质；宪法"
+          },
+          {
+            "word": "defeat",
+            "form": "defeat",
+            "phonetic": "",
+            "meaning": "战胜"
+          }
+        ],
+        "phrases": [
+          {
+            "phrase": "in favor of",
+            "def": ""
+          },
+          {
+            "phrase": "even if",
+            "def": ""
+          }
+        ]
+      }
     },
     "NewType": {
       "passage": {
         "en": "The social sciences are flourishing. As of 2005, there were almost half a million professional social scientists from all fields in the world, working both inside and outside academia. According to the World Social Science Report 2010, the number of social-science students worldwide has swollen by about 11 % every year since 2000. Yet this enormous resource is not contributing enough to today's global challenges, including climate change, security, sustainable development and health. (4 1) ______________. Humanity has the necessary agro-technolo- gical tools to eradicate hunger, from genetically engineered crops to artificial fertilizers. Here, too, the problems are social: the organization and distribution of food, wealth and prosperity. (4 2)_ _____________ This is a shame - the community should be graspmg the opportunity to raise its influence in the real world. To paraphrase the great social scientist Joseph Schumpeter: there is no radical innovation without creative destruction. Today, the social sciences are largely focused on disciplinary problems and internal scholarly debates, rather than on topics with external impact. Analyses reveal that the number of papers including the keywords \"environmental change\" or \"climate change\" have increased rapidly since 2004. (43) ______________ When social scientists do tackle practical issues, their scope is often local: Belgium is interested mainly in the effects of poverty on Belgium, for example. And whether the community's work contributes much to an overall accumulation of knowledge is doubtful. The problem is not necessarily the amount of available funding. (4 4) _____ This is an adequate amount so long as it is aimed in the right direction. Social scientists who complain about a lack of funding should not expect more in today's economic climate. The trick is to direct these funds better. The European Union Framework funding programs have long had a category specifically targeted at social scientists. This year, it was proposed that the system be changed: Horizon 2020, a new program to be enacted in 2014, would not have such a category. This has resulted in protests from social scientists. But the intention is not to neglect social science; rather, the complete opposite. ( 45) ______________T hat should create more collaborative endeavors and help to develop projects aimed directly at solving global problems. [A] The idea is to force social scientists to integrate their work with other categories, including health and demographic change; food security; marine research and the bio-economy; clean, efficient energy; and inclusive, innovative and secure societies. [B] The solution is to change the mindset of the academic community, and what it considers to be its main goal. Global challenges and social innovation ought to receive much more attention from scientists, especially the young ones. [CJ It could be that we are evolving two communities of social scientists: one that 1s discipline-oriented and publishing in highly specialized journals, and one that is problem-oriented and publishing elsewhere, such as policy briefs. [D] However, the numbers are still small: in 2010, about 1,600 of the 100,000 social­ sciences papers published globally included one of these keywords. [EJ These issues all have root causes in human behavior: all require behavioral change and social innovations, as well as technological development. Stemming climate change, for example, is as much about changing consumption patterns and promoting tax acceptance as it is about developing clean energy. [F] Despite these factors, many social scientists seem reluctant to tackle such problems. And in Europe, some are up in arms over a proposal to drop a specific funding category for social-science research and to integrate it within cross­ cutting topics of sustainable development. [G] During the late 1990s, national spending on social sciences and the humanities as a percentage of all research and development funds - including government, higher education, non-profit and corporate - varied from around 4% to 25%; in most European nations, it is about 15%.",
         "zh": ""
       },
-      "questions": []
+      "questions": [],
+      "vocab": {
+        "words": [
+          {
+            "word": "social",
+            "form": "social",
+            "phonetic": "/ˈsəʊʃl/",
+            "meaning": "社会的；社交的"
+          },
+          {
+            "word": "science",
+            "form": "sciences",
+            "phonetic": "/ˈsaɪəns/",
+            "meaning": "科学；理科"
+          },
+          {
+            "word": "flourish",
+            "form": "flourishing",
+            "phonetic": "/ˈflʌrɪʃ/",
+            "meaning": "繁荣；挥舞"
+          },
+          {
+            "word": "scientist",
+            "form": "scientists",
+            "phonetic": "",
+            "meaning": "n. 科学家"
+          },
+          {
+            "word": "bother",
+            "form": "both",
+            "phonetic": "/「bo6a(r)/",
+            "meaning": "打扰"
+          },
+          {
+            "word": "inside",
+            "form": "inside",
+            "phonetic": "/ˌɪnˈsaɪd/",
+            "meaning": "里面；内部的"
+          },
+          {
+            "word": "outside",
+            "form": "outside",
+            "phonetic": "",
+            "meaning": "外部；周围"
+          },
+          {
+            "word": "accord",
+            "form": "According",
+            "phonetic": "",
+            "meaning": "一致"
+          },
+          {
+            "word": "to",
+            "form": "to",
+            "phonetic": "",
+            "meaning": "科学家"
+          },
+          {
+            "word": "report",
+            "form": "Report",
+            "phonetic": "",
+            "meaning": "n. 报告,汇报 v. 报道 / n. 报告；报道；成绩单 v. 报告；报导；使报到"
+          },
+          {
+            "word": "numb",
+            "form": "number",
+            "phonetic": "/nʌm/",
+            "meaning": "麻木的；使麻木"
+          },
+          {
+            "word": "student",
+            "form": "students",
+            "phonetic": "",
+            "meaning": "n. 学生；学者"
+          }
+        ],
+        "phrases": [
+          {
+            "phrase": "rather than",
+            "def": ""
+          },
+          {
+            "phrase": "as well as",
+            "def": ""
+          },
+          {
+            "phrase": "so long as",
+            "def": ""
+          }
+        ]
+      }
     },
     "Translation": {
       "sentences": [
@@ -7894,7 +16691,11 @@ const ENGLISH_DATA = {
         "",
         "",
         ""
-      ]
+      ],
+      "vocab": {
+        "words": [],
+        "phrases": []
+      }
     }
   },
   "2014": {
@@ -8024,7 +16825,93 @@ const ENGLISH_DATA = {
           "familiar",
           "effective"
         ]
-      ]
+      ],
+      "vocab": {
+        "words": [
+          {
+            "word": "middle",
+            "form": "middle",
+            "phonetic": "/ˈmɪdl/",
+            "meaning": "中间的；中部"
+          },
+          {
+            "word": "to",
+            "form": "to",
+            "phonetic": "",
+            "meaning": "科学家"
+          },
+          {
+            "word": "notice",
+            "form": "notice",
+            "phonetic": "",
+            "meaning": "n. 通知，布告；注意；公告 v. 通知；注意到；留心"
+          },
+          {
+            "word": "memory",
+            "form": "memory",
+            "phonetic": "/ˈmeməri/",
+            "meaning": "记忆；回忆"
+          },
+          {
+            "word": "mental",
+            "form": "mental",
+            "phonetic": "/ˈmentl/",
+            "meaning": "精神的；心理的"
+          },
+          {
+            "word": "clarity",
+            "form": "clarity",
+            "phonetic": "/ˈklærəti/",
+            "meaning": "清晰；清楚"
+          },
+          {
+            "word": "notify",
+            "form": "not",
+            "phonetic": "",
+            "meaning": "v. 通告，通知；公布 / vt. 通知， 告知； 报告"
+          },
+          {
+            "word": "being",
+            "form": "be",
+            "phonetic": "",
+            "meaning": "n. 生物；存在， 生存"
+          },
+          {
+            "word": "weed",
+            "form": "We",
+            "phonetic": "",
+            "meaning": "杂草"
+          },
+          {
+            "word": "sudden",
+            "form": "suddenly",
+            "phonetic": "",
+            "meaning": "adj. 突然的，意外的；快速的 n. 突然发生的事 / adj. 突然的， 意外的 n. 突然发生的事"
+          },
+          {
+            "word": "remember",
+            "form": "remember",
+            "phonetic": "/rɪˈmembə(r)/",
+            "meaning": "记得；记住"
+          },
+          {
+            "word": "justify",
+            "form": "just",
+            "phonetic": "",
+            "meaning": "v. 证明合法；整理版面 / vt. 证明…是正当的， 认为有理"
+          }
+        ],
+        "phrases": [
+          {
+            "phrase": "refer to",
+            "def": ""
+          },
+          {
+            "phrase": "used to",
+            "def": ""
+          }
+        ]
+      }
     },
     "Text1": {
       "passage": {
@@ -8098,7 +16985,93 @@ const ENGLISH_DATA = {
           "explanation": "［精准定位］ 第 四段 ③④⑤ 句指 ，＇：H ，奥斯本 计划 完全偏离了英国福利 制 皮“无条 ｛牛 帮助人们度过危\n初L\n       ［命题解密］ [ A］合理推导第四段主旨观点 ： 反 映 了 ② 句虚拟语气 CI t is as though .. . ）及 ③④⑤ 句正\n反 －~1. 明（ no longer. . . in s tead .. . ）蕴含的“对曾经元条件救济失 业 者的缅怀，对奥斯本严格设置救济金领\n取条件 的 谴责” 。\n       [ BJ 源自第四段 ① 句 a state o川y too ready to indul ge 及第 二 段 ⑦ 句 s u b s i di ses l aziness ，但这是奥斯\n本理念（作者 批 驳的看法） 。 ［ CJ 与第 四 段⑤句 no ins urance . . . the least g e n ero u s （ 救济 金数目甚微，无法\n为失业者提供保障）相悖 。 ［ DJ 对第四段 ③ 句 yo u can ins ure yo ur se lf aga ins t t he ri s k of un e mpl oy m e nt 断\n章取义 ： 原句整 体 含义是新 政“使人们 不再 能抵抗失业风险 ” ，而非 “降低人 们 失 业风险 ” 。\n点，去11 也见作者 严谨，并 明确 文章重 在分析“行业行为而 ＝II三 个人行为”； mor e than 与 a n y o th e r 相连， 实表\n最高级之主♂ 比…… 其 他任何 一个 都更 … …” 。 注 ： p rofess i o n 此处为统称 “ 同行，同业” 。\n     ②旬（国别比较）指出律师行业饱受话病最多的国家：美国。 句间两组相对同（ cli e nts VS law ye rs,\ncomp laint VS ho st i l i ty ） 明确敌 意 源自“律师的 委 托人”； g round ( a good or t ru e r巳ason fo r saying , d o ing o r\nbe li eving st h “ （常复数）充分 的理由；根据” ） II音示 作者对 委托 人的站位：抱怨 有现有 据，为下 文 阐述律师行\n业备 受 垢病的原因埋伏 笔； mor e th a n 与 few 相连，也表 最高 级之 1言：“很少 ／几 乎没有 ……比…… 多 ” 。\n     【深层解读】多重比较开篇： 文首段 借助两个比较之形 （ m o re. .                                                 than . .. ）以及－个对比词（ But ）完成\n多重 比较（ 一 、 不同行业捎恨 多 少的比较， 二 、不 同国家 律 师 行业诵病多少的 比 较， 三 、两重比较中是否存\n在特殊情况的对比），另将视角不断缩窄，最终聚焦在“美国律师行业” 。\n       II O During th e deca de be fore the eco nomi c                                 在经济危机之前的十年里，美国法律服务\ncn s is , spending o n lega l se rv ices in Ame n ca g rew\n                                                                             支出的增长速度是通货膨胀率的两倍 。 最杰出\ntw ice as fast as inflation① ．     ＠ 囚 Th e bes t lawye r s\n                                                                             的律师能赚到摩天大楼般高的钱，诱使越来越\nm ade skyscrapers。 － fu ll o f money, tempting eve r more\n                                                                              多的学生涌向法学院 。 然而，大多数法学院毕\ns tud e nt s Lo pileCTJ in to law sc hoo ls. @ B ut mos l law\n                                                                             业生从未进入大律师事务所工作，相反，他们中\ngrad ua t es never ge t a bi g- firm j o b. 。 M a n y o f th em\n                                                                             许多人最后成为那种妨害案件的诉讼律师，致\n111s tea d b eco m巳 th e kind o f nuisance® laws uit filer⑤\n                                                                             使民事侵权法律系统变成了价格高昂的噩梦 。\n                                             “\nth a t m a kes th e tort® system a costly( ni g htm are.\n                                                                                          J\n                                                                            分 …\n                                                             －\n                                                                      难\n                                                             释…\n                                                                            旬\n                                                                            析\n                                                 词－\n                                                             注\n                                                                  与\n                                                                      … …\n                                                      －\n                                                      广」 …\n                                                                                   －\n                                                                  ，\n                                                                                   ，\n( inflation [ 1n1fle1Jan] n. 通货膨胀（ 率）                                       ．经典搭配\n( skyscraper [ 'ska时王re1pa] n. 摩天大楼                                         ( th e eco nom ic c r is i s （经济危 机 ）\n( pile [ pail] v . 蜂拥，拥挤                                                    ( lega l sc r 、， i ces （法律 服 务）\n( nuisance [ 1nj u:sans］ η ．（法律）妨害公共利益的行为                                   ( ma\n( filer ['fa ,I a］ 凡诉讼律师                                                    ( pil e int o （涌入）\n@ tort [ L击。”－民事侵权行为                                                        ( th e tort system （民事侵权法律系统）\n( costly [ 1kosll1Jυ ．昂贵 的，代价 高 的\n                                                      二遗毒分析：： J\n       第二段分析现状原因：法律服务费用高昂，从而引出全文论述主题。关键词为： costly nightmare 。\n       ①②旬追溯过去（经济危机前的 10 年间） ：法律服务费疯涨，顶尖律师赚得盆满钵满，诱使众多学生\n攻读法学院。 ①句形 似将 美国法律服务支 :-1：＼ 增速与 通货膨胀速 度 相比， 实际既借通 货膨胀（物价上涨）凸\n显法律服务费’涨速（高于通货膨胀），又借通货膨胀负面影 响（ 经济 危机） 反 衬法 律 服务费 高 涨不良影 H向 。\n① 句 JIID！ 而指出 法律 服 务 !/JJ 用高涨 的 影 H向： 律 师赚得盆 拟i 钵满 ，请使众多学生涌入法学院 ； 其 中 made\ns kysc叫Jers- f ull of money 为 比 JI俞修辞，形 象传 达顶级律师 经济 回报之高； ｜（急性因果关联词 tempt ing 体现这\n种 高经济凹报与大量学生 涌 入法学院之 间的因果 关 联，但 注意 l巳mpting( to try to pers uade s b to do sth b y\nmaking it seem attractive' ,1J 诱，怂思、 ” ）实质 fl音示高额 ti立入只是看似诱人、丰满，现实可自旨霄感而残酣。\n       ③④旬描述现在：多数毕业生无缘大型律所而成为妨害案件的诉讼律师，使本已疯涨的服务费变成\n噩梦。 两句先借助比率同 most 、频度词 n eve r 以及 替 代忆l: IM 词 in stea d 针对 ②句“超多学生冲着律 师的 高\n收 入 而 挤入法学 院 ”做／：H 回 应 ： 多 数毕业 生与大型律 所根 本 无 缘， 相反 ，大多 只能做做妨 害案 件的诉讼律\n师， 高收入无 从谈起； 再借强烈色彩表达词 cos tl y ( very expensive, esp巳c i a ll y wasting a lot of money )\nni g htmare( a very difficult , unpleasant , or frightening ex p巳 ri e n ce o r situa ti o n ）针对①句“法律服务费用增\n速惊人”做出回应 ： 费用虚高程度严重到令诉讼委托人感觉吃力、怨愤、恐惧，至 此明确 首段美国律 师 最\n受委 托人垢病的 原因 ； 最后 借因果 表达同 m a k es 预示 悬念 ： 未 能进入 大型律 所而成为妨 害案 件的诉讼律\n师的 法学院毕业生如何就能将美国民 事侵 权法律系统变成价格 高 昂的噩梦 ？ 启示下文展开原因分析 。\n     【深层解读】 一、 明线 、 暗线相结合 ： ：$1i:; 1Pf H音线对比“律 师 赚得企 i满钵满（ lawy e rs) VS 委 托人 亏 得 抱怨\n重重（ sp e nding ） ”明确 首 段“ 美 同律师 最受委 托人 Ufi 病的原 ｜］、｜．服 务 费 高 如1 噩 梦（ cos tly ni g h tmare ）”；再借\n明 线因果（ m川＜ e s ） 明 示“法学院毕 业 生 大部分元缘大型律 师 ， 而成为妨害 案 件的诉讼律师”与“法律服务\n费用高如噩梦”之间因果关联 ， H音留 悬 念“ 法学 院毕业生就业为何能州 高法 律服 务 费用”，寻 ｜山 下文 相 应\n分析 。 二、环形因果逻辑链条，重在强调“美国法律服务费高昂”，为回应首段现状原因： 经 济危 机前的 1 0\n年 ｜河， 法律服务费用增速过快（ ① 句） → 顶尖律师赚得盆满钵满 （ ② 句） → 众多 学 生涌入法 学 院就读（ ②\n句 ）→法学院毕业 生 （ ｜划经济危机）根 本 没机 会 进入 大 型律所了作， 最 终只能去做妨害 案 件的诉讼律师\n（③ ④ 句）叫法律费用高昂女｜｜ 噩梦（ ④ 句）如 委 托人抱怨重茧 （ 首段） 。\n                                                    :：~：：真题辑：解＜ 1'"
         }
       ],
-      "translation": ""
+      "translation": "",
+      "vocab": {
+        "words": [
+          {
+            "word": "order",
+            "form": "order",
+            "phonetic": "/nAn/",
+            "meaning": "命令"
+          },
+          {
+            "word": "to",
+            "form": "to",
+            "phonetic": "",
+            "meaning": "科学家"
+          },
+          {
+            "word": "living",
+            "form": "lives",
+            "phonetic": "/Uvm/",
+            "meaning": "活的"
+          },
+          {
+            "word": "forest",
+            "form": "for",
+            "phonetic": "/ˈfɒrɪst/",
+            "meaning": "森林"
+          },
+          {
+            "word": "chancellor",
+            "form": "Chancellor",
+            "phonetic": "/ˈtʃɑːnsələ(r)/",
+            "meaning": "总理；校长；大臣"
+          },
+          {
+            "word": "introduce",
+            "form": "introduced",
+            "phonetic": "",
+            "meaning": "v. 介绍；引进；提出(议案等) / v. 介绍；引进；提出；采用"
+          },
+          {
+            "word": "search",
+            "form": "search",
+            "phonetic": "/sɜːtʃ/",
+            "meaning": "搜索；寻找"
+          },
+          {
+            "word": "scheme",
+            "form": "scheme",
+            "phonetic": "",
+            "meaning": "n. 计划；组合；体制；诡计 v. 搞阴谋；拟订计划 / v. 计划， 策划； 阴谋 n. 计划， 方案； 阴谋；配置； 安排"
+          },
+          {
+            "word": "register",
+            "form": "register",
+            "phonetic": "",
+            "meaning": "v. 登记；注册；记录；挂号邮寄；把…挂号；正式提出 n. 登记；注册；记录；寄存器；登记簿 / v. 注册， 登记 <；指示； 自动记下；把挂号 n. 登记， 注册"
+          },
+          {
+            "word": "being",
+            "form": "be",
+            "phonetic": "",
+            "meaning": "n. 生物；存在， 生存"
+          },
+          {
+            "word": "eligible",
+            "form": "eligible",
+            "phonetic": "/ˈelɪdʒəbl/",
+            "meaning": "有资格的；合格的"
+          },
+          {
+            "word": "benefit",
+            "form": "benefit",
+            "phonetic": "/ˈbenɪfɪt/",
+            "meaning": "益处；受益"
+          }
+        ],
+        "phrases": [
+          {
+            "phrase": "rather than",
+            "def": ""
+          },
+          {
+            "phrase": "as though",
+            "def": ""
+          }
+        ]
+      }
     },
     "Text2": {
       "passage": {
@@ -8172,7 +17145,97 @@ const ENGLISH_DATA = {
           "explanation": ""
         }
       ],
-      "translation": ""
+      "translation": "",
+      "vocab": {
+        "words": [
+          {
+            "word": "lawyer",
+            "form": "lawyers",
+            "phonetic": "/ˈlɔːjə(r)/",
+            "meaning": "律师"
+          },
+          {
+            "word": "membership",
+            "form": "members",
+            "phonetic": "",
+            "meaning": "n. 会员资格,成员资格 / n. 资格；成员资格；会员身份 / n. 会员资格， 成员资格"
+          },
+          {
+            "word": "exception",
+            "form": "exception",
+            "phonetic": "",
+            "meaning": "n. 例外,除外 / n. 例外；异议 / n. 例外， 除外"
+          },
+          {
+            "word": "journal",
+            "form": "journalism",
+            "phonetic": "",
+            "meaning": "n. 日报，杂志；日记；分类账 / n. 定期刊物， 杂志， 日报；日志， 日记"
+          },
+          {
+            "word": "client",
+            "form": "clients",
+            "phonetic": "",
+            "meaning": "n. [经] 客户；顾客；委托人 / n. 顾客；委托人， 当事人"
+          },
+          {
+            "word": "forest",
+            "form": "for",
+            "phonetic": "/ˈfɒrɪst/",
+            "meaning": "森林"
+          },
+          {
+            "word": "complaint",
+            "form": "complaint",
+            "phonetic": "",
+            "meaning": "n. 抱怨；诉苦；疾病；委屈 / n. 抱怨， 诉苦；申诉；疾病"
+          },
+          {
+            "word": "durable",
+            "form": "During",
+            "phonetic": "/「diuarabl/",
+            "meaning": "耐用的；持久的"
+          },
+          {
+            "word": "decade",
+            "form": "decade",
+            "phonetic": "",
+            "meaning": "n. 十年，十年期；十 / n. 十年"
+          },
+          {
+            "word": "economical",
+            "form": "economic",
+            "phonetic": "/ˌiːkəˈnɒmɪkl/",
+            "meaning": "经济的；节俭的"
+          },
+          {
+            "word": "spend",
+            "form": "spending",
+            "phonetic": "",
+            "meaning": "v. 度过，消磨（时光）；花费；浪费；用尽 n. 预算"
+          },
+          {
+            "word": "legal",
+            "form": "legal",
+            "phonetic": "",
+            "meaning": "adj. 法律的,法定的;合法的,正当的 / adj. 法律的；合法的；法定的；依照法律的 n. (Legal)人名；(法)勒加尔 / adj. 法律的； 法定的 <；合法的， 正当的"
+          }
+        ],
+        "phrases": [
+          {
+            "phrase": "due to",
+            "def": ""
+          },
+          {
+            "phrase": "rather than",
+            "def": ""
+          },
+          {
+            "phrase": "focus on",
+            "def": ""
+          }
+        ]
+      }
     },
     "Text3": {
       "passage": {
@@ -8246,7 +17309,97 @@ const ENGLISH_DATA = {
           "explanation": ""
         }
       ],
-      "translation": ""
+      "translation": "",
+      "vocab": {
+        "words": [
+          {
+            "word": "physicist",
+            "form": "Physics",
+            "phonetic": "/「fizlslst/",
+            "meaning": "物理学家"
+          },
+          {
+            "word": "interesting",
+            "form": "interesting",
+            "phonetic": "/「mtastm/",
+            "meaning": "有趣的；引人人胜的"
+          },
+          {
+            "word": "experiment",
+            "form": "experiment",
+            "phonetic": "",
+            "meaning": "v. 尝试；进行实验 n. 实验，试验；尝试"
+          },
+          {
+            "word": "march",
+            "form": "March",
+            "phonetic": "",
+            "meaning": "n. 三月(略作 Mar.) / v. (使)行军,(使)行进 n. 行军,行程 / v. （坚定地向某地）前进；行军，进军；游行示威；进展，进行 n. 行进，前进；行军；游行示威；进行曲"
+          },
+          {
+            "word": "feature",
+            "form": "Feature",
+            "phonetic": "",
+            "meaning": "n. 特色，特征；容貌；特写或专题节目 v. 起重要作用 / v. 以…为特点 n. 特征， 特色；特写"
+          },
+          {
+            "word": "native",
+            "form": "Nature",
+            "phonetic": "",
+            "meaning": "本地的"
+          },
+          {
+            "word": "string",
+            "form": "string",
+            "phonetic": "",
+            "meaning": "n. 线，弦，细绳；一串，一行 / n. 弦， 线， 细绳 A；一串， 一行 vt. 缚， 捆； 悬挂 <"
+          },
+          {
+            "word": "forest",
+            "form": "for",
+            "phonetic": "/ˈfɒrɪst/",
+            "meaning": "森林"
+          },
+          {
+            "word": "join",
+            "form": "joined",
+            "phonetic": "/dsom/",
+            "meaning": "参加；加人；连接；接合"
+          },
+          {
+            "word": "likely",
+            "form": "like",
+            "phonetic": "/larkli/",
+            "meaning": "很可能的"
+          },
+          {
+            "word": "fund",
+            "form": "funded",
+            "phonetic": "/fhnd/",
+            "meaning": "资金；储备"
+          },
+          {
+            "word": "telephone",
+            "form": "telephone",
+            "phonetic": "",
+            "meaning": "n. （美）电话；电话机；电话耳机 v. 打电话"
+          }
+        ],
+        "phrases": [
+          {
+            "phrase": "rather than",
+            "def": ""
+          },
+          {
+            "phrase": "subject to",
+            "def": ""
+          },
+          {
+            "phrase": "far from",
+            "def": ""
+          }
+        ]
+      }
     },
     "Text4": {
       "passage": {
@@ -8320,14 +17473,178 @@ const ENGLISH_DATA = {
           "explanation": ""
         }
       ],
-      "translation": ""
+      "translation": "",
+      "vocab": {
+        "words": [
+          {
+            "word": "matter",
+            "form": "Matter",
+            "phonetic": "",
+            "meaning": "n. 物质；事件 v. 有关系；要紧"
+          },
+          {
+            "word": "justify",
+            "form": "just",
+            "phonetic": "",
+            "meaning": "v. 证明合法；整理版面 / vt. 证明…是正当的， 认为有理"
+          },
+          {
+            "word": "release",
+            "form": "released",
+            "phonetic": "",
+            "meaning": "释放；发布"
+          },
+          {
+            "word": "report",
+            "form": "report",
+            "phonetic": "",
+            "meaning": "n. 报告,汇报 v. 报道 / n. 报告；报道；成绩单 v. 报告；报导；使报到"
+          },
+          {
+            "word": "artist",
+            "form": "Arts",
+            "phonetic": "/ˈɑːtɪst/",
+            "meaning": "艺术家；画家"
+          },
+          {
+            "word": "science",
+            "form": "Sciences",
+            "phonetic": "/ˈsaɪəns/",
+            "meaning": "科学；理科"
+          },
+          {
+            "word": "deserve",
+            "form": "deserves",
+            "phonetic": "",
+            "meaning": "v. 应受，应得 / vt. 应受， 值得"
+          },
+          {
+            "word": "forest",
+            "form": "for",
+            "phonetic": "/ˈfɒrɪst/",
+            "meaning": "森林"
+          },
+          {
+            "word": "import",
+            "form": "importance",
+            "phonetic": "/Im「 po:t/",
+            "meaning": "进口"
+          },
+          {
+            "word": "social",
+            "form": "social",
+            "phonetic": "/ˈsəʊʃl/",
+            "meaning": "社会的；社交的"
+          },
+          {
+            "word": "to",
+            "form": "to",
+            "phonetic": "",
+            "meaning": "科学家"
+          },
+          {
+            "word": "prosperity",
+            "form": "prosperity",
+            "phonetic": "/prɒˈsperəti/",
+            "meaning": "繁荣；兴旺"
+          }
+        ],
+        "phrases": [
+          {
+            "phrase": "as well as",
+            "def": ""
+          }
+        ]
+      }
     },
     "NewType": {
       "passage": {
         "en": "[A] Some archaeological sites have always been easily observable - for example, the Parthenon in Athens, Greece; the pyramids of Giza in Egypt; and the megaliths of Stonehenge in southern England. But these sites are exceptions to the norm. Most archaeological sites have been located by means of careful searching, while many others have been discovered by accident. Olduvai Gorge, an early hominid site in Tanzania, was found by a butterfly hunter who literally fell into its deep valley in 1911. Thousands of Aztec artifacts came to light during the digging of the Mexico City subway in the 1970s. [B] In another case, American archaeologists Rene Million and George Cowgill spent years systematically mapping the entire city of Teotihuacan in the Valley of Mexico near what is now Mexico City. At its peak around AD 600, this city was one of the largest human settlements in the world. The researchers mapped not only the city's vast and ornate ceremonial areas, but also hundreds of simpler apartment complexes where common people lived. [C] How do archaeologists know where to find what they are looking for when there is nothing visible on the surface of the ground? Typically, they survey and sample (make test excavations on) large areas of terrain to determine where excavation will yield useful information. Surveys and test samples have also become important for understanding the larger landscapes that contain archaeological sites. [D] Surveys can cover a single large settlement or entire landscapes. In one case, many researchers working around the ancient Maya city of Copan, Honduras, have located hundreds of small rural villages and individual dwellings by using aerial photographs and by making surveys on foot. The resulting settlement maps show how the distribution and density of the rural population around the city changed dramatically between AD 500 and 850, when Copan collapsed. [E] To find their sites, archaeologists today rely heavily on systematic survey methods and a variety of high-technology tools and techniques. Airborne technologies, such as different types of radar and photographic equipment carried by airplanes or spacecraft, allow archaeologists to learn about what lies beneath the ground without digging. Aerial surveys locate general areas of interest or larger buried features, such as ancient buildings or fields. [F] Most archaeological sites, however, are discovered by archaeologists who have set out to look for them. Such searches can take years. British archaeologist Howard Carter knew that the tomb of the Egyptian pharaoh Tutankhamun existed from information found in other sites. Carter sifted through rubble in the Valley of the Kings for seven years before he located the tomb in 1922. In the late 1800s British archaeologist Sir Arthur Evans combed antique dealers' stores in Athens, Greece. He was searching for tiny engraved seals attributed to the ancient Mycenaean culture that dominated Greece from the 1400s to 1200s BC. Evans's interpretations of these engravings eventually led him to find the Minoan palace at Knossos (Knos6s ), on the island of Crete, in 1900. [G] Ground surveys allow archaeologists to pinpoint the places where digs will be successful. Most ground surveys involve a lot of walking, looking for surface clues such as small fragments of pottery. They often include a certain amount of digging to test for buried materials at selected points across a landscape. Archaeologists also may locate buried remains by using such technologies as ground radar, magnetic-field recording, and metal detectors. Archaeologists commonly use computers to map sites and the landscapes around sites. Two­ and three-dimensional maps are helpful tools in planning excavations, illustrating how sites look, and presenting the results of archaeological research. [CJ-I A 1-1 42. 1-1 E 1-1 43. 1-144. 1�4� 5_. �",
         "zh": ""
       },
-      "questions": []
+      "questions": [],
+      "vocab": {
+        "words": [
+          {
+            "word": "sit",
+            "form": "sites",
+            "phonetic": "/sIt/",
+            "meaning": "坐；代人临时看小孩"
+          },
+          {
+            "word": "forest",
+            "form": "for",
+            "phonetic": "/ˈfɒrɪst/",
+            "meaning": "森林"
+          },
+          {
+            "word": "pyramid",
+            "form": "pyramids",
+            "phonetic": "/ˈpɪrəmɪd/",
+            "meaning": "金字塔；棱锥"
+          },
+          {
+            "word": "exception",
+            "form": "exceptions",
+            "phonetic": "",
+            "meaning": "n. 例外,除外 / n. 例外；异议 / n. 例外， 除外"
+          },
+          {
+            "word": "to",
+            "form": "to",
+            "phonetic": "",
+            "meaning": "科学家"
+          },
+          {
+            "word": "norm",
+            "form": "norm",
+            "phonetic": "",
+            "meaning": "n. 标准，规范 / n. 规范 A；准则"
+          },
+          {
+            "word": "mostly",
+            "form": "Most",
+            "phonetic": "",
+            "meaning": "adv. 主要地， 大部分， 通常"
+          },
+          {
+            "word": "locate",
+            "form": "located",
+            "phonetic": "",
+            "meaning": "v. 查出,探出,查找…地点；使…坐落于,位于 / v. 位于；查找…的地点 / vt. 查找…的位置；使…坐落于， 位于"
+          },
+          {
+            "word": "means",
+            "form": "means",
+            "phonetic": "",
+            "meaning": "n. 方法， 手段"
+          },
+          {
+            "word": "care",
+            "form": "careful",
+            "phonetic": "",
+            "meaning": "n. 照顾，照料 v. 关心，在意 / n. 关怀；照料；谨慎；忧虑 v. 照顾；关心；喜爱；顾虑"
+          },
+          {
+            "word": "search",
+            "form": "searching",
+            "phonetic": "/sɜːtʃ/",
+            "meaning": "搜索；寻找"
+          },
+          {
+            "word": "accident",
+            "form": "accident",
+            "phonetic": "/Imvest「 gejn/",
+            "meaning": "他们彻底调查了这起意外事件的原因"
+          }
+        ],
+        "phrases": [
+          {
+            "phrase": "by means of",
+            "def": ""
+          }
+        ]
+      }
     },
     "Translation": {
       "sentences": [
@@ -8353,7 +17670,11 @@ const ENGLISH_DATA = {
         "",
         "",
         ""
-      ]
+      ],
+      "vocab": {
+        "words": [],
+        "phrases": []
+      }
     }
   },
   "2015": {
@@ -8483,7 +17804,93 @@ const ENGLISH_DATA = {
           "prove",
           "tell"
         ]
-      ]
+      ],
+      "vocab": {
+        "words": [
+          {
+            "word": "section",
+            "form": "Section",
+            "phonetic": "",
+            "meaning": "n. 章节；部分；地区；部门， 科 A"
+          },
+          {
+            "word": "direction",
+            "form": "Directions",
+            "phonetic": "/dsregJaydrydar/",
+            "meaning": "方向"
+          },
+          {
+            "word": "reader",
+            "form": "Read",
+            "phonetic": "/ˈriːdə(r)/",
+            "meaning": "读者；读本"
+          },
+          {
+            "word": "following",
+            "form": "following",
+            "phonetic": "",
+            "meaning": "adj. 其次的，接着的；下列的，下述的 / adj. 接着的， 下列的"
+          },
+          {
+            "word": "texture",
+            "form": "text",
+            "phonetic": "",
+            "meaning": "n. 质地；纹理；结构；本质，实质 / n. 质地， 纹理， 结构"
+          },
+          {
+            "word": "forest",
+            "form": "for",
+            "phonetic": "/ˈfɒrɪst/",
+            "meaning": "森林"
+          },
+          {
+            "word": "blank",
+            "form": "blank",
+            "phonetic": "",
+            "meaning": "空自的"
+          },
+          {
+            "word": "notify",
+            "form": "not",
+            "phonetic": "",
+            "meaning": "v. 通告，通知；公布 / vt. 通知， 告知； 报告"
+          },
+          {
+            "word": "relate",
+            "form": "related",
+            "phonetic": "/rɪˈleɪt/",
+            "meaning": "联系；讲述"
+          },
+          {
+            "word": "friendship",
+            "form": "friends",
+            "phonetic": "/“frendJrp/",
+            "meaning": "友谊"
+          },
+          {
+            "word": "share",
+            "form": "sharing",
+            "phonetic": "",
+            "meaning": "一份；你这一份费用是"
+          },
+          {
+            "word": "gene",
+            "form": "genes",
+            "phonetic": "/dsin/",
+            "meaning": "基因"
+          }
+        ],
+        "phrases": [
+          {
+            "phrase": "manage to",
+            "def": ""
+          },
+          {
+            "phrase": "seem to",
+            "def": ""
+          }
+        ]
+      }
     },
     "Text1": {
       "passage": {
@@ -8557,7 +17964,101 @@ const ENGLISH_DATA = {
           "explanation": "［精准定位］ 文首段以“西班牙国王卡洛斯被迫退位”事件引发全文探讨 问 题 ： 欧洲｜ 王室是否 行将就木？\n第二至五段分析指出欧洲各王室靠其努力调整仍将持续 一 段时日；末两段聚焦英国王室，指出查尔斯王子\n不当行为致其面临危机 。 纵观全文，作者实以卡洛斯事例警示欧洲王室做出调整，〔 C］ 正确。\n      ［命题解密］ 正确项恰当涵盖全文主要内容：从“卡洛斯退位”看“整个欧洲王室备受争以”的现状。\n      [ A ］偏离主线：文章’关注点在“欧洲｜ 各君主国”，而 三｜｜三“卡洛 斯个人 荣辱” ； ［ BJ 利用背 景信息 “查尔斯\n己做王｛诸多年、且登上王位依然遥遥无期”捏造干扰，但非文中信息； ［ D J 只在文章末段提及，且将文意\n“ 查 尔斯 给英国王室带来威 胁”改为“ 查 尔斯迟于应对面前威胁” 。\n      ［技巧总结］ 本题以“文章标题”形式考查考生对全文的 把 握 。 角f i题时可采取思路“重在对比分 析 选\n项，同时囚顾文章内容” ： 四个选项均为“人物 ＋短语 ”形式： ［町、［ DJ 关注 人物 Cha rl es 仅出现于最末两\n段，且随后短语均针对查尔斯个人，故排除；［ A ］、［ CJ 以人物 Carlos 为文章切入点，但 ［ A ］中短语关注的\n是 Ca rlo s 个人，排 ｜涂，［ CJ All European Mona r c h s 为全文关注对象， a l esso n 体现以“卡洛斯被迫退位 看\n欧洲王室现状”的视角，故正确 。\n   囡矗眉目曾回                                                                               回跑串础回\n                                                                                        一\n                      ,/ ~-"
         }
       ],
-      "translation": ""
+      "translation": "",
+      "vocab": {
+        "words": [
+          {
+            "word": "king",
+            "form": "King",
+            "phonetic": "",
+            "meaning": "n. 国王；最有势力者；王棋 vi. 统治；做国王 vt. 立…为王 adj. 主要的，最重要的，最大的"
+          },
+          {
+            "word": "insist",
+            "form": "insisted",
+            "phonetic": "",
+            "meaning": "v. 坚称，坚决认为 / v. 坚持，强调"
+          },
+          {
+            "word": "die",
+            "form": "die",
+            "phonetic": "/dar/",
+            "meaning": "死亡"
+          },
+          {
+            "word": "sleep",
+            "form": "sleep",
+            "phonetic": "",
+            "meaning": "v. 睡，睡觉 n. 睡眠"
+          },
+          {
+            "word": "embarrass",
+            "form": "embarrassing",
+            "phonetic": "",
+            "meaning": "v. 使困窘,使局促不安；阻碍,麻烦 / vt. 使窘迫， 使为难"
+          },
+          {
+            "word": "scandal",
+            "form": "scandals",
+            "phonetic": "",
+            "meaning": "n. 丑闻；流言蜚语；诽谤；公愤 / n. 丑闻；恶意诽谤； 流言蜚语；反感， 愤慨"
+          },
+          {
+            "word": "popular",
+            "form": "popularity",
+            "phonetic": "/「pppjala(r)/",
+            "meaning": "流行的"
+          },
+          {
+            "word": "republican",
+            "form": "republican",
+            "phonetic": "",
+            "meaning": "adj. 共和国的；共和政体的；共和主义的；拥护共和政体的 n. 共和主义者 / adj. 共和政体的； 共和国的 n. 共和党人"
+          },
+          {
+            "word": "to",
+            "form": "to",
+            "phonetic": "",
+            "meaning": "科学家"
+          },
+          {
+            "word": "stand",
+            "form": "stand",
+            "phonetic": "/stænd/",
+            "meaning": "站立；忍受；立场"
+          },
+          {
+            "word": "seed",
+            "form": "seeing",
+            "phonetic": "/siːd/",
+            "meaning": "种子；播种"
+          },
+          {
+            "word": "means",
+            "form": "mean",
+            "phonetic": "",
+            "meaning": "n. 方法， 手段"
+          }
+        ],
+        "phrases": [
+          {
+            "phrase": "due to",
+            "def": ""
+          },
+          {
+            "phrase": "owing to",
+            "def": ""
+          },
+          {
+            "phrase": "react to",
+            "def": ""
+          },
+          {
+            "phrase": "used to",
+            "def": ""
+          }
+        ]
+      }
     },
     "Text2": {
       "passage": {
@@ -8631,7 +18132,93 @@ const ENGLISH_DATA = {
           "explanation": "［精准定位］ 根据 Orin Kerr 's comp ar i son 定位至末段③句，该句类 比指出：当初 汽车 成为生活必需\n 品时，法官们不得不为其确新规，同盟，如今数 字信息成为 人类日常生活 一 部分，法 官 也应为该新兴领\n 域明 令新 规 。 再根据“所举事例旨在为观点服务”原 则 ，可将类 比 意图追溯到②句 ： 新的颠覆性技术有\n 时 需要对宪法保护条 例 有新 的 运用 。 可 见 ， 作 者类 比 意图在于 说明新 技术需要宪法新解释 ， ［ DJ 正确 。\n       ［命题解密］正确项 ［ D J 是 对末段 ③ 句类比的概括，又是对 ② 句观点的改写，其 中 r equ i r es 对应\n demands; reinter pretat ion of the Co n st i t uti on 对应 n ove l ap pli cations of the Constit uti on ’ s p rotect i o n s 。\n       [ A ］ 貌似与 ② 句 nov e l app li cat ions of th e Cons titution ’ s prot ec ti o n s （宪法 保护条例的新运用）及 ③\n 句 sp ec ify no ve l rul es （ 明确新的规则）同义，因此干扰性极大，但实际上文 章 讨论的 是“宪法保护 范围的\n 新运用”并非“宪法本身的 灵活实 施” 。［ BJ 利用常识 “宪法原 则 ／精 神不 变”捏造干扰，但与文意 相 差甚\n 远 。［ CJ 对①句 th e justices sho uld not swa llow Ca li fornia ’ s arg um ent w h o l e （法官 们 不应该全盘接受 加\n 州 观点）过度推导，得出“加州观点”违反了“宪法原 则 ”， 而 实际上两者并非对立（ violates 一 说错误） 。\n       ［技巧总结］本题考查文中 引用他人所做比 较 的 目 的 ，考生可从两个角度解题 ： 首先寻找引用 比 较\n （论据）服务的对象（论点儿正确项应与其同义 ； 其次研究 比 较本身（找到比较双方、比较点、比较结果\n 等），正确项应是对比较结果的概括 。\n       具体来看 ：所 考事 例 位于文末，其 服 务观点很容易 确 立为上句（第 七 段 ② 句） ,[ DJ 与该句同义 ，同时\n 也 概括了示例本身主要内容“法官们必须解决第四修正案 如何 适用数字信息的问题”，故为正确项 。\n   国强温属回\n                              ／ 阳3                         《科学》努力加入推进论文\n   回坦露面醉J\n     知识补充                                                         统计审查的行列\n ，等 l工、－文章总体份提\n       本文选自 Na ture《 自然 》 20H 年 7 月 3 日 一 篇题为 Sc i ence jo ins push to sc reen s tatisti cs 111 papers\n （ 《 科 学》参 与推进论文统计审 查） 的文 章。全文 围绕“ 《 科 学》 期刊 增 加 论文统计审查”这 一革开 举措展开\n 论述，分析了 举措 ／：t\\ 台的原因，列举了 一 些领域学者对该举措的 看法， 说明 了 此 举对于科研发表 以及 学\n 术研究的 意义 和它目前存在的局限性 。\n                                           vx：KZRZ2019\n           0Th e journal( Science is add ing an extra round of\n                                                                                   《 科学 》 期刊主编码西娅 · 麦克纳特\n statistical(   chec ks to its peer- review process ，巳d i to 1- in-\n                                                                            今天宣布，杂志拟对其同行评审程序增 加\n chief Marc ia McNutt a nno un ced today.                @ The policy\n                                                                            额外的 一 轮统计审查 。 该政策仿效了其\n follows similar efforts from other journals, aft er widespread\n                                                                             它杂志的类似举措，走出于人们对“数据\n concern t hat basic mistakes in data analysis are contr ibuti ng to\n                                                                            分析中的基本错误导致许多业已发表的\n t he irreproducibility( of many publi shed research fi ndings.\n                                                                            研究成果元法复制”的普遍担忧 。\n                                           ＞：：词汇注辱与非萄牙玩：＜ 1'\n( journal [ 1d33:na l ］ η ．日报；期刊，杂志； 1:1 志                    1   ( add .. . to. .. （把． ．． ． ．．力11 入 ．．．．． ． ）\n( statistical [ sta't 1 st1k a l ］ ι 统计 的； 统计学 的              ）   ② p ee r … p roc巳S\n( irreproducibility [ 11ripra,dju:sa1b1lat1] 11. 不可复制性            ( contrib ut e to （造成，导－致）\n．经典搭配\n                                                       i＞；董事分析：. : ;/\n       第一段引入话题，概述《科学》新举措及其背景原因。 ① an extra round of statistical checks;\n② irreproducibility 。\n       ① 旬引出《科学》新举措：在同行评审程序上新增一轮统计审查。 i s adding. . . ex tra . . checks to it s\npee r- review process( is add ing A to B 以现 在进行 时 态表示“意图将 A 添 加1 进 B 中 ”， ex tra 意为 mo r e t han\ne xis ts a l r ea cl y, c h ec k 意 为 th e process of finding o ut if s t h is co rr ec t ） 明确 革新对象“ 同 行 评 审程序 ” （ pee r-\nr ev iew p rocess ） 以 及举 措 内 容 “准 备新增一 轮 统 计 审查 ” ，反 映 了《科学 》 拟加强对科研论 文 的 审查， 同 时\n触发悬念 ：此 举背后有 何动因 ？ 【注 1 ：同行评审 为一 种 审查程序， 即 作者的学术成果由 同 一 领域 的 其 他\n专家学者来 加以 评审， 以确保 科 研 发表的质量 。 注 2 ： 统计学 主要通过利用概率论建立数学模型 ，收 集 所\n观察系统 的 数 据 ， 进行 量 化分析 、 总 结， 做出推断和预测 ，被广泛应用于各 门 学 科 之 中 。 】\n       ② 旬概述《科学》新举措背后的原因。 句首 Th e po l i cy 回指①句 add i n g . . . ext ra .. . s ta ti s tica l\nchec k s 这一举 措； fo l l ows sim il ar effo rts fro m o ther jo urna ls( fo ll ow 熟词僻意 ， 指 to do t he sa me th ing as\ns b e l se ＇＇仿 效 ” ）表 明许 多 期刊 在 此 之 前 已经开始 加 强审 查 科研 论文，其中 e ffo r ts 凸 显各大 期刊保障论 文\n质量 的 决 心和1 努 力， 影 射科研论 文 可能面 临 严 峻的 质量危 机 。 a ft e r （语 用功能 为 b eca u se of st h t hat\nhappened ear li er“ 由于 ； 既 然 ” ） 引出 《 科 学 》采取新举 措的 原因； widespread conce rn ( co nce rn 意为 “ 〔尤指许\n多人共 同的 ］ 担心；忧 虑”）奠定“ 问 题严峻”这 一 总基 调 ， t h at 引巾 的同位语从句明 确 co n ce rn 的内 容，摆\n/Ii 问 题 ： 数据分 析中的 基本 错 误导致已发表 的研 究结果不具有 可 复 制 性。 【 注 ： rep roducibili ty （可复制\n性 ） 源于生 物 实验原 则 ， 即 一 项实验得到的结论，必须 可以 被其 他 人重复得出，才能证 明 其结 论 正 确，而\n非 偶 然获得的错误结论 。 i亥原 则同 样 也 是科学研究 中 最重要的、受到科学家 一 致认可的准 则 ，若 现 象或\n结果不 能 被 别人 重复 ， 发 现 者声 称的 诙科学发 现就很 可能是错误或伪造 的 。 】\n       【深层解读】隐性因果逻辑词（ after, con tr协ute to ）明示两旬间因果逻辑： 《 科 学》及其 他 许 多 期 刊 中，\n已发表 的研 究 成 果存 在 数 据分析 上 的 基本 错 误，换言之 ， 这些研究结论有误， 而 这元疑有 损期 刊 声誉及\n权威 ， 因 此 各大 期 刊 竞 相加强科研论 文评审，在原有 同行 词l 'j;打基础 上增 加 － J]j “ 统 计 审查 ” 。\n                                                       ： ：~：事露宿饵：＜： ；／"
         }
       ],
-      "translation": ""
+      "translation": "",
+      "vocab": {
+        "words": [
+          {
+            "word": "justify",
+            "form": "Just",
+            "phonetic": "",
+            "meaning": "v. 证明合法；整理版面 / vt. 证明…是正当的， 认为有理"
+          },
+          {
+            "word": "constitution",
+            "form": "Constitution",
+            "phonetic": "",
+            "meaning": "n. 宪法；体制；章程；构造；建立，组成；体格 / n. 构成， 构造， 成分；体格， 体质；宪法"
+          },
+          {
+            "word": "digital",
+            "form": "digital",
+            "phonetic": "/「drd3i0/",
+            "meaning": "举止"
+          },
+          {
+            "word": "data",
+            "form": "data",
+            "phonetic": "/ˈdeɪtə/",
+            "meaning": "数据；资料"
+          },
+          {
+            "word": "supreme",
+            "form": "Supreme",
+            "phonetic": "/suzprimisjur-/",
+            "meaning": "最高的；极度的"
+          },
+          {
+            "word": "court",
+            "form": "Court",
+            "phonetic": "/hkoxt/",
+            "meaning": "法院"
+          },
+          {
+            "word": "consider",
+            "form": "consider",
+            "phonetic": "",
+            "meaning": "v. 考虑，细想；认为；体谅，顾及 / v. 考虑；认为；考虑到；细想"
+          },
+          {
+            "word": "police",
+            "form": "police",
+            "phonetic": "/pəˈliːs/",
+            "meaning": "警察；警方"
+          },
+          {
+            "word": "canal",
+            "form": "can",
+            "phonetic": "",
+            "meaning": "n. 运河；[地理] 水道；[建] 管道；灌溉水渠 v. 在…开凿运河 / n. 运河； 渠"
+          },
+          {
+            "word": "search",
+            "form": "search",
+            "phonetic": "/sɜːtʃ/",
+            "meaning": "搜索；寻找"
+          },
+          {
+            "word": "mobile",
+            "form": "mobile",
+            "phonetic": "",
+            "meaning": "adj. 可动的,活动的,运动的 / adj. 可移动的；机动的；易变的；非固定的 n. 运动物体 / adj. 可动的， 活动的， 运动的"
+          },
+          {
+            "word": "durable",
+            "form": "during",
+            "phonetic": "/「diuarabl/",
+            "meaning": "耐用的；持久的"
+          }
+        ],
+        "phrases": [
+          {
+            "phrase": "used to",
+            "def": ""
+          },
+          {
+            "phrase": "so that",
+            "def": ""
+          }
+        ]
+      }
     },
     "Text3": {
       "passage": {
@@ -8705,7 +18292,84 @@ const ENGLISH_DATA = {
           "explanation": ""
         }
       ],
-      "translation": ""
+      "translation": "",
+      "vocab": {
+        "words": [
+          {
+            "word": "journal",
+            "form": "journal",
+            "phonetic": "",
+            "meaning": "n. 日报，杂志；日记；分类账 / n. 定期刊物， 杂志， 日报；日志， 日记"
+          },
+          {
+            "word": "science",
+            "form": "Science",
+            "phonetic": "/ˈsaɪəns/",
+            "meaning": "科学；理科"
+          },
+          {
+            "word": "extra",
+            "form": "extra",
+            "phonetic": "",
+            "meaning": "adv. 特别地，非常；另外 n. 临时演员；号外；额外的事物；上等产品 adj. 额外的，另外收费的；特大的"
+          },
+          {
+            "word": "round",
+            "form": "round",
+            "phonetic": "",
+            "meaning": "n. 圆；循环；一回合；圆形物 adj. 圆的；完全的；大概的；肥胖的 adv. 在周围；迂回地；朝反方向；挨个 v. 完成；围捕；绕行；弄圆 prep. 附近；绕过；大约；在…周围"
+          },
+          {
+            "word": "to",
+            "form": "to",
+            "phonetic": "",
+            "meaning": "科学家"
+          },
+          {
+            "word": "review",
+            "form": "review",
+            "phonetic": "",
+            "meaning": "v. 回顾,复习 n. 评论 / n. 回顾；复习；评论；检讨；检阅 v. 回顾；检查；复审"
+          },
+          {
+            "word": "editor",
+            "form": "editor",
+            "phonetic": "",
+            "meaning": "n. 编者，编辑；社论撰写人；编辑装置 / n. 编辑， 编者"
+          },
+          {
+            "word": "chief",
+            "form": "chief",
+            "phonetic": "/tʃiːf/",
+            "meaning": "主要的；首领"
+          },
+          {
+            "word": "follow",
+            "form": "follows",
+            "phonetic": "",
+            "meaning": "v. 跟随；接着"
+          },
+          {
+            "word": "similar",
+            "form": "similar",
+            "phonetic": "/ˈsɪmɪlə(r)/",
+            "meaning": "相似的"
+          },
+          {
+            "word": "effort",
+            "form": "efforts",
+            "phonetic": "",
+            "meaning": "n. 努力；成就"
+          },
+          {
+            "word": "basic",
+            "form": "basic",
+            "phonetic": "/beilsik/",
+            "meaning": "基本的"
+          }
+        ],
+        "phrases": []
+      }
     },
     "Text4": {
       "passage": {
@@ -8779,14 +18443,182 @@ const ENGLISH_DATA = {
           "explanation": ""
         }
       ],
-      "translation": ""
+      "translation": "",
+      "vocab": {
+        "words": [
+          {
+            "word": "daughter",
+            "form": "daughter",
+            "phonetic": "",
+            "meaning": "n. 女儿；[遗][农学] 子代 adj. 女儿的；子代的"
+          },
+          {
+            "word": "integrity",
+            "form": "integrity",
+            "phonetic": "",
+            "meaning": "n. 完整；正直；诚实；廉正 / n. 完整， 完全；正直， 诚实"
+          },
+          {
+            "word": "institution",
+            "form": "institutions",
+            "phonetic": "/ˌɪnstɪˈtjuːʃn/",
+            "meaning": "机构；制度；习俗"
+          },
+          {
+            "word": "sheer",
+            "form": "she",
+            "phonetic": "",
+            "meaning": "adj. 绝对的；透明的；峻峭的；纯粹的 adv. 完全；陡峭地 v. 偏航 n. 偏航；透明薄织物 / adj. 纯粹的； 十足的， 全然的；陡峭的， 险峻的"
+          },
+          {
+            "word": "collective",
+            "form": "collective",
+            "phonetic": "",
+            "meaning": "n. 集体企业; 集体农庄 adj. 集体的,共同的 / adj. 集体的；共同的；集合的；集体主义的 n. 集团；集合体；集合名词 / adj. 集体的， 共同的 n. 集体， 团体"
+          },
+          {
+            "word": "sort",
+            "form": "sorting",
+            "phonetic": "",
+            "meaning": "种类"
+          },
+          {
+            "word": "being",
+            "form": "be",
+            "phonetic": "",
+            "meaning": "n. 生物；存在， 生存"
+          },
+          {
+            "word": "market",
+            "form": "market",
+            "phonetic": "",
+            "meaning": "n. 集市,市场；销路,需求(量) v. 销售"
+          },
+          {
+            "word": "weed",
+            "form": "we",
+            "phonetic": "",
+            "meaning": "杂草"
+          },
+          {
+            "word": "create",
+            "form": "create",
+            "phonetic": "/kriˈeɪt/",
+            "meaning": "创造；创建"
+          },
+          {
+            "word": "notify",
+            "form": "not",
+            "phonetic": "",
+            "meaning": "v. 通告，通知；公布 / vt. 通知， 告知； 报告"
+          },
+          {
+            "word": "driver",
+            "form": "Driving",
+            "phonetic": "",
+            "meaning": "n. 驾驶员；驱动程序；起子；传动器"
+          }
+        ],
+        "phrases": [
+          {
+            "phrase": "due to",
+            "def": ""
+          }
+        ]
+      }
     },
     "NewType": {
       "passage": {
         "en": "PartB Directions: In the following text, some sentences have been removed. For Questions 41-45, choose the most suitable one from the list A-G to fit into each of the numbered blanks. There are two extra choices, which do not fit in any of the blanks. Mark your answers on the ANSWER SHEET. (lOpoints) How does your reading proceed? Clearly you try to comprehend, in the sense of identifying meanings for individual words and working out relationships between them, drawing on your implicit knowledge of English grammar. (41)_ ______________Y ou begin to infer a context for the text, for instance by making decisions about what kind of speech event is involved: Who is making the utterance, to whom, when and where. The ways of reading indicated here are without doubt kinds of comprehension. But they show comprehension to consist not just of passive assimilation but of active engagement in inference and problem-solving. You infer information you feel the writer has invited you to grasp by presenting you with specific evidence and clues. (42) ______________ Conceived in this way, comprehension will not follow exactly the same track for each reader. What is in question is not the retrieval of an absolute, fixed or \"true\" meaning that can be read off and checked for accuracy, or some timeless relation of the text to the world. (43) _______________ Such background material inevitably reflects who we are. (44) ______ This doesn't, however, make interpretation merely relative or even pointless. Precisely because readers from different historical periods, places and social experiences produce different but overlapping readings of the same words on the page - including for texts that engage with fundamental human concerns - debates about texts can play an important role in social discussion of beliefs and values. How we read a given text also depends to some extent on our particular interest in reading it. (4 5) _______________ Such dimensions of reading suggest - as others introduced later in the book will also do - that we bring an implicit ( often unacknowledged) agenda to any act of reading. It doesn't then necessarily follow that one kind of reading is fuller, more advanced or more worthwhile than another. Ideally, different kinds of reading inform each other, and act as useful reference points for and counterbalances to one another. Together, they make up the reading component of your overall literacy, or relationship to your surrounding textual environment. [A] Are we studying that text and trying to respond in a way that fulfils the requirement of a given course? Reading it simply for pleasure? Skimming it for information? Ways of reading on a train or in bed are likely to differ considerably from reading in a seminar room. [BJ Factors such as the place and period in which we are reading, our gender, ethnicity, age and social class will encourage us towards certain interpretations but at the same time obscure or even close off others. [q If you are unfamiliar with words or idioms, you guess at their meaning, using clues presented in the context. On the assumption that they will become relevant later, you make a mental note of discourse entities as well as possible links between them. [D] In effect, you try to reconstruct the likely meanings or effects that any given sentence, image or reference might have had: These might be the ones the author intended. [EJ You make further inferences, for instance, about how the text may be significant to you, or about its validity - inferences that form the basis of a personal response for which the author will inevitably be far less responsible. [_F] In plays, novels and narrative poems, characters speak as constructs created by the author, not necessarily as mouthpieces for the author's own thoughts. [GJ Rather, we ascribe meanings to texts on the basis of interaction between what we might call textual and contextual material: between kinds of organization or patterning we perceive in a text's formal structures (so especially its language structures) and various kinds of background, social knowledge, belief and attitude that we bring to the text.",
         "zh": ""
       },
-      "questions": []
+      "questions": [],
+      "vocab": {
+        "words": [
+          {
+            "word": "direction",
+            "form": "Directions",
+            "phonetic": "/dsregJaydrydar/",
+            "meaning": "方向"
+          },
+          {
+            "word": "following",
+            "form": "following",
+            "phonetic": "",
+            "meaning": "adj. 其次的，接着的；下列的，下述的 / adj. 接着的， 下列的"
+          },
+          {
+            "word": "texture",
+            "form": "text",
+            "phonetic": "",
+            "meaning": "n. 质地；纹理；结构；本质，实质 / n. 质地， 纹理， 结构"
+          },
+          {
+            "word": "sentence",
+            "form": "sentences",
+            "phonetic": "/「sentons/",
+            "meaning": "句子"
+          },
+          {
+            "word": "remove",
+            "form": "removed",
+            "phonetic": "",
+            "meaning": "v. 移动；脱掉；免职 / v. 移动，迁移；开除；调动 n. 移动；距离；搬家"
+          },
+          {
+            "word": "forest",
+            "form": "For",
+            "phonetic": "/ˈfɒrɪst/",
+            "meaning": "森林"
+          },
+          {
+            "word": "mostly",
+            "form": "most",
+            "phonetic": "",
+            "meaning": "adv. 主要地， 大部分， 通常"
+          },
+          {
+            "word": "suitable",
+            "form": "suitable",
+            "phonetic": "/r「surtabl/",
+            "meaning": "合适的"
+          },
+          {
+            "word": "to",
+            "form": "to",
+            "phonetic": "",
+            "meaning": "科学家"
+          },
+          {
+            "word": "blank",
+            "form": "blanks",
+            "phonetic": "",
+            "meaning": "空自的"
+          },
+          {
+            "word": "extra",
+            "form": "extra",
+            "phonetic": "",
+            "meaning": "adv. 特别地，非常；另外 n. 临时演员；号外；额外的事物；上等产品 adj. 额外的，另外收费的；特大的"
+          },
+          {
+            "word": "notify",
+            "form": "not",
+            "phonetic": "",
+            "meaning": "v. 通告，通知；公布 / vt. 通知， 告知； 报告"
+          }
+        ],
+        "phrases": [
+          {
+            "phrase": "as well as",
+            "def": ""
+          },
+          {
+            "phrase": "on the basis of",
+            "def": ""
+          }
+        ]
+      }
     },
     "Translation": {
       "sentences": [
@@ -8802,7 +18634,11 @@ const ENGLISH_DATA = {
         "",
         "",
         ""
-      ]
+      ],
+      "vocab": {
+        "words": [],
+        "phrases": []
+      }
     }
   },
   "2016": {
@@ -8932,7 +18768,84 @@ const ENGLISH_DATA = {
           "so that",
           "in that"
         ]
-      ]
+      ],
+      "vocab": {
+        "words": [
+          {
+            "word": "section",
+            "form": "Section",
+            "phonetic": "",
+            "meaning": "n. 章节；部分；地区；部门， 科 A"
+          },
+          {
+            "word": "direction",
+            "form": "Directions",
+            "phonetic": "/dsregJaydrydar/",
+            "meaning": "方向"
+          },
+          {
+            "word": "reader",
+            "form": "Read",
+            "phonetic": "/ˈriːdə(r)/",
+            "meaning": "读者；读本"
+          },
+          {
+            "word": "following",
+            "form": "following",
+            "phonetic": "",
+            "meaning": "adj. 其次的，接着的；下列的，下述的 / adj. 接着的， 下列的"
+          },
+          {
+            "word": "texture",
+            "form": "text",
+            "phonetic": "",
+            "meaning": "n. 质地；纹理；结构；本质，实质 / n. 质地， 纹理， 结构"
+          },
+          {
+            "word": "forest",
+            "form": "for",
+            "phonetic": "/ˈfɒrɪst/",
+            "meaning": "森林"
+          },
+          {
+            "word": "blank",
+            "form": "blank",
+            "phonetic": "",
+            "meaning": "空自的"
+          },
+          {
+            "word": "spouse",
+            "form": "spouse",
+            "phonetic": "/spaʊs/",
+            "meaning": "配偶"
+          },
+          {
+            "word": "complex",
+            "form": "complex",
+            "phonetic": "",
+            "meaning": "adj. 复杂的；合成的， 综合的 n. 综合体"
+          },
+          {
+            "word": "male",
+            "form": "male",
+            "phonetic": "/mel/",
+            "meaning": "男性"
+          },
+          {
+            "word": "involve",
+            "form": "involve",
+            "phonetic": "",
+            "meaning": "v. 包含,含有；涉及 / v. 包含；牵涉；使陷于；潜心于 / vt. 使某人卷入， 陷入； 连累；包含， 含有； 涉及"
+          },
+          {
+            "word": "notify",
+            "form": "not",
+            "phonetic": "",
+            "meaning": "v. 通告，通知；公布 / vt. 通知， 告知； 报告"
+          }
+        ],
+        "phrases": []
+      }
     },
     "Text1": {
       "passage": {
@@ -9006,7 +18919,93 @@ const ENGLISH_DATA = {
           "explanation": ""
         }
       ],
-      "translation": ""
+      "translation": "",
+      "vocab": {
+        "words": [
+          {
+            "word": "pride",
+            "form": "prides",
+            "phonetic": "/praɪd/",
+            "meaning": "骄傲；自豪"
+          },
+          {
+            "word": "global",
+            "form": "global",
+            "phonetic": "/「glaubl/",
+            "meaning": "全球的"
+          },
+          {
+            "word": "fashion",
+            "form": "fashion",
+            "phonetic": "",
+            "meaning": "方式；流行式样"
+          },
+          {
+            "word": "hasty",
+            "form": "has",
+            "phonetic": "/「hersti/",
+            "meaning": "匆忙的"
+          },
+          {
+            "word": "decide",
+            "form": "decided",
+            "phonetic": "",
+            "meaning": "v. 决定,下决心；解决,裁决 / v. 决定；解决；判决"
+          },
+          {
+            "word": "to",
+            "form": "to",
+            "phonetic": "",
+            "meaning": "科学家"
+          },
+          {
+            "word": "define",
+            "form": "define",
+            "phonetic": "",
+            "meaning": "v. 确定，说明，界定；给…下定义，解释 / v. 定义；使明确；规定 n. (Define)人名；(英)德法恩；(葡)德菲内 / vt. 给…下定义；限定， 规定"
+          },
+          {
+            "word": "physical",
+            "form": "physical",
+            "phonetic": "/ˈfɪzɪkl/",
+            "meaning": "身体的；物理的"
+          },
+          {
+            "word": "beauty",
+            "form": "beauty",
+            "phonetic": "/「bjuzti/",
+            "meaning": "美；丽；美人；美丽的东"
+          },
+          {
+            "word": "forest",
+            "form": "for",
+            "phonetic": "/ˈfɒrɪst/",
+            "meaning": "森林"
+          },
+          {
+            "word": "approval",
+            "form": "approval",
+            "phonetic": "/əˈpruːvl/",
+            "meaning": "批准；赞成"
+          },
+          {
+            "word": "law",
+            "form": "law",
+            "phonetic": "",
+            "meaning": "n. 法律,法规,法学,规律,定律 / n. 法律；规律；法治；法学；诉讼；司法界 vi. 起诉；控告 vt. 控告；对…起诉"
+          }
+        ],
+        "phrases": [
+          {
+            "phrase": "result in",
+            "def": ""
+          },
+          {
+            "phrase": "rather than",
+            "def": ""
+          }
+        ]
+      }
     },
     "Text2": {
       "passage": {
@@ -9080,7 +19079,89 @@ const ENGLISH_DATA = {
           "explanation": ""
         }
       ],
-      "translation": ""
+      "translation": "",
+      "vocab": {
+        "words": [
+          {
+            "word": "forest",
+            "form": "For",
+            "phonetic": "/ˈfɒrɪst/",
+            "meaning": "森林"
+          },
+          {
+            "word": "time",
+            "form": "time",
+            "phonetic": "/taɪm/",
+            "meaning": "时间；时代；次数"
+          },
+          {
+            "word": "history",
+            "form": "history",
+            "phonetic": "/「hstri/",
+            "meaning": "历史；学；来历；经历"
+          },
+          {
+            "word": "living",
+            "form": "live",
+            "phonetic": "/Uvm/",
+            "meaning": "活的"
+          },
+          {
+            "word": "town",
+            "form": "towns",
+            "phonetic": "/taon/",
+            "meaning": "市镇；城镇"
+          },
+          {
+            "word": "country",
+            "form": "country",
+            "phonetic": "",
+            "meaning": "n. 国家；农村,乡下"
+          },
+          {
+            "word": "hasty",
+            "form": "has",
+            "phonetic": "/「hersti/",
+            "meaning": "匆忙的"
+          },
+          {
+            "word": "curious",
+            "form": "curious",
+            "phonetic": "",
+            "meaning": "adj. 好奇的, 求知的；古怪的 / adj. 好奇的，有求知欲的；古怪的；爱挑剔的 / adj. 好奇的； 稀奇的"
+          },
+          {
+            "word": "result",
+            "form": "result",
+            "phonetic": "",
+            "meaning": "结果"
+          },
+          {
+            "word": "shower",
+            "form": "show",
+            "phonetic": "/ˈʃaʊə(r)/",
+            "meaning": "淋浴；阵雨"
+          },
+          {
+            "word": "rate",
+            "form": "rate",
+            "phonetic": "",
+            "meaning": "比率；等级"
+          },
+          {
+            "word": "countryside",
+            "form": "countryside",
+            "phonetic": "",
+            "meaning": "n. 乡下,农村 / n. 农村，乡下；乡下的全体居民"
+          }
+        ],
+        "phrases": [
+          {
+            "phrase": "rather than",
+            "def": ""
+          }
+        ]
+      }
     },
     "Text3": {
       "passage": {
@@ -9154,7 +19235,105 @@ const ENGLISH_DATA = {
           "explanation": "［精准定位］ 末段首句指出，研究未能回答“企业应该在 CSR 上投入多少”这一问题，也即企业在\nCSR 上具体的必要花费数额尚不得而知，［ BJ 正确。\n      ［命题解密］ 正确项［ BJ 是对末段首句 their study does not answer the question at how much\nbusinesses ought to spend on CSR 的同义改写。\n      [ A ］误认为末段③句 ge t into trouble with the law . . . costly punishment 是在介绍“ CSR 被人们所忽\n视的负面影响”，而实际上该句是在说明 CSR 最起码的积极作用 。［ CJ 将末段①句信息“研究未能解答\n企业应该在 CSR 上投入多少”曲解为“研究高估了企业的 CSR 支出能力 I CSR 财政能力”。［ DJ 根据末\n段②句词汇 banking 望文生义、捏造 ti：＼ “ CSR 能为银行业带来很多收益”，而实际上 banking on 意为“指\n望”，和“银行业”无关。\n     ［技巧总结］ 从原文来看，命题的陷阱在于取舍结构、倒装句、否定句等特殊句式 。 从选项来 看，命题\n人通常会采用望文生义（文中取某词僻义或特殊用法，选项却用其常见含义）、断章取义（不是整体理解\n句子信息，而是将个别词汇糕杂到 一 起形成完整的语句）等方式形成干扰 。本题 中，根据 ［ A ]negat i ve\neffect 、［ BJ spending O队 ［ C] financi a l capacity 、 ［ D]banking indu st ry 不难分别定位至③句，①句，①旬，②\n句，但需要借助语法知识、语义逻辑、以及文章主题等才能理解到 ［ CJ 曲解文意、［ A ］ 断 章取义 、 ［ DJ 望文\n生义，只有［ BJ 是对①句主要内容的同义表达。\n           画 r.目\n                          /"
         }
       ],
-      "translation": ""
+      "translation": "",
+      "vocab": {
+        "words": [
+          {
+            "word": "social",
+            "form": "social",
+            "phonetic": "/ˈsəʊʃl/",
+            "meaning": "社会的；社交的"
+          },
+          {
+            "word": "responsibility",
+            "form": "responsibility",
+            "phonetic": "",
+            "meaning": "n. 责任，职责；义务 / n. 责任， 责任心；职责， 任务"
+          },
+          {
+            "word": "to",
+            "form": "to",
+            "phonetic": "",
+            "meaning": "科学家"
+          },
+          {
+            "word": "design",
+            "form": "designed",
+            "phonetic": "",
+            "meaning": "v. 设计;构思;绘制 n. 设计；图样 / v. 设计；计划；构思 n. 设计；图案"
+          },
+          {
+            "word": "increase",
+            "form": "increase",
+            "phonetic": "/ɪnˈkriːs/",
+            "meaning": "增加；增长"
+          },
+          {
+            "word": "evening",
+            "form": "even",
+            "phonetic": "",
+            "meaning": "n. 晚上；傍晚；（联欢性的）晚会；后期 adj. 在晚上的；为晚上的；晚上用的 int. 晚上好（等于good evening）"
+          },
+          {
+            "word": "regard",
+            "form": "regard",
+            "phonetic": "",
+            "meaning": "n. 注意；尊重；问候；凝视 v. 注重，考虑；看待；尊敬；把…看作；与…有关"
+          },
+          {
+            "word": "waste",
+            "form": "waste",
+            "phonetic": "/werst/",
+            "meaning": "浪费"
+          },
+          {
+            "word": "money",
+            "form": "money",
+            "phonetic": "",
+            "meaning": "n. 货币,钱"
+          },
+          {
+            "word": "notify",
+            "form": "not",
+            "phonetic": "",
+            "meaning": "v. 通告，通知；公布 / vt. 通知， 告知； 报告"
+          },
+          {
+            "word": "being",
+            "form": "be",
+            "phonetic": "",
+            "meaning": "n. 生物；存在， 生存"
+          },
+          {
+            "word": "cut",
+            "form": "cut",
+            "phonetic": "/kʌt/",
+            "meaning": "切；割；削减"
+          }
+        ],
+        "phrases": [
+          {
+            "phrase": "rather than",
+            "def": ""
+          },
+          {
+            "phrase": "engage in",
+            "def": ""
+          },
+          {
+            "phrase": "seem to",
+            "def": ""
+          },
+          {
+            "phrase": "be willing to",
+            "def": ""
+          },
+          {
+            "phrase": "even if",
+            "def": ""
+          }
+        ]
+      }
     },
     "Text4": {
       "passage": {
@@ -9228,14 +19407,186 @@ const ENGLISH_DATA = {
           "explanation": "［精准定位］ 前两段铺设《纽约时报》考虑放弃纸质版的背景及原因，末五段阐述 1头1zzFeed 公司 CEO\nP erett i 的 看法及建议 ： 第 三 段明确其态度“匆匆放弃纸质版并不明智”；第四五段提出建议“提高价格，将\n其打造为传承产品”，第六段对传承产品做出说明“专为痴迷于产品的人而做”，末段重申并总结看法“当\n所做之 事与 时代背 景 脱节之时 ，应大 胆 突破 以迎接挑战而非逃避问题（即， 不该直接喊停 纸质版而应对\n其做出战略性调整以求突破产。由此可见，全文意在借 Perett i 之言向传统报纸行业提出一种建议 ：转型\n为 一 种“少 数最忠实 的顾 客乐在其中”的昂贵商 品，唯有 ［ BJ 最 贴合 。\n    ［命题解密］ 正确项中 Print Newspape r 为全文高频 复 现词 ， Ma ke ... a Luxury Good 高度概括第五\n段＠句 raise prices and make it into ... legacy product 、第六段③句 increase it at a higher rate each yea r 及\n④句 m a k e it for ... obsessed w it h it 所暗 含 的“价高、珍稀 、只有少部分 人才能 享 有 的”这 一 性质 。\n    [A］ 利用 第 二 段 ③ 句 Readers are migrating away .. . 和 ④句 reven u e from print is declining 所体现出\n的“纸质版报纸 颓势”编 制 干扰，但全文 论述视角不在“终止纸质版，转向网 络版” 而在“将纸质版打造为\n传承产品”；［ CJ 虽然含全文主题词 Newspaper ，但却遗漏重点信息 Print ；且文中探讨的是纸版报纸的“存\n留问题”而非“时尚问题”；［ DJ 利用“《纽约时报 》 拟停纸质版发行”这 一 事件及第 二 段首句 Nostalgia （↑不 旧\n之情）设置干扰，而全文论述基调并非以选项关键词 Cherish 所体现的“惋惜、怀 ｜ 日”而是以文中 make it\ninto more of a legacy product 所体现的挑战应对之策“打造历史传承产品” 。\n    ［ 技巧总结］ 标题题主要难点在于选项似乎都包含全文核心论述对象，解题时应仔细班别其中细节\n信息是否能有力涵盖 全文 ；此外可通过观 察 选项情感色影解题，通过选项反推 其应该 涉及的内 容 ，与文\n章统一 的即为正确项 。 如 本题， 四个选项都包 含 News pap e r 这 一 中心议题，但 ［ A ］ 的感情 主线 为“对纸\n质报纸的鄙弃”、 ［ CJ 为 “ 对报纸回归流行的呼吁”、 ［ DJ 为 “对纸版报纸消 亡 的惋惜” ，显然 都 与全文“ 迎 接\n挑战，对纸质版 重新 进行战略性定位”的 基 调 不 符 。\n   回：础囚                                                                                             回庸届理回\n                                    PartB        如何提升职业形象\n  …\n  一\n   :>vU堕丑圃 E唁，.画归                                                                                   i!m·--wF~\n   回雹可斟咄                                                                                            囡雹草也础\n      知 10 弘充\n         ，、 ， － ，                                                                                   原文外教朗读\n受己\n      本文选自 Entre prene ur《企 业 家 》 2015 年 6 月 1 9 日 一 篇题 为 H ere Is H ow Yo u Should Upgrade\nYour Professional Image （应该如何提升职业形 象） 的文 章。本文是关于 职场人士如何提升 自 己形 象 的\n说明文 。文章首 三 段指出职业形 象 的 重要性 ；末五段进而介绍提升职业形象的 5 个小贴 士 。\n      [ A] Cr eate a new image of yo urself\n                                                                    [ A］ 打造自我新形 象\n      [BJ H ave co州 d enc e in yourself\n                                                                    〔BJ 对自己有信心\n      [ C] Decide if th e time is right\n                                                                    [CJ 判断时机是否合适\n      [ DJ Und erstand the context①\n                                                                    〔DJ 熟 知环境\n      [ E] W ork wit h professionals②\n                                                                    [ E］与专业人士合作\n      [ F] Know your goa ls\n                                                                    [ F］ 确定你的目标\n      [G] Make it efficient③\n                                                                    [ G］ 使之高效\n                                          c~：词汇注：在与难句：分析，：：： fl\n( context [' kontekst] n. （事情发生的）背景，环境 CD                1\\   ( professional [ pra1feJanal] 11 . 专 业人 士， 内 行 CE 项）\n项）                                                       ))   ( efficient [ 11£巾nt］ α ． 效率高 的 CG 项）\n                                              ：·小择：时Jf.C< ;/\n      [ A］表 明备选段应提及“自我形 象 ” 并突 出 “新 ” 。另 外，选项的概括性表明备选段可能统 领全文 。\n      [BJ 表 明备选段 意在 “提醒人们 要有自信 ”，可大胆猜测段落可能会提及 “有自信 的好处” 等 内 容。\n      [CJ 表 明备选段语义 重点应落在“ tim e （ 时间 、 时机 ）”上， deci d e if . . . is right 表 明段 落应提及“ 如何\n决定、判断时机 是否正 确” 。\n      [ DJ 表 明备选段应提及 “ co nt ext （语境或环境） ”的相 关 内 容，很可能涉及不同类型的 cont e xts 。\n      [ E］表 明备选段话义 重点应落在“专业人士”，可推测备选段落会介绍“为什么 ／ 如何与 专业人士合作” 。\n      [ F］表 明备选段应与 “目标 ”相 关， 可能 会 针对“如何确定目标”做介绍 。\n      [G］表 明 备选段会提及“效率”， i t 可能指代上文所述中心 事 件 。\n         。 No matter how forma l o r informa l th e work\n                                                                         不论 工 作环 境多 么正式 或 不正式 ， 你\nenvironm ent, th e w ay you present( yo urself has a n\n                                                                    展示自己的方式会产生巨大 影 响 。 在 第 一\nimpa ct. @ Th is is es p巳ci a l l y tru e in fir st impress ions.\n8 Accord ing to r esea rch fr om Prin ceton University ,\npeople assess( you r competence, trustworth iness® , and\nlikeability® in ju st a te川h of a second , solely® based on th e                           短短零点一秒内评估你的能力、可信度和\nway yo u loo k.                                                                             可爱度 。\n                                                                                               J\n                                                  …\n                                                       注\n                                                              释－\n                                                                             难…\n                                                                                      分\n                                                                                      析\n                                                                       与\n                                                                                  旬\n                                                       …\n                                                                       …\n                                                  词\n                                                                                      · －\n                                                                                      …\n                                                       「」\n                                                                                  e\n                                                                                         …\n                                                                        －\n                                                                            ;\n( present [ pri ' ze nt ］ υ． 展示 ， 展 现                                       )\\    ( likeability [ ,la1k;;i' b1J;,it1 ］ 凡 (likeable 的 变 形）可爱程\n( assess [ ;;i'ses] v. 评估，评 定                                               ?     度 ，魅 力\n① trustworthin四 ［ 'tr/\\St ,w3：凸1rns ］凡    ( …rthy El<J 变                          队。le川ll1 ] ad. 仅仅\n形 ） 可 信赖 度，信用\n                                                       ＞ 语篇分析 · ~ 1 11\n     第一段首先指出形象对人的重要性 。 首 句 直奔 主题，指出不论 工 作环境如何，人的形象会产生巨大\n影 响 。 第二 句 Thi s 回指 首 句， e sp e cially 递进指出形 象 对 第－ 印 象 的 影 响更 是 重大。第 三 句则引用普林\n斯 顿 大学 的研 究 成 果 解 释第二 句 ， 其中 in jus t a t enth of a seco nd 和 sol e ly 共同凸显外在形象在第 一 印\n象 中的 重要 作用 ， 为 下文 介绍 “ 职场 着装 ”埋下伏笔 。\n      JI O T he diffe rence bet wee n today ’ s workplace and                                 现代职场和“穿出成功”时代的区别在\nt he “ dr ess fo r success ” era( is that th e ra nge o f options is\n                                                                                           于可选择范围广了许多 。 规范已经发生演\nso   mu ch      broa der.     @ Norms(         have    evolved®                  and\n                                                                                           变 和细化 。 红色跑鞋或 T 恤衫在一些场合\nfragmented®. @In som e settings® , r ed sneakers® or dr ess\nT -s hirt s can convey status(     ;   in o ther s not so mu c h. 。                        能够表达身份 ， 在另 一 些场合则不太能。另\nPlus® , wh a tever image w e present is magnified® by                                      外 ， 不 管 我们呈现出何种形象，都会被诸如\nsocial- m edi a se rvi ces like Linked In.     0 Chances are , your                        领英 （ Link edin ）之类的社交媒体服务放大 。\nheadshots® ar e se 巳n mu ch more oft e口 now than a decad e                                 现 在 ，你的头像可能比 一 、 二 十年前史经常\nor t wo ago.     0 Millennia ts® , it seem s , face th e paradox®                          被人看见 。 千禧一代似乎面临这样的矛盾 ：\nof being       th e   leas t form a l generation       ye t       th e most                身为 最 不正式的一代 ， 却又最关注时尚和个\nconsciousl!) o f s tyle and personal branding. @ It ca n be\n                                                                                           人品牌 。 这可能会令人困惑 。\nconfu sing .\n                                                                                               J\n                                                                                  句\n                                                                             难\n                                                                  释\n                                                            注\n                                                                                      分句\n                                                                                      析 …\n                                                  …\n                                                            … …\n                                                                       …\n                                                                       与 …\n                                                  词\n                                                       广」\n                                                                                       φ\n                                                                   今\n                                                                                  …\n                                                   …\n① era ［ ＇由可J 1/ ， 时代 ，年 代                                                         ( plus [ p! As] conj. 此外\n( norm [ n :>:m ］ η ．规范 ， 行为 准则                                                   ( magnify [ ' mreg111fa1] v. 放大，扩大\n( evolve [ 1 1 v 口Iv] v. 逐 渐 形成，逐 渐 演变                                            ( headshot [ ' h ed,Jot ］ η 大头照 ， 头像\n@ fragment [ 1frregm;,int] v.   （使 ）破 裂 ， 碎裂                                      ( millennial [ m1 1l em ＜＞！ ］ 凡千禧 一 代\n( setting [ 'se\\11J] n. 环 境                                                       @ paradox [ 'preradoks］ 凡自相矛盾\n® sneaker [ ' s川 ka］ η ． 运动 鞋\n( status [ 'ste1tas] n. 身 份 ， 地位\n     The difference between today ’s workplace and the “ dress for success ” era is that the range of options is so\nmuch broader.\n                       between today ’ s workplace and the “ dress for success\" era\n                                后置定语\n     句子主干 ： I The difference              is    that the range of options is so much broader.\n                            主语系动 词                                               表 i吾从句\n      功能注 释 ： 本句指出如今的职场和“ 穿 出成功”时代的职场 之 间的 区 别所 在 。 值得注意的是，后置定\ni吾 between today ’ s workp lace and the “ dress for success ” era 中， a nd 后 省略 the wo rkpl ace of 。\n                                                   ：：· ~－－语篇分析－：：：            11\n      第二段承上介绍当今职场穿着规范的变化 。 首两句指 出 当今 职场 着装 规范 变了， 可选 择 范围 广了。\n第三、四、五句例证首两句变化：红色跑鞋和 T 恤衫（注： dress T- s h 川为作 者类 比 dre ss s h i rt“（ 尤指上班\n时穿、须系领带的）男 士白 衬 衫 ”所造，指那 些不是 那么 正式 却 又还算正式、能够在上班 时候 穿 的 “ T 恤\n衫”）在一些场合甚至代表着职场身份，社交媒体服务夸大了形象的作用 。 末两句指 出千 禧 一 代 （身为职\n场中坚力 量 ）所面临的 矛盾情形 ： 一 方丽很随意， 一 方面又很在意时尚，这就变成了一个问题：什么时候\n该随意，什么时候该提升形象，就此开启下文的相 关论述 。\n      旺 0 So how do we navigate(          this? @ How do\n                                                                               那么我们如何应对这种情况呢？我们如何\nwe know when to invest in an upgrade®? @ And\n                                                                          知道什么时候投资于（自我形象）提升呢？成功\nwhat ’ s the best way to pull off one t hat enhances③\n                                                                          提升形象以实现目标的最好方式又是什么呢？\nour goa ls? 0 H e r巳 a r e som e tips :\n                                                                          下面是一些小贴士：\n                                                                                      J\n                                                    注\n                                                           释\n                                                                    难 ·\n                                                                              分 …\n                                                                              析 …\n                                              …\n                                                               与\n                                                                          …\n                                                                          旬\n                                              词\n                                                    … …\n                                                                               －\n                                                    「」 一\n                                                               －\n                                               …\n                                                                          －\n                                                               ．\n( navigate [1mev1ge1t] v. 找到正确方法（对付困难或                             \\)     ( enhance ［时 ha:ns] v. 提高，增强，增进\n复杂 的情况）                                                            旦\n                                                                   11     ·经典搭配\n( upgrade [.'\\p1gre1d］ η．提 高，提 升                                   11\n                                                                   % ① 川 o ff （成功完成（困难的事））\n                                                   二击毒分析.＿： 矿\n      本段针对第二段隐含问题“千禧一代如何在随意与时尚、个性中寻找平衡提升自身职场形象”，以三\n个问旬层层递进，直逼主题，引出下文对“自我形象提升”的具体介绍。 其中第 一 个问句承上引出“如何\n解决问题”，句中 navigate 为熟词僻意，取“找到正确的方法（对忖困难或复杂的情况）”之意， this 指代上\n文隐含问题。第二个问句引出“如何找准时间点”，句中 upgrade 指“个人形象的提升” 。 第 三 个问句进 一\n步深入，引出“最佳办法是什么”，句中 one 回指 an upda t e 。末句 He re ar e some tips 引出下文对这些问题\n的具体介绍 。\n      N O As an executive(        coach, I ’ ve seen image\n                                                                               作为一名管理人员培训师，我已见证形象提\nupgrades be particularly helpful during transitions:ll -\n                                                                          升在（工作）过渡期特别有用 一一 找新工作时，开\nwhen looking for a new job, stepping into a new or\n                                                                          始担任新的角色或更公众化的角色时，或改变工\nmJre public role, or changing work environments. @lf\n                                                                          作环境时 。 如采你正处改变之际，或只是感觉停\nyo u' re in a period of change or just feeling stuck( and in\n                                                                          滞不前且又采板无聊之时，现在也许就是个好时\na rut@, now may be a good time. @If you ’re not sm e,\n                                                                          机 。 如采不确定，你就去从值得信赖的朋友、同\nask   for    honest   feedback®   from    trusted    fri ends ,\n                                                                          事和专业人士那里寻求诚实的反馈 。 寻找线索\ncolleagues and professionals. 。 Look for cue俨 a bout\n                                                                          了解其他人对你的看法 。 也许你并不需妥提升\nhow others perceive( you. 0 Ma ybe there ’ s no need for\n                                                                          （形象〉，那也没关系 。\nan upgrade and that ’s OK.\n                                           ：·逼近注释与难句分析· ；:fl\n( executive [ ,g'zekju\n②仕ansition [ trcen 1到J吕n] 11. 过波 （期），转变                     ~     @ cue [ k山提示，线索\n( stuck [       J α （\n所措\n                                                            \\\\    ·经典搭配\n( ru t [ rAt ］ η．刻板 乏 味的 生活\n                                                            自\\\\   ( step into （ 开始做，开始介入）\n                                                    i 震创f~ ： ；／\n                                                 :. 雪\n       第四段首句指出，身为管理人员培训师的作者，见证过形象提到对过渡期职场人士的重要 作 用。第\n二至 四句进而说明如何确 定形象提 升的 最佳 时间 （ 时机） 。其 中第 二 句介绍第 一 种 情况 ： 明 确 知道自 己\n正处于转 变期 ，或感到 停滞不前 、 工作呆板无 聊时；第 三 、四、五句介绍第 二 种情况：不明确自己 所 处状况\n时，可以 咨 询 亲朋好友 ，也可以间接 去了解 别人对自己的看法，从而判断自己是否需要提升自身形象。\n        V O G et cl ea r on w hat impact yo u ’ I e ho ping to\n                                                                         搞清楚 你希望拥有什么样的影响力 。\nhave.     @ Are yo u looking to refresh (        yo ur image or\n                                                                     你是希望重塑新形 象还是突出旧形象 ？ 对\npivot( it? @For on e person, the goa l m ay be to be ta ken\n                                                                     一个 人来说， 目标可能是灵受 重 视并提升职\nmore seriou s ly and en hance their professiona l image . 。\n                                                                     业 形象 。 对 另一个人来说，目标则可能是被\nFor anoth er,         it m ay   be to   be perc eived as    more\napproachable® , or more modern and stylish©.               0 For     认 为支 平 易 近人或更时 髦潇 洒 。 对于从金\nsomeone moving from finance to advertising, mayb e t hey             融图转向 广告界的人来说 ， 也许他们想看起\nwant     to    look    more     “ SoHo®. ” ( It ’ s OK to us e       来更 加 “ 先 锋” 。 （ 可以用那样的特性描写 。）\ncharacterizations® like that. )\n                                           ：：川司同时丰旬：分析＜ 乒\n( refresh [ ri'fref] v. 刷新． 更新                              \\\\    款式等著称）\n② 川队\n③ approachat币le [a 'prautfab吕1 ］ α ． 和 蔼 可 亲 的              \\I    的）特性捎述\n④州恤 ［ ＇ sta叫 α 时 髦 的                                        < ·经典搭配\n                                                      on    ~① tak e sb s\nStreet 南面 一 地 区 ，以 先锋派艺术、音乐、 电 影 和时 装\n                                                   －\n                                                 ： ：语篇州· ·. ： ： tt\n       第五段首 两句 指出要搞清自己 的目标： 是换 个新形象，让自己焕然一新 ； 还是突出旧形象，在 旧 形\n象上稍作调整？其中 pivot 做动词时原义为“以 … …为中心旋转”，在 此 指代“突出 旧 形象，在 旧 形象上\n稍作调整”，与 refresh （刷新）形成对比 。 末 三 句则例证说明不同人的不同（形象提升）目标。其 中 Fo r\none person , ... , For anoth er, . . . For som eo ne ...体现并列关系的同时， 也 体现 例 证由泛例 到 具体事 例\n的转变； 末句 中 So Ho 本义为“休南 区 ， 索’霍区 ，在文中作形容同“先锋的”，用这一 地 区的特点表示人的\n特点 。\n       VI O Look at your work environment like an                               像人类学家那样审视你的 工 作环境。\nanthropologist( .     @ What      are   the   norms     of        your   你 所处环境中的规范是什么？ 什 么能传达\nenvironment? 8 What conveys status? 0 Who are yo ur                      身份（信息）？谁是你最重妥的观众？你所\nmos t important a udi ences? 0 How do the peo ple yo u                   尊重和钦佩的人如何展现自 己 的呢？你越\nrespect and look up to present th em selves? 0Th e better                好地理解文化环境，便能越多地控制自 己 的\nyou unders ta nd th e cultural context, t he more control you\n                                                                         影响 。\ncan have over yo ur impact.\n                                         ； ·词汇注释与难旬分析· ； 二r\n( anthropologist [ ,ren8ra' polad31st] n. 人类学家               !     ( look up to （钦佩，尊敬）\n．经典搭配\n                                                ＞：：：毛革雪运圭； 1'\n       第六段首句指出要像人类学家一样审视自己的工作环境 。 第 二 至五句 列 举四个 问题， 具体告诉 人\n们应该考虑哪些 工 作环境问题 。 其中第四句中的 aud i enc e 指代在职场上与我们打 交道的人 。 第六 句总\n结指出了解自己所处环境的好处， the better. . . the more . . .句式体现“了解环境”与“控制自己的影响”\n之间的紧密 关系。\n       咂」 0 Enlist(    the s upport of professionals and\n                                                                         寻求专业人士的支持，告诉他们你的目标和\nshare with them your goals and context. @ Hire a\n                                                                   环拢 。 雇 一 个私人形象设计师，或者利用像 J.\nper sonal stylistai , or use the free s t yling service of a\n                                                                   Cr ew 这种店里的免费设计服务 。 尝试让发型设\nstore like J. Crew. @Try a ha ir sty li st inst ead of a\n                                                                   计师（设计发型）代替理发师 （ 只剪头发） 。 让 一\nbarber® . 。 Work with a professiona l photographer\n                                                                    个职业摄影师而不是你的配偶或朋友给你拍照 。\ninst ead of yo ur spouse(!) or friend . 0 It ’ s not as\n                                                                   这并不像你想的那么贵 。\n巳 xpensive as you might think.\n                                         ；二词t注释与非旬分析＜ 1'\n( enlist [ m111st] v. 争 取，谋取                                 \\\\    ( barber [ 'b口： ba] n . 理发 师\n( stylist [ 1st a山st ］ 凡形象设计师                                I)    @spouse [ spauz］ 凡配偶\n                                                ＞：： 毒草分：玩＿• ：：： d\n       第七段首句指出要寻求专业人士的支持，其中 goa l s and context 呼应第 五段 和｜ 第六 段， 表 明几个小\n贴士之间层层递进的逻辑 关系。第二至 四句 具 体介绍如何 寻 求 专 业人士的帮助，包括 雇用形象设 计师、\n尝试发型设计师、选用职业摄影师。第五句补充指出上述专业人士并不那么贵，说明这一建议不对i 实\n现，明确其可行性 。\n       咽J 0The point( of a style upgrade isn ’ t to become more\n                                                                                形象提升并非旨在变得更加虚荣 ， 也\nvain® or to spend more time fu ssing over what to wear.\n                                                                         非花更多时间为穿着费神，而是旨在以此\n@Instead ,      use it as an opportunity to reduce decision\n                                                                         为契机，减轻“决策疲劳” 。 选一套标准的\nfatigue( .    8 Pick a standard wo rk uniform or a few go to\noptions. 。 Buy all your clothes at once with a stylist instead\n                                                                   工作装或是几套替换装 。 协同形象设计师\nof s hoppi 鸣 a l one, one articl e of clothing at a time. [ 507\n                                                                   一 并将所有衣服购清，而不妥自 己 去， 一 次\nwords]\n                                                                   仅买 一 件 。\n                                        ： ·词汇注需要难句分析＜ 1'\n( point [ pomt ］ η ．目的． 葱、图\n( vain [ vem] a. 自负的，虚荣的\n( fatigue [ fa't i:g] n. 疲劳\n                                                         :\n                                                         $\n                                                         $\n                                                             · 经典搭配\n                                                             ① ［…川对某事过于关心 ）\n                                                             ( go-to option （可依赖的选择）\n                                                         ~   ® at once （ 同时， 一起 ）\n                                                ·请；篇分析 ＜ ii\n     第 八段首两句明确提升形 象这 件 事情 的目的所在 。首 句 否定 错误观点                                              to b eco m 巳 more va m or\nto spend more time fu ss ing over what to wear ，第二句指出其真正目的一－ to reduce decision fatigu e,\nms t ea d 体现两句间的转折 。 第 三 四句介绍 具 体的正确做法，意在指出如何高效地提升形象 。其 中第 三\n句指出 要选一套标准 的 工 作 装或是 几 套替 换装，第四句指出要和形象设计师 一 起去买衣服，并且 一次买\n够，这都 是减 少 穿衣 纠 结 时间、提 高 办 事效率 的有效方法 。\n查 三、试题精解\n     （ 一 ）迅速阅读选项，了解其内容并推断文章大意。\n     迅速浏览 一 下各选项大 意后， 可以推测出该文章的话题可能关乎了解自我，树 立信 心，打造新形象 。\n     （ 二 ）阅读所考段落，提炼段落主旨，选出相应的 小标题 。"
         }
       ],
-      "translation": ""
+      "translation": "",
+      "vocab": {
+        "words": [
+          {
+            "word": "eventually",
+            "form": "eventually",
+            "phonetic": "",
+            "meaning": "adv. 终于,最后 / adv. 最后，终于"
+          },
+          {
+            "word": "time",
+            "form": "Times",
+            "phonetic": "/taɪm/",
+            "meaning": "时间；时代；次数"
+          },
+          {
+            "word": "to",
+            "form": "to",
+            "phonetic": "",
+            "meaning": "科学家"
+          },
+          {
+            "word": "publish",
+            "form": "publish",
+            "phonetic": "/r「pAbl/",
+            "meaning": "公布"
+          },
+          {
+            "word": "story",
+            "form": "stories",
+            "phonetic": "",
+            "meaning": "n. 故事；小说；新闻报道；来历；假话 vt. 用历史故事画装饰 vi. 说谎"
+          },
+          {
+            "word": "exact",
+            "form": "Exactly",
+            "phonetic": "",
+            "meaning": "adj. 准确的，精密的；精确的 v. 要求；强求；急需"
+          },
+          {
+            "word": "being",
+            "form": "be",
+            "phonetic": "",
+            "meaning": "n. 生物；存在， 生存"
+          },
+          {
+            "word": "matter",
+            "form": "matter",
+            "phonetic": "",
+            "meaning": "n. 物质；事件 v. 有关系；要紧"
+          },
+          {
+            "word": "debate",
+            "form": "debate",
+            "phonetic": "/dn bet/",
+            "meaning": "争论"
+          },
+          {
+            "word": "sometime",
+            "form": "Sometime",
+            "phonetic": "",
+            "meaning": "adv. 将来(或过去)某个时候 adj. 以前的 / adv. 曾经； 在某一时刻； 有一天"
+          },
+          {
+            "word": "forest",
+            "form": "for",
+            "phonetic": "/ˈfɒrɪst/",
+            "meaning": "森林"
+          },
+          {
+            "word": "ink",
+            "form": "ink",
+            "phonetic": "/mEK/",
+            "meaning": "墨水"
+          }
+        ],
+        "phrases": [
+          {
+            "phrase": "due to",
+            "def": ""
+          },
+          {
+            "phrase": "focus on",
+            "def": ""
+          },
+          {
+            "phrase": "believe in",
+            "def": ""
+          }
+        ]
+      }
     },
     "NewType": {
       "passage": {
         "en": "[A] Create a new image of yourself [B] Have confidence in yourself [C] Decide if the time is right [D] Understand the context [E] Work with professionals [F] Know your goals [G] Make it efficient No matter how formal or informal the work environment, the way you present yourself has an impact. This is especially true in first impressions. According to research from Princeton University, people assess your competence, trustworthiness, and likeability in just a tenth of a second, solely based on the way you look. The difference between today's workplace and the \"dress for success\" era is that the range of options is so much broader. Norms have evolved and fragmented. In some settings, red sneakers or dress T-shirts can convey status; in others not so much. Plus, whatever image we present is magnified by social-media services like Linkedln. Chances are, your headshots are seen much more often now than a decade or two ago. Millennials, it seems, face the paradox of being the least formal generation yet the most conscious of style and personal branding. It can be confusing. So how do we navigate this? How do we know when to invest in an upgrade? And what's the best way to pull off one that enhances our goals? Here are some tips: 41. 1 As an executive coach, I've seen image upgrades be particularly helpful during transitions - when looking for a new job, stepping into a new or more public role, or changing work environments. If you're in a period of change or just feeling stuck and in a rut, now may be a good time. If you're not sure, ask for honest feedback from trusted friends, colleagues and professionals. Look for cues about how others perceive you. Maybe there's no need for an upgrade and that's OK. Get clear on what impact you're hoping to have. Are you looking to refresh your image or pivot it? For one person, the goal may be to be taken more seriously and enhance their professional image. For another, it may be to be perceived as more approachable, or more modem and stylish. For someone moving from finance to advertising, maybe they want to look more \"SoHo.\" (It's OK to use characterizations like that.) Look at your work environment like an anthropologist. What are the norms of your environment? What conveys status? Who are your most important audiences? How do the people you respect and look up to present themselves? The better you understand the cultural context, the more control you can have over your impact. Enlist the support of professionals and share with them your goals and context. Hire a personal stylist, or use the free styling service of a store like J.Crew. Try a hair stylist instead of a barber. Work with a professional photographer instead of your spouse or friend. It's not as expensive as you might think. The point of a style upgrade isn't to become more vain or to spend more time fussing over what to wear. Instead, use it as an opportunity to reduce decision fatigue. Pick a standard work uniform or a few go-to options. Buy all your clothes at once with a stylist instead of shopping alone, one article of clothing at a time.",
         "zh": ""
       },
-      "questions": []
+      "questions": [],
+      "vocab": {
+        "words": [
+          {
+            "word": "create",
+            "form": "Create",
+            "phonetic": "/kriˈeɪt/",
+            "meaning": "创造；创建"
+          },
+          {
+            "word": "confidence",
+            "form": "confidence",
+            "phonetic": "",
+            "meaning": "n. 信心；信任；秘密 adj. （美）诈骗的；骗得信任的 / n. 信任；信心， 自信；秘密， 机密 A"
+          },
+          {
+            "word": "decide",
+            "form": "Decide",
+            "phonetic": "",
+            "meaning": "v. 决定,下决心；解决,裁决 / v. 决定；解决；判决"
+          },
+          {
+            "word": "time",
+            "form": "time",
+            "phonetic": "/taɪm/",
+            "meaning": "时间；时代；次数"
+          },
+          {
+            "word": "context",
+            "form": "context",
+            "phonetic": "/ˈkɒntekst/",
+            "meaning": "上下文；背景"
+          },
+          {
+            "word": "matter",
+            "form": "matter",
+            "phonetic": "",
+            "meaning": "n. 物质；事件 v. 有关系；要紧"
+          },
+          {
+            "word": "form",
+            "form": "formal",
+            "phonetic": "/fom/",
+            "meaning": "形状"
+          },
+          {
+            "word": "inform",
+            "form": "informal",
+            "phonetic": "",
+            "meaning": "v. (of,about)通知,告诉,报告 / v. 通知；告诉；报告 / vi. 告发， 告密 vt. 通知， 告诉， 报告"
+          },
+          {
+            "word": "present",
+            "form": "present",
+            "phonetic": "",
+            "meaning": "外国人"
+          },
+          {
+            "word": "hasty",
+            "form": "has",
+            "phonetic": "/「hersti/",
+            "meaning": "匆忙的"
+          },
+          {
+            "word": "especially",
+            "form": "especially",
+            "phonetic": "",
+            "meaning": "adv. 尤其；特别，格外；专门地，主要地"
+          },
+          {
+            "word": "accord",
+            "form": "According",
+            "phonetic": "",
+            "meaning": "一致"
+          }
+        ],
+        "phrases": [
+          {
+            "phrase": "instead of",
+            "def": ""
+          }
+        ]
+      }
     },
     "Translation": {
       "sentences": [
@@ -9251,7 +19602,11 @@ const ENGLISH_DATA = {
         "",
         "",
         ""
-      ]
+      ],
+      "vocab": {
+        "words": [],
+        "phrases": []
+      }
     }
   },
   "2017": {
@@ -9381,7 +19736,84 @@ const ENGLISH_DATA = {
           "justifies",
           "influences"
         ]
-      ]
+      ],
+      "vocab": {
+        "words": [
+          {
+            "word": "section",
+            "form": "Section",
+            "phonetic": "",
+            "meaning": "n. 章节；部分；地区；部门， 科 A"
+          },
+          {
+            "word": "direction",
+            "form": "Directions",
+            "phonetic": "/dsregJaydrydar/",
+            "meaning": "方向"
+          },
+          {
+            "word": "reader",
+            "form": "Read",
+            "phonetic": "/ˈriːdə(r)/",
+            "meaning": "读者；读本"
+          },
+          {
+            "word": "following",
+            "form": "following",
+            "phonetic": "",
+            "meaning": "adj. 其次的，接着的；下列的，下述的 / adj. 接着的， 下列的"
+          },
+          {
+            "word": "texture",
+            "form": "text",
+            "phonetic": "",
+            "meaning": "n. 质地；纹理；结构；本质，实质 / n. 质地， 纹理， 结构"
+          },
+          {
+            "word": "forest",
+            "form": "for",
+            "phonetic": "/ˈfɒrɪst/",
+            "meaning": "森林"
+          },
+          {
+            "word": "blank",
+            "form": "blank",
+            "phonetic": "",
+            "meaning": "空自的"
+          },
+          {
+            "word": "doctor",
+            "form": "doctor",
+            "phonetic": "/ˈdɒktə(r)/",
+            "meaning": "医生；博士"
+          },
+          {
+            "word": "being",
+            "form": "be",
+            "phonetic": "",
+            "meaning": "n. 生物；存在， 生存"
+          },
+          {
+            "word": "helpful",
+            "form": "helping",
+            "phonetic": "/rhelpf/",
+            "meaning": "有帮助的"
+          },
+          {
+            "word": "feeling",
+            "form": "feel",
+            "phonetic": "",
+            "meaning": "n. 感觉，触觉；感情，情绪；同情 adj. 有感觉的；有同情心的；富于感情的 v. 感觉；认为（feel的现在分词）；触摸"
+          },
+          {
+            "word": "close",
+            "form": "close",
+            "phonetic": "",
+            "meaning": "关；结束"
+          }
+        ],
+        "phrases": []
+      }
     },
     "Text1": {
       "passage": {
@@ -9455,7 +19887,97 @@ const ENGLISH_DATA = {
           "explanation": "［精准定位］ 首段提出问题“机场安检越来越费 时 ”，第二段分析问题影 响 “对个人生活和经济都是拖\n累”，第 三 、四段分析问题产生的原因，第五至七段针对问题提出解决建议，因此全文围绕“安检等候时间\n太长、旅客不堪其苦”这一 问 题展开论述，［ CJ 正确。\n      ［命题解密］ 正确项［ CJ 是对全文中心问题的概括， Sec u rity lines 贯穿全文， Getting stuck （困住）形\n象刻画“乘客被困在安检伏龙里无能为力”的情形，符合作者对 问 题“日益严峻、棘手，亟待解决”的论述。\n       [A］ 中 Scree ning 、 Safe ty 都是文中关键词，但 for More Safety 表明选项重心在于“安全”，此标题下的\n论述应该围绕“如何加强航空旅行安全（建议少一些安检，以实现更大安全）”展开，显然偏离本文问题\n“如何解决安检耗时问题”。［ BJ 中 Be l ated 看似符合末段 long past time to ma ke the program work ，但文\n中“迟来的”实为“安检计划的作用”，而非“安检计划”本身，该计划本就存在，只是价格过高导致其一直\n没有得到有效利用。［ DJ 和第七段①句信息有所重合，符合第六段“预检计划纳入人数远未达到预期目\n标”，但选项内容只是全文论述过程中的“解决问题”环节，无力涵盖全篇。\n      ［技巧总结］ 主旨题的解答需要先梳理全文脉络，过滤出主题后首先从选项中寻找对应内容；而主\n旨题难点主要在于干扰项的排除，解答时可以借助“反向思考法”，即对于不能确定的选项，反向思考其\n所能代表的文意重点，再和过滤出的主题进行比对。\n       本文梳理结构后可确定为“问题分析型”文章，围绕“安检队伍太长、费时”这一问题，分析其影响和\n原因，最后提出“抓紧让预检计划起效”这一解决措施，［ A］对应的文意重点为“加强安全的办法”，明显偏\n离；［ BJ 对应“预检来得太晚了”，暗示已无力回天，不符合文中积极立意；［ DJ 对应“预检通道为何未被充\n分利用、如何改进”，以偏概全。\n  回回对监回                                                                                回皑或~囚\n                                                                                       一\n                                                                                       …\n                                                                                       一\n                                                  如何解决莫纳克亚山上的望远镜纷争\n  •\n  回在京溢旅却                                                                               ＝τ币”民主豆’霄E\n                                                                                       l!I~惊榻滔苟’\n      知 i口  补充\n         ，、 r '       /"
         }
       ],
-      "translation": ""
+      "translation": "",
+      "vocab": {
+        "words": [
+          {
+            "word": "advise",
+            "form": "advance",
+            "phonetic": "",
+            "meaning": "劝"
+          },
+          {
+            "word": "shower",
+            "form": "show",
+            "phonetic": "/ˈʃaʊə(r)/",
+            "meaning": "淋浴；阵雨"
+          },
+          {
+            "word": "to",
+            "form": "to",
+            "phonetic": "",
+            "meaning": "科学家"
+          },
+          {
+            "word": "domestic",
+            "form": "domestic",
+            "phonetic": "/domestk/",
+            "meaning": "家庭的；驯养的"
+          },
+          {
+            "word": "flight",
+            "form": "flight",
+            "phonetic": "/flat/",
+            "meaning": "飞翔"
+          },
+          {
+            "word": "majority",
+            "form": "major",
+            "phonetic": "",
+            "meaning": "n. 多数；成年 / n. 多数， 大多数；【律】 成年"
+          },
+          {
+            "word": "massive",
+            "form": "massive",
+            "phonetic": "/ˈmæsɪv/",
+            "meaning": "巨大的；大量的"
+          },
+          {
+            "word": "security",
+            "form": "security",
+            "phonetic": "",
+            "meaning": "n. 安全(感)；防御(物),保证(人)；(pl.)证券 / n. 安全；保证；证券；抵押品 adj. 安全的；保安的；保密的 / n. 安全"
+          },
+          {
+            "word": "liner",
+            "form": "lines",
+            "phonetic": "/ˈlaɪnə(r)/",
+            "meaning": "班轮；衬里"
+          },
+          {
+            "word": "time",
+            "form": "time",
+            "phonetic": "/taɪm/",
+            "meaning": "时间；时代；次数"
+          },
+          {
+            "word": "consume",
+            "form": "consuming",
+            "phonetic": "",
+            "meaning": "v. 消耗；消费；吃；喝 / v. 消耗，消费；使…著迷；挥霍 / vt. 消费， 消耗， 耗尽 <"
+          },
+          {
+            "word": "return",
+            "form": "return",
+            "phonetic": "/rɪˈtɜːn/",
+            "meaning": "返回；归还；回报"
+          }
+        ],
+        "phrases": [
+          {
+            "phrase": "due to",
+            "def": ""
+          },
+          {
+            "phrase": "focus on",
+            "def": ""
+          },
+          {
+            "phrase": "in return for",
+            "def": ""
+          }
+        ]
+      }
     },
     "Text2": {
       "passage": {
@@ -9529,7 +20051,93 @@ const ENGLISH_DATA = {
           "explanation": "［ 精准定位 ］ 第 一 段 以 Sad l y 引 出天文 学 TMT 项目进展不 l帜 ，体 现作 者 的同 情遗憾之 意 ；第五段③\n④ 句指出抗议者忽视了“ 天 文 学家 和 夏 威 夷 文 化 都在探 索 相 同 重 大问题”这 一 现 实， 体现作者 支 持天文\n探 索事 业的 立 场：天文 学 与 夏 威 夷 文 化 本源相通，并不存在难 以化 僻的矛盾，天文 事 业 的进步 有 助于解\n答夏 威 夷文 化 所探索的 问 题；末段 ④ 句指 出 完全有理由欢 迎 任 何 人来 莫 纳克亚 山 探 索星空 ，明确作者态\n度 ： 完全支 持 天文 学家 。［ DJ 正确 。\n       ［ 命题解密 ］ 正确项 ［ DJ 是 对文中 Sa d l y 、 i gnor e th e r ea l i t y 、 T h e re is no reason w hy everyo ne ca nnot be\nwelcomed on Mauna K ea 等信息所传递出的作者对 TMT 选址于莫纳克亚山态度的正确解读 。\n     [ A］将第三、四段所述抗议者态度“强烈抗议”偷换为作者态度。［町、 ［ CJ 将第 三 、四段“抗议者呼\n声 ： 望远镜亵读圣 山 ／勾起屈辱历史的回忆、天文学家自我 ／ 无视莫纳克亚山的脆弱生态环境及其在当地\n入中的神圣性”与第五、六段“天文学所探讨的问题有助于解答人类重大本源问题，而且天文学界正在做\n出相应让步”结合，将作者态度分别扭曲成： 1. 虽然莫纳克亚山上的望远镜百般不好，但其铸就的天文 事\n业进步将有助于人类文明发展，故被动接受（无奈接受） ; 2 . 鉴于天文事业的重大意义，其某些方面的不\n良影响可大而化小，故些许犹豫（大体支持） 。\n     〔技巧总结 ］ 本文以“作者态度题”之形，实质考查对文 章 主旨的把握 。 解答此类题时应： 1. 注 重 开\n篇，从开篇 把握作 者情感基调； 2. 结合各段语义重心及其用同特点把握作者态度； 3. 敏锐抓取集中表达\n作者观点态度的总结性 ／评述性的句子，如判断句式 A is B 、 The r e be 句式、包含因果逻辑的句式、包含强\n烈否定 ／ 肯定语气的句子、出现在 b ut / yet/ how ever 等转折词之后的句子等 。\n     如本题，首段 Sad l y 之后内容是转折后的语义重心，蕴含作者支持天文望远镜的情感基调；紧接 着 第\n二段中 B ut 之后又 是语义重心且着墨较多，再次渗透了作者支持天文探索的态度；第五段的 Y et 转折词\n将文章后两段的作者立场与第 三 、四段的抗议者立场区分开来，因 此 第五、六段是集中 表 达作者 立 场态\n度的段落 。 第五段末句和第六段末句都是明示作者立场态度的评述句，准确理解两句主旨对把握作 者\n观点态度起到事半功倍的效果 。\n                            \"/"
         }
       ],
-      "translation": ""
+      "translation": "",
+      "vocab": {
+        "words": [
+          {
+            "word": "reign",
+            "form": "reigning",
+            "phonetic": "",
+            "meaning": "v. 统治；支配；盛行；君临 n. 统治；统治时期；支配 / vi. 统治， 支配；盛行； 占优势 n. 统治， 支配； 统治时期； 朝代"
+          },
+          {
+            "word": "monarch",
+            "form": "monarch",
+            "phonetic": "",
+            "meaning": "n. 帝王，君主，最高统治者 / n. 君主，帝王；最高统治者 / n. 君主， 帝王"
+          },
+          {
+            "word": "mostly",
+            "form": "most",
+            "phonetic": "",
+            "meaning": "adv. 主要地， 大部分， 通常"
+          },
+          {
+            "word": "esteem",
+            "form": "esteemed",
+            "phonetic": "/ɪˈstiːm/",
+            "meaning": "尊重；敬重"
+          },
+          {
+            "word": "membership",
+            "form": "members",
+            "phonetic": "",
+            "meaning": "n. 会员资格,成员资格 / n. 资格；成员资格；会员身份 / n. 会员资格， 成员资格"
+          },
+          {
+            "word": "sad",
+            "form": "Sadly",
+            "phonetic": "",
+            "meaning": "adj. 难过的；悲哀的，令人悲痛的；凄惨的，阴郁的（形容颜色）"
+          },
+          {
+            "word": "notify",
+            "form": "not",
+            "phonetic": "",
+            "meaning": "v. 通告，通知；公布 / vt. 通知， 告知； 报告"
+          },
+          {
+            "word": "astronomy",
+            "form": "astronomy",
+            "phonetic": "/əˈstrɒnəmi/",
+            "meaning": "天文学"
+          },
+          {
+            "word": "erupt",
+            "form": "erupted",
+            "phonetic": "/ITrApt/",
+            "meaning": "火山、腾泉等；泛拳睾示上突熏蓥牙"
+          },
+          {
+            "word": "thirty",
+            "form": "Thirty",
+            "phonetic": "",
+            "meaning": "n. 三十年代 num. 三十 adj. 三十个的"
+          },
+          {
+            "word": "metal",
+            "form": "Meter",
+            "phonetic": "/缩 m/",
+            "meaning": "金属"
+          },
+          {
+            "word": "telescope",
+            "form": "Telescope",
+            "phonetic": "/ˈtelɪskəʊp/",
+            "meaning": "望远镜"
+          }
+        ],
+        "phrases": [
+          {
+            "phrase": "due to",
+            "def": ""
+          },
+          {
+            "phrase": "as if",
+            "def": ""
+          }
+        ]
+      }
     },
     "Text3": {
       "passage": {
@@ -9603,7 +20211,101 @@ const ENGLISH_DATA = {
           "explanation": "［精准定位］ 文章首两段质疑 GDP 的观 点，并聚焦“英国 JI兑欧事件”予以强调 ； 第 三 至五段 则以近期\n研 究发现“英国及其 他 主要经济体未能将高 GDP 转 化 为民生桶祉”暗示高 GDP 并不等 同 于国民幸福；\n第六、七段 则 明确指出“ GDP 无法衡 量 环境质 量 、 教育成果等关乎民生的重要因素，因 此政策制定 者不能\n一 l床忧心 GDP ，而 应努力提升社会福利” 。 可见，全文以“英国脱欧”为反例，指 出 高 G DP 并非等同于幸\n福感，不足以衡量国家发展，［ A ］ 正确 。\n    ［命题解密］ 正确项［ A］ 既锁定了文 章核 心论 点“ GDP 在衡 量 民生方面存在局限性（ High GDP But\nInadequate W e ll- b ei ng ）”，又明确了文章切入点 ： “以英国为反例，给各国以 警醒（ a UK l esson ） ”。\n     [ BJ 将文掌 观点“ GDP 不足以衡 量国家经济活动”篡 改为与之 完全相反 的 “ GDP 是全球经济健康之\n窗（ l'i!l 能准确 反 映 经济健康状态）” 。［ CJ 利用文 章首尾 均提及的“肯尼迪观点”设置干扰，但肯尼迪只是\nGDP 的批判者，并非 GDP 的终结者（ t ermin ato r of GDP 一说有误），且罗伯特·肯尼迪并非文章主题，无\n力概括全篇 。［ DJ 将文中信息“英国人应择脱欧在 一 定程度上是不满幸福感的持续下 降” 篡改夸大为\n“脱欧 是英国实 现幸福之路”，且“英国脱欧”只是本文讨论 GDP 缺陷的切人点，并非本文主要关注对象 。\n    ［技巧总结］ 本题 以 “文章题目”考查对全文主旨的 把 握，选项均由“中心词 ＋ 界定成分”构成。对 此\n需意识到 ： 正确项的中 心词须体现 文中核心关注对象，界定成分须是作者观点的高度凝练 。 干 扰项则 存\n在以下错误：或中心词偏离文 章主线，或界定成分违背 作者观点 ，或两 种错 误兼具。\n     具体看本题，［ CJ 、［ DJ 中心词 R e bort F . Kenne dy 和 Br exit 对文章探讨对象 把 握错误 ， 首先 排除；\n[ BJ 中心词 GDP Figures 体现文 章探 讨对象，但 a Window on G lo bal Economi c H ea l th 违背作者态度；只\n有［ A] Hi gh GDP But Inadequat e W e ll- b e in g 准确体现了文章核 心观 点“ GDP 存在局限性”，且 a U K\nLesson 体现作者的论证角度 。\n  回岳~~元回                                                                               曰：露露）！回\n                                                                                     P主樱留在\n               /"
         }
       ],
-      "translation": ""
+      "translation": "",
+      "vocab": {
+        "words": [
+          {
+            "word": "measure",
+            "form": "measures",
+            "phonetic": "",
+            "meaning": "n. 测量；措施；程度；尺寸 v. 测量；估量；权衡"
+          },
+          {
+            "word": "except",
+            "form": "except",
+            "phonetic": "",
+            "meaning": "prep. 除…之外 v. 除外"
+          },
+          {
+            "word": "to",
+            "form": "to",
+            "phonetic": "",
+            "meaning": "科学家"
+          },
+          {
+            "word": "union",
+            "form": "Union",
+            "phonetic": "/“juzmnionzam/",
+            "meaning": "一致；联合；协会"
+          },
+          {
+            "word": "slow",
+            "form": "slow",
+            "phonetic": "/sləʊ/",
+            "meaning": "慢的；减缓"
+          },
+          {
+            "word": "result",
+            "form": "result",
+            "phonetic": "",
+            "meaning": "结果"
+          },
+          {
+            "word": "time",
+            "form": "timely",
+            "phonetic": "/taɪm/",
+            "meaning": "时间；时代；次数"
+          },
+          {
+            "word": "hasty",
+            "form": "has",
+            "phonetic": "/「hersti/",
+            "meaning": "匆忙的"
+          },
+          {
+            "word": "forest",
+            "form": "for",
+            "phonetic": "/ˈfɒrɪst/",
+            "meaning": "森林"
+          },
+          {
+            "word": "century",
+            "form": "century",
+            "phonetic": "/ˈsentʃəri/",
+            "meaning": "世纪；百年"
+          },
+          {
+            "word": "flaw",
+            "form": "flawed",
+            "phonetic": "",
+            "meaning": "n. 瑕疵，缺点；一阵狂风；短暂的风暴；裂缝，裂纹 v. 使生裂缝，使有裂纹；使无效；使有缺陷 / n. 裂缝；缺陷"
+          },
+          {
+            "word": "concept",
+            "form": "concept",
+            "phonetic": "",
+            "meaning": "n. 概念，观念，设想 / n. 观念，概念 / n. 概念， 观念； 思想"
+          }
+        ],
+        "phrases": [
+          {
+            "phrase": "contribute to",
+            "def": ""
+          },
+          {
+            "phrase": "depend on",
+            "def": ""
+          },
+          {
+            "phrase": "lead to",
+            "def": ""
+          },
+          {
+            "phrase": "rather than",
+            "def": ""
+          }
+        ]
+      }
     },
     "Text4": {
       "passage": {
@@ -9677,14 +20379,181 @@ const ENGLISH_DATA = {
           "explanation": "［精准定位］ 第五段作者指出裁决从法律上合理 地 界定了某种偏袒行为的合法界线；第 六 段指出该\n裁决强 化 了公民及其民选代表确保接近政府 机会人人平等的必要性；第七段虽未就裁决发表评论，却以\n作者观点“偏袒行为并非 一 定腐败，政府官员必须在政务接见 r:1才避免双 重标准 以确保会见 机 会 人人平\n等”强 化 了第五、 六段文意 ；末段直接明确指出该裁决将与腐败、“公务偏袒行为”的斗争向前推进了 一\n步。由 此 可见，作者对该项裁决持支持态度。［ DJ 正确 。\n     ［命题解密］ 正确项 ［ DJ 是 对末四段中 l ega ll y so und, r巳i n forces, a step forward 等词所传递出的作 者\n对裁决 看法 的正确解读 。\n     [A ］实 从 h o ldi ng its nos e ，却将第 一 段语义逻辑“最高法院 虽 极其反感 麦 克唐纳行为， 却依然 1tE 酬对\n他的贪腐 定罪 ”错误解读为“最高法院 既然 极其蔑视其行为， 就应 该维持其有罪判定”从而推导出作 者对\n该裁决的“讽刺”态度 。［ B J 将第 六段首 词 But 所传递出的第五、 六段 间语义逻辑错误解读为“裁决 虽\n  · ·· ( legall y sound ，好的方面），但却 …… （ reinforces ，不好的方面）”，从而错误推导出作者对裁决的“容\n忍”态度，而 i亥词 的 实际语义 逻辑为“裁决为政府官员 们 某种偏袒行为做了合法界定，尽管如 此 ，裁决也\n侧 面 加 强了对政府 官员 廉正办公的要求”，实际传达出的是作者对裁决的双重肯定之意 。 ［ CJ 将 第七段\n首句所述偏袒行为与腐败关联“官员接见中的偏袒行为会激起公众对腐败的感知（ . . . can fan .. . ）”与 最\n高法院裁决“推翻腐败定罪”相连，错误推导出作者对该裁决正确性的“怀疑”态度。\n       C 技巧总结 〕 全文通篇都围绕“最高法院裁决”展开，后半部分重在对其做出点评。因此，本题实以\n“作者观点题”的形式来考查考生对篇章后半部分的宏观把握。解答这种作者态度题的关键在抓取篇章\n中饱含作者情感色彩的形容词、副词、甚至动词、名词等，切勿戴上有色眼镜做题。如本题，作者对裁决\n的态度透过其所使用的饱含正面色彩的词汇 legally sound 、 reinforces, a step forward 可窥一斑。\n   回揭~固                                                                                         回\n   一\n   ...唁~画面7J\n   ·一一\n   回\n   一 北~始回\n    知 i口补充\n       ，、＇＇ ,u\n                                   PartB       查尔斯·狄更斯传记\n       本文节选自网站 www. charles-dickens. org 中的“查尔斯·狄更斯传记”（ Charles Dickens Biography）。\n狄更斯 (1812-1870 ）是 19 世纪英国著名批判现实主义作家，创作了多部不朽的文学经典，对英国文学发\n展产生了重要影响。本文以“总一－分一一总”结构，按照时间顺序介绍了狄更斯的成长 、成名之路 ：\n       第一部分（第一段）总评狄更斯的文学地位、成就和作品特点。\n       第二部分（第二、 三 、四段）介绍狄更斯早年经历，包括家庭背 景、童年经历、工作经历和写作初期。\n       第 三 部分（第五、六、七段）介绍狄更斯正式文学创作生踵，再次总结评述其文学成就。\n       [A] OThe fir st published sketch( ,“ A Dinner\n                                                               首次 出 版的 一 篇随笔是《 白杨庄晚宴 》 ， 当他\nat Poplar Walk\" brought tears to Dickens ’ s eyes\n                                                          在 《 每月杂志 》 的刊文里发现这篇随笔被登载时，\nwhe 口 he   discovered it in the pages of The Monthly\n                                                          狄更斯热泪盈眶 。          自那之后，他的那些以“博兹 ”\nMagazine .       8 From then on his sketches,   which\n                                                          为笔名、发表在 《 记事晚报 》 上 的随笔，为他 赢 得\nappeared under the pen name “ Boz ” in The Evening\n                                                          了一 定声誉 。\nChronicle (ZJ , earned® him a modest© reputation.\n                                            ；·词汇注释；~：：： i/\n( sketch [ sketJ] n. （文学上的）速写（如随笔等）                  1\\   ( bring tears to sb ’ S eyes （使人落泪〉\n( chronicle [ 'krornkal] n. 纪 事 ，编 年史                j    ②川en 叫那时起）\n( earn [ 3:n] v. 使获得，使赢得                                  ( pen name （笔名）\n( modest [' mod时］ α ．不太多的，适度的\n．经典搭配                                               ;~    ( earn sb a reputation （使某人获得荣誉）\n                                            ：：：~：：击毒分析；－：：：   ii\n       [ A ］ 段说明狄更斯 写 你初期开始崭露头角 。\n       ① 旬介绍处女作的发表让狄更斯激动得热泪盈眶。 The first published sketch ... brought tears to\nDickens ’ s eyes 生动展 现处女作的发表给狄更斯带来极大的激动和 喜 悦； in the pages of 以发表之作淹没\n在众多作品中来暗示：狄更斯当时只是写作大军中的一个无名小辈，有待知音赏识。注：（（白杨庄晚宴》\n后更名为《明斯先生和他的表弟》。 ② 旬指出狄更斯用笔名“ t~草兹”陆续发表作品，开始享有一定知名度。\nhi s sketches . .. earned him a modest reputation 说明狄更斯在处女作之后，又发表多篇随笔，暗示狄更斯\n如一颗明星在文坛冉冉升起； modest 则强调他只是小有声誉、成为真正的耀眼之星尚需机遇和磨炼。\n       【 i吾义逻辑链】 The first published sketch ...、 From then on his sk巳tches.. .表明本段按照时 间顺序介\n绍狄更斯初试锋芒的时期。\n        E 路标词解析】 ① The first pub li s hed sketch 预示上文应该提及“狄更斯开始进入写作领域、投稿等”，\n[E］段指出“他当记者期间开始写作投稿”，可能与本段衔接；② earned him a modest reputation 预示后文\n可能提及他进一步成长、 写出更好 的作品、获得更大的成功 等 。\n        [ BJ O The runaway( success of The Pickwick\n                                                                          如今广为人知的 《 匹克成克外传 》 获得的 巨\nPap ers ， αs it is generalLy known today, securedl2>\n                                                                    大成功确立了狄更斯的声誉 。                  匹克威克大衣、 匹\nDickens ’ s fame . @ There were P ickwick coats and\n                                                                    克成克雪茄相继问世，而那个胖乎乎的、裁着眼\nPickwick        cigars,   and   the   plump(   ,   spectacled®\n                                                                    镜的男主人公，塞缪尔 · 匹克成克，已成 为一 个\nhero(    ,   Samuel Pickwick, became a national figure®.\n                                                                    全国性人物 。\n                                                   ：·词汇丰释：：： ；／\n① runaway 〔 1rA n<>we1 ］ α ．遥遥领先的 ， 巨大的                      $      ( spectacled [ 'spektaka !d ］ α． 戴眼镜的\n( secure [s11kjua] v.     保证                                 !      ( hero [ 'h阳J] n.      男主人公\n( plump [p!Amp］ α ．（人）胖乎乎的，丰满的                               \\\\     @ figure [ 1f1ga] n.   人物，名人\n                                                   ： ·语篇芳和· ； ·： 乒\n        [BJ 段介绍 《 匹克威克外传 》 获得巨大成功。\n        ① 旬指出 《 匹克威克外传 》 获得巨大成功，狄更斯声名鹊起。 The runaway success ... secured\nDickens ’ s fame 表明狄更斯借助这部小说一炮而红，得以确立高知名度； runaway 意为“遥遥领先的、压倒\n性的、巨大的”，强调小说成功之巨、影 H向之大； secure 意为“保证、确保”，凸显眩部小说对狄更斯立足文\n坛意义非凡，是他最重要的代表作之一。 as it is generally known today 说明这部小说如今是家喻户晓的\n大作。 ② 旬详述《匹克威克外传》受到热捧、风靡全国。 本句以读者争相模仿小说中的人物及行为将虚\n拟人物现实化（小说主人公成为 举国皆知的人物），来展现大众对小说的喜爱与推崇， 间接凸显狄更斯读\n者广泛、声名大噪。 注： 这里 hero 并非“英雄”之意，而是指“小说、电影等中的男主人公”。\n        n吾义逻辑链】 as it is generall y known today 明确本段以今人视角指出 《 匹克威克外传 》 的 巨大成功\n确立了狄更斯的声誉，这是狄更斯 声名鹊起的时期 。\n        【路标词解析】 本段为第六段，由首句 The runaway s uccess 描写“ 《 匹克威克外传》获得巨大成功”\n可推知上文涉及该书的 写 作和出版情况， ［ CJ 末句指出“狄更斯与西摩合作的故事 也就 是后来 的 《 匹克\n戚克外传》，该书先以月刊连载，后以书籍完结形式出版”，符合上述推测，故［ CJ 可能是［町的上文。\n        [ C]   0 Soon after Sketches by Boz            appear巳d '    a\n                                                                                《博兹札记》 一 面世，很快就有 一 家 出\npublishing firm approached Dickens to write a story in                    版社和狄更斯接触，想让他以每 月 连载的\nmonthly installment沪， as a backdrop® for a seri es of                     方式撰写一个故事，作为当时著名艺术家\nwoodcuts(       by the then-famous artist Robert Seymour,                  罗伯特 · 西摩系列木版画的背景故事，西\nwho had originated® the idea for the story.                @ With         摩是该故事构想的原创者。带着特有的 自\ncharacteristic(      confidence, Dickens s uccessfully insisted           信，狄更斯坚持要求西摩为他自己（狄更\nthat Seymour ’ s pictures illustrate® his own story instead.              斯〕的故事自己图 。 第 一 期出版后，狄更斯给\n@After the first installment, Dickens wrote to the artist and             西摩写信，妥求他更正 一 幅狄更斯认为不\nasked him to correct a drawing Dickens felt was not faithfu l             够忠实自己文章内容的图画 。 西摩做了更\nenough to his prose⑦ ．。 Seymour made the change, went into                改，随即来到自家后院，以自杀来表达自 己\nhis backyard, and expressed his displeasure( by committ ing               的不满 。 狄更斯和他的出版商不过是找了\ns u1 c1d e.   0 D icke ns and hi s pu bli s he rs simp ly pr巳ssed o n       位新艺术家（来代替），就坚定地继续 工 作\nw ith a new art ist.     0 Th e com ic novel, The Posthumous ®              了 。 这部喜剧小说《 匹克成克俱乐部遗稿 》\nPαρers of th e P ickwick Club ， α 户户eared serially® in 1836\n                                                                            ( !!p 《 匹克威克外传 》）于 1836 年至 1837 年\n日 nd 1837 and was fir s t publ is hed in book for m in 1837.\n                                                                            连续刊载， 1837 年首次以书籍形式 出 版。\n                                                   ＞：：词：1均每二 J\n( installment [ m'sto :lma nt ］ η ．   （分期连载的）部分                   ( serially [ 1s1ari 1 ］ α d . 连载地\n( backdrop [' b配kdrop] 11. （戏 剧的）背 景幕 ；背景\n                                                                  ．经典搭配\nQ) woodcut [ 'wu dkAt ］ η ．木刻，木版画\n                                                                  ( publi shing firm （出版商，出版社）\n® originate ［吕1 川\n                                                                    approac h. .. t\n( characteristic [ krera Jcta'r1 st1k ］ α ．特有的\n                                                                  量，向 …… 接洽\n( illustrate [ 1i1 ostre1t] v. 给 ……做插 图说明\n                                                                  ( be faithful to sth （忠实于）\n( prose [ prauz ］ η ．做文，产｜ 话文\n                                                                  ( comm it s ui cid e （自杀）\n( displeasure [ d1s1ple3a] n. 不满，不愉快\n                                                                  ( press on （坚定 地继 续（尤指工作））\n® posthumous 〔 ＇ postjum部］ α ．死后发生的，死后出版的                     ·         仇\n                                                   ；；瑾毒分布：：~ ：：： 1'\n        [CJ 段介绍狄更斯与西摩的合作经历，以及他的第 一 篇小说《匹克威克外传》的出版过程 。\n        ① 旬说明二者合作起因：某出版商邀请狄更斯为西靡的木版画撰写背景故事。 th en- fa mou s a rtis t\n表明当时画家西摩已经 享 有很高声誉，且已经 和出版商 合作在先 ，小有 名气 的狄更斯 是后来 的 “第三\n者”； w h o had originated t he id ea for th e s tory 进 一 步补充说明西摩是故事构想的原创者，而狄更斯是被\n出版社请来按照西 靡 的图画思想创作故 事 ； the story 回应前文 ap proach ed Dickens to write a s tory ，强调\n狄更斯之后所写故事以西 j擎的原始想法为基 础 。 ② 旬指出狄更斯反客为主 ， 坚持要求西摩为其故事配\n图 。 With characteri st ic confidence ( c h aracteristic 意为“某人性格中特有的、独特的”） ... successfully\nin s i s ted 以讽刺口吻指出狄更斯在与西摩的合作过程中争强好胜、自信狂傲，甚至咄咄逼人，最后成功反\n客为主， 拿 到故事的主创权，反 而 让西摩成为为故事配图 的 次要角色（ hi s 回指 Di c kens, hi s own sto ry 回\n应 ① 句 th e story ）。 illu strate （为故事配图）与 上句 write a story ... as a back drop for. .. woodcuts （按照图\n嗣构思配故 事 ）过程颠倒、主次相反，辅以副词 in stea d （意为“相反、反 而勺，明确 表明狄更斯 将 最初 的“按\n照西摩的图画构想配故 事 ”颠倒为“西 摩为其 故事配图” 。 ③ 旬进而指出狄更斯对西摩提出更进一步的\n要求。 as k s b to do 含强制 要求某 人做某 事之意 味，辅以表狄更斯个人主观感受的从句 Dickens felt was\nnot faithfu l e no ug h to hi s prose ，表 明狄 更斯主动指导、要求西摩按照 他的思路修改 图画。 ④ 旬介绍西摩\n以死表达对狄更斯的不满 。 句子以连续动作 mad e th e change -’ w ent into hi s back ya rd -’ expressed hi s\ndi sp leas ur e by committing s uicide 传达西摩当时愤潜抑郁的心情无处发泄，最后选择以死明志。 ⑤ 旬进\n而说明狄更斯对西摩自杀的反应：无动于衷、继续工作 。 s impl y （仅仅，只不过）和 press on （坚定地继续\n进行 工 作） 表 明狄更斯对西靡的死无动于衷，冷模置之，依然继续进行出版工作。 ⑤ 旬补充说明狄更斯\n第一篇小说（（匹克威克外传 ）） 的出版过程。 该句点 明狄 更斯与西摩合 作的故 事 的名 字为《匹克 威克外\n传》，并补充说明该书先连载、后集结成书的 出版过程 。\n        (i吾义逻辑链】Soo n a ft er 、 A ft er t he fir st in sta llm e nt 、 se rialy in 1836 a nd 1837 等时间线索表明本段按\n时间顺序叙述狄更斯越来越有话语权，并成功出版第一部小说《匹克威克外传》的过程 。\n        E 路标词解析】① Sketches by Bo z(( 博兹 札记 》表 明该书为“博兹”的随笔合集， ［ A ］介绍狄更斯写作初\n期“以笔名‘博兹’发表随笔”，故 《博菇 札记 》 的 发表应在这之后， 即 ［ CJ 可能排在［ A ］后； ②本 段末介绍\n“ 《 匹克威克外传 》 连载及书籍出版情况”，后文 可能继 续 介 绍该书的影 响 或读者反应等。\n      [ D] 0 Charles Dickens is probably the best\n                                                                       对许多人来说，查尔斯·狄更斯或许是 19\nknown and, to many peopl e , the greatest Engli sh\n                                                                   世纪英国最有名、最伟大的小说家 。 作为一名道\nnovelist of the 19th century.           f} A   moralist(   ,\n                                                                   德、家、讽刺作家和社会改革家，狄更斯精心设计\nsatir istai ,   and social reformer,    Dickens crafted®\n                                                                   的复杂故事情节和鲜活的人物角色，精准地描绘\ncomplex         plots© and   striking® characters®    that\n                                                                   了整个英国社会的风貌 。\ncapture( the panorama® of Englis h society.\n                                               i.－：：词汇辛辛－ ： ；／\n( moralist [ 1m口rahst ］ η ． 道德家，卫道士\n( satirist [ 1sretanst] n. 讽刺作 家\n( craft [ kra：且J v . （周密地）制定，精制\n④ plot 〔 plot ］ η．（ 书、戏剧 等 的 ）情节\n( striking [ 1stra1 lrnJ] a. 吸引人的\n                                                           :\n                                                           Ii\n                                                               »\n                                                                   ( character [ 1krerakta J 凡（书、剧本 等 中的 ） 人物 ，\n                                                                   叫e\n                                                                     角色\n                                                                            [ 1kreptJa] v.（…叫） 表达 描述\n                                                                   ( panorama [prena1ra:ma] n. 全貌，全景图\n                                               : .语：篇分析 汇： ；／\n       [DJ 段总述奎尔斯·狄更斯的文学地位、成就和作品特点。\n      ① 旬总述狄更斯的文学地位（文学成就） : 1 9 世纪英国最著名、最伟大的小说家。 修饰语 proba bly 和\nto many peo p l e 使首句对狄更斯的评价不至于太过绝对，体现本文写作之严谨，同时暗示并非所有人对\n他都有如此之高的评价，狄更斯可能也有鲜为人知的、不光彩的 事 情，为下文设伏 。 ② 旬先接 ① 旬补充\n狄更斯的其他身份（成就）：（不仅是小说家，还是）道德家、讽刺作家和社会改革家 。三 个并列名词与\n①句 nove l ist 并列，说明狄更斯在他的作品中关注社会道德、善于运用讽刺手法写作、提倡社 会 改 革 ，在\n这些方面都有深刻见解和卓越建树 。 ② 旬后半部分总述狄更斯的多重身份和建树对其作品风格的影\n晌：情节复杂、人物鲜活，精准地反映了当时整个英国社会的凤貌。 comp l ex plots 和 striking characters\n点明狄更斯作品两大突出特点，从句 that capture the panorama of English society 则指出其作品价值 ： 描\n绘英国社会风貌、关注并揭露社会问题，反衬狄更斯批判现实主义的写作风格。\n      【 i吾义逻辑链】 novelist 、 moralist 、 satiris t 、 social reformer 等界定身 份的名词（组）明确 首段为狄更斯\n文学成就和作品特点的概述。\n      【路标词解析】本段已 经 确定为 首 段 ，由文 义可知，本文可能 是著名 作 家 狄更斯的传记 。 人物传记通\n常对典型人物的生平、个性、轶事、思想、成就等进行系统描述和介绍，一般按照时间顺序来介绍人物的\n成长、转变 等 ，故推测下文将就狄 更斯 的生平、轶 事等 进行叙述说明 。\n       [E ] (      Soon after his fath er ’ s release from\n                                                                        他父亲出狱后不久，狄更斯找到了一份稍微\nprison, Dickens got a better job as errand(        boy m\n                                                                   好点的工作 一一在律师事务所当跑腿 。 他自学\nlaw offices. ( He taught himself shorthandai to get an\n                                                                   速记，后来找到 一 份更好的工作 一一一 成为一名法\neven better job later as a court stenographer( and as a\n                                                                   庭这记员和议会记者 。 在此期间，颇具记者慧眼\nreporter in Parliament. ( At the same time , Dickens,              的狄更斯将他周围的生活，尤其是任何滑稽有趣\nwho had a reporter ’ s eye for transcribing©       the life\n                                                                   或古怪奇特的景象记录下来，以此创作出一些短\naround him,        especially anything comic® or od庐，\n                                                                   篇随笔并投稿给那些不太知名的杂志 。\nsubmitted short sketches( to obscure® magazines.\n                                               ： ·词汇问. :1'\n① errand 〔 erand ］ η ．（短程）差事， 跑腿                               t   @stenographer [sta1nograf司 11.   速记员\n( shor thand [1J::,:thrend] n. 速记，速记 法                         ：④ transc巾\n( comic ［’ kom1k］ α ．滑稽 的，有趣的\n@odd [od] a . 古怪的，不 寻常的\n( sketch [sketf]η ．（文学上的）随笔\n                                                              ;\n                                                              l\\    ( errand boy （ 供 差遣 的仆人，跟班）\n                                                                    ( …       eself （自学）\n                                                                    ( have a reporter ’ s eye （拥有记者的眼光或视角）\n® obscure [ab1skjua］ α ．无名的，默默无闻的\n．经典搭配                                                         :\n                                                              $ ( submit. .. ro ... （提交，呈递）\n                                                    c~：：语毒分析：二 ii\n       [E］段介绍狄更斯在工作过程中逐渐展露写作天赋，开启创作生涯 。\n       ①② 旬介绍狄更斯的工作经历：先后做过跑差、速记员和记者，在职业道路上步步高升。 ① 句以父\n亲出狱，狄更斯得以找到跑腿这样一份其实并不体面、但与之前相比已经算是好的工作，暗示父亲入狱\n给狄更斯带来极为惨痛的影响 。②句 H e ta ught himself s ho rthand 说明狄更斯自学一技之长，努力改变\n命运；①句 a better j ob 与②句 an even better j ob 并列递进， 表 明狄更斯凭借自身努力在职业道路上越走\n越好，命运开始发生转变； as a court stenographer and as a r e port e r 对比 as errand bo y ，凸显狄更斯无论\n是在职业体面上，还是在职业技能上都得到极大提升 。 ③ 旬指出狄更斯当记者期间逐渐展露写作天赋。\n从句 who had a reporter ’ s eye for. . . 表明 记 者的职业 激发了他的写作天赋，他开始留意并记录周围生活\n的 奇闻趣事，撰写随笔并向杂志投稿（ sketch 指“散文随笔勺，开启了 写 作生涯； ob sc ur e magazin es 表 明他\n此时 名不见经传，只能尝试向不出名的杂志投稿 。\n       [i吾义逻辑链】 At t he same time ... s ubmitted s hort s k etc h es 讲述狄更斯成为 作 家之前 一边工 作 一 边\n尝试投稿的经历 。\n       E 路标词解析】 ① Soo n aft er hi s father ’ s re lease from pr i so n 是标志事情发展 的明显时间线索，提示上\n文介绍了“狄更斯父亲入狱”的事情，［ F］ 段第七句指出“狄更斯的父 亲因债入狱”与［ E］存在 先后关系；同\n时， ［ E］中 a better job as errand boy 表明本段与上文存在 比 较逻辑 。\n       [ F] 0 Dickens was born in Portsmouth , on England ’ s\n                                                                                狄更斯出生于英国南海岸的朴茨茅\nsouthern coast. @His fat her was a cl erk in t he Bri tis h Navy\n                                                                           斯市 。 他的父亲是英国海军出纳室的一\npay office-a respectable(             position, but wit h li ttle social\n                                                                           名职员 一一－ 工作虽体面，但鲜有社会地\nstatus. @ Hi s paternal@ grandparents, a steward® and a\n                                                                           位 。 他的祖父母，一个是男管家，一个是\nhousekeeper® possessed            even    less   status,   having   been\n                                                                           女管家，都是仆人，更加没有地位；狄更\nservants , and Dickens later co n e巳a led their b ac kground. 。\n                                                                           斯后来隐瞒了他们的身份背景 。 狄更斯\nDickens ’s moth er suppos 巳d l y cam e from a more r espectab le\n                                                                           的母亲据说来自一个较为体面的家庭 。\nfamily. 0 Yet two years before Dickens ’ s birth, hi s mothe r ’ s\n                                                                           但就在狄更斯出生的前两年，他的外祖\nfather was ca ugh t stealing and fl ed to Europe, never to\n                                                                           父因偷盗被抓而逃往欧洲，从此再没回\nreturn. 0The fami ly ’ s increasing poverty for ced Dickens out\n                                                                           来。   日渐贫困的家境迫使狄更斯在 12\nof school at age 12             to    work    in Warren ’ s   Blacking⑤\n                                                                           岁就辍学到华伦黑鞋油工厂做工，这家\nWarehouse® , a shoe-poli sh factory, where the other working\n                                                                           鞋油厂里的其他劳工男孩嘲笑他是“小\nboys mocked him as “ t he young gentleman. ”@ Hi s father\n                                                                           绅士” 。 之后他父亲因债入狱 。 父亲入\nwas then imprisoned( for debt. G) The humiliations® of hi s\n                                                                           狱和他在黑鞋油厂当劳工所带来的耻辱．\nfather ’ s impri sonment and hi s labor in the blac king factory\n                                                                           成为狄更斯最大的创伤，也成为他最深\nformed Di ckens ’ s   g r 巳a t es t   wo und and became hi s deepes t\n                                                                           的秘密 。他甚至对 自己的妻子也讳莫如\nsec r et.   。 H e co uld not confide® th em eve n to hi s wife,\n                                                                           深，尽管这些经历为他的小说奠定了潜\nalthough they provide the unacknowledged ( foundation of hi s\n                                                                           在性基础 。\nfiction.\n                                                ： ·词汇注释＜ ii\n( respectable [ ri 1spektaba l ］ α ．体面的\n( paternal [ pa1t3: n al ］ α．父亲一方 的                             到 普遍 认可的\n( steward [ 1stju:act] 11.   （私人家中 的 ）男管家\n                                                              ．经典搭配\n( housekeeper [ 1 h ausk叩a］ η ．女管 家\n                                                              ( social status C 社会地位）\n( blacking [ 1bliek11J] 11. 黑鞋 汹\n                                                              ( pay office （出纳室〉\n@ warehouse [ 'weah aus］凡仓库，工 厂\n                                                              ( be ca ught doing sth （被抓住正在做某事）\n( imprison [ 1m'pr1zan] v. 关押，监 禁\n                                                              ( for ce sb out of school （强迫某人退学）\n( humiliation [ 1hju:m1l11e1Jn] n. 屈辱，耻辱\n                                                              ( shoe-polish （鞋油）\n® confide [ kan1fa1d] v.     吐露（秘密等）\n                                                              @mock sb as （嘲笑某人是）\n      The family ’s increasing poverty forced Dickens out of school at age 12 to work in Warren ’s Blacking\nWarehouse, a shoe-polish factory, where the other working boys mocked him as “ the young gentleman. ”\n      功能注释：本句 主干为 st h forc ed sb out of school to do sth 的结构，表地点的名词 Warren ’s Blacking\nW are hou se 由 同位 语 a shoe-poli sh factory 解释说明，并引出 where 引导的非限定性定语从句，具体描述\n狄更斯在该地的不幸遭遇 。\n      结构切分 ：\n      句子主干 ： I The family ’ s increasing poverty forced Dickens out of school at age 12\n                                   主i吾                       谓语＋宾i吾                时间状语\n                      to work in w缸ren ’s Blacking Warehouse,    a shoe-polish factory,\n                                         状语                           同位语\n                                                         非限定性定语从句\n                       where    the other working boys mocked him as “ the young gentleman. ”\n                     引导词                  主语                        谓语＋宾语\n                                                : ：击篇：分析：－：：：\n                                                  ·              ii\n      [F］段介绍狄更斯的家庭背景、童年经历及其对狄更斯的影晌。\n      ①一⑤ 旬介绍狄更斯的家庭背景；社会地位低下、名誉受损。 他父亲和祖父母虽都有工作，但却没\n有社会地位（ littl e social status 与 even less status 同义递进，起强调作用），其中 concealed their\nbackground 介绍狄更斯后来刻意隐瞒他们仆人的身份，表明他未能坦荡直面自己的出身，可能内心自\n卑；他母亲虽然家庭相对体面，但外祖父却行为不端，名誉受损； supposed l y 表不确定，说明“狄更斯母亲\n出身体面”并非确凿，加之外祖父偷窃逃跑、且再未敢回来，让人愈加怀疑其母亲出身体丽可能纯属杜撰\n之 言。 ⑥ 旬介绍狄更斯的童年经历： 1 2 岁被迫辍学做童工，遭受嘲弄。 同伴对小狄更斯的嘲弄之语“ the\nyoung gen tl ema n”侧面 反 映 童 年时期的狄更斯虽然家境寒微、沦为童工，但却不放任自流，而是以绅士准\n则 要求自己，努力 向上 看齐 ，深层表明小狄更斯耻于现状、谋求改变的心理和性格。 ⑦ 旬继续指出小狄\n更斯遭遇家庭变故：父亲因债入狱。 连词 then 凸显祸不单行，小狄更斯的家庭境况雪上加霜，这对于一\n个 自卑、要强 的孩子 来说无疑 伤害巨大 。 ③⑨ 旬指出狄更斯的家庭变故和童年经历对他的影晌：造成难\n以启齿的心理创伤，但为以后写作奠定基础。 ③ 句 humil i at ions 总结指出狄更斯将家庭变故和童年经历\n看作是 耻 辱，足 见 其自尊 心之强，刻意隐瞒出身背 景（甚至 为母捏造身份）也就不足为怪了；并列最高级\ng reatest wo und/ deepest sec re t 明确这些 经历给 他造成 巨 大心理伤 害 ，他隐忍在心，讳莫如深；⑨句先承\n接上句继续指出狄更斯甚至对至亲， 如 妻子， 都不愿吐 露 内心秘密，再次凸显其自尊心之强、被伤 害 之\n深；随即以 although 转折指出作者观点： 童年 的痛苦 经 历 虽 对狄更斯造成 巨 大伤 害， 但也为其后期 写 作\n打下 基础，为其文 学 创作提供了 丰富 的 素 材 来 源； unacknowl edged （ 未被公开 承 认的 ）表 明这种 影 响是潜\n移默化的、不知不觉的，即便狄 更 斯没有公开 承认这 一 点 。\n       u吾义逻辑链】Di ckens w as born 、 at age 12 表 明 本 段介绍狄更斯 家 庭背 景 和 童年经 历 。\n       E 路标词解析】 本段介绍狄 更 斯的出生地、家庭状况和 童 年 经 历 ， 根据传记通常按照时间顺序叙述\n的特点，可推知 本 段位 置靠 前 ， 可能出现在 首 段［ DJ 之后， f![J , [ DJ 以现世对狄更斯 文学 成就的总体评价\n引出介绍对象一一 ［ F］ 进而按照时间顺序介绍狄更斯的出 身 背 景 及 早 期 经 历 。\n       [ G] 0 After Picki且Jick , Dickens plunged(    into a\n                                                                   《 匹克成克外传 》之后，狄更斯 开 始沉 i受 到一\nbleaker(   world.   @ In Oliveγ 卫vist , he traces an\n                                                               个较为阴郁的世界 。 在 《 雾都孤 儿 》 中 ，他追踪了\norphan’沪 progress from the workho山俨 to th e criminal\n                                                               一个孤儿从济贫院到伦敦犯罪（高发地〕贫民窟\nslums® of London.      8 Ni cholas Ni ckleby, his next         的成长历程 。 接着，他的另一部 小 说 《 尼古拉斯\nnovel , combines the darkn巳ss of Oliver 卫vis t with the\n                                                               ． 尼克贝 》 兼有《雾 都孤儿 》 的阴暗和 《 匹克成克 》\nsunlight of Pickwick . 。 The popularity of these novels\n                                                               的光明 。 这些 ψ 说的流行奠定了狄更斯作为 一\nconsolidated® Dickens ' as a nationally and internat ionally\n                                                               位全国乃至全世界著名作家的地位 。\ncelebrated( man of letters® .\nOrder\n                                                ：：：~：：荒草注：释＜ ii\n( plunge [p1And3] v . （专注 而认 真 地）开始从 事                         ( letter [ 1letc> J n. 【用作 复数】 写 作 生涯 ，作 家 职业\n( bleak [ bli:k ］ ι 阴郁的， 凄凉 的                                  ．经典搭配\n( orphan [ 1;):fon］ 凡孤儿                                        ( plunge into （ 投 入于 （行 动 、 事 业 等 ））\n( workhouse [ 1w 3 :kh aus］ η ． 济贫 院                           ( combine A with B （将 A 与 B 结合 起来 ）\n( slum [s!Am] n . 贫民窟， 陋 巷                                     ( consolidate s b as （ 巩固 某 人作为· ·\n® consolidate [ k.:m' sol1de1t] v. 巩 固 ，加强                     ( man of letters （文 人，作 家）\n( celebrated [ 1sel也℃1t1d ］ α． 著名 的\n                                                ：·棋分析：－~ ： ： 1'\n       [G ］段介绍狄更斯后续几部主要小说及特点，并总结评论狄更斯的文学地位。\n       ① 旬总说狄更斯在《匹克威克外传》之后的写作基调：阴郁。 plunge d int o a bl eak er world 点 明狄更\n斯后续 几部小说 文 风 发生 改 变 ：开始关 注 社会 阴暗面（ 暗示 之前的风格 ，譬 如 P ick wi ck ，可能 是轻 松幽默\n的 喜 剧 基 调），描 写 底 层 人物的挣扎和命运 ， 总体上给 读者一 种 压 抑感伤的情调 ； bl eak 意 为“悲观的、元\n望的” 。 ②＠ 旬举例说明①旬。 ② 句以 《雾 都孤儿 》 为例，介绍该书的 素 材 来 源： 一 个孤儿艰难曲折的成\n长 经 历； orph a n/ workhou se/ criminal s lum s 分别点明该书 主 角身份 “ 孤儿”和 主要 场 景“ 济贫院、 贫 民窟 ／\n犯 罪高 发地”，！！夜应首 句 bl ea k e r world 。③ 句以 另一 部小说《 尼克拉斯·尼克贝 》为 例，指出 该 书 兼具 阴\n暗和l 明快； darkn ess 和 s unlig ht 为比喻用 法 ，分别指两部小说的情 感基 调 “ 阴郁伤 感 vs 轻松明快” 。 ＠\n旬总结指出狄更斯享有崇高文学地位。 后续 两部小说继 《 匹克威 克 外传 》 之后 受 到 读 者欢迎、进 一 步提\n升狄 更 斯的知名 度 ； nationa lly and int ern ationally c el e brat ed 则 表 明狄 更 斯 文学 成就 卓著 ， 享誉 海内外 。\n       【语义逻辑链】Aft er Pi ck wick 表 明本段继 续 介绍 其 他 著 作，这 是 狄 更 斯文 学 地位 得 到巩固的时期 。\n       【路标词解析】① Aft e r P ick wick 是 狄 更 斯 写 作生 涯重要 时间节 点， 提 示 此时 “《 匹 克 威克外传 》 已 经\n出版，狄 更 斯开始进行 后续 创作”， ［ BJ 和 ［ CJ 均提到该部小说，但 ［ CJ 重点 介绍 该 小说的出版过程，［ BJ 重\n点说明该书出版 后获 得 巨 大成功，故可推知 本 段应出现 在［ BJ 之 后 ； ②本 段通过列 举 几部 重要 小说总体\n评价狄 更 斯 崇高 的 文学 地位， 在名 人传记 类文章 中 ，具 有收 尾 总 结 评价的作用，故可能为末段 。\n       ，传综上分析，可初步得出：\n    本文是狄更斯传记，人物传记一般按照时间顺序介绍人物 生平事 迹和成就 。文 中有人物成民线索 C[E]\nDickens got a better job 、 ［盯 Dickens was born/ at age 12 ）和事情发展 线索 C[A] Th e first published sketch 、［B]The\nrunaway success of The Pickwid? Pαρers 、〔 CJ Soon after Sketches by Boz appeared 、［ E] Soon after his father ’5\nrelease 、［ F] His father was then imprisoned 、 ［ G] Aft巳r Pickwick ） ，可作为解题的 重要依据 。\n    ①由固定段［町的时间线索’ 可知 ，〔 C］ 可能在 ［目前，［ G］ 可能在［ BJ 后 。\n    ②［ E][F］两段 时间发展顺序明显， ［ E］应在［ F］之后 。\n     ( 1 ）从己给出位置的段落入手，找到解题突破口。"
         }
       ],
-      "translation": ""
+      "translation": "",
+      "vocab": {
+        "words": [
+          {
+            "word": "ruler",
+            "form": "ruling",
+            "phonetic": "/ˈruːlə(r)/",
+            "meaning": "尺子；统治者"
+          },
+          {
+            "word": "supreme",
+            "form": "Supreme",
+            "phonetic": "/suzprimisjur-/",
+            "meaning": "最高的；极度的"
+          },
+          {
+            "word": "court",
+            "form": "Court",
+            "phonetic": "/hkoxt/",
+            "meaning": "法院"
+          },
+          {
+            "word": "hasty",
+            "form": "has",
+            "phonetic": "/「hersti/",
+            "meaning": "匆忙的"
+          },
+          {
+            "word": "conviction",
+            "form": "conviction",
+            "phonetic": "/kənˈvɪkʃn/",
+            "meaning": "定罪；坚信"
+          },
+          {
+            "word": "former",
+            "form": "former",
+            "phonetic": "",
+            "meaning": "以前的"
+          },
+          {
+            "word": "holder",
+            "form": "holding",
+            "phonetic": "",
+            "meaning": "持有者"
+          },
+          {
+            "word": "nose",
+            "form": "nose",
+            "phonetic": "/nəʊz/",
+            "meaning": "鼻子"
+          },
+          {
+            "word": "ethic",
+            "form": "ethics",
+            "phonetic": "",
+            "meaning": "道德体系"
+          },
+          {
+            "word": "conduct",
+            "form": "conduct",
+            "phonetic": "/「kondakt/",
+            "meaning": "行为"
+          },
+          {
+            "word": "company",
+            "form": "company",
+            "phonetic": "/「kAmpani/",
+            "meaning": "公司"
+          },
+          {
+            "word": "to",
+            "form": "to",
+            "phonetic": "",
+            "meaning": "科学家"
+          }
+        ],
+        "phrases": [
+          {
+            "phrase": "deal with",
+            "def": ""
+          },
+          {
+            "phrase": "focus on",
+            "def": ""
+          },
+          {
+            "phrase": "in return for",
+            "def": ""
+          }
+        ]
+      }
     },
     "NewType": {
       "passage": {
         "en": "[A] The first published sketch, \"A Dinner at Poplar Walk\" brought tears to Dickens's eyes when he discovered it in the pages of The Monthly Magazine. From then on his sketches, which appeared under the pen name \"Boz\" in The Evening Chronicle, earned him a modest reputation. [BJ The runaway success of The Pickwick Papers, as it is generally known today, secured Dickens's fame. There were Pickwick coats and Pickwick cigars, and the plump, spectacled hero, Samuel Pickwick, became a national figure. [q Soon after Sketches by Boz appeared, a publishing firm approached Dickens to write a story in monthly installments, as a backdrop for a series of woodcuts by the then-famous artist Robert Seymour, who had originated the idea for the story. With characteristic confidence, Dickens successfully insisted that Seymour's pictures illustrate his own story instead. After the first installment, Dickens wrote to the artist and asked him to correct a drawing Dickens felt was not faithful enough to his prose. Seymour made the change, went into his backyard, and expressed his displeasure by committing suicide. Dickens and his publishers simply pressed on with a new artist. The comic novel, The Posthumous Papers of the Pickwick Club, appeared serially in 1836 and 1837 and was first published in book form in 1837. [D] Charles Dickens is probably the best-known and, to many people, the greatest English novelist of the 19th century. A moralist, satirist, and social reformer, Dickens crafted complex plots and striking characters that capture the panorama of English society. [EJ Soon after his father's release from prison, Dickens got a better job as errand boy in law offices. He taught himself shorthand to get an even better job later as a court stenographer and as a reporter in Parliament. At the same time, Dickens, who had a reporter's eye for transcribing the life around him, especially anything comic or odd, submitted short sketches to obscure magazines. [_F] Dickens was born in Portsmouth, on England's southern coast. His father was a clerk in the British Navy pay office - a respectable position, but with little social status. His paternal grandparents, a steward and a housekeeper, possessed even less status, having been servants, and Dickens later concealed their background.Dickens's mother supposedly came from a more respectable family. Yet two years before Dickens's birth, his mother's father was caught stealing and fled to Europe, never to return. The family's increasing poverty forced Dickens out of school at age 12 to work in Warren's Blacking Warehouse, a shoe-polish factory, where the other working boys mocked him as \"the young gentleman.\" His father was then imprisoned for debt. The humiliations of his father's imprisonment and his labor in the blacking factory formed Dickens's greatest wound and became his deepest secret. He could not confide them even to his wife, although they provide the unacknowledged foundation of his fiction. [GJ After Pickwick, Dickens plunged into a bleaker world. In Oliver Twist, he traces an orphan's progress from the workhouse to the criminal slums of London. Nicholas Nickleby, his next novel, combines the darkness of Oliver Twis t with th e sunlig ht of Pickwick. Th e popu lar ity of th ese novels consolidated Dickens' as a nationally and internationally celebrated man of letters. 1- 1- 1- I 1- I 1- I 1- I D 41. 42. 43. 44. B 45.",
         "zh": ""
       },
-      "questions": []
+      "questions": [],
+      "vocab": {
+        "words": [
+          {
+            "word": "publish",
+            "form": "published",
+            "phonetic": "/r「pAbl/",
+            "meaning": "公布"
+          },
+          {
+            "word": "sketch",
+            "form": "sketch",
+            "phonetic": "",
+            "meaning": "n. 素描；略图；梗概 v. 画素描或速写 / v. 概述， 简述；勾画； 写生； 素描； 绘略图 n. 略图， 草图；梗概， 大意；素描， 速写"
+          },
+          {
+            "word": "dinner",
+            "form": "Dinner",
+            "phonetic": "/「dma(r)/",
+            "meaning": "正餐；宴会"
+          },
+          {
+            "word": "walk",
+            "form": "Walk",
+            "phonetic": "",
+            "meaning": "n. 步行，走；散步 v. 散步；走过"
+          },
+          {
+            "word": "to",
+            "form": "to",
+            "phonetic": "",
+            "meaning": "科学家"
+          },
+          {
+            "word": "month",
+            "form": "Monthly",
+            "phonetic": "",
+            "meaning": "n. 月,月份 / n. 月，一个月的时间"
+          },
+          {
+            "word": "magazine",
+            "form": "Magazine",
+            "phonetic": "/,maega「zizn/",
+            "meaning": "杂志；期刊"
+          },
+          {
+            "word": "pen",
+            "form": "pen",
+            "phonetic": "",
+            "meaning": "n. 钢笔；作家；围栏 v. 写；关入栏中"
+          },
+          {
+            "word": "name",
+            "form": "name",
+            "phonetic": "",
+            "meaning": "n. 名字；名称；名声；名义 v. 给…取名"
+          },
+          {
+            "word": "evening",
+            "form": "Evening",
+            "phonetic": "",
+            "meaning": "n. 晚上；傍晚；（联欢性的）晚会；后期 adj. 在晚上的；为晚上的；晚上用的 int. 晚上好（等于good evening）"
+          },
+          {
+            "word": "earn",
+            "form": "earned",
+            "phonetic": "",
+            "meaning": "v. 赚，赚得；获得，挣得；使得到；博得 n. (Earn)人名；(泰)炎"
+          },
+          {
+            "word": "modest",
+            "form": "modest",
+            "phonetic": "",
+            "meaning": "adj. 谦虚的 / adj. 谦虚的，谦逊的；适度的；端庄的；羞怯的 n. (Modest)人名；(罗)莫代斯特；(德)莫德斯特；(俄)莫杰斯特 / adj. 谦虚的， 谦让的； 适度的"
+          }
+        ],
+        "phrases": []
+      }
     },
     "Translation": {
       "sentences": [
@@ -9702,7 +20571,11 @@ const ENGLISH_DATA = {
         "",
         "",
         ""
-      ]
+      ],
+      "vocab": {
+        "words": [],
+        "phrases": []
+      }
     }
   },
   "2018": {
@@ -9832,7 +20705,84 @@ const ENGLISH_DATA = {
           "unreliable",
           "unsuitable"
         ]
-      ]
+      ],
+      "vocab": {
+        "words": [
+          {
+            "word": "trust",
+            "form": "Trust",
+            "phonetic": "/trAst/",
+            "meaning": "信任"
+          },
+          {
+            "word": "handful",
+            "form": "hand",
+            "phonetic": "",
+            "meaning": "一把"
+          },
+          {
+            "word": "necessary",
+            "form": "necessary",
+            "phonetic": "",
+            "meaning": "adj. 必要的；必需的；必然的 n. 必需品"
+          },
+          {
+            "word": "condition",
+            "form": "condition",
+            "phonetic": "",
+            "meaning": "n. 条件；情况；环境；身份 v. 决定；使适应；使健康；以…为条件"
+          },
+          {
+            "word": "childhood",
+            "form": "child",
+            "phonetic": "/ˈtʃaɪldhʊd/",
+            "meaning": "童年；幼年"
+          },
+          {
+            "word": "care",
+            "form": "care",
+            "phonetic": "",
+            "meaning": "n. 照顾，照料 v. 关心，在意 / n. 关怀；照料；谨慎；忧虑 v. 照顾；关心；喜爱；顾虑"
+          },
+          {
+            "word": "friendship",
+            "form": "friendships",
+            "phonetic": "/“frendJrp/",
+            "meaning": "友谊"
+          },
+          {
+            "word": "wrong",
+            "form": "wrong",
+            "phonetic": "",
+            "meaning": "adv. 错误地；邪恶地，不正当地 n. 坏事；不公正 adj. 错误的；失常的；不适当的 v. 委屈；无理地对待；诽谤"
+          },
+          {
+            "word": "highly",
+            "form": "high",
+            "phonetic": "/ˈhaɪli/",
+            "meaning": "非常；高度地"
+          },
+          {
+            "word": "weed",
+            "form": "we",
+            "phonetic": "",
+            "meaning": "杂草"
+          },
+          {
+            "word": "feeling",
+            "form": "feels",
+            "phonetic": "",
+            "meaning": "n. 感觉，触觉；感情，情绪；同情 adj. 有感觉的；有同情心的；富于感情的 v. 感觉；认为（feel的现在分词）；触摸"
+          },
+          {
+            "word": "goodness",
+            "form": "good",
+            "phonetic": "/ˈɡʊdnəs/",
+            "meaning": "善良；美德"
+          }
+        ],
+        "phrases": []
+      }
     },
     "Text1": {
       "passage": {
@@ -9906,7 +20856,93 @@ const ENGLISH_DATA = {
           "explanation": "［精准定位］ 本文 前 三 段 论证 展 现问 题                      美国 中 产 阶 级面 临 自动 化的 巨大威 胁 。 第 四 至六段 则\n从 教育、经 济、税收 等多方 面 指 出， 应提 供政 策支 持 ， 助 其平稳 过 波 。 末 段总 结指 出， 帮 助中 产 阶级适应\n自动化的政策必不可少 。 可见 ［ BJ 正确 。\n      ［命题解密］正确项 ［ BJ 体现 文章 “提出 于1二 论证问题－一一 就问题解决提供 多 项 建 议”的 整 体结构 。\n      [ A ］错在作 者 只提到了“乐 观主 义 者（ Optimi s ts ） ” 一 方看法 ， 并未 介绍其对 立看法 。 ［ CJ 源自开 篇\nannoying c ha ll enges ，但 这 指问 题本身 Ca pro bl em 所指 ），文章并未展开 介绍其 影 响 。 ［ DJ 错误 理解文章 前 后\n两部分之间 关 系：后半 部分 的 （ Fi rst. . . Fina ll y）并 非说明 “ 问 题 的 表现 形 式”， 而 是 说明 “ 问 题 的 解决方式 ” 。\n      ［ 技巧总结 ］ 由于 本 题 采 用 了 一 种创 新 性的 设题方式（往年未 出现过 “最后 一 题 侧 重考查全篇 论证 结\n构 ”情形 ）， 所以 会 对 学生造 成 一 定困难 。 但 万变不离其宗 ， 学生只需 抓 大放 小 ，牢牢 把 握文章主线 。 另\n外 ， 为了确保 正 确 ， 可 结合“ 排 除法 ” 。\n     具 体 来看 ，浏览题干 In t hi s te xt , t he a ut hor pr巳se nt s a prob lem with ， 可 大致 推断 本文 侧 重宏 观 考查\n全 文 ， a prob l e m 是全 文 关注 问题 ，答案 则 是 问题阐 释 之外的 主要 内 容， 初步确 定 可概 括后 四段内 容 的\n〔因 为 答案 。 随后 结合 排除 法 ： 文 中 并未提 到“ 双方 观点 交锋 ” ， 排除 ［ A ］ ； 并 未 展 开介 绍“自动 化的 影 响”，\n排除 ［ CJ ；并 未 介 绍“是l 动 化挑战 ” 的 多 种 变 化 形式， 排 除 ［ DJ 。\n   回础捏目E回                                                                                回1革应盟田\n   回E缸前面蝉斗\n       知识补充\n                         /"
         }
       ],
-      "translation": ""
+      "translation": "",
+      "vocab": {
+        "words": [
+          {
+            "word": "challenge",
+            "form": "challenges",
+            "phonetic": "",
+            "meaning": "n. 挑战； 艰巨任务 vt. 向…挑战"
+          },
+          {
+            "word": "middle",
+            "form": "middle",
+            "phonetic": "/ˈmɪdl/",
+            "meaning": "中间的；中部"
+          },
+          {
+            "word": "classify",
+            "form": "class",
+            "phonetic": "/ˈklæsɪfaɪ/",
+            "meaning": "分类；归类"
+          },
+          {
+            "word": "campaign",
+            "form": "campaign",
+            "phonetic": "",
+            "meaning": "v. 作战；参加竞选；参加活动 n. 运动；活动；战役 / n. 战役；活动； 竞选运动"
+          },
+          {
+            "word": "robot",
+            "form": "robots",
+            "phonetic": "",
+            "meaning": "n. 机器人；遥控设备，自动机械；机械般工作的人"
+          },
+          {
+            "word": "forest",
+            "form": "for",
+            "phonetic": "/ˈfɒrɪst/",
+            "meaning": "森林"
+          },
+          {
+            "word": "dismiss",
+            "form": "dismiss",
+            "phonetic": "",
+            "meaning": "v. 解散；解雇；开除；让离开；不予理会、不予考虑 / vt. 免职， 解雇， 开除； 解散"
+          },
+          {
+            "word": "highly",
+            "form": "high",
+            "phonetic": "/ˈhaɪli/",
+            "meaning": "非常；高度地"
+          },
+          {
+            "word": "risk",
+            "form": "risk",
+            "phonetic": "/rsk/",
+            "meaning": "冒"
+          },
+          {
+            "word": "being",
+            "form": "being",
+            "phonetic": "",
+            "meaning": "n. 生物；存在， 生存"
+          },
+          {
+            "word": "accord",
+            "form": "according",
+            "phonetic": "",
+            "meaning": "一致"
+          },
+          {
+            "word": "to",
+            "form": "to",
+            "phonetic": "",
+            "meaning": "科学家"
+          }
+        ],
+        "phrases": [
+          {
+            "phrase": "appeal to",
+            "def": ""
+          },
+          {
+            "phrase": "be able to",
+            "def": ""
+          }
+        ]
+      }
     },
     "Text2": {
       "passage": {
@@ -9980,7 +21016,93 @@ const ENGLISH_DATA = {
           "explanation": ""
         }
       ],
-      "translation": ""
+      "translation": "",
+      "vocab": {
+        "words": [
+          {
+            "word": "survey",
+            "form": "survey",
+            "phonetic": "",
+            "meaning": "n. 调查；测量；审视；纵览 v. 调查；勘测；俯瞰 / vt. 俯瞰； 眺望 A；全面审视， 调查；测量， 勘定 n. 俯瞰； 眺望； 环视 A；全面审视， 调查；勘测； 测量图"
+          },
+          {
+            "word": "university",
+            "form": "University",
+            "phonetic": "/ˌjuːnɪˈvɜːsəti/",
+            "meaning": "大学"
+          },
+          {
+            "word": "finding",
+            "form": "finds",
+            "phonetic": "",
+            "meaning": "n. 发现；裁决；发现物 v. 找到；感到（find的ing形式）；遇到 / n. 发现， 发现物"
+          },
+          {
+            "word": "president",
+            "form": "President",
+            "phonetic": "/ˈprezɪdənt/",
+            "meaning": "总统；主席；校长"
+          },
+          {
+            "word": "prefer",
+            "form": "prefer",
+            "phonetic": "/prr fo:(r)/",
+            "meaning": "更喜欢；宁愿"
+          },
+          {
+            "word": "to",
+            "form": "to",
+            "phonetic": "",
+            "meaning": "科学家"
+          },
+          {
+            "word": "being",
+            "form": "be",
+            "phonetic": "",
+            "meaning": "n. 生物；存在， 生存"
+          },
+          {
+            "word": "filter",
+            "form": "filtered",
+            "phonetic": "",
+            "meaning": "滤器"
+          },
+          {
+            "word": "source",
+            "form": "sources",
+            "phonetic": "",
+            "meaning": "河流的源头"
+          },
+          {
+            "word": "notify",
+            "form": "not",
+            "phonetic": "",
+            "meaning": "v. 通告，通知；公布 / vt. 通知， 告知； 报告"
+          },
+          {
+            "word": "social",
+            "form": "social",
+            "phonetic": "/ˈsəʊʃl/",
+            "meaning": "社会的；社交的"
+          },
+          {
+            "word": "mostly",
+            "form": "Most",
+            "phonetic": "",
+            "meaning": "adv. 主要地， 大部分， 通常"
+          }
+        ],
+        "phrases": [
+          {
+            "phrase": "rely on",
+            "def": ""
+          },
+          {
+            "phrase": "tend to",
+            "def": ""
+          }
+        ]
+      }
     },
     "Text3": {
       "passage": {
@@ -10054,7 +21176,105 @@ const ENGLISH_DATA = {
           "explanation": "［精准定位］ 由题干关键同 A I 所对 应的 software 、 bi g data 等词定位至末段⑤至③句。⑥句指出“我\n们尚处于技术革命的初期，任何现在看似微不足道的决定都可能对未来产生巨大影响”，言下之意即“当\n前就‘高科技用于医疗’问题所做的任何决定都应用全考虑、谨慎行事”，可见 ［ BJ 符合文义。\n      ［命题解密］ ［因是对末段 ⑤ 句 sma ll choices now may turn out to have gigantic consequences 的概括。\n      [A］把第 ⑤句中 big data may be .. . as a big pharma has done 误读为一种不确定态度（ ambiguous），但此处\n意在说明作者对未来情况的推测 “大数据以后预计会像大型 制 药公司 那样（垄断行事）” 。 ［ CJ 把文末作者“赞\n赏案情报告（ a we lcom e start ） 叫tu 换 为作者“赞赏 A I 应用 在医疗领域”，作者虽然承认这 种应用 是一大 进\n步，但全文意在表现应用背后 的问 题所在 。 文末 也只 是“支持监管部 门对问题的 重视和介入”，作者实际\n不 认同 裁定本身的效力， 而 是期待 相 关措施 能 更 加 谨慎，完善到位 。 ［ DJ 源于⑦句带负 面色 彩 的 l ong\nst rugg l e （漫长的斗争）、 avo id a future of digita l feudalism （避免未来变成数据封建专制），但作者的矛头是\n“科技公司垄断”，而非题干中的“ AI 应用在医疗领域”；其次 contemptuous 一词侧重于“傲慢瞧不上”，作\n者在文 中 并未表 现出此态 度 。\n      ［ 技 巧总结］ 作者态度题实际影射全文主旨 。 此 类题目可借 助 “文章论述结 构 ” 以及“作 者论述角度”\n两个方面解题 。 从论证结构来看，第 一 至 三 段作者 以 “树靶 一批驳 ”结构，明确 批评了 Ms Den h am 的 裁\n定不妥、未切中要害，并在末段指出“科技巨头（垄断）才是需要担忧的对象”，站位相当明确，据此可排除\n[A］ 、［ CJ ；而从论述角度 看 ，作者在质疑科技巨头垄断之余却于首段、末段 几度指出“ AI 技术用 于医疗 研\n究富有潜力、有望挽救患者生命”，可见其并非 一 味批判，据此可排除完全否定的 ［町，确定答案为［间， 即\n作者意欲“警 示人 们 及早防范新 事 物的负面影响” 。\n            回                                                                   回理摇姐回\n                      /"
         }
       ],
-      "translation": ""
+      "translation": "",
+      "vocab": {
+        "words": [
+          {
+            "word": "fair",
+            "form": "fair",
+            "phonetic": "/feə(r)/",
+            "meaning": "公平的；集市；博览会"
+          },
+          {
+            "word": "danger",
+            "form": "dangers",
+            "phonetic": "/ˈdeɪndʒə(r)/",
+            "meaning": "危险；威胁"
+          },
+          {
+            "word": "deal",
+            "form": "deal",
+            "phonetic": "/diːl/",
+            "meaning": "交易；处理"
+          },
+          {
+            "word": "national",
+            "form": "National",
+            "phonetic": "",
+            "meaning": "adj. 国家的；国民的；民族的；国立的 n. 国民"
+          },
+          {
+            "word": "service",
+            "form": "Service",
+            "phonetic": "",
+            "meaning": "服务；维修"
+          },
+          {
+            "word": "bother",
+            "form": "both",
+            "phonetic": "/「bo6a(r)/",
+            "meaning": "打扰"
+          },
+          {
+            "word": "side",
+            "form": "sides",
+            "phonetic": "",
+            "meaning": "n. 边，面，侧 v. 支持"
+          },
+          {
+            "word": "means",
+            "form": "mean",
+            "phonetic": "",
+            "meaning": "n. 方法， 手段"
+          },
+          {
+            "word": "leading",
+            "form": "leading",
+            "phonetic": "",
+            "meaning": "adj. 领导的；主要的 n. 领导；铅板；行距 v. 领导（lead的ing形式） / adj. 处于领导地位的， 前列的；首位的， 领衔的；最主要的"
+          },
+          {
+            "word": "intelligence",
+            "form": "intelligence",
+            "phonetic": "",
+            "meaning": "n. 智力,聪明;理解力；情报,消息,报导 / n. 智力， 才智； 灵性， 悟性；情报， 消息； 报道"
+          },
+          {
+            "word": "company",
+            "form": "companies",
+            "phonetic": "/「kAmpani/",
+            "meaning": "公司"
+          },
+          {
+            "word": "apply",
+            "form": "applied",
+            "phonetic": "/arplar/",
+            "meaning": "涂"
+          }
+        ],
+        "phrases": [
+          {
+            "phrase": "lead to",
+            "def": ""
+          },
+          {
+            "phrase": "benefit from",
+            "def": ""
+          },
+          {
+            "phrase": "belong to",
+            "def": ""
+          },
+          {
+            "phrase": "be expected to",
+            "def": ""
+          },
+          {
+            "phrase": "on the basis of",
+            "def": ""
+          }
+        ]
+      }
     },
     "Text4": {
       "passage": {
@@ -10128,7 +21348,97 @@ const ENGLISH_DATA = {
           "explanation": ""
         }
       ],
-      "translation": ""
+      "translation": "",
+      "vocab": {
+        "words": [
+          {
+            "word": "service",
+            "form": "Service",
+            "phonetic": "",
+            "meaning": "服务；维修"
+          },
+          {
+            "word": "continue",
+            "form": "continues",
+            "phonetic": "",
+            "meaning": "连续"
+          },
+          {
+            "word": "to",
+            "form": "to",
+            "phonetic": "",
+            "meaning": "科学家"
+          },
+          {
+            "word": "bleed",
+            "form": "bleed",
+            "phonetic": "/blixd/",
+            "meaning": "出血"
+          },
+          {
+            "word": "red",
+            "form": "red",
+            "phonetic": "",
+            "meaning": "n. 红色，红颜料；赤字 adj. 红色的；红肿的，充血的"
+          },
+          {
+            "word": "ink",
+            "form": "ink",
+            "phonetic": "/mEK/",
+            "meaning": "墨水"
+          },
+          {
+            "word": "report",
+            "form": "reported",
+            "phonetic": "",
+            "meaning": "n. 报告,汇报 v. 报道 / n. 报告；报道；成绩单 v. 报告；报导；使报到"
+          },
+          {
+            "word": "loss",
+            "form": "loss",
+            "phonetic": "/lɒs/",
+            "meaning": "损失；丢失"
+          },
+          {
+            "word": "forest",
+            "form": "for",
+            "phonetic": "/ˈfɒrɪst/",
+            "meaning": "森林"
+          },
+          {
+            "word": "fiscal",
+            "form": "fiscal",
+            "phonetic": "/ˈfɪskl/",
+            "meaning": "财政的；会计的"
+          },
+          {
+            "word": "straight",
+            "form": "straight",
+            "phonetic": "",
+            "meaning": "adj. 直的；连续的；笔直的；正直的；整齐的；异性恋的 adv. 直接地；不断地；立即；坦率地 n. 直；直线；直男，直女，异性恋者"
+          },
+          {
+            "word": "expensive",
+            "form": "expenses",
+            "phonetic": "/ɪkˈspensɪv/",
+            "meaning": "昂贵的"
+          }
+        ],
+        "phrases": [
+          {
+            "phrase": "depend on",
+            "def": ""
+          },
+          {
+            "phrase": "due to",
+            "def": ""
+          },
+          {
+            "phrase": "seem to",
+            "def": ""
+          }
+        ]
+      }
     },
     "NewType": {
       "passage": {
@@ -10151,7 +21461,84 @@ const ENGLISH_DATA = {
           "answer": "",
           "explanation": ""
         }
-      ]
+      ],
+      "vocab": {
+        "words": [
+          {
+            "word": "december",
+            "form": "December",
+            "phonetic": "/dɪˈsembə(r)/",
+            "meaning": "十二月"
+          },
+          {
+            "word": "congress",
+            "form": "Congress",
+            "phonetic": "",
+            "meaning": "n. (代表)大会；国会,议会 / n. 国会；代表大会；会议；社交 / n. 大会；国会， 议会"
+          },
+          {
+            "word": "commission",
+            "form": "commission",
+            "phonetic": "",
+            "meaning": "n. 委员会；佣金；犯；委任；委任状 v. 委任；使服役；委托制作 / n. 委员会；委任， 授权； 代办；佣金， 手续费"
+          },
+          {
+            "word": "to",
+            "form": "to",
+            "phonetic": "",
+            "meaning": "科学家"
+          },
+          {
+            "word": "select",
+            "form": "select",
+            "phonetic": "/sɪˈlekt/",
+            "meaning": "选择；挑选"
+          },
+          {
+            "word": "site",
+            "form": "site",
+            "phonetic": "/salt/",
+            "meaning": "位置"
+          },
+          {
+            "word": "prepare",
+            "form": "prepare",
+            "phonetic": "",
+            "meaning": "v. 筹备，（为…）做准备 / v. 准备；使适合；装备；起草"
+          },
+          {
+            "word": "costly",
+            "form": "cost",
+            "phonetic": "/「kostii/",
+            "meaning": "费钱的；昂贵的"
+          },
+          {
+            "word": "estimate",
+            "form": "estimates",
+            "phonetic": "/「estmet/",
+            "meaning": "佼计"
+          },
+          {
+            "word": "forest",
+            "form": "for",
+            "phonetic": "/ˈfɒrɪst/",
+            "meaning": "森林"
+          },
+          {
+            "word": "state",
+            "form": "State",
+            "phonetic": "",
+            "meaning": "n. 状态， 情况；国， 州 vt. 陈述， 说明；规定"
+          },
+          {
+            "word": "department",
+            "form": "Department",
+            "phonetic": "",
+            "meaning": "n. 部,局,处,科,部门;系,学部 / n. 部；部门；系；科；局"
+          }
+        ],
+        "phrases": []
+      }
     },
     "Translation": {
       "sentences": [
@@ -10177,7 +21564,11 @@ const ENGLISH_DATA = {
         "",
         "",
         ""
-      ]
+      ],
+      "vocab": {
+        "words": [],
+        "phrases": []
+      }
     }
   },
   "2019": {
@@ -10307,7 +21698,97 @@ const ENGLISH_DATA = {
           "lead",
           "expose"
         ]
-      ]
+      ],
+      "vocab": {
+        "words": [
+          {
+            "word": "weed",
+            "form": "we",
+            "phonetic": "",
+            "meaning": "杂草"
+          },
+          {
+            "word": "living",
+            "form": "live",
+            "phonetic": "/Uvm/",
+            "meaning": "活的"
+          },
+          {
+            "word": "digital",
+            "form": "digital",
+            "phonetic": "/「drd3i0/",
+            "meaning": "举止"
+          },
+          {
+            "word": "navigation",
+            "form": "navigation",
+            "phonetic": "",
+            "meaning": "n. 航行；航海 / n. 航海， 航空；导航， 领航"
+          },
+          {
+            "word": "apply",
+            "form": "apps",
+            "phonetic": "/arplar/",
+            "meaning": "涂"
+          },
+          {
+            "word": "available",
+            "form": "available",
+            "phonetic": "/əˈveɪləbl/",
+            "meaning": "可获得的；有空的"
+          },
+          {
+            "word": "justify",
+            "form": "just",
+            "phonetic": "",
+            "meaning": "v. 证明合法；整理版面 / vt. 证明…是正当的， 认为有理"
+          },
+          {
+            "word": "walk",
+            "form": "walk",
+            "phonetic": "",
+            "meaning": "n. 步行，走；散步 v. 散步；走过"
+          },
+          {
+            "word": "straight",
+            "form": "straight",
+            "phonetic": "",
+            "meaning": "adj. 直的；连续的；笔直的；正直的；整齐的；异性恋的 adv. 直接地；不断地；立即；坦率地 n. 直；直线；直男，直女，异性恋者"
+          },
+          {
+            "word": "wood",
+            "form": "woods",
+            "phonetic": "",
+            "meaning": "n. 木材；木制品；树林 vi. 收集木材 vt. 植林于；给…添加木柴"
+          },
+          {
+            "word": "canal",
+            "form": "can",
+            "phonetic": "",
+            "meaning": "n. 运河；[地理] 水道；[建] 管道；灌溉水渠 v. 在…开凿运河 / n. 运河； 渠"
+          },
+          {
+            "word": "die",
+            "form": "die",
+            "phonetic": "/dar/",
+            "meaning": "死亡"
+          }
+        ],
+        "phrases": [
+          {
+            "phrase": "due to",
+            "def": ""
+          },
+          {
+            "phrase": "tend to",
+            "def": ""
+          },
+          {
+            "phrase": "be able to",
+            "def": ""
+          }
+        ]
+      }
     },
     "Text1": {
       "passage": {
@@ -10381,7 +21862,105 @@ const ENGLISH_DATA = {
           "explanation": "［精准定位］文首段引人“英国银行业监管新规”并说明其长远目的“让银行及其他所有企业能够做\n出更长远的决策，为后代建立更强健的经济”。第 二至 四段剖析现状“上市公司中短期主义盛行”并明确\n其消极影 响 。第 五至七段则说明削弱短期主义、鼓励长期主义的方法，可见，文 章 旨在倡导企业 奉行长\n期主义、 多些 耐心，以为后代建 立更强健 的经济，［ BJ 正确 。\n     ［命题解密 ］ [ BJ 中 pat i ence 指 向 long termism ，与 short termism/ fin ancial im pati e n ce 相对， a\nCorpo rate Virtu e 暗合 to bui ld a stronger economy for fu ture generat i o n s ，体现作者对长期 主义的倡导 。\n     [A］与第 三 段信息“投资者平均持股时 间 锐减 ／季 度资本主义加剧”相悖 。［ CJ 由首段 ④句\nd ec i s i o nm a king 臆断出“高管行事需果决”，但文意并非在于“高管必须果断”，而是在于“高管的决策应 考\n虑民远（ more long term dec i s i o nmaking ）” 。［ DJ 源自第一段③句“英国新规将惩罚银行家的有害冒险行\n为”，但文章随后范围已经扩大， tlt 驳的并非仅仅是“银行家的冒险行为”，而是“所有公司的短期主义” 。\n     ［技巧总结］本题以文章标题形式考查考生对全篇的把握，除“锁定答案”中所用梳理文章脉络这一\n基本解题思路外，还可以借助如下技巧：一、寻找文章主旨旬或与主旨密切相关的旬子；借助关键词复现\n抓取文章重心；借词汇褒贬明确作者态度： 1. 通过多条线索可判断第 一 段末句与文 掌主旨紧密 相 关（见\n第一段深层 f侨民） ; 2 . 文 中 corporations/ compa nies/ p ubli cly traded compa ni es 多次同义复现， S h ort­\ntermism/ fin ancia l impatience/ quarterl y capitali sm/ sho rt term thinking/ long-t erm dec isionmaki ng/ long-\ntermism 多次同义 ／ 反义复现，体现文章关注点“企业的短期主义 ／ 长期主义”； wor se n, hi n d e r 、 at the\nexpense of 等蕴含强烈贬义色彩 ，传递作者对 “短期主义”的 批判、对 “长期决策”的倡导 。 二、从选项入\n手，拆分选项信息、多角度判断正误。如 本题选项均可拆分为“ 中心词 ／关 注点 ＋ 描述 ／ 限定信息” C [ A ]\nF ailure of + Quarterly Capitalism; [ B] Patience + as a Co rporate Virtue ; [CJ Decisiveness + R equired of\nTop Executi ves; [ DJ Frustration + of Ri s k taking Ba nker s ）分别进行判断 ， 可发现： ［ A] Fai l ure of 违背文\n意， ［ CJ Dec i s i v en ess 偏离文 章关注 点 ； ［ DJ Ri s k-ta king Bankers 缩窄文 章 针对群体；而 ［ BJ 则既体现 文章\n关注点，又符合作者观点，故正 确 。\n                                                                                                            回辈革~田\n                               /"
         }
       ],
-      "translation": ""
+      "translation": "",
+      "vocab": {
+        "words": [
+          {
+            "word": "financial",
+            "form": "Financial",
+            "phonetic": "/faɪˈnænʃl/",
+            "meaning": "金融的；财务的"
+          },
+          {
+            "word": "impose",
+            "form": "imposed",
+            "phonetic": "/ɪmˈpəʊz/",
+            "meaning": "强加；征税"
+          },
+          {
+            "word": "bank",
+            "form": "banks",
+            "phonetic": "/bseqk/",
+            "meaning": "岸；堤；银行；库；存人银行"
+          },
+          {
+            "word": "being",
+            "form": "be",
+            "phonetic": "",
+            "meaning": "n. 生物；存在， 生存"
+          },
+          {
+            "word": "delay",
+            "form": "delayed",
+            "phonetic": "/anlei/",
+            "meaning": "耿搁"
+          },
+          {
+            "word": "forest",
+            "form": "for",
+            "phonetic": "/ˈfɒrɪst/",
+            "meaning": "森林"
+          },
+          {
+            "word": "to",
+            "form": "to",
+            "phonetic": "",
+            "meaning": "科学家"
+          },
+          {
+            "word": "holder",
+            "form": "hold",
+            "phonetic": "",
+            "meaning": "持有者"
+          },
+          {
+            "word": "harm",
+            "form": "harmful",
+            "phonetic": "",
+            "meaning": "伤害"
+          },
+          {
+            "word": "risk",
+            "form": "risk",
+            "phonetic": "/rsk/",
+            "meaning": "冒"
+          },
+          {
+            "word": "trust",
+            "form": "trust",
+            "phonetic": "/trAst/",
+            "meaning": "信任"
+          },
+          {
+            "word": "institution",
+            "form": "institutions",
+            "phonetic": "/ˌɪnstɪˈtjuːʃn/",
+            "meaning": "机构；制度；习俗"
+          }
+        ],
+        "phrases": [
+          {
+            "phrase": "rather than",
+            "def": ""
+          },
+          {
+            "phrase": "on behalf of",
+            "def": ""
+          },
+          {
+            "phrase": "used to",
+            "def": ""
+          },
+          {
+            "phrase": "but for",
+            "def": ""
+          },
+          {
+            "phrase": "at the expense of",
+            "def": ""
+          }
+        ]
+      }
     },
     "Text2": {
       "passage": {
@@ -10455,7 +22034,105 @@ const ENGLISH_DATA = {
           "explanation": ""
         }
       ],
-      "translation": ""
+      "translation": "",
+      "vocab": {
+        "words": [
+          {
+            "word": "inflation",
+            "form": "inflation",
+            "phonetic": "",
+            "meaning": "n. 膨胀；通货膨胀；夸张；自命不凡 / n. 通货膨胀"
+          },
+          {
+            "word": "increase",
+            "form": "increase",
+            "phonetic": "/ɪnˈkriːs/",
+            "meaning": "增加；增长"
+          },
+          {
+            "word": "average",
+            "form": "average",
+            "phonetic": "/「aevarId3/",
+            "meaning": "平均数；三个数的平均数是；一般水平"
+          },
+          {
+            "word": "past",
+            "form": "past",
+            "phonetic": "",
+            "meaning": "n. 过去；往事 adj. 过去的；结束的 prep. 越过；晚于 adv. 过；经过"
+          },
+          {
+            "word": "decade",
+            "form": "decades",
+            "phonetic": "",
+            "meaning": "n. 十年，十年期；十 / n. 十年"
+          },
+          {
+            "word": "consider",
+            "form": "considered",
+            "phonetic": "",
+            "meaning": "v. 考虑，细想；认为；体谅，顾及 / v. 考虑；认为；考虑到；细想"
+          },
+          {
+            "word": "highly",
+            "form": "higher",
+            "phonetic": "/ˈhaɪli/",
+            "meaning": "非常；高度地"
+          },
+          {
+            "word": "education",
+            "form": "education",
+            "phonetic": "",
+            "meaning": "n. 教育,培养"
+          },
+          {
+            "word": "student",
+            "form": "students",
+            "phonetic": "",
+            "meaning": "n. 学生；学者"
+          },
+          {
+            "word": "treat",
+            "form": "treated",
+            "phonetic": "",
+            "meaning": "对待；款待"
+          },
+          {
+            "word": "likely",
+            "form": "like",
+            "phonetic": "/larkli/",
+            "meaning": "很可能的"
+          },
+          {
+            "word": "customer",
+            "form": "customers",
+            "phonetic": "/ˈkʌstəmə(r)/",
+            "meaning": "顾客；客户"
+          }
+        ],
+        "phrases": [
+          {
+            "phrase": "lead to",
+            "def": ""
+          },
+          {
+            "phrase": "adapt to",
+            "def": ""
+          },
+          {
+            "phrase": "tend to",
+            "def": ""
+          },
+          {
+            "phrase": "seem to",
+            "def": ""
+          },
+          {
+            "phrase": "appear to",
+            "def": ""
+          }
+        ]
+      }
     },
     "Text3": {
       "passage": {
@@ -10529,7 +22206,89 @@ const ENGLISH_DATA = {
           "explanation": ""
         }
       ],
-      "translation": ""
+      "translation": "",
+      "vocab": {
+        "words": [
+          {
+            "word": "exact",
+            "form": "exactly",
+            "phonetic": "",
+            "meaning": "adj. 准确的，精密的；精确的 v. 要求；强求；急需"
+          },
+          {
+            "word": "century",
+            "form": "centuries",
+            "phonetic": "/ˈsentʃəri/",
+            "meaning": "世纪；百年"
+          },
+          {
+            "word": "modern",
+            "form": "Modern",
+            "phonetic": "/ˈmɒdn/",
+            "meaning": "现代的；时髦的"
+          },
+          {
+            "word": "evening",
+            "form": "Even",
+            "phonetic": "",
+            "meaning": "n. 晚上；傍晚；（联欢性的）晚会；后期 adj. 在晚上的；为晚上的；晚上用的 int. 晚上好（等于good evening）"
+          },
+          {
+            "word": "invention",
+            "form": "invention",
+            "phonetic": "",
+            "meaning": "n. 发明,创造,发明物 / n. 发明；发明物；虚构；发明才能"
+          },
+          {
+            "word": "electric",
+            "form": "electric",
+            "phonetic": "",
+            "meaning": "adj. 电的；电动的；发电的；导电的；令人震惊的 n. 电；电气车辆；带电体"
+          },
+          {
+            "word": "light",
+            "form": "light",
+            "phonetic": "/lalt/",
+            "meaning": "光"
+          },
+          {
+            "word": "bulb",
+            "form": "bulb",
+            "phonetic": "/bʌlb/",
+            "meaning": "灯泡；球茎"
+          },
+          {
+            "word": "author",
+            "form": "author",
+            "phonetic": "",
+            "meaning": "作者"
+          },
+          {
+            "word": "remarkable",
+            "form": "remarkable",
+            "phonetic": "/rɪˈmɑːkəbl/",
+            "meaning": "非凡的；显著的"
+          },
+          {
+            "word": "fiction",
+            "form": "fiction",
+            "phonetic": "/Ffkln/",
+            "meaning": "虚构"
+          },
+          {
+            "word": "ethic",
+            "form": "ethical",
+            "phonetic": "",
+            "meaning": "道德体系"
+          }
+        ],
+        "phrases": [
+          {
+            "phrase": "as long as",
+            "def": ""
+          }
+        ]
+      }
     },
     "Text4": {
       "passage": {
@@ -10603,14 +22362,182 @@ const ENGLISH_DATA = {
           "explanation": ""
         }
       ],
-      "translation": ""
+      "translation": "",
+      "vocab": {
+        "words": [
+          {
+            "word": "state",
+            "form": "States",
+            "phonetic": "",
+            "meaning": "n. 状态， 情况；国， 州 vt. 陈述， 说明；规定"
+          },
+          {
+            "word": "being",
+            "form": "be",
+            "phonetic": "",
+            "meaning": "n. 生物；存在， 生存"
+          },
+          {
+            "word": "to",
+            "form": "to",
+            "phonetic": "",
+            "meaning": "科学家"
+          },
+          {
+            "word": "force",
+            "form": "force",
+            "phonetic": "",
+            "meaning": "力量；势力"
+          },
+          {
+            "word": "tax",
+            "form": "tax",
+            "phonetic": "",
+            "meaning": "税"
+          },
+          {
+            "word": "supreme",
+            "form": "Supreme",
+            "phonetic": "/suzprimisjur-/",
+            "meaning": "最高的；极度的"
+          },
+          {
+            "word": "court",
+            "form": "Court",
+            "phonetic": "/hkoxt/",
+            "meaning": "法院"
+          },
+          {
+            "word": "thursday",
+            "form": "Thursday",
+            "phonetic": "",
+            "meaning": "n. 星期四"
+          },
+          {
+            "word": "light",
+            "form": "lighter",
+            "phonetic": "/lalt/",
+            "meaning": "光"
+          },
+          {
+            "word": "wallet",
+            "form": "wallets",
+            "phonetic": "/「woht/",
+            "meaning": "皮夹；钱包"
+          },
+          {
+            "word": "financial",
+            "form": "financial",
+            "phonetic": "/faɪˈnænʃl/",
+            "meaning": "金融的；财务的"
+          },
+          {
+            "word": "forest",
+            "form": "for",
+            "phonetic": "/ˈfɒrɪst/",
+            "meaning": "森林"
+          }
+        ],
+        "phrases": [
+          {
+            "phrase": "be able to",
+            "def": ""
+          }
+        ]
+      }
     },
     "NewType": {
       "passage": {
         "en": "[A] These tools can help you win every argument - not in the unhelpful sense of beating your opponents but in the better sense of learning about the issues that divide people. Leaming why they disagree with us and learning to talk and work together with them. If we readjust our view of arguments - from a verbal fight or tennis game to a reasoned exchange through which we all gain mutual respect, and understanding - then we change the very nature of what it means to ''win\" an argument. [BJ Of course, many discussions are not so successful. Still, we need to be careful not to accuse opponents of bad arguments too quickly. We need to learn how to evaluate them properly. A large part of evaluation is calling out bad arguments, but we also need to admit good arguments by opponents and to apply the same critical standards to ourselves. Humility requires you to recognize weakness in your own arguments and sometimes also to accept reasons on the opposite side. [q None of these will be easy but you can start even if others refuse to. Next time you state your position, formulate an argument for what you claim and honestly ask yourself whether your argument is any good. Next time you talk with someone who takes a stand, ask them to give you a reason for their view. Spell out their argument fully and charitably. Assess its strength impartially. Raise objections and listen carefully to their replies. [D] Carnegie would be right if arguments were fights, which is how we often think of them. Like physical fights, verbal fights can leave both sides bloodied. Even when you win, you end up no better off. Your prospects would be almost as dismal if arguments were even just competitions -like, say, tennis games. Pairs of opponents hit the ball back and forth until one winner emerges from all who entered. Everybody else loses. This kind of thinking is why so many people try to avoid arguments, especially about politics and religion. [EJ In his 1936 work How to Win Friends and Influence People, Dale Carnegie wrote: \"There is only one way ...t o get the best of an argument - and that is to avoid it.\" This aversion to arguments is common, but it depends on a mistaken view of arguments that causes profound problems for our personal and social lives - and in many ways misses the point of arguing in the first place. [_F] These views of arguments also undermine reason. If you see a conversation as a fight or competition, you can win by cheating as long as you don't get caught. You will be happy to convince people with bad arguments. You can call their views stupid, or joke about how ignorant they are. None of these tricks will help you understand them, their positions or the issues that divide you, but they can help you win -in one way. [GJ There is a better way to win arguments. Imagine that you favor increasing the minimum wage in our state, and I do not. If you yell, \"Yes,\" and I yell, \"No,\" neither of us learns anything. We neither understand nor respect each other, and we have no basis for compromise or cooperation. In contrast, suppose you give a reasonable argument: that full-time workers should not have to live in poverty. Then I counter with another reasonable argument: that a higher minimum wage will force businesses to employ fewer people for less time. Now we can understand each other's positions and recognize our shared values, since we both care about needy workers. 1-1 1-CIJ-1 1-1 1-1 1-1 4 1 . 42. 43. 44. C 45 .",
         "zh": ""
       },
-      "questions": []
+      "questions": [],
+      "vocab": {
+        "words": [
+          {
+            "word": "canal",
+            "form": "can",
+            "phonetic": "",
+            "meaning": "n. 运河；[地理] 水道；[建] 管道；灌溉水渠 v. 在…开凿运河 / n. 运河； 渠"
+          },
+          {
+            "word": "helpful",
+            "form": "help",
+            "phonetic": "/rhelpf/",
+            "meaning": "有帮助的"
+          },
+          {
+            "word": "notify",
+            "form": "not",
+            "phonetic": "",
+            "meaning": "v. 通告，通知；公布 / vt. 通知， 告知； 报告"
+          },
+          {
+            "word": "beat",
+            "form": "beating",
+            "phonetic": "",
+            "meaning": "敲打"
+          },
+          {
+            "word": "opponent",
+            "form": "opponents",
+            "phonetic": "",
+            "meaning": "n. 对手；反对者；敌手 adj. 对立的；敌对的 / adj. 对立的， 对抗的 n. 对手， 反对者， 敌手"
+          },
+          {
+            "word": "issue",
+            "form": "issues",
+            "phonetic": "",
+            "meaning": "放出；发行；月"
+          },
+          {
+            "word": "divide",
+            "form": "divide",
+            "phonetic": "/dɪˈvaɪd/",
+            "meaning": "划分；分开；除"
+          },
+          {
+            "word": "to",
+            "form": "to",
+            "phonetic": "",
+            "meaning": "科学家"
+          },
+          {
+            "word": "weed",
+            "form": "we",
+            "phonetic": "",
+            "meaning": "杂草"
+          },
+          {
+            "word": "view",
+            "form": "view",
+            "phonetic": "/wuz/",
+            "meaning": "景象"
+          },
+          {
+            "word": "verb",
+            "form": "verbal",
+            "phonetic": "/vɜːb/",
+            "meaning": "动词"
+          },
+          {
+            "word": "fight",
+            "form": "fight",
+            "phonetic": "",
+            "meaning": "搏斗"
+          }
+        ],
+        "phrases": [
+          {
+            "phrase": "even if",
+            "def": ""
+          },
+          {
+            "phrase": "as long as",
+            "def": ""
+          }
+        ]
+      }
     },
     "Translation": {
       "sentences": [
@@ -10628,7 +22555,11 @@ const ENGLISH_DATA = {
         "",
         "",
         ""
-      ]
+      ],
+      "vocab": {
+        "words": [],
+        "phrases": []
+      }
     }
   },
   "2020": {
@@ -10758,7 +22689,89 @@ const ENGLISH_DATA = {
           "openup",
           "endup"
         ]
-      ]
+      ],
+      "vocab": {
+        "words": [
+          {
+            "word": "evening",
+            "form": "Even",
+            "phonetic": "",
+            "meaning": "n. 晚上；傍晚；（联欢性的）晚会；后期 adj. 在晚上的；为晚上的；晚上用的 int. 晚上好（等于good evening）"
+          },
+          {
+            "word": "sit",
+            "form": "sit",
+            "phonetic": "/sIt/",
+            "meaning": "坐；代人临时看小孩"
+          },
+          {
+            "word": "to",
+            "form": "to",
+            "phonetic": "",
+            "meaning": "科学家"
+          },
+          {
+            "word": "nonetheless",
+            "form": "nonetheless",
+            "phonetic": "",
+            "meaning": "adv. 尽管如此，但是 / conj. /"
+          },
+          {
+            "word": "share",
+            "form": "share",
+            "phonetic": "",
+            "meaning": "一份；你这一份费用是"
+          },
+          {
+            "word": "weekend",
+            "form": "weekend",
+            "phonetic": "",
+            "meaning": "n. 周末，周末休假；周末聚会 adj. 周末的，周末用的 v. 度周末"
+          },
+          {
+            "word": "national",
+            "form": "nation",
+            "phonetic": "",
+            "meaning": "adj. 国家的；国民的；民族的；国立的 n. 国民"
+          },
+          {
+            "word": "great",
+            "form": "great",
+            "phonetic": "/sen「serJanl/",
+            "meaning": "这条消息引起很大的轰动"
+          },
+          {
+            "word": "sunday",
+            "form": "Sunday",
+            "phonetic": "",
+            "meaning": "n. 星期日；礼拜日"
+          },
+          {
+            "word": "roast",
+            "form": "roast",
+            "phonetic": "/rəʊst/",
+            "meaning": "烤；烘烤"
+          },
+          {
+            "word": "canal",
+            "form": "can",
+            "phonetic": "",
+            "meaning": "n. 运河；[地理] 水道；[建] 管道；灌溉水渠 v. 在…开凿运河 / n. 运河； 渠"
+          },
+          {
+            "word": "weed",
+            "form": "we",
+            "phonetic": "",
+            "meaning": "杂草"
+          }
+        ],
+        "phrases": [
+          {
+            "phrase": "even if",
+            "def": ""
+          }
+        ]
+      }
     },
     "Text1": {
       "passage": {
@@ -10832,7 +22845,93 @@ const ENGLISH_DATA = {
           "explanation": ""
         }
       ],
-      "translation": ""
+      "translation": "",
+      "vocab": {
+        "words": [
+          {
+            "word": "bring",
+            "form": "bringing",
+            "phonetic": "/brm/",
+            "meaning": "带来；指"
+          },
+          {
+            "word": "ear",
+            "form": "ear",
+            "phonetic": "",
+            "meaning": "n. 耳朵；穗；听觉；倾听 vi. （美俚）听见；抽穗"
+          },
+          {
+            "word": "call",
+            "form": "call",
+            "phonetic": "",
+            "meaning": "v. 叫，喊；打电话；把…叫作；叫，喊 n. 叫声；号召"
+          },
+          {
+            "word": "to",
+            "form": "to",
+            "phonetic": "",
+            "meaning": "科学家"
+          },
+          {
+            "word": "institute",
+            "form": "institute",
+            "phonetic": "",
+            "meaning": "学会"
+          },
+          {
+            "word": "town",
+            "form": "town",
+            "phonetic": "/taon/",
+            "meaning": "市镇；城镇"
+          },
+          {
+            "word": "sit",
+            "form": "sit",
+            "phonetic": "/sIt/",
+            "meaning": "坐；代人临时看小孩"
+          },
+          {
+            "word": "existence",
+            "form": "existing",
+            "phonetic": "",
+            "meaning": "n. 存在，实在；生存，生活；存在物，实在物 / n. 存在， 实在；生存， 生活"
+          },
+          {
+            "word": "title",
+            "form": "title",
+            "phonetic": "",
+            "meaning": "标题"
+          },
+          {
+            "word": "hasty",
+            "form": "has",
+            "phonetic": "/「hersti/",
+            "meaning": "匆忙的"
+          },
+          {
+            "word": "forest",
+            "form": "for",
+            "phonetic": "/ˈfɒrɪst/",
+            "meaning": "森林"
+          },
+          {
+            "word": "her",
+            "form": "her",
+            "phonetic": "",
+            "meaning": "小女孩因母亲的逝世悲仿得几乎晕倒在坟前"
+          }
+        ],
+        "phrases": [
+          {
+            "phrase": "as well as",
+            "def": ""
+          },
+          {
+            "phrase": "on the verge of",
+            "def": ""
+          }
+        ]
+      }
     },
     "Text2": {
       "passage": {
@@ -10906,7 +23005,97 @@ const ENGLISH_DATA = {
           "explanation": ""
         }
       ],
-      "translation": ""
+      "translation": "",
+      "vocab": {
+        "words": [
+          {
+            "word": "scientific",
+            "form": "Scientific",
+            "phonetic": "",
+            "meaning": "adj. 科学的，系统的"
+          },
+          {
+            "word": "publish",
+            "form": "publishing",
+            "phonetic": "/r「pAbl/",
+            "meaning": "公布"
+          },
+          {
+            "word": "hasty",
+            "form": "has",
+            "phonetic": "/「hersti/",
+            "meaning": "匆忙的"
+          },
+          {
+            "word": "to",
+            "form": "to",
+            "phonetic": "",
+            "meaning": "科学家"
+          },
+          {
+            "word": "print",
+            "form": "print",
+            "phonetic": "/prɪnt/",
+            "meaning": "印刷；打印"
+          },
+          {
+            "word": "scientist",
+            "form": "Scientists",
+            "phonetic": "",
+            "meaning": "n. 科学家"
+          },
+          {
+            "word": "journal",
+            "form": "journals",
+            "phonetic": "",
+            "meaning": "n. 日报，杂志；日记；分类账 / n. 定期刊物， 杂志， 日报；日志， 日记"
+          },
+          {
+            "word": "monetary",
+            "form": "monetary",
+            "phonetic": "",
+            "meaning": "adj. 金融的,货币的 / adj. 货币的；财政的 / adj. 金融的， 货币的"
+          },
+          {
+            "word": "reward",
+            "form": "reward",
+            "phonetic": "/rUword/",
+            "meaning": "报酬"
+          },
+          {
+            "word": "perform",
+            "form": "perform",
+            "phonetic": "/pəˈfɔːm/",
+            "meaning": "执行；表演"
+          },
+          {
+            "word": "specialise",
+            "form": "specialised",
+            "phonetic": "",
+            "meaning": "vi. 专攻； 专用于； 专业化"
+          },
+          {
+            "word": "review",
+            "form": "review",
+            "phonetic": "",
+            "meaning": "v. 回顾,复习 n. 评论 / n. 回顾；复习；评论；检讨；检阅 v. 回顾；检查；复审"
+          }
+        ],
+        "phrases": [
+          {
+            "phrase": "seem to",
+            "def": ""
+          },
+          {
+            "phrase": "so that",
+            "def": ""
+          },
+          {
+            "phrase": "in exchange for",
+            "def": ""
+          }
+        ]
+      }
     },
     "Text3": {
       "passage": {
@@ -10980,7 +23169,97 @@ const ENGLISH_DATA = {
           "explanation": ""
         }
       ],
-      "translation": ""
+      "translation": "",
+      "vocab": {
+        "words": [
+          {
+            "word": "support",
+            "form": "support",
+            "phonetic": "",
+            "meaning": "支撑；供养"
+          },
+          {
+            "word": "path",
+            "form": "path",
+            "phonetic": "",
+            "meaning": "n. 道路；小路；轨道"
+          },
+          {
+            "word": "to",
+            "form": "to",
+            "phonetic": "",
+            "meaning": "科学家"
+          },
+          {
+            "word": "level",
+            "form": "level",
+            "phonetic": "",
+            "meaning": "数量"
+          },
+          {
+            "word": "form",
+            "form": "form",
+            "phonetic": "/fom/",
+            "meaning": "形状"
+          },
+          {
+            "word": "signal",
+            "form": "signaling",
+            "phonetic": "",
+            "meaning": "n. 信号,暗号 v. 发信号,用信号通知 / v. 发信号， 用信号通知 n. 信号， 暗号"
+          },
+          {
+            "word": "benefit",
+            "form": "benefits",
+            "phonetic": "/ˈbenɪfɪt/",
+            "meaning": "益处；受益"
+          },
+          {
+            "word": "mostly",
+            "form": "most",
+            "phonetic": "",
+            "meaning": "adv. 主要地， 大部分， 通常"
+          },
+          {
+            "word": "helpful",
+            "form": "help",
+            "phonetic": "/rhelpf/",
+            "meaning": "有帮助的"
+          },
+          {
+            "word": "average",
+            "form": "average",
+            "phonetic": "/「aevarId3/",
+            "meaning": "平均数；三个数的平均数是；一般水平"
+          },
+          {
+            "word": "sponsor",
+            "form": "sponsored",
+            "phonetic": "",
+            "meaning": "n. 赞助者；主办者；保证人 v. 赞助；发起 / n. 发起人； 主办者； 保证人 vt. 发起， 主办"
+          },
+          {
+            "word": "state",
+            "form": "state",
+            "phonetic": "",
+            "meaning": "n. 状态， 情况；国， 州 vt. 陈述， 说明；规定"
+          }
+        ],
+        "phrases": [
+          {
+            "phrase": "lead to",
+            "def": ""
+          },
+          {
+            "phrase": "be required to",
+            "def": ""
+          },
+          {
+            "phrase": "on the basis of",
+            "def": ""
+          }
+        ]
+      }
     },
     "Text4": {
       "passage": {
@@ -11054,14 +23333,194 @@ const ENGLISH_DATA = {
           "explanation": ""
         }
       ],
-      "translation": ""
+      "translation": "",
+      "vocab": {
+        "words": [
+          {
+            "word": "senate",
+            "form": "Senate",
+            "phonetic": "",
+            "meaning": "n. 参议院,上院 / n. 参议院，上院；（古罗马的）元老院 / n. 参议院， 上院"
+          },
+          {
+            "word": "passion",
+            "form": "passed",
+            "phonetic": "",
+            "meaning": "n. 激情；热情；酷爱；盛怒 / n. 热情， 激情； 酷爱；激怒， 大怒"
+          },
+          {
+            "word": "service",
+            "form": "services",
+            "phonetic": "",
+            "meaning": "服务；维修"
+          },
+          {
+            "word": "tax",
+            "form": "tax",
+            "phonetic": "",
+            "meaning": "税"
+          },
+          {
+            "word": "impose",
+            "form": "impose",
+            "phonetic": "/ɪmˈpəʊz/",
+            "meaning": "强加；征税"
+          },
+          {
+            "word": "to",
+            "form": "to",
+            "phonetic": "",
+            "meaning": "科学家"
+          },
+          {
+            "word": "forest",
+            "form": "for",
+            "phonetic": "/ˈfɒrɪst/",
+            "meaning": "森林"
+          },
+          {
+            "word": "base",
+            "form": "based",
+            "phonetic": "/bers/",
+            "meaning": "基础"
+          },
+          {
+            "word": "data",
+            "form": "data",
+            "phonetic": "/ˈdeɪtə/",
+            "meaning": "数据；资料"
+          },
+          {
+            "word": "apply",
+            "form": "applies",
+            "phonetic": "/arplar/",
+            "meaning": "涂"
+          },
+          {
+            "word": "revenue",
+            "form": "revenue",
+            "phonetic": "/ˈrevənjuː/",
+            "meaning": "收入；税收"
+          },
+          {
+            "word": "man",
+            "form": "Man",
+            "phonetic": "/mæn/",
+            "meaning": "男人；人类"
+          }
+        ],
+        "phrases": [
+          {
+            "phrase": "lead to",
+            "def": ""
+          },
+          {
+            "phrase": "in response to",
+            "def": ""
+          },
+          {
+            "phrase": "differ in",
+            "def": ""
+          },
+          {
+            "phrase": "even if",
+            "def": ""
+          },
+          {
+            "phrase": "in need of",
+            "def": ""
+          }
+        ]
+      }
     },
     "NewType": {
       "passage": {
         "en": "y [A] E e fixations are brief y [B] Too much e e contact is instinctivel felt to be rude y y [C] E e contact can be a friendl social signal y y [D] Personalit can affect how a person reacts to e e contact y y [E] Biological factors behind e e contact are being investigated y [F] Most people are not comfortable holding e e contact with strangers y [G] E e contact can also be aggressive. y In a social situation, e e contact with another person can show that ou are y y pa ing attention in a friendl wa . But it can also be antagonistic such as when a y y y political candidate turns toward their competitor during a debate and makes e e y contact that signals hostilit .Here's what hard science reveals about e e contact: y y 巳 We know that a typical infant will instinctivel gaze into its mother's e es, and y y she will look back. This mutual gaze is a major part of the attachment between mother and child. In adulthood, looking someone else in a pleasant wa can be a y complimentary sign of pa ing attention. It can catch someone's attention in a y crowded room, \"E e contact and smile\" can signal availability and confidence, a y common-sense notion supported in studies b ps chologist Monica Moore. y y 尸 Neuroscientist Bonnie Au eung found that the hormone oxytocin increased the y amount of e e contact from men toward the interviewer during a brief interview when y the direction of their gaze was recorded. This was also found in high-functioning men with some autistic spectrum symptoms, who ma tend to avoid e e contact. Specific y y brain re ions that respond durin direct aze are bein explored b other researches, g g g g y usin advanced methods of brain scannin . g g 巳 With the use of e e-trackin technology, Julia Minson of the Harvard Kenned y g y School of Government concluded that e e contact can signal very different kinds of y messa es, dependin on the situation. While e e contact may be a sign of connection g g y or trust in friendl situations, it's more likel to be associated with dominance or y y intimidation in adversarial situations. \"Whether ou're a politician or a parent, it y mi ht be helpful to keep in mind that tryin to maintain e e contact ma backfire if g g y y ou're tryin to convince someone who has a different set of beliefs than ou,\"said y g y Minson. 巳 When we look at a face or a picture, our e es pause on one spot at a time, often y on the e es or mouth. These pauses typicall occur at about three per second, and the y y e es then jump to another spot, until several important points in the ima e are y g re istered like a series of snapshots. How the whole ima e is then assembled and g g perceived is still a m stery althou h it is the subject of current research. y g 巳 In people who score hi h in a test of neuroticism, a personality dimension g associated with self-consciousness and anxiety, e e contact tri ered more activity y gg associated with avoidance,accordin to the Finnish researcher Jari Hietanen and g colleagues \"Our findin s indicate that people do not onl feel different when the are g y y the centre of attention but that their brain reactions also differ.\" A more direct findin g is that people who scored hi hl for ne ative emotions like anxiet looked at others g y g y for shorter periods of time and reported more comfortable feelin s when others did g not look directl at them. y",
         "zh": ""
       },
-      "questions": []
+      "questions": [],
+      "vocab": {
+        "words": [
+          {
+            "word": "brief",
+            "form": "brief",
+            "phonetic": "/brit/",
+            "meaning": "短时间的"
+          },
+          {
+            "word": "contact",
+            "form": "contact",
+            "phonetic": "/“borkot/",
+            "meaning": "接触"
+          },
+          {
+            "word": "to",
+            "form": "to",
+            "phonetic": "",
+            "meaning": "科学家"
+          },
+          {
+            "word": "being",
+            "form": "be",
+            "phonetic": "",
+            "meaning": "n. 生物；存在， 生存"
+          },
+          {
+            "word": "canal",
+            "form": "can",
+            "phonetic": "",
+            "meaning": "n. 运河；[地理] 水道；[建] 管道；灌溉水渠 v. 在…开凿运河 / n. 运河； 渠"
+          },
+          {
+            "word": "social",
+            "form": "social",
+            "phonetic": "/ˈsəʊʃl/",
+            "meaning": "社会的；社交的"
+          },
+          {
+            "word": "signal",
+            "form": "signal",
+            "phonetic": "",
+            "meaning": "n. 信号,暗号 v. 发信号,用信号通知 / v. 发信号， 用信号通知 n. 信号， 暗号"
+          },
+          {
+            "word": "affect",
+            "form": "affect",
+            "phonetic": "/a「fektm/",
+            "meaning": "影陌；强调间接"
+          },
+          {
+            "word": "factor",
+            "form": "factors",
+            "phonetic": "/ˈfæktə(r)/",
+            "meaning": "因素；因子"
+          },
+          {
+            "word": "investigate",
+            "form": "investigated",
+            "phonetic": "",
+            "meaning": "v. 调查；研究 / vt. 调查， 调查研究"
+          },
+          {
+            "word": "mostly",
+            "form": "Most",
+            "phonetic": "",
+            "meaning": "adv. 主要地， 大部分， 通常"
+          },
+          {
+            "word": "notify",
+            "form": "not",
+            "phonetic": "",
+            "meaning": "v. 通告，通知；公布 / vt. 通知， 告知； 报告"
+          }
+        ],
+        "phrases": [
+          {
+            "phrase": "tend to",
+            "def": ""
+          }
+        ]
+      }
     }
   },
   "2021": {},
@@ -11192,7 +23651,84 @@ const ENGLISH_DATA = {
           "practical",
           "easy"
         ]
-      ]
+      ],
+      "vocab": {
+        "words": [
+          {
+            "word": "plant",
+            "form": "plants",
+            "phonetic": "/plamnt/",
+            "meaning": "n. 工厂，车间；植物；设备；庄稼 v. 种植；培养；栽培；安置"
+          },
+          {
+            "word": "conscious",
+            "form": "consciousness",
+            "phonetic": "",
+            "meaning": "adj. 意识到的；故意的；神志清醒的 / adj. 意识到的， 自觉的； 有意识的"
+          },
+          {
+            "word": "root",
+            "form": "root",
+            "phonetic": "",
+            "meaning": "根"
+          },
+          {
+            "word": "ear",
+            "form": "early",
+            "phonetic": "",
+            "meaning": "n. 耳朵；穗；听觉；倾听 vi. （美俚）听见；抽穗"
+          },
+          {
+            "word": "term",
+            "form": "term",
+            "phonetic": "",
+            "meaning": "学期；条件；关系"
+          },
+          {
+            "word": "notion",
+            "form": "notion",
+            "phonetic": "",
+            "meaning": "n. 概念；见解；打算 / n. 概念， 意念；看法， 想法， 观点"
+          },
+          {
+            "word": "being",
+            "form": "be",
+            "phonetic": "",
+            "meaning": "n. 生物；存在， 生存"
+          },
+          {
+            "word": "to",
+            "form": "to",
+            "phonetic": "",
+            "meaning": "科学家"
+          },
+          {
+            "word": "intelligence",
+            "form": "intelligence",
+            "phonetic": "",
+            "meaning": "n. 智力,聪明;理解力；情报,消息,报导 / n. 智力， 才智； 灵性， 悟性；情报， 消息； 报道"
+          },
+          {
+            "word": "lack",
+            "form": "lack",
+            "phonetic": "/lsek/",
+            "meaning": "缺乏"
+          },
+          {
+            "word": "brain",
+            "form": "brains",
+            "phonetic": "/breɪn/",
+            "meaning": "大脑；智力"
+          },
+          {
+            "word": "electrical",
+            "form": "electrical",
+            "phonetic": "/ɪˈlektrɪkl/",
+            "meaning": "电的；电气科学的"
+          }
+        ],
+        "phrases": []
+      }
     },
     "Text1": {
       "passage": {
@@ -11266,7 +23802,89 @@ const ENGLISH_DATA = {
           "explanation": ""
         }
       ],
-      "translation": ""
+      "translation": "",
+      "vocab": {
+        "words": [
+          {
+            "word": "complain",
+            "form": "complain",
+            "phonetic": "",
+            "meaning": "v. 投诉；发牢骚；诉说 / v. 抱怨； 申诉"
+          },
+          {
+            "word": "durable",
+            "form": "durable",
+            "phonetic": "/「diuarabl/",
+            "meaning": "耐用的；持久的"
+          },
+          {
+            "word": "bottle",
+            "form": "bottles",
+            "phonetic": "",
+            "meaning": "n. 瓶子；一瓶的容量 v. 控制；把…装入瓶中"
+          },
+          {
+            "word": "shop",
+            "form": "shopping",
+            "phonetic": "",
+            "meaning": "n. 商店；店铺 v. 购物"
+          },
+          {
+            "word": "bag",
+            "form": "bags",
+            "phonetic": "/bsg/",
+            "meaning": "袋；包"
+          },
+          {
+            "word": "trash",
+            "form": "trash",
+            "phonetic": "/træʃ/",
+            "meaning": "垃圾；废物"
+          },
+          {
+            "word": "litter",
+            "form": "litter",
+            "phonetic": "",
+            "meaning": "乱七八糟的东西"
+          },
+          {
+            "word": "mount",
+            "form": "Mount",
+            "phonetic": "",
+            "meaning": "v. 增加；爬上；使骑上马；安装，架置；镶嵌，嵌入；准备上演；成立（军队等） n. 山峰；底座；乘骑用马；攀，登；运载工具；底座 / v. 登上， 爬上 <；安装， 装配； 固定； 镶嵌 n. 支架， 底座， 底板；山峰"
+          },
+          {
+            "word": "to",
+            "form": "to",
+            "phonetic": "",
+            "meaning": "科学家"
+          },
+          {
+            "word": "trench",
+            "form": "Trench",
+            "phonetic": "",
+            "meaning": "壕沟"
+          },
+          {
+            "word": "material",
+            "form": "materials",
+            "phonetic": "",
+            "meaning": "材料"
+          },
+          {
+            "word": "time",
+            "form": "time",
+            "phonetic": "/taɪm/",
+            "meaning": "时间；时代；次数"
+          }
+        ],
+        "phrases": [
+          {
+            "phrase": "as well as",
+            "def": ""
+          }
+        ]
+      }
     },
     "Text2": {
       "passage": {
@@ -11340,7 +23958,101 @@ const ENGLISH_DATA = {
           "explanation": ""
         }
       ],
-      "translation": ""
+      "translation": "",
+      "vocab": {
+        "words": [
+          {
+            "word": "crop",
+            "form": "crop",
+            "phonetic": "",
+            "meaning": "作物"
+          },
+          {
+            "word": "student",
+            "form": "students",
+            "phonetic": "",
+            "meaning": "n. 学生；学者"
+          },
+          {
+            "word": "pen",
+            "form": "pen",
+            "phonetic": "",
+            "meaning": "n. 钢笔；作家；围栏 v. 写；关入栏中"
+          },
+          {
+            "word": "form",
+            "form": "form",
+            "phonetic": "/fom/",
+            "meaning": "形状"
+          },
+          {
+            "word": "option",
+            "form": "options",
+            "phonetic": "",
+            "meaning": "n. [计] 选项；选择权；买卖的特权 / n. 选择， 选择权；选择的事物；选课"
+          },
+          {
+            "word": "being",
+            "form": "be",
+            "phonetic": "",
+            "meaning": "n. 生物；存在， 生存"
+          },
+          {
+            "word": "consider",
+            "form": "considering",
+            "phonetic": "",
+            "meaning": "v. 考虑，细想；认为；体谅，顾及 / v. 考虑；认为；考虑到；细想"
+          },
+          {
+            "word": "justify",
+            "form": "just",
+            "phonetic": "",
+            "meaning": "v. 证明合法；整理版面 / vt. 证明…是正当的， 认为有理"
+          },
+          {
+            "word": "hasty",
+            "form": "has",
+            "phonetic": "/「hersti/",
+            "meaning": "匆忙的"
+          },
+          {
+            "word": "to",
+            "form": "to",
+            "phonetic": "",
+            "meaning": "科学家"
+          },
+          {
+            "word": "stage",
+            "form": "stage",
+            "phonetic": "",
+            "meaning": "n. 阶段；舞台；戏剧；驿站 v. 举行；上演；筹划"
+          },
+          {
+            "word": "education",
+            "form": "educational",
+            "phonetic": "",
+            "meaning": "n. 教育,培养"
+          }
+        ],
+        "phrases": [
+          {
+            "phrase": "due to",
+            "def": ""
+          },
+          {
+            "phrase": "tend to",
+            "def": ""
+          },
+          {
+            "phrase": "as if",
+            "def": ""
+          },
+          {
+            "phrase": "even if",
+            "def": ""
+          }
+        ]
+      }
     },
     "Text3": {
       "passage": {
@@ -11414,7 +24126,101 @@ const ENGLISH_DATA = {
           "explanation": ""
         }
       ],
-      "translation": ""
+      "translation": "",
+      "vocab": {
+        "words": [
+          {
+            "word": "enlighten",
+            "form": "Enlightening",
+            "phonetic": "/ɪnˈlaɪtn/",
+            "meaning": "启发；启迪"
+          },
+          {
+            "word": "stimulate",
+            "form": "stimulating",
+            "phonetic": "/ˈstɪmjuleɪt/",
+            "meaning": "刺激；激励"
+          },
+          {
+            "word": "fun",
+            "form": "fun",
+            "phonetic": "/fAn/",
+            "meaning": "玩笑；娱乐；有趣的人；或事物"
+          },
+          {
+            "word": "native",
+            "form": "Nature",
+            "phonetic": "",
+            "meaning": "本地的"
+          },
+          {
+            "word": "reader",
+            "form": "readers",
+            "phonetic": "/ˈriːdə(r)/",
+            "meaning": "读者；读本"
+          },
+          {
+            "word": "to",
+            "form": "to",
+            "phonetic": "",
+            "meaning": "科学家"
+          },
+          {
+            "word": "describe",
+            "form": "describe",
+            "phonetic": "/dɪˈskraɪb/",
+            "meaning": "描述；描绘"
+          },
+          {
+            "word": "experience",
+            "form": "experience",
+            "phonetic": "/ɪkˈspɪəriəns/",
+            "meaning": "经验；经历"
+          },
+          {
+            "word": "artist",
+            "form": "art",
+            "phonetic": "/ˈɑːtɪst/",
+            "meaning": "艺术家；画家"
+          },
+          {
+            "word": "science",
+            "form": "science",
+            "phonetic": "/ˈsaɪəns/",
+            "meaning": "科学；理科"
+          },
+          {
+            "word": "respond",
+            "form": "responded",
+            "phonetic": "",
+            "meaning": "v. 回答；作出反应；承担责任 n. 应答；唱和 / vi. 回答， 答复；响应"
+          },
+          {
+            "word": "collaborate",
+            "form": "collaborated",
+            "phonetic": "/kəˈlæbəreɪt/",
+            "meaning": "合作；协作"
+          }
+        ],
+        "phrases": [
+          {
+            "phrase": "result in",
+            "def": ""
+          },
+          {
+            "phrase": "as well as",
+            "def": ""
+          },
+          {
+            "phrase": "seem to",
+            "def": ""
+          },
+          {
+            "phrase": "used to",
+            "def": ""
+          }
+        ]
+      }
     },
     "Text4": {
       "passage": {
@@ -11488,14 +24294,173 @@ const ENGLISH_DATA = {
           "explanation": ""
         }
       ],
-      "translation": ""
+      "translation": "",
+      "vocab": {
+        "words": [
+          {
+            "word": "employer",
+            "form": "Employment",
+            "phonetic": "/Im「plola(r)/",
+            "meaning": "雄主"
+          },
+          {
+            "word": "relation",
+            "form": "Relations",
+            "phonetic": "",
+            "meaning": "n. 关系；叙述；故事；亲属关系"
+          },
+          {
+            "word": "act",
+            "form": "Act",
+            "phonetic": "/ækt/",
+            "meaning": "行动；表演；法案"
+          },
+          {
+            "word": "goodness",
+            "form": "good",
+            "phonetic": "/ˈɡʊdnəs/",
+            "meaning": "善良；美德"
+          },
+          {
+            "word": "being",
+            "form": "be",
+            "phonetic": "",
+            "meaning": "n. 生物；存在， 生存"
+          },
+          {
+            "word": "justify",
+            "form": "justified",
+            "phonetic": "",
+            "meaning": "v. 证明合法；整理版面 / vt. 证明…是正当的， 认为有理"
+          },
+          {
+            "word": "bother",
+            "form": "both",
+            "phonetic": "/「bo6a(r)/",
+            "meaning": "打扰"
+          },
+          {
+            "word": "shower",
+            "form": "show",
+            "phonetic": "/ˈʃaʊə(r)/",
+            "meaning": "淋浴；阵雨"
+          },
+          {
+            "word": "fair",
+            "form": "fair",
+            "phonetic": "/feə(r)/",
+            "meaning": "公平的；集市；博览会"
+          },
+          {
+            "word": "design",
+            "form": "designed",
+            "phonetic": "",
+            "meaning": "v. 设计;构思;绘制 n. 设计；图样 / v. 设计；计划；构思 n. 设计；图案"
+          },
+          {
+            "word": "to",
+            "form": "to",
+            "phonetic": "",
+            "meaning": "科学家"
+          },
+          {
+            "word": "ordinary",
+            "form": "ordinary",
+            "phonetic": "",
+            "meaning": "adj. 普通的,平凡的,平常的；平庸的 / adj. 普通的；平凡的；平常的 n. 普通；平常的人（或事）"
+          }
+        ],
+        "phrases": [
+          {
+            "phrase": "suffer from",
+            "def": ""
+          }
+        ]
+      }
     },
     "NewType": {
       "passage": {
         "en": "The Man Who Broke Napoleon’s Codes - Mark Urban Between 1807 and 1814 the Iberian Peninsula (comprising Spain and Portugal) was the scene of a titanic and merciless struggle. It took place on many different planes: between Napoleon’s French army and the angry inhabitants; between the British, ever keen to exacerbate the emperor’s difficulties, and the marshals sent from Paris to try to keep them in check; between new forces of science and meritocracy and old ones of conservatism and birth. (46) It was also, and this is unknown even to many people well read about the period, a battle between those who made codes and those who broke them. I first discovered the Napoleonic cryptographic battle a few years ago when I was reading Sir Charles Oman’s epic History of the Peninsular War. In volume V he had attached an appendix, \" The Scovell Ciphers \". (47) It listed many documents in code that had been captured from the French army of Spain, and whose secrets had been revealed by the work of one George Scovell, an officer in British headquarters. Oman rated Scovell’s significance highly, but at the same time, the general nature of his History meant that (48) he could not analyze carefully what this obscure officer may or may not have contributed to that great struggle between nations or indeed tell us anything much about the man himself. I was keen to read more, but was surprised to find that Oman’s appendix, published in 1914, was the only considered thing that had been written about this secret war. I became convinced that this story was every bit as exciting and significant as that of Enigma and the breaking of German codes in the Second World War. The question was, could it be told? Studying Scovell’s papers at the Public Record Office, London, I found that he had left an extensive journal and copious notes about his work in the Peninsula. What was more, many original French dispatches had been preserved in this collection, which I realized was priceless. (49)There may have been many spies and intelligence officers during the Napoleonic Wars, but it is usually extremely difficult to find the material they actually provided or worked on. As I researched Scovell’s story I found far more of piterest besides of his intelligence work. His status in Lord Wellington’s headquarters and the recognition given to him for his work were all bound up with the class politics of the army at the time. His tale of self-improvement and hard work would make a fascinating biography in its own right, but represents something more than that. (50)Just as the code breaking has its wider relevance in the struggle for Spain, so his attempts to make his way up the promotion ladder speak volumes about British society.",
         "zh": ""
       },
-      "questions": []
+      "questions": [],
+      "vocab": {
+        "words": [
+          {
+            "word": "man",
+            "form": "Man",
+            "phonetic": "/mæn/",
+            "meaning": "男人；人类"
+          },
+          {
+            "word": "code",
+            "form": "Codes",
+            "phonetic": "",
+            "meaning": "n. 代码，密码；编码；法典 v. 编码；制成法典 / n. 代码， 代号； 密码；法典， 法规； 规则， 规范"
+          },
+          {
+            "word": "comprise",
+            "form": "comprising",
+            "phonetic": "",
+            "meaning": "v. 包含，包括，由...组成；构成，组成 / v. 包含；由…组成 / vt. 包含， 包括， 构成"
+          },
+          {
+            "word": "scene",
+            "form": "scene",
+            "phonetic": "",
+            "meaning": "n. 场面；情景；景象；事件"
+          },
+          {
+            "word": "plane",
+            "form": "planes",
+            "phonetic": "/plem/",
+            "meaning": "飞机；平面；水平面"
+          },
+          {
+            "word": "inhabitant",
+            "form": "inhabitants",
+            "phonetic": "",
+            "meaning": "n. 居民；居住者 / n. 居民， 住户"
+          },
+          {
+            "word": "keen",
+            "form": "keen",
+            "phonetic": "",
+            "meaning": "锋利的"
+          },
+          {
+            "word": "to",
+            "form": "to",
+            "phonetic": "",
+            "meaning": "科学家"
+          },
+          {
+            "word": "emperor",
+            "form": "emperor",
+            "phonetic": "/ˈempərə(r)/",
+            "meaning": "皇帝"
+          },
+          {
+            "word": "difficulty",
+            "form": "difficulties",
+            "phonetic": "/ˈdɪfɪkəlti/",
+            "meaning": "困难；难题"
+          },
+          {
+            "word": "sentence",
+            "form": "sent",
+            "phonetic": "/「sentons/",
+            "meaning": "句子"
+          },
+          {
+            "word": "force",
+            "form": "forces",
+            "phonetic": "",
+            "meaning": "力量；势力"
+          }
+        ],
+        "phrases": []
+      }
     }
   },
   "2023": {
@@ -11517,7 +24482,11 @@ const ENGLISH_DATA = {
         "",
         "",
         ""
-      ]
+      ],
+      "vocab": {
+        "words": [],
+        "phrases": []
+      }
     }
   },
   "2024": {
@@ -11647,7 +24616,84 @@ const ENGLISH_DATA = {
           "impressive",
           "delicate"
         ]
-      ]
+      ],
+      "vocab": {
+        "words": [
+          {
+            "word": "opening",
+            "form": "opening",
+            "phonetic": "",
+            "meaning": "n. 开始；机会；通路；空缺的职位 adj. 开始的 v. 开放（open的ing形式）；打开；公开 / adj. 开始的， 开幕的 n. 口子； 孔；开始， 开端；空缺"
+          },
+          {
+            "word": "door",
+            "form": "door",
+            "phonetic": "",
+            "meaning": "n. 门；家，户；门口；通道"
+          },
+          {
+            "word": "forest",
+            "form": "for",
+            "phonetic": "/ˈfɒrɪst/",
+            "meaning": "森林"
+          },
+          {
+            "word": "to",
+            "form": "to",
+            "phonetic": "",
+            "meaning": "科学家"
+          },
+          {
+            "word": "being",
+            "form": "be",
+            "phonetic": "",
+            "meaning": "n. 生物；存在， 生存"
+          },
+          {
+            "word": "close",
+            "form": "close",
+            "phonetic": "",
+            "meaning": "关；结束"
+          },
+          {
+            "word": "automatic",
+            "form": "automatic",
+            "phonetic": "/ˌɔːtəˈmætɪk/",
+            "meaning": "自动的；无意识的"
+          },
+          {
+            "word": "helpful",
+            "form": "helping",
+            "phonetic": "/rhelpf/",
+            "meaning": "有帮助的"
+          },
+          {
+            "word": "general",
+            "form": "general",
+            "phonetic": "/「dsenral/",
+            "meaning": "一般的"
+          },
+          {
+            "word": "commercial",
+            "form": "commercial",
+            "phonetic": "",
+            "meaning": "adj. 商业的；商务的；可获利的 n. 广告节目 / adj. 商业的；营利的；靠广告收入的 n. 商业广告 / adj. 商业的， 商务的， 贸易的 n. 广告"
+          },
+          {
+            "word": "slide",
+            "form": "sliding",
+            "phonetic": "/slaɪd/",
+            "meaning": "滑动；幻灯片"
+          },
+          {
+            "word": "emerge",
+            "form": "emerge",
+            "phonetic": "",
+            "meaning": "v. 显现,浮现；暴露 / v. 浮现；摆脱；暴露 / vi. 浮现， 出现， 显现 <"
+          }
+        ],
+        "phrases": []
+      }
     },
     "Text1": {
       "passage": {
@@ -11721,7 +24767,97 @@ const ENGLISH_DATA = {
           "explanation": ""
         }
       ],
-      "translation": ""
+      "translation": "",
+      "vocab": {
+        "words": [
+          {
+            "word": "to",
+            "form": "to",
+            "phonetic": "",
+            "meaning": "科学家"
+          },
+          {
+            "word": "outer",
+            "form": "out",
+            "phonetic": "",
+            "meaning": "adj. 外面的，外部的；远离中心的 n. 环外命中 / adj. 外部的， 外面的， 外层的"
+          },
+          {
+            "word": "curious",
+            "form": "curious",
+            "phonetic": "",
+            "meaning": "adj. 好奇的, 求知的；古怪的 / adj. 好奇的，有求知欲的；古怪的；爱挑剔的 / adj. 好奇的； 稀奇的"
+          },
+          {
+            "word": "treasure",
+            "form": "treasure",
+            "phonetic": "/ˈtreʒə(r)/",
+            "meaning": "财宝；珍视"
+          },
+          {
+            "word": "ton",
+            "form": "tons",
+            "phonetic": "",
+            "meaning": "n. 吨；很多，大量"
+          },
+          {
+            "word": "nail",
+            "form": "nails",
+            "phonetic": "",
+            "meaning": "v. 钉；使固定；揭露 n. [解剖] 指甲；钉子"
+          },
+          {
+            "word": "deep",
+            "form": "deep",
+            "phonetic": "/diːp/",
+            "meaning": "深的；深刻的"
+          },
+          {
+            "word": "cover",
+            "form": "covered",
+            "phonetic": "",
+            "meaning": "v. 覆盖；包括,涉及 n. (书的)封面；盖子,套子 / v. 包括；采访，报导；涉及 n. 封面，封皮；盖子；掩蔽物;幌子，借口"
+          },
+          {
+            "word": "bury",
+            "form": "buried",
+            "phonetic": "",
+            "meaning": "v. 埋葬；隐藏 n. (Bury)人名；(法)比里；(英、西)伯里；(德、意、罗、波、捷、匈)布里；(俄)布雷"
+          },
+          {
+            "word": "likely",
+            "form": "likely",
+            "phonetic": "/larkli/",
+            "meaning": "很可能的"
+          },
+          {
+            "word": "explanation",
+            "form": "explanation",
+            "phonetic": "",
+            "meaning": "n. 说明，解释；辩解"
+          },
+          {
+            "word": "withdraw",
+            "form": "withdrawal",
+            "phonetic": "/wɪðˈdrɔː/",
+            "meaning": "撤回；取款"
+          }
+        ],
+        "phrases": [
+          {
+            "phrase": "bring about",
+            "def": ""
+          },
+          {
+            "phrase": "thanks to",
+            "def": ""
+          },
+          {
+            "phrase": "used to",
+            "def": ""
+          }
+        ]
+      }
     },
     "Text2": {
       "passage": {
@@ -11795,7 +24931,93 @@ const ENGLISH_DATA = {
           "explanation": ""
         }
       ],
-      "translation": ""
+      "translation": "",
+      "vocab": {
+        "words": [
+          {
+            "word": "parent",
+            "form": "Parenting",
+            "phonetic": "",
+            "meaning": "n. 父母,母亲；母体"
+          },
+          {
+            "word": "tip",
+            "form": "tips",
+            "phonetic": "/tɪp/",
+            "meaning": "提示；小费；尖端"
+          },
+          {
+            "word": "obtain",
+            "form": "obtained",
+            "phonetic": "/obrtem/",
+            "meaning": "获得"
+          },
+          {
+            "word": "being",
+            "form": "be",
+            "phonetic": "",
+            "meaning": "n. 生物；存在， 生存"
+          },
+          {
+            "word": "to",
+            "form": "to",
+            "phonetic": "",
+            "meaning": "科学家"
+          },
+          {
+            "word": "bring",
+            "form": "bringing",
+            "phonetic": "/brm/",
+            "meaning": "带来；指"
+          },
+          {
+            "word": "base",
+            "form": "based",
+            "phonetic": "/bers/",
+            "meaning": "基础"
+          },
+          {
+            "word": "community",
+            "form": "communities",
+            "phonetic": "",
+            "meaning": "n. 社区；团体 / n. 社区；[生态] 群落；共同体；团体 / n. 同一地区的全体居民； 社会， 社区 <；共同体"
+          },
+          {
+            "word": "childhood",
+            "form": "child",
+            "phonetic": "/ˈtʃaɪldhʊd/",
+            "meaning": "童年；幼年"
+          },
+          {
+            "word": "core",
+            "form": "cored",
+            "phonetic": "",
+            "meaning": "n. 核心；要点；果心；[计] 磁心 v. 挖的核 / n. 果核；中心， 核心 <"
+          },
+          {
+            "word": "adult",
+            "form": "adults",
+            "phonetic": "/a「dopJn/",
+            "meaning": "成年人的"
+          },
+          {
+            "word": "helpful",
+            "form": "help",
+            "phonetic": "/rhelpf/",
+            "meaning": "有帮助的"
+          }
+        ],
+        "phrases": [
+          {
+            "phrase": "contribute to",
+            "def": ""
+          },
+          {
+            "phrase": "lead to",
+            "def": ""
+          }
+        ]
+      }
     },
     "Text3": {
       "passage": {
@@ -11856,7 +25078,89 @@ const ENGLISH_DATA = {
           "explanation": ""
         }
       ],
-      "translation": ""
+      "translation": "",
+      "vocab": {
+        "words": [
+          {
+            "word": "digital",
+            "form": "digital",
+            "phonetic": "/「drd3i0/",
+            "meaning": "举止"
+          },
+          {
+            "word": "artist",
+            "form": "artist",
+            "phonetic": "/ˈɑːtɪst/",
+            "meaning": "艺术家；画家"
+          },
+          {
+            "word": "classical",
+            "form": "classical",
+            "phonetic": "/ˈklæsɪkl/",
+            "meaning": "古典的；经典的"
+          },
+          {
+            "word": "painting",
+            "form": "painting",
+            "phonetic": "/ˈpeɪntɪŋ/",
+            "meaning": "绘画；油画"
+          },
+          {
+            "word": "style",
+            "form": "styles",
+            "phonetic": "/staɪl/",
+            "meaning": "风格；样式"
+          },
+          {
+            "word": "to",
+            "form": "to",
+            "phonetic": "",
+            "meaning": "科学家"
+          },
+          {
+            "word": "create",
+            "form": "create",
+            "phonetic": "/kriˈeɪt/",
+            "meaning": "创造；创建"
+          },
+          {
+            "word": "fantasy",
+            "form": "fantasy",
+            "phonetic": "",
+            "meaning": "n. 幻想；白日梦；幻觉 adj. 虚幻的 v. 空想；想像 / n. 想象， 幻想；幻想的产物"
+          },
+          {
+            "word": "hasty",
+            "form": "has",
+            "phonetic": "/「hersti/",
+            "meaning": "匆忙的"
+          },
+          {
+            "word": "forest",
+            "form": "for",
+            "phonetic": "/ˈfɒrɪst/",
+            "meaning": "森林"
+          },
+          {
+            "word": "horizon",
+            "form": "Horizon",
+            "phonetic": "/həˈraɪzn/",
+            "meaning": "地平线；视野"
+          },
+          {
+            "word": "west",
+            "form": "West",
+            "phonetic": "/west/",
+            "meaning": "西；西方；的；西部；的；向"
+          }
+        ],
+        "phrases": [
+          {
+            "phrase": "be able to",
+            "def": ""
+          }
+        ]
+      }
     },
     "Text4": {
       "passage": {
@@ -11930,7 +25234,84 @@ const ENGLISH_DATA = {
           "explanation": ""
         }
       ],
-      "translation": ""
+      "translation": "",
+      "vocab": {
+        "words": [
+          {
+            "word": "miracle",
+            "form": "miracle",
+            "phonetic": "/ˈmɪrəkl/",
+            "meaning": "奇迹；奇事"
+          },
+          {
+            "word": "lie",
+            "form": "lies",
+            "phonetic": "/lar/",
+            "meaning": "谎话"
+          },
+          {
+            "word": "notify",
+            "form": "not",
+            "phonetic": "",
+            "meaning": "v. 通告，通知；公布 / vt. 通知， 告知； 报告"
+          },
+          {
+            "word": "depth",
+            "form": "depths",
+            "phonetic": "/depe/",
+            "meaning": "深度；这湖的深度大约为；米"
+          },
+          {
+            "word": "complex",
+            "form": "complexity",
+            "phonetic": "",
+            "meaning": "adj. 复杂的；合成的， 综合的 n. 综合体"
+          },
+          {
+            "word": "natural",
+            "form": "natural",
+            "phonetic": "/ˈnætʃrəl/",
+            "meaning": "自然的；天生的"
+          },
+          {
+            "word": "mix",
+            "form": "mix",
+            "phonetic": "",
+            "meaning": "v. 配制；混淆；使混和；使结交 n. 混合；混合物；混乱"
+          },
+          {
+            "word": "shallow",
+            "form": "shallows",
+            "phonetic": "",
+            "meaning": "adj. 浅的,浅薄的 n. 浅滩,浅处 / adj. 浅的；肤浅的 n. [地理] 浅滩 v. 使变浅 / adj. 浅的；浅薄的 n. 浅滩， 浅处"
+          },
+          {
+            "word": "forest",
+            "form": "for",
+            "phonetic": "/ˈfɒrɪst/",
+            "meaning": "森林"
+          },
+          {
+            "word": "species",
+            "form": "species",
+            "phonetic": "",
+            "meaning": "n. (物)种,种类 / n. 种， 种类"
+          },
+          {
+            "word": "store",
+            "form": "storing",
+            "phonetic": "",
+            "meaning": "商店"
+          },
+          {
+            "word": "filter",
+            "form": "filtering",
+            "phonetic": "",
+            "meaning": "滤器"
+          }
+        ],
+        "phrases": []
+      }
     },
     "NewType": {
       "passage": {
@@ -12013,7 +25394,97 @@ const ENGLISH_DATA = {
           "answer": "",
           "explanation": ""
         }
-      ]
+      ],
+      "vocab": {
+        "words": [
+          {
+            "word": "simply",
+            "form": "Simply",
+            "phonetic": "/ˈsɪmpli/",
+            "meaning": "仅仅；简单地"
+          },
+          {
+            "word": "to",
+            "form": "to",
+            "phonetic": "",
+            "meaning": "科学家"
+          },
+          {
+            "word": "institution",
+            "form": "Institution",
+            "phonetic": "/ˌɪnstɪˈtjuːʃn/",
+            "meaning": "机构；制度；习俗"
+          },
+          {
+            "word": "partly",
+            "form": "part",
+            "phonetic": "",
+            "meaning": "adv. 部分地,不完全地,在一定程度上 / adv. 部分地；在一定程度上"
+          },
+          {
+            "word": "history",
+            "form": "history",
+            "phonetic": "/「hstri/",
+            "meaning": "历史；学；来历；经历"
+          },
+          {
+            "word": "represent",
+            "form": "represented",
+            "phonetic": "/ˌreprɪˈzent/",
+            "meaning": "代表；象征；描绘"
+          },
+          {
+            "word": "bronze",
+            "form": "Bronzes",
+            "phonetic": "/brɒnz/",
+            "meaning": "青铜；青铜色"
+          },
+          {
+            "word": "being",
+            "form": "be",
+            "phonetic": "",
+            "meaning": "n. 生物；存在， 生存"
+          },
+          {
+            "word": "available",
+            "form": "available",
+            "phonetic": "/əˈveɪləbl/",
+            "meaning": "可获得的；有空的"
+          },
+          {
+            "word": "source",
+            "form": "source",
+            "phonetic": "",
+            "meaning": "河流的源头"
+          },
+          {
+            "word": "national",
+            "form": "national",
+            "phonetic": "",
+            "meaning": "adj. 国家的；国民的；民族的；国立的 n. 国民"
+          },
+          {
+            "word": "pride",
+            "form": "pride",
+            "phonetic": "/praɪd/",
+            "meaning": "骄傲；自豪"
+          }
+        ],
+        "phrases": [
+          {
+            "phrase": "rather than",
+            "def": ""
+          },
+          {
+            "phrase": "even if",
+            "def": ""
+          },
+          {
+            "phrase": "assuming that",
+            "def": ""
+          }
+        ]
+      }
     },
     "Translation": {
       "sentences": [
@@ -12029,7 +25500,11 @@ const ENGLISH_DATA = {
         "",
         "",
         ""
-      ]
+      ],
+      "vocab": {
+        "words": [],
+        "phrases": []
+      }
     }
   },
   "2025": {},
@@ -12160,7 +25635,93 @@ const ENGLISH_DATA = {
           "share",
           "reflect"
         ]
-      ]
+      ],
+      "vocab": {
+        "words": [
+          {
+            "word": "advanced",
+            "form": "Advances",
+            "phonetic": "/od vamst/",
+            "meaning": "高级的"
+          },
+          {
+            "word": "intelligence",
+            "form": "intelligence",
+            "phonetic": "",
+            "meaning": "n. 智力,聪明;理解力；情报,消息,报导 / n. 智力， 才智； 灵性， 悟性；情报， 消息； 报道"
+          },
+          {
+            "word": "exciting",
+            "form": "exciting",
+            "phonetic": "",
+            "meaning": "adj. 令人兴奋的；使人激动的 v. 激动；刺激（excite的ing形式）；唤起"
+          },
+          {
+            "word": "living",
+            "form": "lives",
+            "phonetic": "/Uvm/",
+            "meaning": "活的"
+          },
+          {
+            "word": "hasty",
+            "form": "has",
+            "phonetic": "/「hersti/",
+            "meaning": "匆忙的"
+          },
+          {
+            "word": "experience",
+            "form": "experiences",
+            "phonetic": "/ɪkˈspɪəriəns/",
+            "meaning": "经验；经历"
+          },
+          {
+            "word": "weed",
+            "form": "we",
+            "phonetic": "",
+            "meaning": "杂草"
+          },
+          {
+            "word": "finding",
+            "form": "find",
+            "phonetic": "",
+            "meaning": "n. 发现；裁决；发现物 v. 找到；感到（find的ing形式）；遇到 / n. 发现， 发现物"
+          },
+          {
+            "word": "difficult",
+            "form": "difficult",
+            "phonetic": "/「drtfikalt/",
+            "meaning": "困难的；费力的；不友好的；难相处的；难对付的"
+          },
+          {
+            "word": "to",
+            "form": "to",
+            "phonetic": "",
+            "meaning": "科学家"
+          },
+          {
+            "word": "beauty",
+            "form": "beauty",
+            "phonetic": "/「bjuzti/",
+            "meaning": "美；丽；美人；美丽的东"
+          },
+          {
+            "word": "canal",
+            "form": "can",
+            "phonetic": "",
+            "meaning": "n. 运河；[地理] 水道；[建] 管道；灌溉水渠 v. 在…开凿运河 / n. 运河； 渠"
+          }
+        ],
+        "phrases": [
+          {
+            "phrase": "lead to",
+            "def": ""
+          },
+          {
+            "phrase": "derive from",
+            "def": ""
+          }
+        ]
+      }
     },
     "Text1": {
       "passage": {
@@ -12234,7 +25795,89 @@ const ENGLISH_DATA = {
           "explanation": ""
         }
       ],
-      "translation": ""
+      "translation": "",
+      "vocab": {
+        "words": [
+          {
+            "word": "forest",
+            "form": "For",
+            "phonetic": "/ˈfɒrɪst/",
+            "meaning": "森林"
+          },
+          {
+            "word": "thousand",
+            "form": "thousands",
+            "phonetic": "/「0aUznd/",
+            "meaning": "千"
+          },
+          {
+            "word": "critical",
+            "form": "critical",
+            "phonetic": "",
+            "meaning": "批评的"
+          },
+          {
+            "word": "civilization",
+            "form": "civilizations",
+            "phonetic": "",
+            "meaning": "n. 文明；文化 / n. 文明， 文化"
+          },
+          {
+            "word": "helpful",
+            "form": "helped",
+            "phonetic": "/rhelpf/",
+            "meaning": "有帮助的"
+          },
+          {
+            "word": "wheel",
+            "form": "wheeled",
+            "phonetic": "/wizl/",
+            "meaning": "轮；车轮"
+          },
+          {
+            "word": "move",
+            "form": "move",
+            "phonetic": "",
+            "meaning": "v. 移动；迁移；感动 n. 行动；移动,活动"
+          },
+          {
+            "word": "goodness",
+            "form": "goods",
+            "phonetic": "/ˈɡʊdnəs/",
+            "meaning": "善良；美德"
+          },
+          {
+            "word": "hasty",
+            "form": "has",
+            "phonetic": "/「hersti/",
+            "meaning": "匆忙的"
+          },
+          {
+            "word": "mystery",
+            "form": "mystery",
+            "phonetic": "/ˈmɪstri/",
+            "meaning": "神秘；谜"
+          },
+          {
+            "word": "to",
+            "form": "to",
+            "phonetic": "",
+            "meaning": "科学家"
+          },
+          {
+            "word": "single",
+            "form": "single",
+            "phonetic": "",
+            "meaning": "adj. 单一的；单身的；单程的 n. 一个；单打；单程票 v. 选出"
+          }
+        ],
+        "phrases": [
+          {
+            "phrase": "benefit from",
+            "def": ""
+          }
+        ]
+      }
     },
     "Text2": {
       "passage": {
@@ -12308,7 +25951,84 @@ const ENGLISH_DATA = {
           "explanation": ""
         }
       ],
-      "translation": ""
+      "translation": "",
+      "vocab": {
+        "words": [
+          {
+            "word": "likely",
+            "form": "like",
+            "phonetic": "/larkli/",
+            "meaning": "很可能的"
+          },
+          {
+            "word": "shower",
+            "form": "show",
+            "phonetic": "/ˈʃaʊə(r)/",
+            "meaning": "淋浴；阵雨"
+          },
+          {
+            "word": "loss",
+            "form": "Los",
+            "phonetic": "/lɒs/",
+            "meaning": "损失；丢失"
+          },
+          {
+            "word": "feeling",
+            "form": "feels",
+            "phonetic": "",
+            "meaning": "n. 感觉，触觉；感情，情绪；同情 adj. 有感觉的；有同情心的；富于感情的 v. 感觉；认为（feel的现在分词）；触摸"
+          },
+          {
+            "word": "sound",
+            "form": "sounds",
+            "phonetic": "/saund/",
+            "meaning": "健康的"
+          },
+          {
+            "word": "consider",
+            "form": "consider",
+            "phonetic": "",
+            "meaning": "v. 考虑，细想；认为；体谅，顾及 / v. 考虑；认为；考虑到；细想"
+          },
+          {
+            "word": "director",
+            "form": "Directors",
+            "phonetic": "/dəˈrektə(r)/",
+            "meaning": "导演；主任；董事"
+          },
+          {
+            "word": "union",
+            "form": "union",
+            "phonetic": "/“juzmnionzam/",
+            "meaning": "一致；联合；协会"
+          },
+          {
+            "word": "represent",
+            "form": "representing",
+            "phonetic": "/ˌreprɪˈzent/",
+            "meaning": "代表；象征；描绘"
+          },
+          {
+            "word": "hasty",
+            "form": "has",
+            "phonetic": "/「hersti/",
+            "meaning": "匆忙的"
+          },
+          {
+            "word": "statement",
+            "form": "statement",
+            "phonetic": "",
+            "meaning": "n. 声明；陈述，叙述；报表，清单 / n. 声明； 陈述"
+          },
+          {
+            "word": "weed",
+            "form": "we",
+            "phonetic": "",
+            "meaning": "杂草"
+          }
+        ],
+        "phrases": []
+      }
     },
     "Text3": {
       "passage": {
@@ -12382,7 +26102,89 @@ const ENGLISH_DATA = {
           "explanation": ""
         }
       ],
-      "translation": ""
+      "translation": "",
+      "vocab": {
+        "words": [
+          {
+            "word": "wire",
+            "form": "wireless",
+            "phonetic": "/“wara(r)/",
+            "meaning": "金属丝"
+          },
+          {
+            "word": "saw",
+            "form": "saw",
+            "phonetic": "",
+            "meaning": "v. 锯， 锯开 n. 锯子； 锯床"
+          },
+          {
+            "word": "to",
+            "form": "to",
+            "phonetic": "",
+            "meaning": "科学家"
+          },
+          {
+            "word": "sir",
+            "form": "Sir",
+            "phonetic": "/sɜː(r)/",
+            "meaning": "先生；爵士"
+          },
+          {
+            "word": "ending",
+            "form": "end",
+            "phonetic": "/「endig/",
+            "meaning": "结尾；结局"
+          },
+          {
+            "word": "spirit",
+            "form": "spirit",
+            "phonetic": "/ˈspɪrɪt/",
+            "meaning": "精神；心灵；情绪"
+          },
+          {
+            "word": "rejoice",
+            "form": "rejoiced",
+            "phonetic": "/rɪˈdʒɔɪs/",
+            "meaning": "欣喜；高兴"
+          },
+          {
+            "word": "notify",
+            "form": "not",
+            "phonetic": "",
+            "meaning": "v. 通告，通知；公布 / vt. 通知， 告知； 报告"
+          },
+          {
+            "word": "matter",
+            "form": "matter",
+            "phonetic": "",
+            "meaning": "n. 物质；事件 v. 有关系；要紧"
+          },
+          {
+            "word": "thousand",
+            "form": "thousand",
+            "phonetic": "/「0aUznd/",
+            "meaning": "千"
+          },
+          {
+            "word": "forest",
+            "form": "for",
+            "phonetic": "/ˈfɒrɪst/",
+            "meaning": "森林"
+          },
+          {
+            "word": "fool",
+            "form": "fool",
+            "phonetic": "",
+            "meaning": "v. 欺骗；开玩笑；戏弄 n. 傻瓜；愚人；受骗者 adj. 傻的"
+          }
+        ],
+        "phrases": [
+          {
+            "phrase": "used to",
+            "def": ""
+          }
+        ]
+      }
     },
     "Text4": {
       "passage": {
@@ -12456,14 +26258,178 @@ const ENGLISH_DATA = {
           "explanation": ""
         }
       ],
-      "translation": ""
+      "translation": "",
+      "vocab": {
+        "words": [
+          {
+            "word": "join",
+            "form": "joined",
+            "phonetic": "/dsom/",
+            "meaning": "参加；加人；连接；接合"
+          },
+          {
+            "word": "forest",
+            "form": "Forest",
+            "phonetic": "/ˈfɒrɪst/",
+            "meaning": "森林"
+          },
+          {
+            "word": "service",
+            "form": "Service",
+            "phonetic": "",
+            "meaning": "服务；维修"
+          },
+          {
+            "word": "to",
+            "form": "to",
+            "phonetic": "",
+            "meaning": "科学家"
+          },
+          {
+            "word": "outer",
+            "form": "out",
+            "phonetic": "",
+            "meaning": "adj. 外面的，外部的；远离中心的 n. 环外命中 / adj. 外部的， 外面的， 外层的"
+          },
+          {
+            "word": "university",
+            "form": "University",
+            "phonetic": "/ˌjuːnɪˈvɜːsəti/",
+            "meaning": "大学"
+          },
+          {
+            "word": "tree",
+            "form": "Tree",
+            "phonetic": "",
+            "meaning": "n. 树；木料；树状物 v. 把赶上树"
+          },
+          {
+            "word": "ring",
+            "form": "Ring",
+            "phonetic": "/rɪŋ/",
+            "meaning": "戒指；铃声；环绕"
+          },
+          {
+            "word": "surprise",
+            "form": "surprised",
+            "phonetic": "/sa「 pralz/",
+            "meaning": "诧异"
+          },
+          {
+            "word": "finding",
+            "form": "find",
+            "phonetic": "",
+            "meaning": "n. 发现；裁决；发现物 v. 找到；感到（find的ing形式）；遇到 / n. 发现， 发现物"
+          },
+          {
+            "word": "record",
+            "form": "record",
+            "phonetic": "/ˈrekɔːd/",
+            "meaning": "记录；唱片"
+          },
+          {
+            "word": "repeat",
+            "form": "repeated",
+            "phonetic": "",
+            "meaning": "v. 重复；复制；背诵 n. 重复；副本"
+          }
+        ],
+        "phrases": [
+          {
+            "phrase": "even if",
+            "def": ""
+          }
+        ]
+      }
     },
     "NewType": {
       "passage": {
         "en": "[A] The negotiation, between you and it,is the heart of the matter. What does the poet see that you don't? What does the difference mean? It could be one of the best conversations you ever have. Forget self-help books; reading is self-help in action. And just read a single poem. In his Oxford lectures, Seamus Heaney argued that a poem draws a picture of reality, a \"glimpsed alternative\" that sets up a contradiction withyour own,in ways little and large. [B] But for the most part, this isn't what the business community does. I have yet to meet a chief executive who reads regularly. Many skip newspapers, and magazines are a stretch. They don't have time, they say. It's inefficient;, they can get the information they need from those around them. At a pinch, they might pick up a business book before a long flight, in the hope that, like a cookbook, it will provide a foolproof recipe. Some are drawn to what I think of as \"business car crash\" books - the stories of Theranos, Purdue, or WeWork. But outside those narrow pools of interest, a vast ocean awaits, bountiful with simmering ideas, mental adventure and imaginativerefreshment. [C] Neuroscientists have been at pains to demonstrate that the pleasure a book provides isn't indulgence, it's good for you. Reading will keep you better informed about the world but it can also improve our tech-shattered ability to concentrate. Standing in the shoes of others fine tunes our social understanding. useful as we struggle to understand friends, neighbours, customers and co-workers. Different parts of our brain engage as we simulate scenes, characters and mental states. Our imagination- remember that?- isrekindled. [D]It is undoubtedly true that all work and noplay really does make Jack, orJill, dull. The cure is right at hand, reading is cheap, easy and, most important,it's fun, Liberate your imagination thisyear. [E]Weare livingthrough agolden age ofscience writing. so lucid and accessible that even lay readers can relish the unpredictability of discovery. Daunted by uncertainty? Stand in the shoes of scientists and witness the degree to which breakthroughs emerge from accidents, conflict and sheer mental stamina \"We are never sureof anything.\" says thephysicist(and writer) Carlo Rovelli. [F]You don't need to get out more. If, like most business people, you spend your life dashing from office to plane, train to home, boardroom to washroom, what you reallyneed to dois stay in more. Sitdown- and readabook. [G] Reading has also been found to make us more helpful, to reduce bias, and even to increase longevity—something we will enjoy all the more if we have a good book in our hands. (And yes, all these benefits are more closely associated with physical books than digital ones.) [H] Read fiction. Any fiction. Free yourself from algorithms and choose - anything you don't need technology for an immersive experience just surrender to narratives across timeand place. Modern (Sebastian Barry orOlgaTokarczuk), classic (Virginia Woolf or James Baldwin) or genre (Stephen King. Margaret Atwood, Georges Simenon) -it doesn't matter. Fiction invites you to loiter in the unseen. In the lives of others. We are living through a golden age of translation too, so you can go anywherein timeorplace.",
         "zh": ""
       },
-      "questions": []
+      "questions": [],
+      "vocab": {
+        "words": [
+          {
+            "word": "matter",
+            "form": "matter",
+            "phonetic": "",
+            "meaning": "n. 物质；事件 v. 有关系；要紧"
+          },
+          {
+            "word": "differ",
+            "form": "difference",
+            "phonetic": "/ˈdɪfə(r)/",
+            "meaning": "不同；相异"
+          },
+          {
+            "word": "means",
+            "form": "mean",
+            "phonetic": "",
+            "meaning": "n. 方法， 手段"
+          },
+          {
+            "word": "being",
+            "form": "be",
+            "phonetic": "",
+            "meaning": "n. 生物；存在， 生存"
+          },
+          {
+            "word": "conversation",
+            "form": "conversations",
+            "phonetic": "",
+            "meaning": "n. 会话,谈话 / n. 交谈，会话；社交；交往，交际；会谈；（人与计算机的）人机对话"
+          },
+          {
+            "word": "forget",
+            "form": "Forget",
+            "phonetic": "/fo「get/",
+            "meaning": "忘记；遗忘"
+          },
+          {
+            "word": "helpful",
+            "form": "help",
+            "phonetic": "/rhelpf/",
+            "meaning": "有帮助的"
+          },
+          {
+            "word": "reader",
+            "form": "reading",
+            "phonetic": "/ˈriːdə(r)/",
+            "meaning": "读者；读本"
+          },
+          {
+            "word": "justify",
+            "form": "just",
+            "phonetic": "",
+            "meaning": "v. 证明合法；整理版面 / vt. 证明…是正当的， 认为有理"
+          },
+          {
+            "word": "single",
+            "form": "single",
+            "phonetic": "",
+            "meaning": "adj. 单一的；单身的；单程的 n. 一个；单打；单程票 v. 选出"
+          },
+          {
+            "word": "poem",
+            "form": "poem",
+            "phonetic": "/「paum/",
+            "meaning": "诗"
+          },
+          {
+            "word": "lecture",
+            "form": "lectures",
+            "phonetic": "/ˈlektʃə(r)/",
+            "meaning": "讲座；演讲"
+          }
+        ],
+        "phrases": [
+          {
+            "phrase": "but for",
+            "def": ""
+          }
+        ]
+      }
     },
     "Translation": {
       "sentences": [
@@ -12479,7 +26445,11 @@ const ENGLISH_DATA = {
         "",
         "",
         ""
-      ]
+      ],
+      "vocab": {
+        "words": [],
+        "phrases": []
+      }
     }
   }
 };
